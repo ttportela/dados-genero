@@ -19,6 +19,7 @@
 # =============================================================================
 
 import json
+import random
 import time
 import warnings
 from collections import deque
@@ -71,12 +72,24 @@ class CrawlerUrbano:
         checkpoint_queue.json   — URLs ainda na fila (para retomada)
     """
 
-    def __init__(self, nome_cidade: str):
+    def __init__(
+        self,
+        nome_cidade: str,
+        reprocessar_erros: bool = False,
+        max_paginas: int | None = None,
+        max_profundidade: int | None = None,
+    ):
         """
         Inicializa o crawler para uma cidade específica.
 
         Verifica se existe um checkpoint salvo e retoma de onde parou,
         ou começa uma varredura nova a partir das sementes do config.py.
+
+        Parâmetros:
+          reprocessar_erros: se True, lê o log de erros_varredura.xlsx e
+            re-enfileira as URLs com erros transitórios (TIMEOUT, HTTP_403,
+            HTTP_500, CAPTCHA, SELENIUM_ERRO) para nova tentativa. Erros
+            permanentes (HTTP_404, CAPTCHA_NAO_RESOLVIDO) são ignorados.
         """
         if nome_cidade not in CIDADES:
             raise ValueError(
@@ -90,6 +103,32 @@ class CrawlerUrbano:
         # Subd. explicitamente bloqueados (ex: encurtadores mortos, sistemas desativados).
         # Definidos por cidade em config.py — vazio por padrão.
         self.dominios_excluidos = self.config_cidade.get("dominios_excluidos", [])
+        # Pausa entre requisições — pode ser sobrescrita por cidade no cidades.json
+        # para evitar bloqueio por IP em servidores mais restritivos.
+        # Valores aceitos:
+        #   false (padrão): usa PAUSA_ENTRE_REQUESTS do config.py
+        #   true: randomiza entre 2 e 10 segundos (anti-bloqueio)
+        #   número (float): pausa fixa em segundos
+        cfg_pausa = self.config_cidade.get("pausa_entre_requests", False)
+        if cfg_pausa is True:
+            self.pausa_aleatoria = True
+            self.pausa_entre_requests = None
+        elif isinstance(cfg_pausa, (int, float)) and cfg_pausa > 0:
+            self.pausa_aleatoria = False
+            self.pausa_entre_requests = float(cfg_pausa)
+        else:
+            self.pausa_aleatoria = False
+            self.pausa_entre_requests = PAUSA_ENTRE_REQUESTS
+        # Flag: re-enfileirar URLs com erros transitórios para nova tentativa.
+        self.reprocessar_erros = reprocessar_erros
+        # Limites opcionais — sobrescrevem config.py quando informados via CLI.
+        # None = usar valor de config.py (MAX_PAGES / MAX_DEPTH).
+        self.max_paginas = max_paginas
+        self.max_profundidade = max_profundidade
+        # Profundidade da página sendo processada — usada por _registrar_erro
+        # para anotar a profundidade do link no log de erros, permitindo
+        # re-enfileirar com a profundidade correta ao reprocessar.
+        self._depth_atual = 0
 
         # Pasta de resultados da cidade
         self.dir_cidade = DIR_RESULTADOS / nome_cidade
@@ -125,6 +164,8 @@ class CrawlerUrbano:
         print(f"  Crawler iniciado: {nome_cidade.upper()}")
         print(f"  Páginas já visitadas (checkpoint): {len(self.visited)}")
         print(f"  URLs na fila: {len(self.queue)}")
+        if self.reprocessar_erros:
+            print(f"  Reprocessar erros: ATIVADO")
         print(f"{'='*60}\n")
 
     # =========================================================================
@@ -179,6 +220,10 @@ class CrawlerUrbano:
                 self.queue.append((url_norm, 0))
                 self._urls_na_fila.add(url_chave_dedup(url_norm))  # chave normalizada
             print(f"Nenhum checkpoint encontrado — iniciando do zero.")
+
+        # Se solicitado, re-enfileira URLs com erros transitórios para nova tentativa
+        if self.reprocessar_erros:
+            self._recarregar_erros_para_fila()
 
     def _salvar_checkpoint(self):
         """Persiste o estado atual (visited + queue) em disco."""
@@ -384,6 +429,7 @@ class CrawlerUrbano:
         Páginas HTML não são anotadas na planilha — são apenas meio de transporte.
         """
         self._redirect_subdominio = False   # reset a cada página
+        self._depth_atual = depth            # profundidade para _registrar_erro
         # Tenta Nível 1 (requests)
         links = self._extrair_links(url)
 
@@ -428,7 +474,8 @@ class CrawlerUrbano:
                 # Não re-enfileira URL sem sessao= que já sabemos que redireciona
                 if url_link in self._sem_sessao_falhos:
                     continue
-                if depth < MAX_DEPTH:
+                limite_depth = self.max_profundidade if self.max_profundidade is not None else MAX_DEPTH
+                if depth < limite_depth:
                     self.queue.append((url_link, depth + 1))  # URL completa para o request
                     self._urls_na_fila.add(chave)             # chave normalizada para dedup
 
@@ -513,12 +560,74 @@ class CrawlerUrbano:
         """Adiciona um erro/bloqueio ao log de erros em memória."""
         print(f" ❌ {tipo_erro}: {url}")
         self._registros_erros.append({
-            "cidade":       self.nome_cidade,
+            "cidade":        self.nome_cidade,
             "url_bloqueada": url,
-            "tipo_erro":    tipo_erro,
-            "status_http":  status_code,
-            "data_hora":    datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "tipo_erro":     tipo_erro,
+            "status_http":   status_code,
+            "profundidade":  self._depth_atual,
+            "data_hora":     datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         })
+
+    # =========================================================================
+    # REPROCESSAMENTO DE ERROS
+    # =========================================================================
+
+    # Erros permanentes: não vale a pena tentar novamente.
+    # HTTP_404 — página não existe; CAPTCHA_NAO_RESOLVIDO — intervenção humana já falhou.
+    _ERROS_PERMANENTES = {"HTTP_404", "CAPTCHA_NAO_RESOLVIDO"}
+
+    def _recarregar_erros_para_fila(self):
+        """
+        Lê o log de erros em memória e re-enfileira as URLs com erros
+        transitórios (TIMEOUT, HTTP_403, HTTP_500, CAPTCHA, SELENIUM_ERRO) para
+        nova tentativa. Erros permanentes (HTTP_404, CAPTCHA_NAO_RESOLVIDO) são
+        mantidos no log e não são re-enfileirados.
+
+        Para cada URL re-enfileirada:
+          1. Remove do set `visited` (para que o BFS a processe novamente)
+          2. Adiciona à fila com a profundidade original (coluna `profundidade`)
+          3. Remove do log de erros em memória (ganha nova entrada se falhar de novo)
+        """
+        if not self._registros_erros:
+            print(f"  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.")
+            return
+
+        # URLs já na fila não precisam ser re-enfileiradas
+        urls_ja_na_fila = {url_chave_dedup(url) for url, _ in self.queue}
+        urls_ja_na_fila |= self._urls_na_fila
+
+        re_enfileirar = []   # (url, depth)
+        manter_erros = []    # registros de erro permanentes
+
+        for registro in self._registros_erros:
+            tipo_erro = registro.get("tipo_erro", "")
+            url = registro.get("url_bloqueada", "")
+            depth = registro.get("profundidade", 0)
+
+            # Erro permanente → mantém no log
+            if tipo_erro in self._ERROS_PERMANENTES:
+                manter_erros.append(registro)
+                continue
+
+            # URL já na fila → não duplica
+            chave = url_chave_dedup(url)
+            if chave in urls_ja_na_fila:
+                manter_erros.append(registro)
+                continue
+
+            # Remove de visited para permitir reprocessamento
+            self.visited.discard(chave)
+            # Adiciona à fila e ao espelho
+            self.queue.append((url, depth))
+            self._urls_na_fila.add(chave)
+            urls_ja_na_fila.add(chave)
+            re_enfileirar.append((url, depth))
+
+        # Atualiza o log de erros: mantém apenas os permanentes + os que já estavam na fila
+        self._registros_erros = manter_erros
+
+        print(f"  Reprocessar erros: {len(re_enfileirar)} URLs re-enfileiradas para nova tentativa.")
+        print(f"  Reprocessar erros: {len(manter_erros)} erros permanentes mantidos no log.")
 
     # =========================================================================
     # SALVAMENTO DAS PLANILHAS
@@ -596,6 +705,10 @@ class CrawlerUrbano:
         Parâmetros:
           sem_limite: se True, ignora MAX_PAGES e varre até esgotar a fila.
         """
+        # Resolve o limite de páginas: prioriza o valor passado via CLI
+        # (self.max_paginas), depois config.py (MAX_PAGES), a menos que
+        # sem_limite=True (varredura oficial sem teto).
+        limite_cfg = self.max_paginas if self.max_paginas is not None else MAX_PAGES
         # Fix 1: dois contadores separados.
         # `paginas_lidas` é CUMULATIVO (inclui checkpoint) — controla o limite MAX_PAGES
         # entre sessões. Se o checkpoint tem 4.930 visitadas e MAX_PAGES=5.000,
@@ -604,7 +717,7 @@ class CrawlerUrbano:
         # finais para não confundir o usuário com o total acumulado do checkpoint.
         paginas_lidas = len(self.visited)        # cumulativo (para o limite)
         paginas_nesta_sessao = 0                 # só desta execução (para os prints)
-        limite = None if sem_limite else MAX_PAGES
+        limite = None if sem_limite else limite_cfg
         limite_str = "sem limite" if limite is None else str(limite)
 
         ja_visitadas = paginas_lidas
@@ -645,8 +758,12 @@ class CrawlerUrbano:
                     self._salvar_planilhas()
                     print(f"  Checkpoint salvo ({paginas_lidas} páginas totais | {paginas_nesta_sessao} nesta sessão).")
 
-                # Pausa ética entre requisições
-                time.sleep(PAUSA_ENTRE_REQUESTS)
+                # Pausa ética entre requisições (configurável por cidade)
+                if self.pausa_aleatoria:
+                    pausa = random.uniform(2, 10)
+                else:
+                    pausa = self.pausa_entre_requests
+                time.sleep(pausa)
 
         except KeyboardInterrupt:
             # Usuário interrompeu com Ctrl+C - salva estado antes de sair

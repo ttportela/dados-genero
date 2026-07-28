@@ -61,7 +61,106 @@ python main.py maringa --etapa 3   # Analisador: detecta recorte de gênero
 
 # Varredura completa sem limite de páginas
 python main.py maringa --sem-limite
+
+# Exemplo completo de início:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10
 ```
+
+### 4. Descobrir portais municipais (`descobrir_cidades.py`)
+
+Script automatizado que consulta o IBGE, testa URLs candidatas e popula o `cidades.json`:
+
+```bash
+# Descobrir cidades do Paraná (apenas slug + testes HEAD)
+python descobrir_cidades.py --estado pr
+
+# Com scraping de página oficial de prefeituras (mais preciso)
+python descobrir_cidades.py --estado pr \
+  --pagina-prefeituras "https://www.parana.pr.gov.br/Pagina/Sites-das-Prefeituras-e-Camaras-Municipais"
+
+# Testar apenas as 10 primeiras cidades (dry-run, não salva)
+python descobrir_cidades.py --estado pr --limite 10 --dry-run
+
+# Sobrescrever cidades já existentes no cidades.json
+python descobrir_cidades.py --estado pr --sobrescrever
+
+# Definir timeout por URL (padrão: 10s)
+python descobrir_cidades.py --estado pr --timeout 15
+```
+
+**Argumentos:**
+- `--estado` (obrigatório): Sigla do estado (ex: `pr`, `sp`, `rj`)
+- `--pagina-prefeituras`: URL opcional com links oficiais das prefeituras
+- `--limite <N>`: Limita o número de cidades testadas
+- `--dry-run`: Lista resultados sem salvar no `cidades.json`
+- `--timeout <s>`: Timeout por requisição HEAD (padrão: 10)
+- `--sobrescrever`: Sobrescreve cidades já configuradas
+
+### 5. Visualizar progresso (`visualizar_checkpoint.py`)
+
+Dashboard Streamlit para inspecionar o estado do crawler:
+
+```bash
+streamlit run visualizar_checkpoint.py
+```
+
+**Modo Dashboard:** Visão geral de todas as cidades com métricas globais,
+tabela de progresso filtrável (por nome e status: todas / com dados / não processadas),
+gráficos de top 15 páginas visitadas e arquivos encontrados, e barras de progresso individuais.
+
+**Modo Cidade individual:** Estatísticas detalhadas de um município:
+- Páginas visitadas, profundidade configurada, último nível com arquivos, arquivos encontrados, erros
+- Distribuição de arquivos por grupo (planilhas, documentos, apresentações, geoespaciais, outros)
+- Tabelas interativas de URLs visitadas, fila pendente, erros e inventário
+
+### 6. Orquestrador multi-thread (`orquestrador.py`)
+
+Executa o crawler para múltiplas cidades em paralelo, com pausa e retoma:
+
+```bash
+# Rodar 4 threads para todas as cidades
+python orquestrador.py --threads 4
+
+# Rodar apenas a etapa 1 (crawler) com 8 threads
+python orquestrador.py --threads 8 --etapa 1
+
+# Limitar número de cidades nesta execução
+python orquestrador.py --threads 4 --limite 20
+
+# Pausar (cidades em execução terminam, nenhuma nova inicia)
+python orquestrador.py --pause
+
+# Retomar de onde parou
+python orquestrador.py --continuar
+
+# Ver status atual
+python orquestrador.py --status
+
+# Limpar estado e recomeçar
+python orquestrador.py --reset
+```
+
+### 7. Configuração de cidades (`cidades.json`)
+
+O arquivo `cidades.json` na raiz do projeto define as cidades-alvo. Cada cidade possui:
+
+```json
+"curitiba": {
+  "sementes": ["https://www.curitiba.pr.gov.br/"],
+  "dominios": ["curitiba.pr.gov.br"],
+  "dominios_excluidos": ["exemplo.pr.gov.br"],
+  "pausa_entre_requests": true
+}
+```
+
+**Campos:**
+- `sementes`: URLs iniciais onde o crawler começa a navegar
+- `dominios`: Domínios válidos — o crawler rejeita links fora destes
+- `dominios_excluidos` (opcional): Subdomínios bloqueados
+- `pausa_entre_requests` (opcional): Controla o intervalo entre requisições:
+  - `true`: Randomiza entre 2 e 10 segundos (anti-bloqueio por IP)
+  - número (ex: `5.0`): Pausa fixa em segundos
+  - omitido ou `false`: Usa o valor global de `config.py`
 
 Os resultados são gerados na pasta `resultados/<cidade>/`.
 

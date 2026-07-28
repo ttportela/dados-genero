@@ -28,9 +28,35 @@ sys.stderr.reconfigure(encoding="utf-8")
 from src.config import CIDADES
 
 
-def etapa_crawler(cidade: str, sem_limite: bool = False):
+def listar_cidades():
+    """Lista todas as cidades configuradas em cidades.json."""
+    print(f"\n{'='*60}")
+    print(f"  Cidades configuradas ({len(CIDADES)} municípios)")
+    print(f"{'='*60}")
+    for nome, config in CIDADES.items():
+        sementes = config.get("sementes", [])
+        dominios = config.get("dominios", [])
+        url_principal = sementes[0] if sementes else "(sem semente)"
+        qtd_dominios = len(dominios)
+        print(f"  {nome:<40} {url_principal}")
+    print(f"\n  Total: {len(CIDADES)} cidades configuradas.")
+    print(f"{'='*60}\n")
+
+
+def etapa_crawler(
+    cidade: str,
+    sem_limite: bool = False,
+    reprocessar_erros: bool = False,
+    max_paginas: int | None = None,
+    max_profundidade: int | None = None,
+):
     from src.crawler import CrawlerUrbano
-    crawler = CrawlerUrbano(cidade)
+    crawler = CrawlerUrbano(
+        cidade,
+        reprocessar_erros=reprocessar_erros,
+        max_paginas=max_paginas,
+        max_profundidade=max_profundidade,
+    )
     crawler.iniciar_varredura(sem_limite=sem_limite)
 
 
@@ -54,7 +80,15 @@ def main():
     parser.add_argument(
         "cidade",
         choices=list(CIDADES.keys()),
-        help="Município a processar: maringa, londrina ou curitiba",
+        nargs="?",
+        default=None,
+        help="Município a processar (use --listar para ver todos)",
+    )
+    parser.add_argument(
+        "--listar",
+        action="store_true",
+        default=False,
+        help="Lista todas as cidades configuradas em cidades.json",
     )
     parser.add_argument(
         "--etapa",
@@ -77,10 +111,49 @@ def main():
             "Usado para a varredura oficial completa."
         ),
     )
+    parser.add_argument(
+        "--reprocessar-erros",
+        action="store_true",
+        default=False,
+        help=(
+            "Re-enfileira URLs com erros transitórios (TIMEOUT, 403, 500, CAPTCHA)\n"
+            "para nova tentativa. Erros permanentes (404, CAPTCHA não resolvido)\n"
+            "são ignorados. Só funciona com a Etapa 1 (Crawler)."
+        ),
+    )
+    parser.add_argument(
+        "--max-paginas",
+        type=int,
+        default=None,
+        help=(
+            "Sobrescreve MAX_PAGES do config.py — limite de páginas processadas.\n"
+            "Só funciona com a Etapa 1 (Crawler)."
+        ),
+    )
+    parser.add_argument(
+        "--max-profundidade",
+        type=int,
+        default=None,
+        help=(
+            "Sobrescreve MAX_DEPTH do config.py — profundidade máxima da BFS.\n"
+            "Só funciona com a Etapa 1 (Crawler)."
+        ),
+    )
 
     args = parser.parse_args()
+
+    if args.listar:
+        listar_cidades()
+        return
+
+    if args.cidade is None:
+        parser.error("cidade é obrigatória (ou use --listar para ver as opções)")
+
     cidade = args.cidade
     sem_limite = args.sem_limite
+    reprocessar_erros = args.reprocessar_erros
+    max_paginas = args.max_paginas
+    max_profundidade = args.max_profundidade
 
     print(f"\n{'='*60}")
     print(f"  TCC - Pipeline de Dados Publicos | {cidade.upper()}")
@@ -88,12 +161,14 @@ def main():
 
     if args.etapa is None:
         print(" Modo: Pipeline completo (Etapas 1 -> 2 -> 3)\n")
-        etapa_crawler(cidade, sem_limite=sem_limite)
+        etapa_crawler(cidade, sem_limite=sem_limite, reprocessar_erros=reprocessar_erros,
+                      max_paginas=max_paginas, max_profundidade=max_profundidade)
         etapa_downloader(cidade)
         etapa_analisador(cidade)
     elif args.etapa == 1:
         print(" Modo: Somente Etapa 1 - Crawler\n")
-        etapa_crawler(cidade, sem_limite=sem_limite)
+        etapa_crawler(cidade, sem_limite=sem_limite, reprocessar_erros=reprocessar_erros,
+                      max_paginas=max_paginas, max_profundidade=max_profundidade)
     elif args.etapa == 2:
         print(" Modo: Somente Etapa 2 - Downloader\n")
         etapa_downloader(cidade)

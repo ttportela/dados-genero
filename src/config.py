@@ -11,6 +11,7 @@
 #
 # =============================================================================
 
+import json
 from pathlib import Path
 
 # Diretório raiz do projeto (pasta tcc-dados-publicos-genero-pr/)
@@ -24,65 +25,37 @@ SUFIXO_PASTA   = "_oficial"  # pastas com dados finalizados do TCC
 
 
 # =============================================================================
-# CIDADES — Configuração das 3 cidades-alvo
+# CIDADES — Configuração das cidades-alvo (arquivo externo)
 # =============================================================================
+#
+# A configuração das cidades (sementes, domínios, domínios excluídos) é lida
+# do arquivo cidades.json na raiz do projeto. Isso permite adicionar ou ajustar
+# cidades sem editar código Python — basta editar o JSON.
 #
 # "sementes": lista de URLs onde o crawler começa a navegar.
-#             Foi incluido o site oficial de cada prefeitura, do portal da transparência e 
-#             do dados abertos no caso de Curitiba.
-# "dominios": incluido o domínio do site oficial da prefeitura + do portal de transparência
-#             O crawler rejeita qualquer link fora desses domínios.
+# "dominios": domínios válidos — o crawler rejeita links fora destes.
 #             Usa endswith() — cobre subdomínios automaticamente.
+# "dominios_excluidos" (opcional): subdomínios bloqueados explicitamente.
 #
 # Portais verificados em: 20/04/2025
-# =============================================================================
 
-CIDADES = {
-    "curitiba": {
-        "sementes": [
-            "https://www.curitiba.pr.gov.br/",
-            "https://www.transparencia.curitiba.pr.gov.br/",
-            "https://dadosabertos.curitiba.pr.gov.br/",
-        ],
-        # Subdomínios cobertos automaticamente pelo endswith():
-        # www., transparencia., dadosabertos., etc.
-        "dominios": ["curitiba.pr.gov.br"],
-    },
+_ARQUIVO_CIDADES = DIR_RAIZ / "cidades.json"
 
-    "londrina": {
-        "sementes": [
-            "https://portal.londrina.pr.gov.br/",
-            "https://portal.londrina.pr.gov.br/transparencia",
-            # Sistema terceirizado (Equiplano)
-            "https://portal-prefeitura-londrina.equiplano.cloud/inicio",
-        ],
-        "dominios": [
-            "londrina.pr.gov.br",                         # cobre portal., www., etc.
-            "portal-prefeitura-londrina.equiplano.cloud", # domínio externo necessário
-        ],
-        # Subd. excluído: identificado durante varredura-piloto (mai/2026)
-        # pref.londrina.pr.gov.br: era um encurtador de URLs (Shlink) da prefeitura,
-        # desativado entre fev–mai/2026. DNS ainda resolve, mas todas as URLs retornam
-        # HTTP 404. O portal ainda contém links para esse subd., gerando ~26k requisições
-        # inúteis se não bloqueado explicitamente.
-        # Evidência: Wayback Machine (28 capturas, fev/2026) + teste HTTP direto.
-        "dominios_excluidos": [
-            "pref.londrina.pr.gov.br",
-        ],
-    },
 
-    "maringa": {
-        "sementes": [
-            "https://www.maringa.pr.gov.br/",
-            # Sistema terceirizado (Elotech)
-            "https://maringa.oxy.elotech.com.br/portaltransparencia/1/",
-        ],
-        "dominios": [
-            "maringa.pr.gov.br",           # cobre www., www3., tributos., storage., etc.
-            "maringa.oxy.elotech.com.br",  # domínio externo necessário
-        ],
-    },
-}
+def _carregar_cidades() -> dict:
+    """Lê a configuração de cidades do arquivo JSON externo."""
+    if not _ARQUIVO_CIDADES.exists():
+        raise FileNotFoundError(
+            f"Arquivo de configuração não encontrado: {_ARQUIVO_CIDADES}\n"
+            "Crie o arquivo cidades.json na raiz do projeto. Veja a documentação no README."
+        )
+    with open(_ARQUIVO_CIDADES, encoding="utf-8") as f:
+        dados = json.load(f)
+    # Remove chaves de metadados (começam com _)
+    return {k: v for k, v in dados.items() if not k.startswith("_")}
+
+
+CIDADES = _carregar_cidades()
 
 
 # =============================================================================
@@ -112,7 +85,7 @@ MAX_PAGES            = 100000
 MAX_DEPTH            = 10
 REQUEST_TIMEOUT      = 15    # segundos
 MAX_RETRIES          = 3
-PAUSA_ENTRE_REQUESTS = 1.5   # segundos
+PAUSA_ENTRE_REQUESTS = 0     # segundos
 
 USER_AGENT = (
     "CrawlerTCC-UTFPR/1.0 "
