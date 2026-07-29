@@ -136,16 +136,20 @@ class CrawlerUrbano:
 
         # Caminhos dos arquivos de saída
         self.arquivo_inventario   = self.dir_cidade / "inventario_links.xlsx"
+        self.arquivo_externos     = self.dir_cidade / "inventario_externos.xlsx"
         self.arquivo_erros        = self.dir_cidade / "erros_varredura.xlsx"
         self.arquivo_ckpt_visited = self.dir_cidade / "checkpoint_visited.json"
         self.arquivo_ckpt_queue   = self.dir_cidade / "checkpoint_queue.json"
 
         # Listas de registros em memória (serão salvas em planilha ao final)
         self._registros_inventario: list[dict] = []
+        self._registros_externos: list[dict] = []
         self._registros_erros: list[dict] = []
         # Set de URLs já inventariadas — garante que cada arquivo e anotado
         # apenas uma vez, mesmo que apareça em múltiplas páginas do site.
         self._urls_inventariadas: set[str] = set()
+        # Set de URLs externas já registradas — deduplicação.
+        self._urls_externas: set[str] = set()
 
         # Inicializa fila e visitados (carrega checkpoint se existir)
         self.visited: set[str] = set()
@@ -204,6 +208,19 @@ class CrawlerUrbano:
                     print(f"Aviso: não foi possível carregar o inventário existente ({e}). Começando o inventário do zero.")
             else:
                 print(f"Checkpoint carregado — retomando varredura.")
+
+            # Carrega o inventário de links externos parcial já salvo, se existir
+            if self.arquivo_externos.exists():
+                try:
+                    df_ext = pd.read_excel(self.arquivo_externos)
+                    self._registros_externos = df_ext.to_dict("records")
+                    self._urls_externas = {
+                        str(r.get("url_encontrada", ""))
+                        for r in self._registros_externos
+                    }
+                    print(f"  Links externos parciais carregados: {len(self._registros_externos)} links já registrados.")
+                except Exception as e:
+                    print(f"Aviso: não foi possível carregar o inventário de externos ({e}).")
 
             # Carrega o log de erros parcial já salvo, se existir
             if self.arquivo_erros.exists():
@@ -328,6 +345,18 @@ class CrawlerUrbano:
             return None
 
         # Status 200: resposta recebida com sucesso.
+        # Verifica o Content-Type: se não for HTML, é um arquivo servido
+        # por uma URL sem extensão (ex: /download?id=123). Registra no inventário.
+        content_type = response.headers.get("Content-Type", "")
+        tipo_arquivo = mime_para_extensao(content_type)
+        if tipo_arquivo:
+            self._arquivo_detectado = tipo_arquivo
+            return []
+        # octet-stream genérico: tenta pela extensão da URL como fallback
+        if "application/octet-stream" in content_type and get_extensao(url):
+            self._arquivo_detectado = get_extensao(url)
+            return []
+
         # Só verifica CAPTCHA se o conteúdo for suspeitamente curto (< 500 chars)
         # — páginas reais têm muito mais conteúdo que uma página de bloqueio.
         # Portais com reCAPTCHA invisível (v3) retornam 200 com HTML completo,
@@ -365,7 +394,6 @@ class CrawlerUrbano:
             options.add_argument("--headless=new")  # sem abrir janela
             options.add_argument("--no-sandbox")
             options.add_argument("--disable-dev-shm-usage")
-            options.add_argument(f"--user-agent={self._user_agent_str()}")
 
             driver = webdriver.Chrome(options=options)
             driver.get(url)
@@ -383,7 +411,6 @@ class CrawlerUrbano:
                 # Reabre com janela visível para intervenção humana
                 driver.quit()
                 options_visivel = ChromeOptions()
-                options_visivel.add_argument(f"--user-agent={self._user_agent_str()}")
                 driver = webdriver.Chrome(options=options_visivel)
                 driver.get(url)
                 time.sleep(60)  # janela de 60s para resolução manual
@@ -430,6 +457,7 @@ class CrawlerUrbano:
         """
         self._redirect_subdominio = False   # reset a cada página
         self._depth_atual = depth            # profundidade para _registrar_erro
+        self._arquivo_detectado = None       # MIME type se URL da fila for arquivo
         # Tenta Nível 1 (requests)
         links = self._extrair_links(url)
 
@@ -441,15 +469,34 @@ class CrawlerUrbano:
         if links is None:
             links = self._extrair_links_selenium(url)
 
+        # Se a URL da fila foi detectada como arquivo via MIME type,
+        # registra no inventário e não processa links.
+        if self._arquivo_detectado:
+            self._registrar_arquivo(
+                url_encontrada=url,
+                texto_no_site="",
+                pagina_de_origem="",
+                depth=depth,
+                tipo_conhecido=self._arquivo_detectado,
+            )
+            return True
+
         for url_link, texto in links:
             url_link = normalizar_url(url_link)
 
-            # Ignora links fora dos domínios válidos
-            if not is_valid_domain(url_link, self.dominios):
-                continue
-
             # Ignora links em subdomínios explicitamente bloqueados
             if self.dominios_excluidos and is_valid_domain(url_link, self.dominios_excluidos):
+                continue
+
+            # Links fora dos domínios válidos (mas não bloqueados) são registrados
+            # no inventário de externos — não entram na fila, mas ficam visíveis.
+            if not is_valid_domain(url_link, self.dominios):
+                self._registrar_externo(
+                    url_encontrada=url_link,
+                    texto_no_site=texto,
+                    pagina_de_origem=url,
+                    depth=depth,
+                )
                 continue
 
             if is_arquivo(url_link):
@@ -528,18 +575,24 @@ class CrawlerUrbano:
         texto_no_site: str,
         pagina_de_origem: str,
         depth: int,
+        tipo_conhecido: str = "",
     ):
         """
         Adiciona um arquivo ao inventário em memória.
         Faz um HEAD request para preencher o status_http.
         Ignora URLs já registradas (deduplicação por URL).
+
+        Se tipo_conhecido for informado, pula o HEAD request (tipo já conhecido).
         """
         # Deduplicação: mesma URL pode aparecer em múltiplas páginas
         if url_encontrada in self._urls_inventariadas:
             return
         self._urls_inventariadas.add(url_encontrada)
 
-        status, tipo = self._checar_status_arquivo(url_encontrada)
+        if tipo_conhecido:
+            status, tipo = 200, tipo_conhecido
+        else:
+            status, tipo = self._checar_status_arquivo(url_encontrada)
 
         icone = "📄" if status == 200 else ("🔒" if status == 403 else "⚠️")
         print(f"  {icone} [{status}] {tipo or get_extensao(url_encontrada)} -> {url_encontrada[:70]}")
@@ -553,6 +606,22 @@ class CrawlerUrbano:
             "tipo_arquivo":       tipo or get_extensao(url_encontrada),
             "profundidade":       depth,
             "status_http":        status,
+            "data_varredura":     datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        })
+
+    def _registrar_externo(self, url_encontrada: str, texto_no_site: str, pagina_de_origem: str, depth: int):
+        """Registra um link externo (fora dos domínios válidos) no inventário de externos."""
+        if url_encontrada in self._urls_externas:
+            return
+        self._urls_externas.add(url_encontrada)
+
+        self._registros_externos.append({
+            "cidade":             self.nome_cidade,
+            "url_encontrada":     url_encontrada,
+            "dominio_encontrado": urlparse(url_encontrada).netloc,
+            "texto_no_site":      texto_no_site,
+            "pagina_de_origem":   pagina_de_origem,
+            "profundidade":       depth,
             "data_varredura":     datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         })
 
@@ -684,6 +753,13 @@ class CrawlerUrbano:
             self._salvar_excel_atomico(df_err, self.arquivo_erros)
             print(f"  Log de erros salvo: {self.arquivo_erros}")
             print(f"  {len(df_err)} erros/bloqueios registrados.")
+
+        if self._registros_externos:
+            df_ext = pd.DataFrame(self._registros_externos)
+            df_ext = self._sanitizar_df(df_ext)
+            self._salvar_excel_atomico(df_ext, self.arquivo_externos)
+            print(f"  Links externos salvos: {self.arquivo_externos}")
+            print(f"  {len(df_ext)} links externos registrados.")
 
     # =========================================================================
     # MOTOR PRINCIPAL — BFS

@@ -48,6 +48,28 @@ pip install -r requirements.txt
 
 ### 3. Executar o pipeline
 
+Exemplo completo por partes:
+
+```bash
+# 1. Rodar crawler com limite de profundidade 10:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10
+# 2. Re-crawler com as urls que deram erro também:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros
+
+# 3. Baixar os arquivos:
+python main.py maringa --etapa 2   
+
+# 4. Analisar os arquivos de forma automática, inicialmente:
+python main.py maringa --etapa 3 
+
+# Adicione ao final de cada comando acima para salvar um log da execução: 
+# 2>&1 | tee -a resultados/_logs/maringa.txt
+python main.py maringa --etapa 3 2>&1 | tee -a resultados/_logs/maringa.txt
+
+```
+
+Outros Exemplos:
+
 ```bash
 # Rodar o pipeline completo para uma cidade (Etapas 1 → 2 → 3)
 python main.py maringa
@@ -64,6 +86,8 @@ python main.py maringa --sem-limite
 
 # Exemplo completo de início:
 python main.py maringa --sem-limite --etapa 1 --max-profundidade 10
+# Ou para tentar com as urls que deram erro também:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros
 ```
 
 ### 4. Descobrir portais municipais (`descobrir_cidades.py`)
@@ -113,34 +137,7 @@ gráficos de top 15 páginas visitadas e arquivos encontrados, e barras de progr
 - Distribuição de arquivos por grupo (planilhas, documentos, apresentações, geoespaciais, outros)
 - Tabelas interativas de URLs visitadas, fila pendente, erros e inventário
 
-### 6. Orquestrador multi-thread (`orquestrador.py`)
-
-Executa o crawler para múltiplas cidades em paralelo, com pausa e retoma:
-
-```bash
-# Rodar 4 threads para todas as cidades
-python orquestrador.py --threads 4
-
-# Rodar apenas a etapa 1 (crawler) com 8 threads
-python orquestrador.py --threads 8 --etapa 1
-
-# Limitar número de cidades nesta execução
-python orquestrador.py --threads 4 --limite 20
-
-# Pausar (cidades em execução terminam, nenhuma nova inicia)
-python orquestrador.py --pause
-
-# Retomar de onde parou
-python orquestrador.py --continuar
-
-# Ver status atual
-python orquestrador.py --status
-
-# Limpar estado e recomeçar
-python orquestrador.py --reset
-```
-
-### 7. Configuração de cidades (`cidades.json`)
+### 6. Configuração de cidades (`cidades.json`)
 
 O arquivo `cidades.json` na raiz do projeto define as cidades-alvo. Cada cidade possui:
 

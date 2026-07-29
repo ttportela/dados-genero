@@ -21,7 +21,8 @@ DIR_RAIZ = Path(__file__).parent.parent
 
 # Pasta onde os resultados de cada cidade serão salvos (criada em runtime)
 DIR_RESULTADOS = DIR_RAIZ / "resultados"
-SUFIXO_PASTA   = "_oficial"  # pastas com dados finalizados do TCC
+# SUFIXO_PASTA   = "_oficial"  # pastas com dados finalizados do TCC
+SUFIXO_PASTA   = ""
 
 
 # =============================================================================
@@ -88,7 +89,7 @@ MAX_RETRIES          = 3
 PAUSA_ENTRE_REQUESTS = 0     # segundos
 
 USER_AGENT = (
-    "CrawlerTCC-UTFPR/1.0 "
+    "TCC-UTFPR/1.0 "
     "(Pesquisa academica - Mapeamento de Dados Publicos no Parana; "
     "Engenharia de Software UTFPR; "
     "contato: adrianasarturi@alunos.utfpr.edu.br)"

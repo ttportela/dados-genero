@@ -31,3 +31,10 @@ openpyxl>=3.1.3
 # streamlit: framework para apps web interativos em Python
 # Usado por visualizar_checkpoint.py para inspecionar o estado do crawler
 streamlit>=1.45.0
+
+# rarfile: leitor de arquivos .rar (usado pelo analisador)
+rarfile>=4.4
+
+# tabulate: necessário para df.to_markdown() no resumo_analise.md
+tabulate>=0.9.0
+

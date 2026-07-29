@@ -82,11 +82,13 @@ def carregar_metricas_cidade(cidade: str, usar_oficial: bool) -> dict | None:
     queue = carregar_queue(str(dir_c / "checkpoint_queue.json"))
     df_err = carregar_excel(str(dir_c / "erros_varredura.xlsx"))
     df_inv = carregar_excel(str(dir_c / "inventario_links.xlsx"))
+    df_ext = carregar_excel(str(dir_c / "inventario_externos.xlsx"))
 
     total_vis = len(visited)
     total_q = len(queue)
     total_err = len(df_err) if df_err is not None else 0
     total_inv = len(df_inv) if df_inv is not None else 0
+    total_ext = len(df_ext) if df_ext is not None else 0
     total_urls = total_vis + total_q
     progresso = (total_vis / total_urls) if total_urls > 0 else 0.0
 
@@ -101,6 +103,7 @@ def carregar_metricas_cidade(cidade: str, usar_oficial: bool) -> dict | None:
         "urls_na_fila": total_q,
         "arquivos": total_inv,
         "erros": total_err,
+        "externos": total_ext,
         "ultimo_nivel_arquivos": ultimo_nivel,
         "progresso": progresso,
         "total_urls": total_urls,
@@ -153,6 +156,7 @@ if modo == "Dashboard":
                     "urls_na_fila": 0,
                     "arquivos": 0,
                     "erros": 0,
+                    "externos": 0,
                     "ultimo_nivel_arquivos": 0,
                     "progresso": 0.0,
                     "total_urls": 0,
@@ -210,11 +214,12 @@ if modo == "Dashboard":
         "urls_na_fila": "Fila",
         "arquivos": "Arquivos",
         "erros": "Erros",
+        "externos": "Externos",
         "ultimo_nivel_arquivos": "Últ. Nível",
         "progresso_pct": "Progresso",
     })
     df_tabela = df_tabela[[
-        "Cidade", "status", "Páginas", "Fila", "Arquivos", "Erros", "Últ. Nível", "Progresso"
+        "Cidade", "status", "Páginas", "Fila", "Arquivos", "Erros", "Externos", "Últ. Nível", "Progresso"
     ]]
 
     st.dataframe(
@@ -288,6 +293,7 @@ caminho_visited = dir_cidade / "checkpoint_visited.json"
 caminho_queue = dir_cidade / "checkpoint_queue.json"
 caminho_erros = dir_cidade / "erros_varredura.xlsx"
 caminho_inventario = dir_cidade / "inventario_links.xlsx"
+caminho_externos  = dir_cidade / "inventario_externos.xlsx"
 
 st.sidebar.divider()
 st.sidebar.caption(f"📁 Pasta: `{dir_cidade}`")
@@ -298,6 +304,7 @@ arquivos_status = {
     "checkpoint_queue.json": caminho_queue.exists(),
     "erros_varredura.xlsx": caminho_erros.exists(),
     "inventario_links.xlsx": caminho_inventario.exists(),
+    "inventario_externos.xlsx": caminho_externos.exists(),
 }
 for nome, existe in arquivos_status.items():
     icone = "✅" if existe else "❌"
@@ -317,11 +324,13 @@ with st.spinner("Carregando dados do checkpoint..."):
     queue_list = carregar_queue(str(caminho_queue))
     df_erros = carregar_excel(str(caminho_erros))
     df_inventario = carregar_excel(str(caminho_inventario))
+    df_externos = carregar_excel(str(caminho_externos))
 
 total_visited = len(visited_list)
 total_queue = len(queue_list)
 total_erros = len(df_erros) if df_erros is not None else 0
 total_inventario = len(df_inventario) if df_inventario is not None else 0
+total_externos = len(df_externos) if df_externos is not None else 0
 
 # =============================================================================
 # TÍTULO
@@ -345,12 +354,13 @@ if df_inventario is not None and total_inventario > 0 and "profundidade" in df_i
 else:
     ultimo_nivel_arquivos = 0
 
-col1, col2, col3, col4, col5 = st.columns(5)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 col1.metric("Páginas Visitadas", f"{total_visited:,}")
 col2.metric("Profundidade Configurada", f"{profundidade_config}")
 col3.metric("Último Nível com Arquivos", f"{ultimo_nivel_arquivos}")
 col4.metric("Arquivos Encontrados", f"{total_inventario:,}")
 col5.metric("Erros Registrados", f"{total_erros:,}")
+col6.metric("Links Externos", f"{total_externos:,}")
 
 total_urls = total_visited + total_queue
 if total_urls > 0:
@@ -580,6 +590,52 @@ else:
                 "tipo_arquivo": "Tipo",
                 "profundidade": st.column_config.NumberColumn("Profundidade", width="small"),
                 "status_http": st.column_config.NumberColumn("Status HTTP", width="small"),
+                "data_varredura": "Data",
+            },
+            use_container_width=True,
+            height=400,
+        )
+
+st.divider()
+
+# =============================================================================
+# LINKS EXTERNOS
+# =============================================================================
+
+st.header("🔗 Links Externos")
+
+if df_externos is None or total_externos == 0:
+    st.info("Nenhum link externo registrado.")
+else:
+    col_ext_graf, col_ext_tabela = st.columns([1, 2])
+
+    with col_ext_graf:
+        st.subheader("Top 10 Domínios Externos")
+        if "dominio_encontrado" in df_externos.columns:
+            top_dominios = df_externos["dominio_encontrado"].value_counts().head(10)
+            st.bar_chart(top_dominios, use_container_width=True)
+
+    with col_ext_tabela:
+        st.subheader("Links Externos Registrados")
+
+        busca_ext = st.text_input("Buscar URL (contém)", key="busca_ext")
+        df_ext_filtrado = df_externos
+        if busca_ext:
+            df_ext_filtrado = df_externos[
+                df_externos["url_encontrada"].str.contains(busca_ext, case=False, na=False)
+            ]
+
+        st.caption(f"{len(df_ext_filtrado):,} de {total_externos:,} links externos")
+
+        st.dataframe(
+            df_ext_filtrado,
+            column_config={
+                "cidade": "Cidade",
+                "url_encontrada": "URL",
+                "dominio_encontrado": "Domínio",
+                "texto_no_site": "Texto no Site",
+                "pagina_de_origem": "Página de Origem",
+                "profundidade": st.column_config.NumberColumn("Profundidade", width="small"),
                 "data_varredura": "Data",
             },
             use_container_width=True,

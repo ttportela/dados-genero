@@ -58,6 +58,7 @@ class AnalisadorGenero:
         self.dir_cidade    = DIR_RESULTADOS / (nome_cidade + SUFIXO_PASTA)
         self.dir_downloads = self.dir_cidade / "downloads"
         self.arquivo_relatorio = self.dir_cidade / "relatorio_genero.xlsx"
+        self.arquivo_resumo_md = self.dir_cidade / "resumo_analise.md"
         # Raiz do projeto — usada para gerar caminhos relativos no relatório
         self.dir_projeto   = DIR_RESULTADOS.parent
 
@@ -411,6 +412,114 @@ class AnalisadorGenero:
 
         return sorted(termos_encontrados)
 
+    # =========================================================================
+    # GERAÇÃO DO RESUMO .md
+    # =========================================================================
+
+    def _gerar_resumo_colunas(self, df: pd.DataFrame) -> list[dict]:
+        """
+        Gera estatísticas descritivas para cada coluna do DataFrame.
+
+        Retorna uma lista de dicts, um por coluna, com:
+          - coluna, tipo, unicos, unicos_pct, faltantes, faltantes_pct
+        """
+        total_linhas = len(df)
+        resumo = []
+        for col in df.columns:
+            serie = df[col]
+            unicos = serie.nunique(dropna=True)
+            faltantes = serie.isna().sum()
+            resumo.append({
+                "coluna": str(col),
+                "tipo": str(serie.dtype),
+                "unicos": unicos,
+                "unicos_pct": f"{(unicos / total_linhas * 100):.1f}%" if total_linhas else "—",
+                "faltantes": int(faltantes),
+                "faltantes_pct": f"{(faltantes / total_linhas * 100):.1f}%" if total_linhas else "—",
+            })
+        return resumo
+
+    def _gerar_md_final(self, resumos: list[dict], stats_finais: dict):
+        """
+        Escreve o arquivo resumo_analise.md com:
+          - Para cada arquivo lido: head(10) + resumo descritivo das colunas
+          - Resumo estatístico final (tipos de dados, recorte de gênero, etc.)
+        """
+        linhas: list[str] = []
+        linhas.append(f"# Resumo da Análise — {self.nome_cidade.upper()}\n")
+
+        # --- Seção por arquivo ---
+        for r in resumos:
+            linhas.append(f"## Arquivo: `{r['nome_arquivo']}`\n")
+            if r.get("url_origem"):
+                linhas.append(f"- **URL de origem:** {r['url_origem']}")
+            linhas.append(f"- **Extensão:** {r['extensao']}")
+            linhas.append(f"- **Linhas:** {r['total_linhas']} | **Colunas:** {r['total_colunas']}")
+            linhas.append(f"- **Recorte de gênero:** {r['tem_recorte']}")
+            if r.get("termos"):
+                linhas.append(f"- **Termos encontrados:** {r['termos']}")
+            linhas.append("")
+
+            # head(10)
+            linhas.append("### Primeiras 10 linhas\n")
+            if r.get("head_md"):
+                linhas.append(r["head_md"])
+            else:
+                linhas.append("_(não disponível)_")
+            linhas.append("")
+
+            # Resumo das colunas
+            linhas.append("### Resumo das colunas\n")
+            linhas.append("| Coluna | Tipo | Únicos | % Únicos | Faltantes | % Faltantes |")
+            linhas.append("|--------|------|--------|----------|-----------|-------------|")
+            for c in r.get("colunas", []):
+                linhas.append(
+                    f"| {c['coluna']} | {c['tipo']} | {c['unicos']} | {c['unicos_pct']} | {c['faltantes']} | {c['faltantes_pct']} |"
+                )
+            linhas.append("\n---\n")
+
+        # --- Resumo estatístico final ---
+        linhas.append("## Resumo Estatístico Final\n")
+
+        linhas.append("### Arquivos analisados\n")
+        linhas.append(f"- **Total de arquivos:** {stats_finais['total_arquivos']}")
+        linhas.append(f"- **Lidos com sucesso:** {stats_finais['lidos']}")
+        linhas.append(f"- **Erros de leitura:** {stats_finais['erros']}")
+        linhas.append(f"- **Compactados sem elegíveis:** {stats_finais['sem_elegiveis']}")
+        linhas.append("")
+
+        linhas.append("### Recorte de gênero\n")
+        com_genero = stats_finais['com_genero']
+        sem_genero = stats_finais['sem_genero']
+        pct_genero = f"{(com_genero / stats_finais['lidos'] * 100):.1f}%" if stats_finais['lidos'] else "—"
+        linhas.append(f"- **Com recorte de gênero:** {com_genero} ({pct_genero} dos lidos)")
+        linhas.append(f"- **Sem recorte de gênero:** {sem_genero}")
+        linhas.append("")
+
+        linhas.append("### Tipos de dados (colunas de todos os arquivos lidos)\n")
+        linhas.append("| Tipo | Quantidade de colunas | % |")
+        linhas.append("|------|----------------------|---|")
+        total_cols = sum(stats_finais['tipos_dados'].values())
+        for tipo, qtd in sorted(stats_finais['tipos_dados'].items(), key=lambda x: -x[1]):
+            pct = f"{(qtd / total_cols * 100):.1f}%" if total_cols else "—"
+            linhas.append(f"| {tipo} | {qtd} | {pct} |")
+        linhas.append("")
+
+        linhas.append("### Estatísticas gerais\n")
+        linhas.append(f"- **Total de colunas (soma):** {total_cols}")
+        linhas.append(f"- **Média de colunas por arquivo:** {stats_finais['media_colunas']:.1f}")
+        if stats_finais.get('arquivo_mais_colunas'):
+            linhas.append(f"- **Arquivo com mais colunas:** `{stats_finais['arquivo_mais_colunas']}` ({stats_finais['max_colunas']} colunas)")
+        linhas.append(f"- **Total de linhas (soma):** {stats_finais['total_linhas']}")
+        linhas.append("")
+
+        self.arquivo_resumo_md.write_text("\n".join(linhas), encoding="utf-8")
+        print(f"  Resumo markdown salvo: {self.arquivo_resumo_md}")
+
+    # =========================================================================
+    # ANÁLISE PRINCIPAL
+    # =========================================================================
+
     def analisar(self):
         """
         Varre todos os arquivos da pasta de downloads e gera o relatório de gênero.
@@ -448,6 +557,7 @@ class AnalisadorGenero:
         print(f"{'='*60}\n")
 
         registros = []
+        self._resumos_md: list[dict] = []  # dados para o resumo .md
 
         for arquivo in sorted(arquivos):
             print(f"Analisando: {arquivo.name}")
@@ -471,6 +581,18 @@ class AnalisadorGenero:
                     "curadoria_justificativa": "",
                     "caminho_relativo":       str(arquivo.relative_to(self.dir_projeto)),
                 })
+                if tem_recorte in ("Sim", "Não"):
+                    self._resumos_md.append({
+                        "nome_arquivo":   arquivo.name,
+                        "extensao":       extensao,
+                        "url_origem":     self._url_por_arquivo.get(arquivo.name, ""),
+                        "tem_recorte":    tem_recorte,
+                        "termos":         resultado["termos_encontrados"],
+                        "total_linhas":   0,
+                        "total_colunas":  resultado["total_colunas"],
+                        "head_md":        "_(arquivo compactado — conteúdo extraído em extraidos/)_",
+                        "colunas":        [],
+                    })
                 continue
 
             # --- Arquivos compactados RAR: inspeciona planilhas internas ---
@@ -491,6 +613,18 @@ class AnalisadorGenero:
                     "curadoria_justificativa": "",
                     "caminho_relativo":       str(arquivo.relative_to(self.dir_projeto)),
                 })
+                if tem_recorte in ("Sim", "Não"):
+                    self._resumos_md.append({
+                        "nome_arquivo":   arquivo.name,
+                        "extensao":       extensao,
+                        "url_origem":     self._url_por_arquivo.get(arquivo.name, ""),
+                        "tem_recorte":    tem_recorte,
+                        "termos":         resultado["termos_encontrados"],
+                        "total_linhas":   0,
+                        "total_colunas":  resultado["total_colunas"],
+                        "head_md":        "_(arquivo compactado — conteúdo extraído em extraidos/)_",
+                        "colunas":        [],
+                    })
                 continue
 
             # --- Arquivos de texto .txt: detecta tipo por magic bytes ---
@@ -550,6 +684,27 @@ class AnalisadorGenero:
                 "caminho_relativo":       str(arquivo.relative_to(self.dir_projeto)),
             })
 
+            # Coleta resumo para o .md
+            try:
+                head_md = df.head(10).to_markdown(index=False)
+            except Exception:
+                linhas_txt = []
+                for i, (_, linha) in enumerate(df.head(10).iterrows()):
+                    valores = " | ".join(str(v) for v in linha.values)
+                    linhas_txt.append(f"{i+1}. {valores}")
+                head_md = "\n".join(linhas_txt) if linhas_txt else "_(arquivo vazio)_"
+            self._resumos_md.append({
+                "nome_arquivo":   arquivo.name,
+                "extensao":       extensao,
+                "url_origem":     self._url_por_arquivo.get(arquivo.name, ""),
+                "tem_recorte":    tem_recorte,
+                "termos":         ", ".join(termos),
+                "total_linhas":   len(df),
+                "total_colunas":  len(df.columns),
+                "head_md":        head_md,
+                "colunas":        self._gerar_resumo_colunas(df),
+            })
+
         # Gera relatório final
         df_relatorio = pd.DataFrame(registros)
 
@@ -574,4 +729,37 @@ class AnalisadorGenero:
         print(f"  ZIPs/RARs sem arq. elegíveis   : {total_sem_plan}")
         print(f"  Erros de leitura               : {total_erro}")
         print(f"  Relatório salvo                : {self.arquivo_relatorio}")
+
+        # Gera o resumo .md com head(10) + resumo das colunas + estatísticas finais
+        tipos_dados: dict[str, int] = {}
+        total_linhas_soma = 0
+        total_colunas_soma = 0
+        max_colunas = 0
+        arquivo_mais_colunas = ""
+        for r in self._resumos_md:
+            for c in r.get("colunas", []):
+                t = c["tipo"]
+                tipos_dados[t] = tipos_dados.get(t, 0) + 1
+            total_linhas_soma += r["total_linhas"]
+            total_colunas_soma += r["total_colunas"]
+            if r["total_colunas"] > max_colunas:
+                max_colunas = r["total_colunas"]
+                arquivo_mais_colunas = r["nome_arquivo"]
+
+        lidos = total_sim + total_nao
+        stats_finais = {
+            "total_arquivos":       len(arquivos),
+            "lidos":                lidos,
+            "erros":                total_erro,
+            "sem_elegiveis":        total_sem_plan,
+            "com_genero":           total_sim,
+            "sem_genero":           total_nao,
+            "tipos_dados":          tipos_dados,
+            "media_colunas":        total_colunas_soma / lidos if lidos else 0,
+            "max_colunas":          max_colunas,
+            "arquivo_mais_colunas": arquivo_mais_colunas,
+            "total_linhas":         total_linhas_soma,
+        }
+        self._gerar_md_final(self._resumos_md, stats_finais)
+
         print(f"{'='*60}\n")
