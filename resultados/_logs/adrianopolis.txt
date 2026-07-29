@@ -2443,3 +2443,26 @@ Nenhum checkpoint encontrado — iniciando do zero.
   🤖 Usando Selenium para: https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2198
   📄 [200] .pdf -> https://www.adrianopolis.pr.gov.br/uploads/legislacao/LEI-1031.2021.pd
   [2175/sem limite] fila=1894 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2197
+  [2176/sem limite] fila=1893 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2177
+  [2177/sem limite] fila=1892 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2176
+  [2178/sem limite] fila=1891 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2175
+  [2179/sem limite] fila=1890 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2167
+  [2180/sem limite] fila=1889 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2161
+  [2181/sem limite] fila=1888 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2119
+  [2182/sem limite] fila=1887 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2118
+  [2183/sem limite] fila=1886 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2117
+  [2184/sem limite] fila=1885 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2134
+  [2185/sem limite] fila=1884 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2116
+  [2186/sem limite] fila=1883 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2115
+  [2187/sem limite] fila=1882 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2102
+  [2188/sem limite] fila=1881 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2101
+  [2189/sem limite] fila=1880 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2100
+  [2190/sem limite] fila=1879 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2099
+  [2191/sem limite] fila=1878 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2098
+  [2192/sem limite] fila=1877 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2097
+  [2193/sem limite] fila=1876 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2096
+  [2194/sem limite] fila=1875 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2095
+  [2195/sem limite] fila=1874 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2057
+  [2196/sem limite] fila=1873 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2035
+  [2197/sem limite] fila=1872 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=2034
+  [2198/sem limite] fila=1871 | depth=4 | https://www.adrianopolis.pr.gov.br/legislacaoView/?id=1959

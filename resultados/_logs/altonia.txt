@@ -3681,3 +3681,25 @@ Nenhum checkpoint encontrado — iniciando do zero.
  ❌ HTTP_429: https://altonia.pr.gov.br/legislacao/?idCategoriaLegislacao=3&ano=2024
   🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacao/?idCategoriaLegislacao=3&ano=2024
   [1105/sem limite] fila=1758 | depth=3 | https://altonia.pr.gov.br/legislacao/?idCategoriaLegislacao=3&ano=2025
+  [1106/sem limite] fila=1759 | depth=3 | https://altonia.pr.gov.br/legislacao/?idCategoriaLegislacao=3&ano=2026
+  [1107/sem limite] fila=1760 | depth=3 | https://altonia.pr.gov.br/legislacaoView/?id=578
+  [1108/sem limite] fila=1759 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+  [1109/sem limite] fila=1758 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+ ❌ HTTP_429: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=3
+  🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=3
+  [1110/sem limite] fila=1757 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+ ❌ HTTP_429: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=10
+  🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=10
+  [1111/sem limite] fila=1756 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=1&idCategoriaLegislacao
+ ❌ HTTP_429: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=1&idCategoriaLegislacao=1
+  🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=1&idCategoriaLegislacao=1
+  [1112/sem limite] fila=1755 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+  [1113/sem limite] fila=1755 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+  [1114/sem limite] fila=1755 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+  [1115/sem limite] fila=1755 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+  [1116/sem limite] fila=1755 | depth=3 | https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao
+ ❌ HTTP_429: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=1&ano=2026
+  🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacao/?idStatusLegislacao=2&idCategoriaLegislacao=1&ano=2026
+  [1117/sem limite] fila=1754 | depth=3 | https://altonia.pr.gov.br/legislacaoView/?id=169
+ ❌ HTTP_429: https://altonia.pr.gov.br/legislacaoView/?id=169
+  🤖 Usando Selenium para: https://altonia.pr.gov.br/legislacaoView/?id=169
