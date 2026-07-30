@@ -132,16 +132,19 @@
   },
   "angulo": {
     "sementes": [
-      "https://www.angulo.pr.gov.br/"
+      "https://www.angulo.pr.gov.br/",
+      "https://angulo.oxy.elotech.com.br/portaltransparencia/"
     ],
     "dominios": [
+      "angulo.oxy.elotech.com.br",
       "angulo.pr.gov.br",
       "www.angulo.pr.gov.br"
     ]
   },
   "antonina": {
     "sementes": [
-      "https://antonina.pr.gov.br/"
+      "https://antonina.pr.gov.br/",
+      "https://www.antonina.pr.gov.br/"
     ],
     "dominios": [
       "antonina.pr.gov.br",

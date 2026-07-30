@@ -1,0 +1,113 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | APUCARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: APUCARANA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.apucarana.pr.gov.br/
+  [2/sem limite] fila=36 | depth=1 | https://www.apucarana.pr.gov.br/site
+  [3/sem limite] fila=35 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/ouvidoria/
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/05/Cartil
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/06/Decret
+  [4/sem limite] fila=34 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/ouvidoria-saude/
+  [5/sem limite] fila=33 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/ouvidoria-ame/
+  [6/sem limite] fila=32 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/ouvidoria-gcm/
+  [7/sem limite] fila=31 | depth=1 | https://www.apucarana.pr.gov.br/saladoempreendedor
+  [8/sem limite] fila=58 | depth=1 | https://compra.apucarana.pr.gov.br/
+  [9/sem limite] fila=75 | depth=1 | https://www.apucarana.pr.gov.br/site/fale-com-o-prefeito/
+  [10/sem limite] fila=74 | depth=1 | https://www.apucarana.pr.gov.br/site/telefones-uteis/
+  [11/sem limite] fila=73 | depth=1 | https://www.apucarana.pr.gov.br/site/apucarana-conquista-nivel-maximo-em-program
+  [12/sem limite] fila=75 | depth=1 | https://www.apucarana.pr.gov.br/site/apucarana-conquista-tres-reconhecimentos-qu
+  [13/sem limite] fila=79 | depth=1 | https://www.apucarana.pr.gov.br/site/iptu-bom-pagador/
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/03/LEI_173
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/03/Decreto
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/03/ANEXO_D
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/03/Porteri
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/03/edital-
+  [14/sem limite] fila=85 | depth=1 | https://www.apucarana.pr.gov.br/site/prefeitura-leva-talentos-de-apucarana-ao-ma
+  [15/sem limite] fila=85 | depth=1 | https://www.apucarana.pr.gov.br/site/baixe-o-app-estacione-legal-do-rotativo-de-
+  [16/sem limite] fila=86 | depth=1 | https://www.apucarana.pr.gov.br/site/prefeitura-capacita-residentes-multiprofiss
+  [17/sem limite] fila=86 | depth=1 | https://www.apucarana.pr.gov.br/site/justica-no-bairro-retorna-em-agosto-a-apuca
+  [18/sem limite] fila=85 | depth=1 | https://www.apucarana.pr.gov.br/site/nota-de-esclarecimento/
+  [19/sem limite] fila=84 | depth=1 | https://www.apucarana.pr.gov.br/site/prefeitura-fortalece-capacidade-de-resposta
+  [20/sem limite] fila=83 | depth=1 | https://www.apucarana.pr.gov.br/site/noticias/
+  [21/sem limite] fila=95 | depth=1 | https://www.apucarana.pr.gov.br/site/vacinacao-em-apucarana/
+  [22/sem limite] fila=94 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/atualizacao-endereco-cont
+  [23/sem limite] fila=93 | depth=1 | https://www.apucarana.pr.gov.br/site/protocolo
+  [24/sem limite] fila=92 | depth=1 | https://www.apucarana.pr.gov.br/site/notanacional/
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2025/12/Lei-Com
+  📄 [200] .pdf -> http://www.apucarana.pr.gov.br/site/wp-content/uploads/2025/12/decreto
+  [25/sem limite] fila=91 | depth=1 | https://www.apucarana.pr.gov.br/site/manual-de-integracao-nfs-e/
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2022/02/Primei
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2022/02/Manual
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2022/02/Import
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2022/02/Export
+  [26/sem limite] fila=90 | depth=1 | https://www.apucarana.pr.gov.br/site/departamento-transito
+  [27/sem limite] fila=89 | depth=1 | https://www.apucarana.pr.gov.br/site/vagas-de-emprego/
+  [28/sem limite] fila=88 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos-cidadao/
+  [29/sem limite] fila=314 | depth=1 | https://www.apucarana.pr.gov.br/site/orgaos-da-administracao/
+  [30/sem limite] fila=313 | depth=1 | http://www.apucarana.pr.gov.br/residencias/
+  [31/sem limite] fila=318 | depth=1 | https://www.apucarana.pr.gov.br/site/carta-de-servicos/acesso-a-informacao/
+  📄 [200] .pdf -> https://www.apucarana.pr.gov.br/site/wp-content/uploads/2026/06/Decret
+  [32/sem limite] fila=317 | depth=1 | https://www.apucarana.pr.gov.br/site/mapa-do-site/
+  [33/sem limite] fila=335 | depth=1 | https://sys.apucarana.pr.gov.br/apucarana-pr/FWLocal/editais_concursos/?concurso
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_18_26_Oper_
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_14_26_Tec_C
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_16_26_Oper_
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_11_26_Tec_C
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_10_26_Tec_A
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_06_26_Tec_A
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_04_26_Tec_A
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_47_25_Nutri
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_046_1765970
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_45_25_Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_4125__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3925_Assist
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3725_Assis_
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_0352025_175
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3325__Bibli
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3225__Bibli
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_2625__Psico
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_0242025__Co
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_1825__Psico
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_1625__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_01425_17467
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_13_17460321
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_1125__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_0925__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_0825__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_0072025__Co
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_0225__Tecni
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edita_0862024_1726
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_8124_Aux_Se
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_7424_Aux_Se
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_7224__Aux_S
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_6624__Psico
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/download__20240704
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_05624_17181
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_No_04324_17
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3624__Aux_S
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_025_1710935
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_2224__Aux_S
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_1824_Ass_At
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_015_1708527
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_062024__Con
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/download__20230831
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_42_16927908
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_3623__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_03323_16874
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_2823__Assis
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_024__PMA_16
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_020__PMA_16
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/Edital_018_2023_e_
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_1623_Assis_
+  ⚠️ [0] .pdf -> http://sys.apucarana.pr.gov.br/apucarana-pr/uploads/EDITAL_0132023_167

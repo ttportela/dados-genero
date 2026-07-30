@@ -1,0 +1,247 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANTONIOOLINTO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: ANTONIOOLINTO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.antonioolinto.pr.gov.br/
+  🤖 Usando Selenium para: https://www.antonioolinto.pr.gov.br/
+
+ CAPTCHA detectado em: https://www.antonioolinto.pr.gov.br/
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.antonioolinto.pr.gov.br/
+
+  Nenhum arquivo encontrado para antonioolinto.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/antonioolinto/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: ANTONIOOLINTO
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/antonioolinto/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Antônio Olinto)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Antônio Olinto (slug: antonioolinto)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://antonioolinto.eloweb.net/portaltransparencia/1/
+              ✅ https://antonioolinto.pr.gov.br/
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/antonioolinto/index.cfm/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANTONIOOLINTO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 1 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ANTONIOOLINTO
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para antonioolinto.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/antonioolinto/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: ANTONIOOLINTO
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/antonioolinto/
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANTONIOOLINTO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+
+============================================================
+  Crawler iniciado: ANTONIOOLINTO
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para antonioolinto.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/antonioolinto/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: ANTONIOOLINTO
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/antonioolinto/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Antônio Olinto)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Antônio Olinto (slug: antonioolinto)...   → buscando no DuckDuckGo (apenas inventário)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | ANTONIOOLINTO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: ANTONIOOLINTO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.antonioolinto.pr.gov.br/
+  🤖 Usando Selenium para: https://www.antonioolinto.pr.gov.br/
+
+ CAPTCHA detectado em: https://www.antonioolinto.pr.gov.br/
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.antonioolinto.pr.gov.br/
+
+  Nenhum arquivo encontrado para antonioolinto.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/antonioolinto/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: ANTONIOOLINTO
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/antonioolinto/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Antônio Olinto)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Antônio Olinto (slug: antonioolinto)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://antonioolinto.eloweb.net/portaltransparencia/1/
+              ✅ https://antonioolinto.pr.gov.br/
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/antonioolinto/index.cfm/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANTONIOOLINTO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 1 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ANTONIOOLINTO
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para antonioolinto.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/antonioolinto/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: ANTONIOOLINTO
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/antonioolinto/
+============================================================
+
