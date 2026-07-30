@@ -1,13 +1,15 @@
 {
-  "_comentario": "Configuracao das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dominios.",
-  "_portais_verificados": "Descoberto automaticamente em 28/07/2026",
+  "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
+  "_portais_verificados": "Descoberto automaticamente em 30/07/2026",
   "abatia": {
     "sementes": [
-      "http://abatia.pr.gov.br/"
+      "http://abatia.pr.gov.br/",
+      "https://abatia.metajuris.com.br/transparencia/"
     ],
     "dominios": [
       "abatia.pr.gov.br",
-      "www.abatia.pr.gov.br"
+      "www.abatia.pr.gov.br",
+      "abatia.metajuris.com.br"
     ]
   },
   "adrianopolis": {
@@ -30,10 +32,15 @@
   },
   "almirantetamandare": {
     "sementes": [
-      "https://tamandare.pr.gov.br/"
+      "https://tamandare.pr.gov.br/",
+      "https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/",
+      "https://transparencia.betha.cloud/"
     ],
     "dominios": [
+      "almirantetamandare.pr.gov.br",
+      "e-gov.betha.com.br",
       "tamandare.pr.gov.br",
+      "transparencia.betha.cloud",
       "www.tamandare.pr.gov.br"
     ]
   },
@@ -48,10 +55,14 @@
   },
   "altonia": {
     "sementes": [
-      "https://www.altonia.pr.gov.br/"
+      "https://www.altonia.pr.gov.br/",
+      "https://altonia.cidade360.cloud/portal-servicos/",
+      "https://webapp1-altonia.cidade360.cloud/PRONIMTB/index.html/"
     ],
     "dominios": [
+      "altonia.cidade360.cloud",
       "altonia.pr.gov.br",
+      "webapp1-altonia.cidade360.cloud",
       "www.altonia.pr.gov.br"
     ]
   },
@@ -1827,15 +1838,6 @@
       "www.cmmariluz.pr.gov.br"
     ]
   },
-  "maringa": {
-    "sementes": [
-      "https://www.cmm.pr.gov.br/"
-    ],
-    "dominios": [
-      "maringa.pr.gov.br",
-      "www.cmm.pr.gov.br"
-    ]
-  },
   "mariopolis": {
     "sementes": [
       "https://www.mariopolis.pr.gov.br/"
@@ -3435,7 +3437,8 @@
   },
   "altoparaiso": {
     "sementes": [
-      "https://www.altoparaiso.pr.gov.br/camaramunicipal.php/"
+      "http://www.altoparaiso.pr.gov.br/",
+      "https://www.altoparaiso.pr.gov.br/"
     ],
     "dominios": [
       "altoparaiso.pr.gov.br",
@@ -3598,6 +3601,16 @@
     ],
     "pausa_entre_requests": true
   },
+  "maringa": {
+    "sementes": [
+      "https://www.maringa.pr.gov.br/",
+      "https://maringa.oxy.elotech.com.br/portaltransparencia/1/"
+    ],
+    "dominios": [
+      "maringa.pr.gov.br",
+      "maringa.oxy.elotech.com.br"
+    ]
+  },
   "londrina": {
     "sementes": [
       "https://portal.londrina.pr.gov.br/",
@@ -3610,16 +3623,6 @@
     ],
     "dominios_excluidos": [
       "pref.londrina.pr.gov.br"
-    ]
-  },
-  "maringa": {
-    "sementes": [
-      "https://www.maringa.pr.gov.br/",
-      "https://maringa.oxy.elotech.com.br/portaltransparencia/1/"
-    ],
-    "dominios": [
-      "maringa.pr.gov.br",
-      "maringa.oxy.elotech.com.br"
     ]
   }
 }

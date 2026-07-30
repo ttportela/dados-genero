@@ -1,0 +1,493 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: ALTOPARANA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.altoparana.pr.gov.br/
+  [2/sem limite] fila=36 | depth=1 | https://altoparana.pr.gov.br
+  [3/sem limite] fila=37 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368nfb0
+  📄 [200] .pdf -> http://www.altoparana.pr.gov.br/images/1-manual_de_acesso_ao_sistema_n
+  📄 [200] .pdf -> http://www.altoparana.pr.gov.br/images/2-manual_para_emissao_de_nfe.pd
+  📄 [200] .pdf -> http://www.altoparana.pr.gov.br/images/3-manual_para_gerar_emitir_canc
+  [4/sem limite] fila=36 | depth=1 | http://www.altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=3046
+  [5/sem limite] fila=39 | depth=1 | https://www.altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=1211
+  [6/sem limite] fila=38 | depth=1 | https://www.altoparana.pr.gov.br/index.php?sessao=b054603368hlb0
+  [7/sem limite] fila=41 | depth=1 | https://altoparana.pr.gov.br//index.php?sessao=b054603368ncb0&id=1995
+  [8/sem limite] fila=40 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=3960
+  [9/sem limite] fila=41 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=3400
+  [10/sem limite] fila=48 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=4146
+  [11/sem limite] fila=50 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=3570
+  [12/sem limite] fila=52 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1391
+  [13/sem limite] fila=54 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=3963
+  [14/sem limite] fila=61 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1392
+  [15/sem limite] fila=64 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1393
+  [16/sem limite] fila=67 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=4143
+  [17/sem limite] fila=74 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1398
+  [18/sem limite] fila=79 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=4145
+  [19/sem limite] fila=82 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=4144
+  [20/sem limite] fila=84 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1399
+  [21/sem limite] fila=91 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1389
+  [22/sem limite] fila=105 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1397
+  [23/sem limite] fila=112 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=4148
+  [24/sem limite] fila=114 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1394
+  [25/sem limite] fila=115 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=1395
+  [26/sem limite] fila=118 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368svb0&id=3675
+  [27/sem limite] fila=121 | depth=1 | http://altoparana.pr.gov.br/index.php?sessao=3e97b45251dw3e
+  [28/sem limite] fila=122 | depth=1 | https://webmail.altoparana.pr.gov.br/
+  [29/sem limite] fila=156 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467439
+  [30/sem limite] fila=157 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368c1b0&id=713
+  [31/sem limite] fila=156 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905
+  [32/sem limite] fila=155 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1478943
+  [33/sem limite] fila=154 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477448
+  [34/sem limite] fila=153 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467629
+  [35/sem limite] fila=152 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481571
+  [36/sem limite] fila=151 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481145
+  [37/sem limite] fila=150 | depth=1 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849
+  [38/sem limite] fila=149 | depth=1 | https://www.altoparana.pr.gov.br/pag01.htm
+ ❌ HTTP_404: https://www.altoparana.pr.gov.br/pag01.htm
+  [39/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=1211
+  [40/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/pag01.htm
+ ❌ HTTP_404: https://altoparana.pr.gov.br/pag01.htm
+  [41/sem limite] fila=146 | depth=2 | http://www.altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=1211
+  [42/sem limite] fila=145 | depth=2 | http://www.altoparana.pr.gov.br/index.php?sessao=b054603368hlb0
+  [43/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ipb0&id=3046
+  [44/sem limite] fila=149 | depth=2 | http://www.altoparana.pr.gov.br/pag01.htm
+ ❌ HTTP_404: http://www.altoparana.pr.gov.br/pag01.htm
+  [45/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368hvb0&id=871
+  [46/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368hvb0&id=872
+  [47/sem limite] fila=146 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368hvb0&id=873
+  [48/sem limite] fila=145 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368hvb0&id=874
+  [49/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [50/sem limite] fila=143 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960
+  [51/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122469&id_secre
+  [52/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368z5b0&id_secretaria=3400
+  [53/sem limite] fila=150 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481260&id_secre
+  [54/sem limite] fila=149 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [55/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477127&id_secre
+  [56/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472725&id_secre
+  [57/sem limite] fila=146 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [58/sem limite] fila=145 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467659&id_secre
+  [59/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [60/sem limite] fila=143 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [61/sem limite] fila=142 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146
+  [62/sem limite] fila=146 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [63/sem limite] fila=145 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [64/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570
+  [65/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [66/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [67/sem limite] fila=146 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391
+  [68/sem limite] fila=150 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122469&id_secre
+  [69/sem limite] fila=149 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368z5b0&id_secretaria=3963
+  [70/sem limite] fila=148 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481260&id_secre
+  [71/sem limite] fila=147 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [72/sem limite] fila=146 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477127&id_secre
+  [73/sem limite] fila=145 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472725&id_secre
+  [74/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [75/sem limite] fila=143 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467659&id_secre
+  [76/sem limite] fila=142 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [77/sem limite] fila=141 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [78/sem limite] fila=140 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1429646&id_secre
+  [79/sem limite] fila=139 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392
+  [80/sem limite] fila=143 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [81/sem limite] fila=142 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [82/sem limite] fila=141 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467299&id_secre
+  [83/sem limite] fila=140 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393
+  [84/sem limite] fila=144 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122469&id_secre
+  [85/sem limite] fila=143 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368z5b0&id_secretaria=4143
+  [86/sem limite] fila=142 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481571&id_secre
+  [87/sem limite] fila=141 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481260&id_secre
+  [88/sem limite] fila=140 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481145&id_secre
+  [89/sem limite] fila=139 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480945&id_secre
+  [90/sem limite] fila=138 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [91/sem limite] fila=137 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849&id_secre
+  [92/sem limite] fila=136 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [93/sem limite] fila=135 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849&id_secre
+  [94/sem limite] fila=134 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471852&id_secre
+  [95/sem limite] fila=133 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [96/sem limite] fila=132 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466863&id_secre
+  [97/sem limite] fila=131 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398
+  [98/sem limite] fila=135 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [99/sem limite] fila=134 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479331&id_secre
+  [100/sem limite] fila=133 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [101/sem limite] fila=132 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145
+  [102/sem limite] fila=136 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [103/sem limite] fila=135 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [104/sem limite] fila=134 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144
+  [105/sem limite] fila=138 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122469&id_secre
+  [106/sem limite] fila=137 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368z5b0&id_secretaria=1399
+  [107/sem limite] fila=136 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [108/sem limite] fila=135 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849&id_secre
+  [109/sem limite] fila=134 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480383&id_secre
+  [110/sem limite] fila=133 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1478943&id_secre
+  [111/sem limite] fila=132 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1478874&id_secre
+  [112/sem limite] fila=131 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467439&id_secre
+  [113/sem limite] fila=130 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1704
+  [114/sem limite] fila=129 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1703
+  [115/sem limite] fila=128 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1702
+  [116/sem limite] fila=127 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1701
+  [117/sem limite] fila=126 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1700
+  [118/sem limite] fila=125 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1698
+  [119/sem limite] fila=124 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1697
+  [120/sem limite] fila=123 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368spb0&id=1695
+  [121/sem limite] fila=122 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481571&id_secre
+  [122/sem limite] fila=121 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480945&id_secre
+  [123/sem limite] fila=120 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [124/sem limite] fila=119 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849&id_secre
+  [125/sem limite] fila=118 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477815&id_secre
+  [126/sem limite] fila=117 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477448&id_secre
+  [127/sem limite] fila=116 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389
+  [128/sem limite] fila=125 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1121453&id_secre
+  [129/sem limite] fila=124 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368z5b0&id_secretaria=1397
+  [130/sem limite] fila=123 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481571&id_secre
+  [131/sem limite] fila=122 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481145&id_secre
+  [132/sem limite] fila=121 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480945&id_secre
+  [133/sem limite] fila=120 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [134/sem limite] fila=119 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480849&id_secre
+  [135/sem limite] fila=118 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [136/sem limite] fila=117 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [137/sem limite] fila=116 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [138/sem limite] fila=115 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148
+  [139/sem limite] fila=119 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [140/sem limite] fila=118 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394
+  [141/sem limite] fila=122 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [142/sem limite] fila=121 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [143/sem limite] fila=120 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1429646&id_secre
+  [144/sem limite] fila=119 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395
+  [145/sem limite] fila=123 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480905&id_secre
+  [146/sem limite] fila=122 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [147/sem limite] fila=121 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1467299&id_secre
+  [148/sem limite] fila=120 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675
+  [149/sem limite] fila=124 | depth=2 | http://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=1211
+  [150/sem limite] fila=123 | depth=2 | http://altoparana.pr.gov.br/pag01.htm
+ ❌ HTTP_404: http://altoparana.pr.gov.br/pag01.htm
+  [151/sem limite] fila=122 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ar
+  [152/sem limite] fila=121 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=cs
+  [153/sem limite] fila=120 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=da
+  [154/sem limite] fila=119 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=de
+  [155/sem limite] fila=118 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=el
+  [156/sem limite] fila=117 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=en
+  [157/sem limite] fila=116 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=es
+  [158/sem limite] fila=115 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=es_419
+  [159/sem limite] fila=114 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=es_es
+  [160/sem limite] fila=113 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=fi
+  [161/sem limite] fila=112 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=fil
+  [162/sem limite] fila=111 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=fr
+  [163/sem limite] fila=110 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=he
+  [164/sem limite] fila=109 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=hu
+  [165/sem limite] fila=108 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=i_en
+  [166/sem limite] fila=107 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=id
+  [167/sem limite] fila=106 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=it
+  [168/sem limite] fila=105 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ja
+  [169/sem limite] fila=104 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ko
+  [170/sem limite] fila=103 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ms
+  [171/sem limite] fila=102 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=nb
+  [172/sem limite] fila=101 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=nl
+  [173/sem limite] fila=100 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=pl
+  [174/sem limite] fila=99 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=pt
+  [175/sem limite] fila=98 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=pt_br
+  [176/sem limite] fila=97 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ro
+  [177/sem limite] fila=96 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=ru
+  [178/sem limite] fila=95 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=sv
+  [179/sem limite] fila=94 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=th
+  [180/sem limite] fila=93 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=tr
+  [181/sem limite] fila=92 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=uk
+  [182/sem limite] fila=91 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=vi
+  [183/sem limite] fila=90 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=zh
+  [184/sem limite] fila=89 | depth=2 | https://webmail.altoparana.pr.gov.br/?locale=zh_tw
+  [185/sem limite] fila=88 | depth=2 | https://webmail.altoparana.pr.gov.br/resetpass?start=1
+  [186/sem limite] fila=87 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481260
+  [187/sem limite] fila=86 | depth=2 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480945
+  [188/sem limite] fila=85 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=4056
+  [189/sem limite] fila=84 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=4046
+  [190/sem limite] fila=83 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=4045
+  [191/sem limite] fila=82 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=3045
+  [192/sem limite] fila=81 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=2432
+  [193/sem limite] fila=80 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=1807
+  [194/sem limite] fila=79 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&cn=
+  [195/sem limite] fila=88 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960&
+  [196/sem limite] fila=87 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960&
+  [197/sem limite] fila=86 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960&
+  [198/sem limite] fila=85 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960&
+  [199/sem limite] fila=84 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3960&
+  [200/sem limite] fila=83 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122469
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_links.xlsx
+  3 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_externos.xlsx
+  328 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=82 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1122332
+  [202/sem limite] fila=81 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1121453
+  [203/sem limite] fila=80 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b0546033689fb0&id=1120515
+  [204/sem limite] fila=79 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146&
+  [205/sem limite] fila=78 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146&
+  [206/sem limite] fila=77 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146&
+  [207/sem limite] fila=76 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146&
+  [208/sem limite] fila=75 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4146&
+  [209/sem limite] fila=74 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570&
+  [210/sem limite] fila=73 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570&
+  [211/sem limite] fila=72 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570&
+  [212/sem limite] fila=71 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570&
+  [213/sem limite] fila=70 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3570&
+  [214/sem limite] fila=69 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391&
+  [215/sem limite] fila=68 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391&
+  [216/sem limite] fila=67 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391&
+  [217/sem limite] fila=66 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391&
+  [218/sem limite] fila=65 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1391&
+  [219/sem limite] fila=64 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392&
+  [220/sem limite] fila=63 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392&
+  [221/sem limite] fila=62 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392&
+  [222/sem limite] fila=61 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392&
+  [223/sem limite] fila=60 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1392&
+  [224/sem limite] fila=59 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393&
+  [225/sem limite] fila=58 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393&
+  [226/sem limite] fila=57 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393&
+  [227/sem limite] fila=56 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393&
+  [228/sem limite] fila=55 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1393&
+  [229/sem limite] fila=54 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398&
+  [230/sem limite] fila=53 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398&
+  [231/sem limite] fila=52 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398&
+  [232/sem limite] fila=51 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398&
+  [233/sem limite] fila=50 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1398&
+  [234/sem limite] fila=49 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145&
+  [235/sem limite] fila=48 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145&
+  [236/sem limite] fila=47 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145&
+  [237/sem limite] fila=46 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145&
+  [238/sem limite] fila=45 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4145&
+  [239/sem limite] fila=44 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144&
+  [240/sem limite] fila=43 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144&
+  [241/sem limite] fila=42 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144&
+  [242/sem limite] fila=41 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144&
+  [243/sem limite] fila=40 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4144&
+  [244/sem limite] fila=39 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477161&id_secre
+  [245/sem limite] fila=38 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475646&id_secre
+  [246/sem limite] fila=37 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475368&id_secre
+  [247/sem limite] fila=36 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472384&id_secre
+  [248/sem limite] fila=35 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509&id_secre
+  [249/sem limite] fila=34 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389&
+  [250/sem limite] fila=33 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389&
+  [251/sem limite] fila=33 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389&
+  [252/sem limite] fila=32 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389&
+  [253/sem limite] fila=31 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1389&
+  [254/sem limite] fila=30 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148&
+  [255/sem limite] fila=29 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148&
+  [256/sem limite] fila=28 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148&
+  [257/sem limite] fila=27 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148&
+  [258/sem limite] fila=26 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4148&
+  [259/sem limite] fila=25 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394&
+  [260/sem limite] fila=24 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394&
+  [261/sem limite] fila=23 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394&
+  [262/sem limite] fila=22 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394&
+  [263/sem limite] fila=21 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1394&
+  [264/sem limite] fila=20 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395&
+  [265/sem limite] fila=19 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395&
+  [266/sem limite] fila=18 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395&
+  [267/sem limite] fila=17 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395&
+  [268/sem limite] fila=16 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=1395&
+  [269/sem limite] fila=15 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675&
+  [270/sem limite] fila=14 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675&
+  [271/sem limite] fila=13 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675&
+  [272/sem limite] fila=12 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675&
+  [273/sem limite] fila=11 | depth=3 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3675&
+  [274/sem limite] fila=10 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1480383
+  [275/sem limite] fila=9 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479344
+  [276/sem limite] fila=8 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479331
+  [277/sem limite] fila=7 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1478874
+  [278/sem limite] fila=6 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1478755
+  [279/sem limite] fila=5 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=1
+  [280/sem limite] fila=4 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=2
+  [281/sem limite] fila=11 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=3
+  [282/sem limite] fila=19 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=4
+  [283/sem limite] fila=20 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=5
+  [284/sem limite] fila=19 | depth=4 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471178&id_secre
+  [285/sem limite] fila=18 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477815
+  [286/sem limite] fila=17 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477161
+  [287/sem limite] fila=16 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1477127
+  [288/sem limite] fila=15 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475646
+  [289/sem limite] fila=14 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475368
+  [290/sem limite] fila=13 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472725
+  [291/sem limite] fila=12 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472384
+  [292/sem limite] fila=11 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472088
+  [293/sem limite] fila=10 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471852
+  [294/sem limite] fila=9 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471768
+  [295/sem limite] fila=8 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471509
+  [296/sem limite] fila=7 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471178
+  [297/sem limite] fila=6 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466323
+  [298/sem limite] fila=5 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466320
+  [299/sem limite] fila=4 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466307
+  [300/sem limite] fila=3 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1454330
+  [301/sem limite] fila=2 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1437043
+  [302/sem limite] fila=1 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1436168
+  [303/sem limite] fila=0 | depth=5 | https://altoparana.pr.gov.br/index.php?sessao=b054603368vfb0&id=1429646
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_links.xlsx
+  3 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_externos.xlsx
+  395 links externos registrados.
+
+  Varredura encerrada: ALTOPARANA
+  Páginas nesta sessão: 303
+  Páginas totais (acumulado): 303
+  Arquivos no inventário: 3
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/altoparana/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Alto Paraná)
+  Cidades já configuradas: 403
+
+  [1/1] 🔍 Alto Paraná (slug: altoparana)...   → buscando no DuckDuckGo (apenas inventário)... nenhum portal encontrado ✅ [padrão de slug] 1 semente(s), 2 domínio(s)
+           → https://www.altoparana.pr.gov.br/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 1
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  ✅ 1 nova(s) cidade(s) + 0 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 404
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 3 arquivos já registrados.
+  Links externos parciais carregados: 395 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 4 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTOPARANA
+  Páginas já visitadas (checkpoint): 303
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_links.xlsx
+  3 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_externos.xlsx
+  395 links externos registrados.
+
+  Varredura encerrada: ALTOPARANA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 303
+  Arquivos no inventário: 3
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/altoparana/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Alto Paraná)
+  Cidades já configuradas: 405
+
+  [1/1] 🔍 Alto Paraná (slug: altoparana)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://altoparana.pr.betha.cloud/
+              ✅ https://altoparana.pr.gov.br/
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/altoparana/index.cfm/
+            + ✅ https://www.altoparana.pr.gov.br/index.php?sessao=b054603368ixb0&id=3046/
+              ✅ https://www.transparencia.pr.gov.br/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 3 arquivos já registrados.
+  Links externos parciais carregados: 395 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 4 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTOPARANA
+  Páginas já visitadas (checkpoint): 303
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_links.xlsx
+  3 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altoparana/inventario_externos.xlsx
+  395 links externos registrados.
+
+  Varredura encerrada: ALTOPARANA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 303
+  Arquivos no inventário: 3
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/altoparana/
+============================================================
+

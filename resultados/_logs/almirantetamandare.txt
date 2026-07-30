@@ -1,0 +1,1407 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALMIRANTETAMANDARE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: ALMIRANTETAMANDARE
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://tamandare.pr.gov.br/
+  [2/sem limite] fila=56 | depth=1 | https://tamandare.pr.gov.br/acessibilidade
+  [3/sem limite] fila=55 | depth=1 | https://tamandare.pr.gov.br/mapa-do-site
+  [4/sem limite] fila=78 | depth=1 | https://tamandare.pr.gov.br/institucional
+  [5/sem limite] fila=87 | depth=1 | https://tamandare.pr.gov.br/institucional/estrutura-organizacional
+  [6/sem limite] fila=86 | depth=1 | https://tamandare.pr.gov.br/institucional/registro-das-competencias
+  [7/sem limite] fila=85 | depth=1 | https://tamandare.pr.gov.br/institucional/nossa-cidade
+  [8/sem limite] fila=84 | depth=1 | https://tamandare.pr.gov.br/institucional/nossa-historia
+  [9/sem limite] fila=83 | depth=1 | https://tamandare.pr.gov.br/institucional/nossos-dados
+  [10/sem limite] fila=82 | depth=1 | https://tamandare.pr.gov.br/institucional/conheca-a-cidade
+  [11/sem limite] fila=81 | depth=1 | https://tamandare.pr.gov.br/institucional/acoes-do-municipio
+  [12/sem limite] fila=81 | depth=1 | https://tamandare.pr.gov.br/institucional/conheca
+  [13/sem limite] fila=80 | depth=1 | https://tamandare.pr.gov.br/institucional/conheca/onde-comer
+  [14/sem limite] fila=79 | depth=1 | https://tamandare.pr.gov.br/institucional/conheca/onde-dormir
+  [15/sem limite] fila=78 | depth=1 | https://tamandare.pr.gov.br/institucional/conheca/onde-ir
+  [16/sem limite] fila=77 | depth=1 | https://tamandare.pr.gov.br/institucional/instituicao
+  [17/sem limite] fila=76 | depth=1 | https://tamandare.pr.gov.br/executivo_1
+  [18/sem limite] fila=75 | depth=1 | https://tamandare.pr.gov.br/prefeito
+  [19/sem limite] fila=74 | depth=1 | https://tamandare.pr.gov.br/vice-prefeito
+  [20/sem limite] fila=73 | depth=1 | https://tamandare.pr.gov.br/secretarias
+  [21/sem limite] fila=72 | depth=1 | https://tamandare.pr.gov.br/controladoria
+  [22/sem limite] fila=71 | depth=1 | https://tamandare.pr.gov.br/transparencia
+  [23/sem limite] fila=70 | depth=1 | https://tamandare.pr.gov.br/plano-de-contratacoes-anual
+  [24/sem limite] fila=69 | depth=1 | https://tamandare.pr.gov.br/servicos
+  [25/sem limite] fila=77 | depth=1 | https://tamandare.pr.gov.br/contato
+  [26/sem limite] fila=78 | depth=1 | https://tamandare.pr.gov.br/fale-conosco
+  [27/sem limite] fila=77 | depth=1 | https://tamandare.pr.gov.br/contato/ouvidoria-municipal
+  [28/sem limite] fila=76 | depth=1 | https://tamandare.pr.gov.br/contato/acesso-a-informacao
+  [29/sem limite] fila=75 | depth=1 | https://tamandare.pr.gov.br/contatos-telefones
+  [30/sem limite] fila=74 | depth=1 | https://tamandare.pr.gov.br/links
+  [31/sem limite] fila=73 | depth=1 | https://tamandare.pr.gov.br/editais-festa-do-morango-2026
+  [32/sem limite] fila=72 | depth=1 | https://tamandare.pr.gov.br/pontos-de-coleta-campanha
+  [33/sem limite] fila=71 | depth=1 | https://tamandare.pr.gov.br/20-concurso-rainha-do-morango-2026
+  [34/sem limite] fila=70 | depth=1 | https://tamandare.pr.gov.br/plano-municipal-de-reducao-de-riscos
+  [35/sem limite] fila=69 | depth=1 | https://www.tamandare.pr.gov.br/noticias/geral/escorpioes
+  [36/sem limite] fila=106 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/vagas-na-agencia-do-trabalhador
+  [37/sem limite] fila=106 | depth=1 | https://tamandare.pr.gov.br/rede-de-enfrentamento-a-violencia-contra-a-mulher
+  [38/sem limite] fila=105 | depth=1 | https://tamandare.pr.gov.br/cidadao/concursos
+  [39/sem limite] fila=125 | depth=1 | https://tamandare.pr.gov.br/secretarias/recursos-humanos
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3364d00d82
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0da4fd6d41
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4db1523661
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/01aea7fa87
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/917de2be54
+  [40/sem limite] fila=124 | depth=1 | https://webmail.tamandare.pr.gov.br/
+  [41/sem limite] fila=123 | depth=1 | https://tamandare.pr.gov.br/casa-dos-conselhos
+  [42/sem limite] fila=127 | depth=1 | https://tamandare.pr.gov.br/lgpd
+  [43/sem limite] fila=126 | depth=1 | https://tamandare.pr.gov.br/tributos
+  [44/sem limite] fila=125 | depth=1 | https://tamandare.pr.gov.br/parcerias-publico-privadas
+  [45/sem limite] fila=124 | depth=1 | https://tamandare.pr.gov.br/chamamento-publico
+  [46/sem limite] fila=123 | depth=1 | https://tamandare.pr.gov.br/cadastro-unico
+  [47/sem limite] fila=122 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/prefeitura-realiza-entrega-dos-premio
+  [48/sem limite] fila=121 | depth=1 | https://tamandare.pr.gov.br/noticias/geral
+  [49/sem limite] fila=148 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/centro-de-convivencia-estrelar-celebr
+  [50/sem limite] fila=147 | depth=1 | https://tamandare.pr.gov.br/noticias
+  [51/sem limite] fila=147 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/entregue-o-2-lote-da-duplicacao-da-ro
+  [52/sem limite] fila=146 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/ceu-das-artes-amplia-oportunidades-e-
+  [53/sem limite] fila=145 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/prefeitura-reforca-medidas-de-prevenc
+  [54/sem limite] fila=144 | depth=1 | https://tamandare.pr.gov.br/noticias/geral/centro-da-juventude-divulga-novas-dat
+  [55/sem limite] fila=143 | depth=1 | https://www.tamandare.pr.gov.br/noticias/geral/ods-almirante-tamandare
+  [56/sem limite] fila=163 | depth=1 | https://tamandare.pr.gov.br/almirante-tamandare-no-topo-da-transparencia
+  [57/sem limite] fila=162 | depth=1 | https://tamandare.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://tamandare.pr.gov.br/cdn-cgi/l/email-protection
+  [58/sem limite] fila=161 | depth=1 | https://tamandare.pr.gov.br/politica-de-privacidade
+  [59/sem limite] fila=160 | depth=2 | https://tamandare.pr.gov.br/secretarias/administracao-e-previdencia
+  [60/sem limite] fila=161 | depth=2 | https://tamandare.pr.gov.br/secretarias/agricultura-abastecimento-e-meio-ambient
+  📄 [200] .pdf -> https://tamandare.pr.gov.br/uploads/01527601493.pdf
+  [61/sem limite] fila=162 | depth=2 | https://tamandare.pr.gov.br/secretarias/procuradoria-geral-do-municipio
+  [62/sem limite] fila=161 | depth=2 | https://tamandare.pr.gov.br/secretarias/comunicacao-social-e-eventos
+  [63/sem limite] fila=160 | depth=2 | https://tamandare.pr.gov.br/secretarias/educacao
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d75d778e55
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3ebb3c48fc
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c3dc95e57f
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/506b924c03
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e81927b4ec
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d4b88394fa
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4bf2c0017
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bf6cd48662
+  📄 [200] .docx -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/34a99653be
+  📄 [200] .docx -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/25f970fd4b
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4ece2b5741
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aee1c8016a
+  ⚠️ [404] .doc -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c82a44bd6c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/33d2459660
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e6db49bd93
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/16d9f4cc96
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c71dd3ad70
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3a40604190
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/67f3d30039
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2d777265cd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aeeccde6a2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/11ffc23f88
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6ae3873771
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b2df33ac41
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/97c395ee51
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/18b2811de5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/648757a99d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5387581c2
+  [64/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/secretarias/esporte-e-lazer
+  [65/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/secretarias/familia-mulher-e-desenvolvimento-social
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c75b5f3d64
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e98dc67179
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c0310c8150
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0e817b33f2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a4d59aefcf
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/623020a5ee
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d7b4ec24f1
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4b58e2edb9
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1724be391
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4cdcd4379f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5522839017
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ea8c2167a9
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4385d6472b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ea7fb30eb3
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/446069c29b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ad50cf2222
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8ef7894401
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e1e5e8b476
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a1b4e5142
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/88c8592c92
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ef820c52f4
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c954f15c2d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b9f53ef6df
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/57a6e9f8f2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bca03c106e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b0d5d73894
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6154b78017
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/92d54a6e2b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/54cc1cc45b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/31f7dd3137
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a2edd57732
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7d9fcaef3a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/10af8fa819
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6daac338fd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4b353425dd
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/files/paginas/arquivos/01af994b2168142
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/acad498218
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dbc6735ef7
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d00b629fab
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9775b35335
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c4732459ba
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/99a4692b87
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6f0d0bb7f5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7b8d0bd887
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5dc0e4a27
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/16fec316b0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9f2ca31223
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bb7418de6f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/70ce78ed18
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d05acf668e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8d652dd852
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2c3b60788d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc1a200024
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/39586391cf
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e14cadd573
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4c182e6b71
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4d87b0486
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9d5534d1fd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c3adfa7e92
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d464333d1c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/cb10ed1265
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/14e9e513e6
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c73c7ec395
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/130eaf43bd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/279b1b4d6a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1c2478d47f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7d94fe33e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc4632e15f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3e5af7309d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/142627d33d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f39ec8e209
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/62d5736eaa
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c4997175df
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/61930163ce
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f7ca826ea0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5d2364cfa6
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e0270f4b0e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/52186ea9d6
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a99b577384
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7aaf81f7d4
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc658f03f0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/73dfd3deba
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/77f54b2c6a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a4831fe77
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/275bd68a80
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/772083426a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9e6f4da1e2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/885432e505
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5159c8c2e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/68463fbbe4
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bdd61a47df
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/31ce1576f6
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/249b1d973e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/56d98df921
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f1d40f19d5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/35862b0266
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/757f322c4f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5340a966b7
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/612f7bedf1
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/02d94abf9c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4e7c85f44e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/fd10718d67
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/75cd7b52bf
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e3ef1a13f8
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c65c844cca
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1e9e693447
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/fd7c3c4aee
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/:%20http:/www.tamandare.pr.gov.br/admi
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3f84e995ec
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/58d46036a8
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/97c8279be2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6d4596087f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/46582e9613
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0de06699bd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5955c883c5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/64f15b0cdf
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8dd66eff5f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7ad912f546
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3f36fc6a33
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5facfaf277
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0eaa55125b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7e1a47d64
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9ffdea670c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9f48e70bee
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ae238d8677
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/39c1cac002
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/704f1ff9a1
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/%20http:/www.tamandare.pr.gov.br/admin
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8a7d57eb8c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9829caa087
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/51c9529db0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6e3674748c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/065066195e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4cc8bb351
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e2ff933b3c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/98bb52ff91
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2c1c93eede
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8c7492daa1
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/215f92ed2c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/cb061d2440
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0ff0f13f60
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/71a7d74a5f
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8607180055
+  ⚠️ [404] .pdf -> https://tamandare.pr.gov.br/admin/pagina/pagina/editar/%20http:/www.ta
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f26d363641
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/75f3e2111c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bb20121953
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3a74f86210
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b94cbebe78
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2831c18abd
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4f5e88c67d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/93b9c41650
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7badc636ec
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3faf80a7d1
+  ⚠️ [404] .pdf -> https://tamandare.pr.gov.br/admin/pagina/pagina/editar/%20http:/www.ta
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8888797529
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ec3c0f72dc
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/afdbda76e4
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/651073e4d7
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e82da5e5e2
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1f7625377
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a015f88f6d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dd93d1001c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4761c6040e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7a6534982
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3772784f29
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f2557ca65e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/090a3209aa
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5dbd84f01c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c77926e49b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6b1a06c1e7
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c69d8670f0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/45a8cbc474
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aefd57cd0c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1b5d305fb1
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/72b3be6c7d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1fe84faa5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/28f5699b3e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/38a3d5a124
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9afec82232
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1c255af833
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b5e99408a0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5d0e8e79aa
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/368968069e
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/96b690b99a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/052897cc16
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0e03ce3161
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f55f76152b
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9eb056846c
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/76d0abcc22
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4aa693d704
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/%20http:/www.tamandare.pr.gov.br/admin
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/59fd06e79e
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/81b52b1eb9
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c2f6579209
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6576929c25
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9a314ff200
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/359b0f877a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/185869fc47
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1bb1c14103
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/98b9d91b78
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8ca95a4cd0
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a9354c05a8
+  [66/sem limite] fila=166 | depth=2 | https://tamandare.pr.gov.br/secretarias/fazenda
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a874e551c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3818f953d5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5611d988ad
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d614774c67
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/769bf20802
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f210a1505d
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6e657fb289
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/41383e7780
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/55f5d7f06e
+  ⚠️ [404] .ppt -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dc56849a58
+  📄 [200] .ppt -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d5188e5c81
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/317dc39edf
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/390b3a2ea5
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/54d799b21c
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/160717d003
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2f45c2a63a
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1cbab1ed28
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6c8554c6fb
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5933c09e8
+  [67/sem limite] fila=167 | depth=2 | https://tamandare.pr.gov.br/secretarias/gabinete
+  [68/sem limite] fila=166 | depth=2 | https://tamandare.pr.gov.br/secretarias/governo-e-gestao
+  [69/sem limite] fila=165 | depth=2 | https://tamandare.pr.gov.br/secretarias/habitacao
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/deb77a7d39
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d7140440d9
+  ⚠️ [404] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5ac6dbfaca
+  [70/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/secretarias/industria-e-comercio
+  [71/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/secretarias/obras-e-infraestrutura
+  [72/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/secretarias/cidadania-e-ouvidoria
+  [73/sem limite] fila=162 | depth=2 | https://tamandare.pr.gov.br/secretarias/planejamento
+  [74/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/secretarias/saude
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/18e814acb2
+  [75/sem limite] fila=165 | depth=2 | https://tamandare.pr.gov.br/secretarias/seguranca
+  [76/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/secretarias/urbanismo
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/00dbdb7187
+  [77/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/secretarias/cultura-e-turismo
+  [78/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/secretarias/trabalho-qualificacao-e-inovacao
+  [79/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/secretarias/assuntos-estrategicos
+  [80/sem limite] fila=162 | depth=2 | https://tamandare.pr.gov.br/cidadao
+  [81/sem limite] fila=161 | depth=2 | https://tamandare.pr.gov.br/empresas
+  [82/sem limite] fila=166 | depth=2 | https://tamandare.pr.gov.br/servicos/turismo
+  [83/sem limite] fila=166 | depth=2 | https://tamandare.pr.gov.br/institucional/nossos-dados/nossos-dados
+  [84/sem limite] fila=165 | depth=2 | https://tamandare.pr.gov.br/institucional/instituicao/itbi
+  [85/sem limite] fila=164 | depth=2 | https://tamandare.pr.gov.br/institucional/instituicao/videos
+  [86/sem limite] fila=163 | depth=2 | https://tamandare.pr.gov.br/institucional/nossa-historia/nossa-historia
+  [87/sem limite] fila=162 | depth=2 | https://tamandare.pr.gov.br/institucional/nossa-cidade/nossa-cidade
+  [88/sem limite] fila=161 | depth=2 | https://tamandare.pr.gov.br/institucional/registro-das-competencias/registro-das
+  [89/sem limite] fila=160 | depth=2 | https://tamandare.pr.gov.br/institucional/estrutura-organizacional/estrutura-org
+  [90/sem limite] fila=159 | depth=2 | https://tamandare.pr.gov.br/institucional/acoes-do-municipio/8-caminhada-interna
+  [91/sem limite] fila=158 | depth=2 | https://tamandare.pr.gov.br/institucional/conheca-a-cidade/teatro-de-bonecos
+  [92/sem limite] fila=157 | depth=2 | https://tamandare.pr.gov.br/institucional/instituicao/rreo
+  [93/sem limite] fila=156 | depth=2 | https://tamandare.pr.gov.br/institucional/acoes-do-municipio/cmeis-novos-cadastr
+  [94/sem limite] fila=155 | depth=2 | https://tamandare.pr.gov.br/castramil
+  [95/sem limite] fila=154 | depth=2 | https://tamandare.pr.gov.br/IPTU
+  [96/sem limite] fila=153 | depth=2 | https://tamandare.pr.gov.br/alvara-2
+  [97/sem limite] fila=152 | depth=2 | https://tamandare.pr.gov.br/itbi
+  [98/sem limite] fila=151 | depth=2 | https://tamandare.pr.gov.br/detran
+  [99/sem limite] fila=150 | depth=2 | https://tamandare.pr.gov.br/wi-fi-cidadao
+  [100/sem limite] fila=149 | depth=2 | https://tamandare.pr.gov.br/nfs-e-e-livro-eletronico
+  [101/sem limite] fila=148 | depth=2 | https://tamandare.pr.gov.br/procon
+  [102/sem limite] fila=147 | depth=2 | https://tamandare.pr.gov.br/turismo-rural
+  [103/sem limite] fila=146 | depth=2 | https://tamandare.pr.gov.br/contato/ouvidoria-municipal/ouvidoria-municipal
+  [104/sem limite] fila=145 | depth=2 | https://tamandare.pr.gov.br/contato/acesso-a-informacao/acesso-a-informacao
+  [105/sem limite] fila=144 | depth=2 | https://www.tamandare.pr.gov.br/acessibilidade
+  [106/sem limite] fila=143 | depth=2 | https://www.tamandare.pr.gov.br/mapa-do-site
+  [107/sem limite] fila=167 | depth=2 | https://www.tamandare.pr.gov.br/
+  [108/sem limite] fila=169 | depth=2 | https://www.tamandare.pr.gov.br/institucional
+  [109/sem limite] fila=178 | depth=2 | https://www.tamandare.pr.gov.br/institucional/estrutura-organizacional
+  [110/sem limite] fila=177 | depth=2 | https://www.tamandare.pr.gov.br/institucional/registro-das-competencias
+  [111/sem limite] fila=176 | depth=2 | https://www.tamandare.pr.gov.br/institucional/nossa-cidade
+  [112/sem limite] fila=175 | depth=2 | https://www.tamandare.pr.gov.br/institucional/nossa-historia
+  [113/sem limite] fila=174 | depth=2 | https://www.tamandare.pr.gov.br/institucional/nossos-dados
+  [114/sem limite] fila=173 | depth=2 | https://www.tamandare.pr.gov.br/institucional/conheca-a-cidade
+  [115/sem limite] fila=172 | depth=2 | https://www.tamandare.pr.gov.br/institucional/acoes-do-municipio
+  [116/sem limite] fila=172 | depth=2 | https://www.tamandare.pr.gov.br/institucional/conheca
+  [117/sem limite] fila=171 | depth=2 | https://www.tamandare.pr.gov.br/institucional/conheca/onde-comer
+  [118/sem limite] fila=170 | depth=2 | https://www.tamandare.pr.gov.br/institucional/conheca/onde-dormir
+  [119/sem limite] fila=169 | depth=2 | https://www.tamandare.pr.gov.br/institucional/conheca/onde-ir
+  [120/sem limite] fila=168 | depth=2 | https://www.tamandare.pr.gov.br/institucional/instituicao
+  [121/sem limite] fila=167 | depth=2 | https://www.tamandare.pr.gov.br/executivo_1
+  [122/sem limite] fila=166 | depth=2 | https://www.tamandare.pr.gov.br/secretarias
+  [123/sem limite] fila=165 | depth=2 | https://www.tamandare.pr.gov.br/controladoria
+  [124/sem limite] fila=164 | depth=2 | https://www.tamandare.pr.gov.br/transparencia
+  [125/sem limite] fila=163 | depth=2 | https://www.tamandare.pr.gov.br/servicos
+  [126/sem limite] fila=162 | depth=2 | https://www.tamandare.pr.gov.br/contato
+  [127/sem limite] fila=163 | depth=2 | https://www.tamandare.pr.gov.br/fale-conosco
+  [128/sem limite] fila=162 | depth=2 | https://www.tamandare.pr.gov.br/contato/ouvidoria-municipal
+  [129/sem limite] fila=161 | depth=2 | https://www.tamandare.pr.gov.br/contato/acesso-a-informacao
+  [130/sem limite] fila=160 | depth=2 | https://www.tamandare.pr.gov.br/links
+  [131/sem limite] fila=159 | depth=2 | https://www.tamandare.pr.gov.br/noticias
+  [132/sem limite] fila=186 | depth=2 | https://www.tamandare.pr.gov.br/noticias/geral/prefeitura-realiza-entrega-dos-pr
+  [133/sem limite] fila=185 | depth=2 | https://www.tamandare.pr.gov.br/noticias/geral/centro-de-convivencia-estrelar-ce
+  [134/sem limite] fila=184 | depth=2 | https://www.tamandare.pr.gov.br/noticias/geral/entregue-o-2-lote-da-duplicacao-d
+  [135/sem limite] fila=183 | depth=2 | https://www.tamandare.pr.gov.br/noticias/geral/ceu-das-artes-amplia-oportunidade
+  [136/sem limite] fila=182 | depth=2 | https://www.tamandare.pr.gov.br/tributos
+  [137/sem limite] fila=181 | depth=2 | https://www.tamandare.pr.gov.br/cidadao/concursos
+  [138/sem limite] fila=201 | depth=2 | https://www.tamandare.pr.gov.br/secretarias/recursos-humanos
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3364d00d8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0da4fd6d4
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4db152366
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/01aea7fa8
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/917de2be5
+  [139/sem limite] fila=200 | depth=2 | https://www.tamandare.pr.gov.br/guarda-municipal
+  [140/sem limite] fila=199 | depth=2 | https://www.tamandare.pr.gov.br/parcerias-publico-privadas
+  [141/sem limite] fila=198 | depth=2 | https://www.tamandare.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://www.tamandare.pr.gov.br/cdn-cgi/l/email-protection
+  [142/sem limite] fila=197 | depth=2 | https://www.tamandare.pr.gov.br/politica-de-privacidade
+  [143/sem limite] fila=196 | depth=2 | https://tamandare.pr.gov.br/guarda-municipal
+  [144/sem limite] fila=195 | depth=2 | https://tamandare.pr.gov.br/cidadao/alvara
+  [145/sem limite] fila=194 | depth=2 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais
+  [146/sem limite] fila=206 | depth=2 | https://tamandare.pr.gov.br/cidadao/detran
+  [147/sem limite] fila=205 | depth=2 | https://tamandare.pr.gov.br/cidadao/familia-e-desenvolvimento-social
+  [148/sem limite] fila=204 | depth=2 | https://tamandare.pr.gov.br/cidadao/iptu
+  [149/sem limite] fila=203 | depth=2 | https://tamandare.pr.gov.br/cidadao/lei-aldir-blanc-140172020
+  [150/sem limite] fila=202 | depth=2 | https://tamandare.pr.gov.br/cidadao/previdencia-complementar
+  [151/sem limite] fila=201 | depth=2 | https://tamandare.pr.gov.br/cidadao/telefones-uteis
+  [152/sem limite] fila=200 | depth=2 | https://tamandare.pr.gov.br/cidadao/times-da-esa-edicao-2021
+  [153/sem limite] fila=199 | depth=2 | https://tamandare.pr.gov.br/cidadao/vtn-por-concreto
+  [154/sem limite] fila=198 | depth=2 | https://tamandare.pr.gov.br/cidadao/wi-fi-cidadao
+  [155/sem limite] fila=197 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/concurso-publico-2023-1
+  [156/sem limite] fila=196 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado-tec
+  [157/sem limite] fila=195 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado-pss
+  [158/sem limite] fila=194 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/professor-de-lingua-estrangeira-mo
+  [159/sem limite] fila=193 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado-age
+  [160/sem limite] fila=192 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/concurso-publico-2023-agronomo
+  [161/sem limite] fila=191 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/pss-2026-monitor-do-transporte-esc
+  [162/sem limite] fila=190 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/pss-2026-professor-de-educacao-bas
+  [163/sem limite] fila=189 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/professor-de-lingua-estrangeira-mo
+  [164/sem limite] fila=188 | depth=2 | https://tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado-age
+  [165/sem limite] fila=187 | depth=2 | https://tamandare.pr.gov.br/conselhos-municipais
+  [166/sem limite] fila=201 | depth=2 | https://tamandare.pr.gov.br/camaras-tecnicas
+  [167/sem limite] fila=200 | depth=2 | https://tamandare.pr.gov.br/comissoes
+  [168/sem limite] fila=199 | depth=2 | https://tamandare.pr.gov.br/comites
+  [169/sem limite] fila=199 | depth=2 | https://tamandare.pr.gov.br/fundacoes
+  [170/sem limite] fila=200 | depth=2 | https://tamandare.pr.gov.br/noticias/administracao-e-previdencia
+  [171/sem limite] fila=199 | depth=2 | https://tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambiente
+  [172/sem limite] fila=198 | depth=2 | https://tamandare.pr.gov.br/noticias/cidadania-e-ouvidoria
+  [173/sem limite] fila=197 | depth=2 | https://tamandare.pr.gov.br/noticias/comunicacao-social
+  [174/sem limite] fila=196 | depth=2 | https://tamandare.pr.gov.br/noticias/controladoria-municipal
+  [175/sem limite] fila=195 | depth=2 | https://tamandare.pr.gov.br/noticias/desenvolvimento-economico
+  [176/sem limite] fila=194 | depth=2 | https://tamandare.pr.gov.br/noticias/educacao
+  [177/sem limite] fila=195 | depth=2 | https://tamandare.pr.gov.br/noticias/esporte-e-lazer
+  [178/sem limite] fila=194 | depth=2 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-assuntos-estrategicos
+  [179/sem limite] fila=193 | depth=2 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo
+  [180/sem limite] fila=197 | depth=2 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-trabalho-qualificacao-e-r
+  [181/sem limite] fila=196 | depth=2 | https://tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social
+  [182/sem limite] fila=195 | depth=2 | https://tamandare.pr.gov.br/noticias/fazenda
+  [183/sem limite] fila=194 | depth=2 | https://tamandare.pr.gov.br/noticias/gabinete
+  [184/sem limite] fila=193 | depth=2 | https://tamandare.pr.gov.br/noticias/governo
+  [185/sem limite] fila=192 | depth=2 | https://tamandare.pr.gov.br/noticias/habitacao
+  [186/sem limite] fila=191 | depth=2 | https://tamandare.pr.gov.br/noticias/obras-e-infraestrutura
+  [187/sem limite] fila=190 | depth=2 | https://tamandare.pr.gov.br/noticias/ordem-publica
+  [188/sem limite] fila=191 | depth=2 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias
+  [189/sem limite] fila=222 | depth=2 | https://tamandare.pr.gov.br/noticias/planejamento-e-gestao
+  [190/sem limite] fila=224 | depth=2 | https://tamandare.pr.gov.br/noticias/procuradoria-geral-do-municipio
+  [191/sem limite] fila=223 | depth=2 | https://tamandare.pr.gov.br/noticias/recursos-humanos
+  [192/sem limite] fila=222 | depth=2 | https://tamandare.pr.gov.br/noticias/saude
+  [193/sem limite] fila=226 | depth=2 | https://tamandare.pr.gov.br/noticias/urbanismo
+  [194/sem limite] fila=225 | depth=2 | https://tamandare.pr.gov.br/noticias/geral/semana-pedagogica-2026-reforca-compro
+  [195/sem limite] fila=224 | depth=2 | https://tamandare.pr.gov.br/noticias/geral/prefeitura-abre-ultimas-vagas-para-ca
+  [196/sem limite] fila=223 | depth=2 | https://tamandare.pr.gov.br/noticias/geral/mulheres-em-situacao-de-violencia-dom
+  [197/sem limite] fila=222 | depth=2 | https://tamandare.pr.gov.br/noticias/geral/dengue-nao-tira-ferias-e-prefeitura-r
+  [198/sem limite] fila=221 | depth=2 | https://tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social/mulheres-e
+  [199/sem limite] fila=220 | depth=2 | https://tamandare.pr.gov.br/1-erradicacao-da-pobreza
+  [200/sem limite] fila=220 | depth=2 | https://tamandare.pr.gov.br/2-fome-zero-e-agricultura-sustentavel
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  266 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  1410 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=219 | depth=2 | https://tamandare.pr.gov.br/3-saude-e-bem-estar
+  [202/sem limite] fila=218 | depth=2 | https://tamandare.pr.gov.br/4-educacao-de-qualidade
+  [203/sem limite] fila=217 | depth=2 | https://tamandare.pr.gov.br/5-igualdade-de-genero
+  [204/sem limite] fila=216 | depth=2 | https://tamandare.pr.gov.br/6-agua-potavel-e-saneamento
+  [205/sem limite] fila=215 | depth=2 | https://tamandare.pr.gov.br/7-energia-limpa-e-acessivel
+  [206/sem limite] fila=214 | depth=2 | https://tamandare.pr.gov.br/8-trabalho-decente-e-crescimento-economico
+  [207/sem limite] fila=213 | depth=2 | https://tamandare.pr.gov.br/9-industria-inovacao-e-infraestrutura
+  [208/sem limite] fila=212 | depth=2 | https://tamandare.pr.gov.br/10-reducao-das-desigualdades
+  [209/sem limite] fila=211 | depth=2 | https://tamandare.pr.gov.br/11-cidades-e-comunidades-sustentaveis
+  [210/sem limite] fila=210 | depth=2 | https://tamandare.pr.gov.br/12-consumo-e-producao-responsaveis
+  [211/sem limite] fila=209 | depth=2 | https://tamandare.pr.gov.br/13-acao-contra-a-mudanca-global-do-clima
+  [212/sem limite] fila=208 | depth=2 | https://tamandare.pr.gov.br/14-vida-na-agua
+  [213/sem limite] fila=207 | depth=2 | https://tamandare.pr.gov.br/15-vida-terrestre
+  [214/sem limite] fila=206 | depth=2 | https://tamandare.pr.gov.br/16-paz-justica-e-instituicoes-eficazes
+  [215/sem limite] fila=205 | depth=2 | https://tamandare.pr.gov.br/17-parcerias-e-meios-de-implementacao
+  [216/sem limite] fila=204 | depth=2 | https://tamandare.pr.gov.br/18-igualdade-etnico-racial
+  [217/sem limite] fila=203 | depth=2 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e
+  [218/sem limite] fila=203 | depth=2 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e
+  [219/sem limite] fila=202 | depth=2 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e
+  [220/sem limite] fila=201 | depth=3 | https://tamandare.pr.gov.br/ti
+  [221/sem limite] fila=200 | depth=3 | https://tamandare.pr.gov.br/secretarias/template.php?secretaria=administracao&se
+ ❌ HTTP_404: https://tamandare.pr.gov.br/secretarias/template.php?secretaria=administracao&sessao=compras/regras
+  [222/sem limite] fila=199 | depth=3 | https://tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambiente/r
+  [223/sem limite] fila=199 | depth=3 | https://tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambiente/i
+  [224/sem limite] fila=198 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-educacao
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/fff5d72966
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1b20bcbce7
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5e0ec0f6b8
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e6a5006d85
+  [225/sem limite] fila=197 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-acompanhamento-do-fundeb
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/be1710c953
+  📄 [200] .pdf -> http://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a0c2ae8251
+  [226/sem limite] fila=196 | depth=3 | https://tamandare.pr.gov.br/comite-do-transporte-escolar
+  [227/sem limite] fila=195 | depth=3 | https://tamandare.pr.gov.br/noticias/educacao/resultado-final-do-processo-de-con
+  [228/sem limite] fila=194 | depth=3 | https://tamandare.pr.gov.br/noticias/educacao/plano-municipal-de-educacao
+  [229/sem limite] fila=193 | depth=3 | https://tamandare.pr.gov.br/noticias/esporte-e-lazer/tamandare-e-ouro
+  [230/sem limite] fila=192 | depth=3 | https://tamandare.pr.gov.br/processo-unificado-de-escolha-dos-membros-do-conselh
+  [231/sem limite] fila=191 | depth=3 | https://www.tamandare.pr.gov.br/legislacao-resolucoes-cmas-24
+  [232/sem limite] fila=190 | depth=3 | https://tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social/edital-de-
+  [233/sem limite] fila=189 | depth=3 | https://tamandare.pr.gov.br/noticias/fazenda/comunicado-nova-regra-para-retencao
+  [234/sem limite] fila=190 | depth=3 | https://tamandare.pr.gov.br/noticias/fazenda/rreo
+  [235/sem limite] fila=189 | depth=3 | https://tamandare.pr.gov.br/noticias/obras-e-infraestrutura/predios-publicos-est
+  [236/sem limite] fila=188 | depth=3 | https://tamandare.pr.gov.br/plano-municipal-de-saneamento-basico-pmsb-28
+  [237/sem limite] fila=187 | depth=3 | https://tamandare.pr.gov.br/emendas-parlamentares
+  [238/sem limite] fila=186 | depth=3 | https://tamandare.pr.gov.br/edital-0142023-chamamento-publico-os-saude
+  [239/sem limite] fila=185 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/prefeitura-entrega-revitalizacao-da-u
+  [240/sem limite] fila=184 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/medicamentos-fornecidos-pelo-sus
+  [241/sem limite] fila=183 | depth=3 | https://tamandare.pr.gov.br/guiaamarelapmat@gmail.com
+ ❌ HTTP_404: https://tamandare.pr.gov.br/guiaamarelapmat@gmail.com
+  [242/sem limite] fila=182 | depth=3 | https://tamandare.pr.gov.br/www.fomento.pr.gov.br
+ ❌ HTTP_404: https://tamandare.pr.gov.br/www.fomento.pr.gov.br
+  [243/sem limite] fila=181 | depth=3 | https://tamandare.pr.gov.br/empresas/alvara
+  [244/sem limite] fila=180 | depth=3 | https://tamandare.pr.gov.br/empresas/nfs-e-e-livro-eletronico
+  [245/sem limite] fila=179 | depth=3 | https://tamandare.pr.gov.br/empresas/procon
+  [246/sem limite] fila=178 | depth=3 | https://tamandare.pr.gov.br/empresas/procon/procon
+  [247/sem limite] fila=177 | depth=3 | https://tamandare.pr.gov.br/empresas/nfs-e-e-livro-eletronico/nfs-e-e-livro-elet
+  [248/sem limite] fila=176 | depth=3 | https://tamandare.pr.gov.br/empresas/alvara/alvara-2
+  [249/sem limite] fila=175 | depth=3 | https://tamandare.pr.gov.br/servicos/turismo/turismo-rural
+  [250/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/administracao-e-previdencia
+  [251/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/agricultura-abastecimento-e-meio-amb
+  📄 [200] .pdf -> http://tamandare.pr.gov.br/uploads/01527601493.pdf
+  [252/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/procuradoria-geral-do-municipio
+  [253/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/comunicacao-social-e-eventos
+  [254/sem limite] fila=173 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/educacao
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d75d778e5
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3ebb3c48f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c3dc95e57
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/506b924c0
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e81927b4e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d4b88394f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4bf2c001
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bf6cd4866
+  📄 [200] .docx -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/34a99653b
+  📄 [200] .docx -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/25f970fd4
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4ece2b574
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aee1c8016
+  ⚠️ [404] .doc -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c82a44bd6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/33d245966
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e6db49bd9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/16d9f4cc9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c71dd3ad7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3a4060419
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/67f3d3003
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2d777265c
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aeeccde6a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/11ffc23f8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6ae387377
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b2df33ac4
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/97c395ee5
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/18b2811de
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/648757a99
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5387581c
+  [255/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/esporte-e-lazer
+  [256/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/familia-mulher-e-desenvolvimento-soc
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c75b5f3d6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e98dc6717
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c0310c815
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0e817b33f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a4d59aefc
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/623020a5e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d7b4ec24f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4b58e2edb
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1724be39
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4cdcd4379
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/552283901
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ea8c2167a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4385d6472
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ea7fb30eb
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/446069c29
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ad50cf222
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8ef789440
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e1e5e8b47
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a1b4e514
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/88c8592c9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ef820c52f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c954f15c2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b9f53ef6d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/57a6e9f8f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bca03c106
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b0d5d7389
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6154b7801
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/92d54a6e2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/54cc1cc45
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/31f7dd313
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a2edd5773
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7d9fcaef3
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/10af8fa81
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6daac338f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4b353425d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/acad49821
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dbc6735ef
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d00b629fa
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9775b3533
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c4732459b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/99a4692b8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6f0d0bb7f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7b8d0bd88
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5dc0e4a2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/16fec316b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9f2ca3122
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bb7418de6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/70ce78ed1
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d05acf668
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8d652dd85
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2c3b60788
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc1a20002
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/39586391c
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e14cadd57
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4c182e6b7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4d87b048
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9d5534d1f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c3adfa7e9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d464333d1
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/cb10ed126
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/14e9e513e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c73c7ec39
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/130eaf43b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/279b1b4d6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1c2478d47
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7d94fe33
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc4632e15
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3e5af7309
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/142627d33
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f39ec8e20
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/62d5736ea
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c4997175d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/61930163c
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f7ca826ea
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5d2364cfa
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e0270f4b0
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/52186ea9d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a99b57738
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7aaf81f7d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bc658f03f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/73dfd3deb
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/77f54b2c6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a4831fe7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/275bd68a8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/772083426
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9e6f4da1e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/885432e50
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5159c8c2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/68463fbbe
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bdd61a47d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/31ce1576f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/249b1d973
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/56d98df92
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f1d40f19d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/35862b026
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/757f322c4
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5340a966b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/612f7bedf
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/02d94abf9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4e7c85f44
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/fd10718d6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/75cd7b52b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e3ef1a13f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c65c844cc
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1e9e69344
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/fd7c3c4ae
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3f84e995e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/58d46036a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/97c8279be
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6d4596087
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/46582e961
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0de06699b
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5955c883c
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/64f15b0cd
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8dd66eff5
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7ad912f54
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3f36fc6a3
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5facfaf27
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0eaa55125
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7e1a47d6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9ffdea670
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9f48e70be
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ae238d867
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/39c1cac00
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/704f1ff9a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8a7d57eb8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9829caa08
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/51c9529db
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6e3674748
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/065066195
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e4cc8bb35
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e2ff933b3
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/98bb52ff9
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2c1c93eed
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8c7492daa
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/215f92ed2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/cb061d244
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0ff0f13f6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/71a7d74a5
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/860718005
+  ⚠️ [404] .pdf -> http://tamandare.pr.gov.br/admin/pagina/pagina/editar/%20http:/www.tam
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f26d36364
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/75f3e2111
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/bb2012195
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3a74f8621
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b94cbebe7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2831c18ab
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4f5e88c67
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/93b9c4165
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/7badc636e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3faf80a7d
+  ⚠️ [404] .pdf -> http://tamandare.pr.gov.br/admin/pagina/pagina/editar/%20http:/www.tam
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/888879752
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/ec3c0f72d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/afdbda76e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/651073e4d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e82da5e5e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1f762537
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a015f88f6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dd93d1001
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4761c6040
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/e7a653498
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3772784f2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f2557ca65
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/090a3209a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5dbd84f01
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c77926e49
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6b1a06c1e
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c69d8670f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/45a8cbc47
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/aefd57cd0
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1b5d305fb
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/72b3be6c7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b1fe84faa
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/28f5699b3
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/38a3d5a12
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9afec8223
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1c255af83
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/b5e99408a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5d0e8e79a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/368968069
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/96b690b99
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/052897cc1
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/0e03ce316
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f55f76152
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9eb056846
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/76d0abcc2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4aa693d70
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/59fd06e79
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/81b52b1eb
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/c2f657920
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6576929c2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/9a314ff20
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/359b0f877
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/185869fc4
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1bb1c1410
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/98b9d91b7
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/8ca95a4cd
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a9354c05a
+  [257/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/fazenda
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/4a874e551
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/3818f953d
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5611d988a
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d614774c6
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/769bf2080
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/f210a1505
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6e657fb28
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/41383e778
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/55f5d7f06
+  ⚠️ [404] .ppt -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/dc56849a5
+  📄 [200] .ppt -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d5188e5c8
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/317dc39ed
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/390b3a2ea
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/54d799b21
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/160717d00
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/2f45c2a63
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/1cbab1ed2
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/6c8554c6f
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/a5933c09e
+  [258/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/gabinete
+  [259/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/governo-e-gestao
+  [260/sem limite] fila=173 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/habitacao
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/deb77a7d3
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/d7140440d
+  ⚠️ [404] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/5ac6dbfac
+  [261/sem limite] fila=172 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/industria-e-comercio
+  [262/sem limite] fila=171 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/obras-e-infraestrutura
+  [263/sem limite] fila=171 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/cidadania-e-ouvidoria
+  [264/sem limite] fila=170 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/planejamento
+  [265/sem limite] fila=169 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/saude
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/18e814acb
+  [266/sem limite] fila=170 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/seguranca
+  [267/sem limite] fila=169 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/urbanismo
+  📄 [200] .pdf -> https://www.tamandare.pr.gov.br/admin/files/paginas/arquivos/00dbdb718
+  [268/sem limite] fila=168 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/cultura-e-turismo
+  [269/sem limite] fila=167 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/trabalho-qualificacao-e-inovacao
+  [270/sem limite] fila=166 | depth=3 | https://www.tamandare.pr.gov.br/secretarias/assuntos-estrategicos
+  [271/sem limite] fila=165 | depth=3 | https://www.tamandare.pr.gov.br/cidadao
+  [272/sem limite] fila=164 | depth=3 | https://www.tamandare.pr.gov.br/empresas
+  [273/sem limite] fila=169 | depth=3 | https://www.tamandare.pr.gov.br/servicos/turismo
+  [274/sem limite] fila=169 | depth=3 | https://www.tamandare.pr.gov.br/rede-de-enfrentamento-a-violencia-contra-a-mulhe
+  [275/sem limite] fila=168 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral
+  [276/sem limite] fila=168 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral/prefeitura-reforca-medidas-de-pre
+  [277/sem limite] fila=167 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral/centro-da-juventude-divulga-novas
+  [278/sem limite] fila=166 | depth=3 | https://www.tamandare.pr.gov.br/institucional/nossos-dados/nossos-dados
+  [279/sem limite] fila=165 | depth=3 | https://www.tamandare.pr.gov.br/institucional/instituicao/itbi
+  [280/sem limite] fila=164 | depth=3 | https://www.tamandare.pr.gov.br/institucional/instituicao/videos
+  [281/sem limite] fila=163 | depth=3 | https://www.tamandare.pr.gov.br/institucional/nossa-historia/nossa-historia
+  [282/sem limite] fila=162 | depth=3 | https://www.tamandare.pr.gov.br/institucional/nossa-cidade/nossa-cidade
+  [283/sem limite] fila=161 | depth=3 | https://www.tamandare.pr.gov.br/institucional/registro-das-competencias/registro
+  [284/sem limite] fila=160 | depth=3 | https://www.tamandare.pr.gov.br/institucional/estrutura-organizacional/estrutura
+  [285/sem limite] fila=159 | depth=3 | https://www.tamandare.pr.gov.br/institucional/acoes-do-municipio/8-caminhada-int
+  [286/sem limite] fila=158 | depth=3 | https://www.tamandare.pr.gov.br/institucional/conheca-a-cidade/teatro-de-bonecos
+  [287/sem limite] fila=157 | depth=3 | https://www.tamandare.pr.gov.br/institucional/instituicao/rreo
+  [288/sem limite] fila=156 | depth=3 | https://www.tamandare.pr.gov.br/institucional/acoes-do-municipio/cmeis-novos-cad
+  [289/sem limite] fila=155 | depth=3 | https://www.tamandare.pr.gov.br/contato/ouvidoria-municipal/ouvidoria-municipal
+  [290/sem limite] fila=154 | depth=3 | https://www.tamandare.pr.gov.br/contato/acesso-a-informacao/acesso-a-informacao
+  [291/sem limite] fila=153 | depth=3 | https://www.tamandare.pr.gov.br/noticias/administracao-e-previdencia
+  [292/sem limite] fila=152 | depth=3 | https://www.tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambien
+  [293/sem limite] fila=151 | depth=3 | https://www.tamandare.pr.gov.br/noticias/cidadania-e-ouvidoria
+  [294/sem limite] fila=150 | depth=3 | https://www.tamandare.pr.gov.br/noticias/comunicacao-social
+  [295/sem limite] fila=149 | depth=3 | https://www.tamandare.pr.gov.br/noticias/controladoria-municipal
+  [296/sem limite] fila=148 | depth=3 | https://www.tamandare.pr.gov.br/noticias/desenvolvimento-economico
+  [297/sem limite] fila=147 | depth=3 | https://www.tamandare.pr.gov.br/noticias/educacao
+  [298/sem limite] fila=148 | depth=3 | https://www.tamandare.pr.gov.br/noticias/esporte-e-lazer
+  [299/sem limite] fila=147 | depth=3 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-assuntos-estrategicos
+  [300/sem limite] fila=146 | depth=3 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo
+  [301/sem limite] fila=150 | depth=3 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-trabalho-qualificacao
+  [302/sem limite] fila=149 | depth=3 | https://www.tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social
+  [303/sem limite] fila=148 | depth=3 | https://www.tamandare.pr.gov.br/noticias/fazenda
+  [304/sem limite] fila=147 | depth=3 | https://www.tamandare.pr.gov.br/noticias/gabinete
+  [305/sem limite] fila=146 | depth=3 | https://www.tamandare.pr.gov.br/noticias/governo
+  [306/sem limite] fila=145 | depth=3 | https://www.tamandare.pr.gov.br/noticias/habitacao
+  [307/sem limite] fila=144 | depth=3 | https://www.tamandare.pr.gov.br/noticias/obras-e-infraestrutura
+  [308/sem limite] fila=143 | depth=3 | https://www.tamandare.pr.gov.br/noticias/ordem-publica
+  [309/sem limite] fila=144 | depth=3 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias
+  [310/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/noticias/planejamento-e-gestao
+  [311/sem limite] fila=177 | depth=3 | https://www.tamandare.pr.gov.br/noticias/procuradoria-geral-do-municipio
+  [312/sem limite] fila=176 | depth=3 | https://www.tamandare.pr.gov.br/noticias/recursos-humanos
+  [313/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/noticias/saude
+  [314/sem limite] fila=179 | depth=3 | https://www.tamandare.pr.gov.br/noticias/urbanismo
+  [315/sem limite] fila=178 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral/semana-pedagogica-2026-reforca-co
+  [316/sem limite] fila=177 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral/prefeitura-abre-ultimas-vagas-par
+  [317/sem limite] fila=176 | depth=3 | https://www.tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social/mulher
+  [318/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/noticias/geral/dengue-nao-tira-ferias-e-prefeitu
+  [319/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/alvara
+  [320/sem limite] fila=173 | depth=3 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais
+  [321/sem limite] fila=185 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/detran
+  [322/sem limite] fila=184 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/familia-e-desenvolvimento-social
+  [323/sem limite] fila=183 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/iptu
+  [324/sem limite] fila=182 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/lei-aldir-blanc-140172020
+  [325/sem limite] fila=181 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/previdencia-complementar
+  [326/sem limite] fila=180 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/telefones-uteis
+  [327/sem limite] fila=179 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/times-da-esa-edicao-2021
+  [328/sem limite] fila=178 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/vtn-por-concreto
+  [329/sem limite] fila=177 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/wi-fi-cidadao
+  [330/sem limite] fila=176 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/concurso-publico-2023-1
+  [331/sem limite] fila=175 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado
+  [332/sem limite] fila=174 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado
+  [333/sem limite] fila=173 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/professor-de-lingua-estrangeir
+  [334/sem limite] fila=172 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado
+  [335/sem limite] fila=171 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/concurso-publico-2023-agronomo
+  [336/sem limite] fila=170 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/pss-2026-monitor-do-transporte
+  [337/sem limite] fila=169 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/pss-2026-professor-de-educacao
+  [338/sem limite] fila=168 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/professor-de-lingua-estrangeir
+  [339/sem limite] fila=167 | depth=3 | https://www.tamandare.pr.gov.br/cidadao/concursos/processo-seletivo-simplificado
+  [340/sem limite] fila=166 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-alime
+  [341/sem limite] fila=165 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [342/sem limite] fila=164 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [343/sem limite] fila=163 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [344/sem limite] fila=162 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [345/sem limite] fila=161 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [346/sem limite] fila=160 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [347/sem limite] fila=159 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/sisan
+  [348/sem limite] fila=159 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [349/sem limite] fila=158 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [350/sem limite] fila=157 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-alime
+  [351/sem limite] fila=156 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-munic
+  [352/sem limite] fila=155 | depth=3 | https://tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/sisan/sisan
+  [353/sem limite] fila=154 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-dos-direitos-da-pessoa-idosa-cmdi
+  [354/sem limite] fila=153 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-planejamento-e-gestao-territor
+  [355/sem limite] fila=152 | depth=3 | https://tamandare.pr.gov.br/conselho-de-saude
+  [356/sem limite] fila=151 | depth=3 | https://tamandare.pr.gov.br/cmas-conselho-municipal-de-assistencia-social
+  [357/sem limite] fila=150 | depth=3 | https://tamandare.pr.gov.br/cmdm-conselho-municipal-dos-direitos-da-mulher
+  [358/sem limite] fila=149 | depth=3 | https://tamandare.pr.gov.br/conselho-dos-direitos-da-pessoa-com-deficiencia-cmdp
+  [359/sem limite] fila=148 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-esporte-e-lazer
+  [360/sem limite] fila=147 | depth=3 | https://tamandare.pr.gov.br/conselho-alimentacao-escolar
+  [361/sem limite] fila=146 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-cultura
+  [362/sem limite] fila=145 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-meio-ambiente
+  [363/sem limite] fila=144 | depth=3 | https://tamandare.pr.gov.br/conselho-municipal-de-controle-social-e-saneamento-c
+  [364/sem limite] fila=143 | depth=3 | https://tamandare.pr.gov.br/sisan
+  [365/sem limite] fila=142 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e-pre
+  [366/sem limite] fila=141 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e-pre
+  [367/sem limite] fila=140 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e-pre
+  [368/sem limite] fila=139 | depth=3 | https://tamandare.pr.gov.br/comite-gestor-do-parque-ambiental-anibal-khury
+  [369/sem limite] fila=138 | depth=3 | https://tamandare.pr.gov.br/cmdca-conselho-municipal-dos-direitos-da-crianca-e-d
+  [370/sem limite] fila=137 | depth=3 | https://tamandare.pr.gov.br/conmma-conselho-municipal-do-meio-ambiente
+  [371/sem limite] fila=136 | depth=3 | https://tamandare.pr.gov.br/noticias/educacao/cmeis-novos-cadastros
+  [372/sem limite] fila=135 | depth=3 | https://tamandare.pr.gov.br/noticias/educacao/boa-noticia-obras-da-escola-joao-c
+  [373/sem limite] fila=134 | depth=3 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/incenti
+  [374/sem limite] fila=133 | depth=3 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/8-camin
+  [375/sem limite] fila=132 | depth=3 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/teatro-
+  [376/sem limite] fila=131 | depth=3 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/lei-ald
+  [377/sem limite] fila=130 | depth=3 | https://tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/lei-ald
+  [378/sem limite] fila=129 | depth=3 | https://tamandare.pr.gov.br/noticias/ordem-publica/operacao-policial-aborda-84-p
+  [379/sem limite] fila=128 | depth=3 | https://tamandare.pr.gov.br/noticias/ordem-publica/inaugurada-brigada-municipal-
+  [380/sem limite] fila=127 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e-pre
+  [381/sem limite] fila=126 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-abastec
+  [382/sem limite] fila=126 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouvidor
+  [383/sem limite] fila=127 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/comunicacao-social
+  [384/sem limite] fila=126 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/controladoria-munic
+  [385/sem limite] fila=125 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/desenvolvimento-eco
+  [386/sem limite] fila=124 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/educacao
+  [387/sem limite] fila=123 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/esporte-e-lazer
+  [388/sem limite] fila=122 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-de-a
+  [389/sem limite] fila=121 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-de-c
+  [390/sem limite] fila=120 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-de-t
+  [391/sem limite] fila=119 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/familia-e-desenvolv
+  [392/sem limite] fila=118 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda
+  [393/sem limite] fila=119 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/governo
+  [394/sem limite] fila=118 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/habitacao
+  [395/sem limite] fila=117 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/obras-e-infraestrut
+  [396/sem limite] fila=116 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/ordem-publica
+  [397/sem limite] fila=115 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/planejamento-e-gest
+  [398/sem limite] fila=114 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/procuradoria-geral-
+  [399/sem limite] fila=113 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos
+  [400/sem limite] fila=115 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  524 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  5 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2037 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=116 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/urbanismo
+  [402/sem limite] fila=115 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [403/sem limite] fila=114 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [404/sem limite] fila=113 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [405/sem limite] fila=112 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [406/sem limite] fila=111 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/ps
+  [407/sem limite] fila=110 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/ps
+  [408/sem limite] fila=109 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [409/sem limite] fila=108 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/familia-e-desenvolv
+  [410/sem limite] fila=107 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-abastec
+  [411/sem limite] fila=106 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/e-nota
+  [412/sem limite] fila=105 | depth=3 | https://tamandare.pr.gov.br/noticias/planejamento-e-gestao/ruas-pavimentadas-da-
+  [413/sem limite] fila=104 | depth=3 | https://tamandare.pr.gov.br/noticias/planejamento-e-gestao/rua-das-laranjeiras-e
+  [414/sem limite] fila=103 | depth=3 | https://tamandare.pr.gov.br/noticias/planejamento-e-gestao/comecam-as-obras-de-p
+  [415/sem limite] fila=102 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/plano-municipal-de-saude
+  [416/sem limite] fila=101 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/outubro-rosa-e-lancado-em-almirante-t
+  [417/sem limite] fila=100 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/samu-praticamente-pronto
+  [418/sem limite] fila=99 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/campanha-nacional-contra-gripe-comeca
+  [419/sem limite] fila=98 | depth=3 | https://tamandare.pr.gov.br/noticias/saude/nasce-mais-um-tamandareense-no-pa-24-
+  [420/sem limite] fila=97 | depth=3 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e-pre
+  [421/sem limite] fila=96 | depth=3 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e
+  [422/sem limite] fila=95 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-abastec
+  [423/sem limite] fila=94 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/tributos11
+  [424/sem limite] fila=93 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/itbi
+  [425/sem limite] fila=92 | depth=4 | http://tamandare.pr.gov.br/secretarias/template.php?secretaria=administracao&ses
+ ❌ HTTP_404: http://tamandare.pr.gov.br/secretarias/template.php?secretaria=administracao&sessao=compras/regras
+  [426/sem limite] fila=91 | depth=4 | https://www.tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambien
+  [427/sem limite] fila=91 | depth=4 | https://www.tamandare.pr.gov.br/noticias/agricultura-abastecimento-e-meio-ambien
+  [428/sem limite] fila=90 | depth=4 | https://www.tamandare.pr.gov.br/noticias/educacao/resultado-final-do-processo-de
+  [429/sem limite] fila=89 | depth=4 | https://www.tamandare.pr.gov.br/noticias/educacao/plano-municipal-de-educacao
+  [430/sem limite] fila=88 | depth=4 | https://www.tamandare.pr.gov.br/noticias/esporte-e-lazer/tamandare-e-ouro
+  [431/sem limite] fila=87 | depth=4 | https://www.tamandare.pr.gov.br/noticias/familia-e-desenvolvimento-social/edital
+  [432/sem limite] fila=86 | depth=4 | https://www.tamandare.pr.gov.br/noticias/fazenda/comunicado-nova-regra-para-rete
+  [433/sem limite] fila=87 | depth=4 | https://www.tamandare.pr.gov.br/noticias/fazenda/rreo
+  [434/sem limite] fila=86 | depth=4 | https://www.tamandare.pr.gov.br/noticias/obras-e-infraestrutura/predios-publicos
+  [435/sem limite] fila=85 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/prefeitura-entrega-revitalizacao-
+  [436/sem limite] fila=84 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/medicamentos-fornecidos-pelo-sus
+  [437/sem limite] fila=83 | depth=4 | https://www.tamandare.pr.gov.br/empresas/alvara
+  [438/sem limite] fila=82 | depth=4 | https://www.tamandare.pr.gov.br/empresas/nfs-e-e-livro-eletronico
+  [439/sem limite] fila=81 | depth=4 | https://www.tamandare.pr.gov.br/empresas/procon
+  [440/sem limite] fila=80 | depth=4 | https://www.tamandare.pr.gov.br/empresas/procon/procon
+  [441/sem limite] fila=79 | depth=4 | https://www.tamandare.pr.gov.br/empresas/nfs-e-e-livro-eletronico/nfs-e-e-livro-
+  [442/sem limite] fila=78 | depth=4 | https://www.tamandare.pr.gov.br/empresas/alvara/alvara-2
+  [443/sem limite] fila=77 | depth=4 | https://www.tamandare.pr.gov.br/servicos/turismo/turismo-rural
+  [444/sem limite] fila=76 | depth=4 | https://www.tamandare.pr.gov.br/noticias/geral/mulheres-em-situacao-de-violencia
+  [445/sem limite] fila=75 | depth=4 | https://www.tamandare.pr.gov.br/noticias/educacao/cmeis-novos-cadastros
+  [446/sem limite] fila=74 | depth=4 | https://www.tamandare.pr.gov.br/noticias/educacao/boa-noticia-obras-da-escola-jo
+  [447/sem limite] fila=73 | depth=4 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/inc
+  [448/sem limite] fila=72 | depth=4 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/8-c
+  [449/sem limite] fila=71 | depth=4 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/tea
+  [450/sem limite] fila=70 | depth=4 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/lei
+  [451/sem limite] fila=69 | depth=4 | https://www.tamandare.pr.gov.br/noticias/extraordinaria-de-cultura-e-turismo/lei
+  [452/sem limite] fila=68 | depth=4 | https://www.tamandare.pr.gov.br/noticias/ordem-publica/operacao-policial-aborda-
+  [453/sem limite] fila=67 | depth=4 | https://www.tamandare.pr.gov.br/noticias/ordem-publica/inaugurada-brigada-munici
+  [454/sem limite] fila=66 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/administracao-e
+  [455/sem limite] fila=65 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-aba
+  [456/sem limite] fila=65 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouv
+  [457/sem limite] fila=66 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/comunicacao-soc
+  [458/sem limite] fila=65 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/controladoria-m
+  [459/sem limite] fila=64 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/desenvolvimento
+  [460/sem limite] fila=63 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/educacao
+  [461/sem limite] fila=62 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/esporte-e-lazer
+  [462/sem limite] fila=61 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-
+  [463/sem limite] fila=60 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-
+  [464/sem limite] fila=59 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/extraordinaria-
+  [465/sem limite] fila=58 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/familia-e-desen
+  [466/sem limite] fila=57 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda
+  [467/sem limite] fila=58 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/governo
+  [468/sem limite] fila=57 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/habitacao
+  [469/sem limite] fila=56 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/obras-e-infraes
+  [470/sem limite] fila=55 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/ordem-publica
+  [471/sem limite] fila=54 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/planejamento-e-
+  [472/sem limite] fila=53 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/procuradoria-ge
+  [473/sem limite] fila=52 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [474/sem limite] fila=54 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude
+  [475/sem limite] fila=55 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/urbanismo
+  [476/sem limite] fila=54 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [477/sem limite] fila=53 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [478/sem limite] fila=52 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [479/sem limite] fila=51 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [480/sem limite] fila=50 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [481/sem limite] fila=49 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [482/sem limite] fila=48 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [483/sem limite] fila=47 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/familia-e-desen
+  [484/sem limite] fila=46 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-aba
+  [485/sem limite] fila=45 | depth=4 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/e-nota
+  [486/sem limite] fila=44 | depth=4 | https://www.tamandare.pr.gov.br/noticias/planejamento-e-gestao/ruas-pavimentadas
+  [487/sem limite] fila=43 | depth=4 | https://www.tamandare.pr.gov.br/noticias/planejamento-e-gestao/rua-das-laranjeir
+  [488/sem limite] fila=42 | depth=4 | https://www.tamandare.pr.gov.br/noticias/planejamento-e-gestao/comecam-as-obras-
+  [489/sem limite] fila=41 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/plano-municipal-de-saude
+  [490/sem limite] fila=40 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/outubro-rosa-e-lancado-em-almiran
+  [491/sem limite] fila=39 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/samu-praticamente-pronto
+  [492/sem limite] fila=38 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/campanha-nacional-contra-gripe-co
+  [493/sem limite] fila=37 | depth=4 | https://www.tamandare.pr.gov.br/noticias/saude/nasce-mais-um-tamandareense-no-pa
+  [494/sem limite] fila=36 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-a
+  [495/sem limite] fila=35 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [496/sem limite] fila=34 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [497/sem limite] fila=33 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [498/sem limite] fila=32 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [499/sem limite] fila=31 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [500/sem limite] fila=30 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [501/sem limite] fila=29 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/sisan
+  [502/sem limite] fila=28 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [503/sem limite] fila=27 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [504/sem limite] fila=26 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-a
+  [505/sem limite] fila=25 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/conselho-m
+  [506/sem limite] fila=24 | depth=4 | https://www.tamandare.pr.gov.br/servicos/cidadao/conselhos-municipais/sisan/sisa
+  [507/sem limite] fila=23 | depth=4 | https://www.tamandare.pr.gov.br/sisan-2
+  [508/sem limite] fila=22 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-abastec
+  [509/sem limite] fila=21 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouvidor
+  [510/sem limite] fila=20 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouvidor
+  [511/sem limite] fila=19 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/comunicado-
+  [512/sem limite] fila=18 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/rreo
+  [513/sem limite] fila=17 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [514/sem limite] fila=16 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [515/sem limite] fila=15 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humanos/pr
+  [516/sem limite] fila=14 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude/medicamentos-
+  [517/sem limite] fila=13 | depth=4 | https://tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude/plano-municip
+  [518/sem limite] fila=12 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-aba
+  [519/sem limite] fila=11 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/tributo
+  [520/sem limite] fila=10 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/itbi
+  [521/sem limite] fila=9 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/agricultura-aba
+  [522/sem limite] fila=8 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouv
+  [523/sem limite] fila=7 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/cidadania-e-ouv
+  [524/sem limite] fila=6 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/comunic
+  [525/sem limite] fila=5 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/fazenda/rreo
+  [526/sem limite] fila=4 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [527/sem limite] fila=3 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [528/sem limite] fila=2 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/recursos-humano
+  [529/sem limite] fila=1 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude/medicamen
+  [530/sem limite] fila=0 | depth=5 | https://www.tamandare.pr.gov.br/noticias/paginas-das-secretarias/saude/plano-mun
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  524 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2507 links externos registrados.
+
+  Varredura encerrada: ALMIRANTETAMANDARE
+  Páginas nesta sessão: 530
+  Páginas totais (acumulado): 530
+  Arquivos no inventário: 524
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/almirantetamandare/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Almirante Tamandaré)
+  Cidades já configuradas: 402
+
+  [1/1] 🔍 Almirante Tamandaré (slug: almirantetamandare)...   → buscando no DuckDuckGo (apenas inventário)... nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Almirante Tamandaré
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALMIRANTETAMANDARE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 524 arquivos já registrados.
+  Links externos parciais carregados: 2507 links já registrados.
+  Log de erros parcial carregado: 6 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 6 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALMIRANTETAMANDARE
+  Páginas já visitadas (checkpoint): 530
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  524 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2507 links externos registrados.
+
+  Varredura encerrada: ALMIRANTETAMANDARE
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 530
+  Arquivos no inventário: 524
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/almirantetamandare/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Almirante Tamandaré)
+  Cidades já configuradas: 404
+
+  [1/1] 🔍 Almirante Tamandaré (slug: almirantetamandare)...   → buscando no DuckDuckGo (apenas inventário)... 
+           *  ✅ https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/
+              ✅ https://tamandare.pr.gov.br/
+              ✅ https://www.almirantetamandare.pr.leg.br/transparencia/
+              ✅ https://www.transparencia.pr.gov.br/
+1 URL(s) encontrada(s) ✅ [padrão de slug] 1 semente(s), 2 domínio(s)
+           → https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 1
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  ✅ 1 nova(s) cidade(s) + 0 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 405
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALMIRANTETAMANDARE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 524 arquivos já registrados.
+  Links externos parciais carregados: 2507 links já registrados.
+  Log de erros parcial carregado: 6 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 6 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALMIRANTETAMANDARE
+  Páginas já visitadas (checkpoint): 530
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  524 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2507 links externos registrados.
+
+  Varredura encerrada: ALMIRANTETAMANDARE
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 530
+  Arquivos no inventário: 524
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/almirantetamandare/
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALMIRANTETAMANDARE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 524 arquivos já registrados.
+  Links externos parciais carregados: 2507 links já registrados.
+  Log de erros parcial carregado: 6 erros já registrados.
+
+============================================================
+  Crawler iniciado: ALMIRANTETAMANDARE
+  Páginas já visitadas (checkpoint): 530
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  524 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2507 links externos registrados.
+
+  Varredura encerrada: ALMIRANTETAMANDARE
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 530
+  Arquivos no inventário: 524
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/almirantetamandare/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Almirante Tamandaré)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Almirante Tamandaré (slug: almirantetamandare)...   → buscando no DuckDuckGo (apenas inventário)... 
+           *  ✅ https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/
+              ✅ https://tamandare.pr.gov.br/
+           *  ✅ https://transparencia.betha.cloud/
+              ✅ https://www.almirantetamandare.pr.leg.br/transparencia/
+2 URL(s) encontrada(s) ✅ [+2 semente(s), +3 domínio(s)]
+           → https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/
+           → https://transparencia.betha.cloud/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALMIRANTETAMANDARE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 524 arquivos já registrados.
+  Links externos parciais carregados: 2507 links já registrados.
+  Log de erros parcial carregado: 6 erros já registrados.
+  2 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 6 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALMIRANTETAMANDARE
+  Páginas já visitadas (checkpoint): 530
+  URLs na fila: 2
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+530)/sem limite] fila=1 | depth=0 | https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBrT2kerjQ==/
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/resource.faces?params=4KCWEboo05PkjBr
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/main.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/sobreentidade.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/con_informacoescadastrais.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/con_situacaocontribuinte.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/con_situacaorefer.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/con_validacaodocumentos.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_alvaralicenca.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_cndcontribuinte.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_cndeconomico.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_cndimovel.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_guiaalvara.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_guiaiptu.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_guiaiss.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/cdweb/rel_guiadiversas.faces
+  [2 (+530)/sem limite] fila=1 | depth=0 | https://transparencia.betha.cloud/
+  [3 (+530)/sem limite] fila=0 | depth=1 | https://e-gov.betha.com.br/
+  📄 [200] .faces -> https://e-gov.betha.com.br/livroeletronico/login.faces
+  📄 [200] .faces -> https://e-gov.betha.com.br/livroeletronico2/login.faces
+  [4 (+530)/sem limite] fila=9 | depth=2 | https://e-gov.betha.com.br/pontual
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/pontual → https://e-gov.betha.com.br:443/pontual/02110-016/login.faces?lastUrl=/main.faces
+  [5 (+530)/sem limite] fila=8 | depth=2 | https://e-gov.betha.com.br/centraldousuario
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/centraldousuario → https://login.betha.cloud/servicelogin/login.faces?app=a324a22e-aaf6-4f6d-a39a-f040c0fcac53&continue=dUt3pl7deSJcIfYbNgSBvyszrVx7CtLXMQ8SyjaTDIyAxIspOkXzLADGEjv59FmVkDvvSbpRV9h8ufTnTBpXO7RI651ay-4WOFUtbnvw2Jgv2qJxJ1xH01FqhzW1ivCDcMq_HeTYvGQelu9rhxGL_-3jtAV60gKfI_SlpSAvW-4AipssSSeP2eGbsvT0ITI-P5hoftfKocJ0jTlhDqqO-nAxrxbhuMZbbcEevXFgAjw0fRHdJDjx1f3uKqgbpjbfjstfVPx6l2wAttNGzna_2FwdyDFngf-_dxTkD7lGv9LUeqXrRVOBUXy_3ciy6A0vpIaa_BQixNRkl5YMZWIuEs7iib5DfU8x5H3gnCfHdaVgbOvu_rNgHw==&mobile=false
+  [6 (+530)/sem limite] fila=7 | depth=2 | https://e-gov.betha.com.br/protocolo
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/protocolo → https://e-gov.betha.com.br:443/protocolo/01038-248/login.faces?lastUrl=/main.faces
+  [7 (+530)/sem limite] fila=6 | depth=2 | https://e-gov.betha.com.br/transparencia
+  ⚠️ [404] .pdf -> https://e-gov.betha.com.br/help/manual_transparencia.pdf
+  [8 (+530)/sem limite] fila=5 | depth=2 | https://e-gov.betha.com.br/e-nota
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/e-nota → https://e-gov.betha.com.br:443/e-nota/login.faces?lastUrl=/selecaodemodulo.faces
+  [9 (+530)/sem limite] fila=4 | depth=2 | https://e-gov.betha.com.br/cidadaoweb3
+  ⚠️ [404] .faces -> https://e-gov.betha.com.br/recursos.faces
+  [10 (+530)/sem limite] fila=4 | depth=2 | https://e-gov.betha.com.br/cdweb
+  ⚠️ [404] .faces -> https://e-gov.betha.com.br/external/requisitos.faces
+  ⚠️ [404] .faces -> https://e-gov.betha.com.br/admin/entidade.faces
+  [11 (+530)/sem limite] fila=3 | depth=2 | https://e-gov.betha.com.br/patrimonio
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/patrimonio → https://e-gov.betha.com.br:443/patrimonio/01011-022/login.faces
+  [12 (+530)/sem limite] fila=2 | depth=2 | https://e-gov.betha.com.br/saude
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/saude → https://e-gov.betha.com.br:443/saude/01043-037/login.faces?lastUrl=/main.faces
+  [13 (+530)/sem limite] fila=1 | depth=2 | https://e-gov.betha.com.br/social
+Redirecionamento externo ignorado: https://e-gov.betha.com.br/social → https://e-gov.betha.com.br:443/social/01009-046/login.faces
+  [14 (+530)/sem limite] fila=0 | depth=3 | https://e-gov.betha.com.br/admin
+ ❌ HTTP_404: https://e-gov.betha.com.br/admin
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_links.xlsx
+  545 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/erros_varredura.xlsx
+  7 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/almirantetamandare/inventario_externos.xlsx
+  2516 links externos registrados.
+
+  Varredura encerrada: ALMIRANTETAMANDARE
+  Páginas nesta sessão: 14
+  Páginas totais (acumulado): 544
+  Arquivos no inventário: 545
+  Erros registrados: 7
+
+
+ Pipeline encerrado. Resultados em: resultados/almirantetamandare/
+============================================================
+

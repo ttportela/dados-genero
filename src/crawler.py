@@ -230,6 +230,18 @@ class CrawlerUrbano:
                     print(f"  Log de erros parcial carregado: {len(self._registros_erros)} erros já registrados.")
                 except Exception as e:
                     print(f"Aviso: não foi possível carregar o log de erros existente ({e}). Começando log do zero.")
+
+            # Adiciona sementes novas que ainda não foram visitadas nem estão na fila
+            novas_sementes = 0
+            for semente in self.sementes:
+                url_norm = normalizar_url(semente)
+                chave = url_chave_dedup(url_norm)
+                if chave not in self.visited and chave not in self._urls_na_fila:
+                    self.queue.append((url_norm, 0))
+                    self._urls_na_fila.add(chave)
+                    novas_sementes += 1
+            if novas_sementes:
+                print(f"  {novas_sementes} nova(s) semente(s) adicionada(s) à fila.")
         else:
             # Primeira execução: inicia com as sementes
             for semente in self.sementes:
@@ -300,6 +312,15 @@ class CrawlerUrbano:
     # EXTRAÇÃO DE LINKS
     # =========================================================================
 
+    @staticmethod
+    def _alternar_protocolo(url: str) -> str:
+        """Retorna a URL com o protocolo alternativo (http↔https). String vazia se não for http(s)."""
+        if url.startswith("https://"):
+            return "http://" + url[len("https://"):]
+        if url.startswith("http://"):
+            return "https://" + url[len("http://"):]
+        return ""
+
     def _extrair_links(self, url: str) -> list[tuple[str, str]]:
         """
         Extrai todos os links de uma página usando requests + BeautifulSoup.
@@ -308,10 +329,23 @@ class CrawlerUrbano:
         Retorna lista de tuplas (url_absoluta, texto_do_link).
         Retorna None se a página precisar do fallback Selenium.
         """
+        url_original = url
         response = fazer_request(url)
 
+        # Se falhou (None ou não-200), tenta protocolo alternativo (http ↔ https)
+        if response is None or response.status_code != 200:
+            url_alt = self._alternar_protocolo(url)
+            if url_alt and url_alt != url:
+                response_alt = fazer_request(url_alt)
+                if response_alt is not None and (
+                    response is None
+                    or (response.status_code != 200 and response_alt.status_code == 200)
+                ):
+                    response = response_alt
+                    url = url_alt
+
         if response is None:
-            self._registrar_erro(url, "TIMEOUT_OU_CONEXAO", 0)
+            self._registrar_erro(url_original, "TIMEOUT_OU_CONEXAO", 0)
             return None
 
         # Verifica redirecionamento externo (proteção dupla)
@@ -329,19 +363,19 @@ class CrawlerUrbano:
 
         if response.status_code == 403:
             # 403 pode ser bloqueio com CAPTCHA — tenta Selenium
-            self._registrar_erro(url, "HTTP_403", response.status_code)
+            self._registrar_erro(url_original, "HTTP_403", response.status_code)
             return None
 
         if response.status_code == 404:
-            self._registrar_erro(url, "HTTP_404", response.status_code)
+            self._registrar_erro(url_original, "HTTP_404", response.status_code)
             return []  # não tenta Selenium — página não existe
 
         if response.status_code != 200:
             # Outros erros (500, 503, etc.) — verifica se é CAPTCHA/bloqueio
             if self._detectar_captcha(response.text):
-                self._registrar_erro(url, "CAPTCHA", response.status_code)
+                self._registrar_erro(url_original, "CAPTCHA", response.status_code)
                 return None
-            self._registrar_erro(url, f"HTTP_{response.status_code}", response.status_code)
+            self._registrar_erro(url_original, f"HTTP_{response.status_code}", response.status_code)
             return None
 
         # Status 200: resposta recebida com sucesso.
@@ -362,7 +396,7 @@ class CrawlerUrbano:
         # Portais com reCAPTCHA invisível (v3) retornam 200 com HTML completo,
         # não devem acionar o Selenium.
         if len(response.text) < 500 and self._detectar_captcha(response.text):
-            self._registrar_erro(url, "CAPTCHA", response.status_code)
+            self._registrar_erro(url_original, "CAPTCHA", response.status_code)
             return None
 
         # Parsing do HTML
@@ -400,6 +434,17 @@ class CrawlerUrbano:
             time.sleep(3)  # aguarda carregamento dinâmico
 
             html = driver.page_source
+
+            # Se a página veio vazia ou com erro, tenta protocolo alternativo
+            if not html or len(html) < 500 or self._detectar_captcha(html):
+                url_alt = self._alternar_protocolo(url)
+                if url_alt and url_alt != url:
+                    driver.get(url_alt)
+                    time.sleep(3)
+                    html_alt = driver.page_source
+                    if html_alt and len(html_alt) > len(html) and not self._detectar_captcha(html_alt):
+                        html = html_alt
+                        url = url_alt
 
             # Verifica CAPTCHA mesmo com Selenium
             if self._detectar_captcha(html):
@@ -559,6 +604,19 @@ class CrawlerUrbano:
                 allow_redirects=True,
                 verify=False,  # alguns servidores de arquivo têm SSL problemático
             )
+            # Se falhou, tenta protocolo alternativo (http ↔ https)
+            if resp.status_code != 200:
+                url_alt = self._alternar_protocolo(url)
+                if url_alt and url_alt != url:
+                    resp_alt = requests.head(
+                        url_alt,
+                        headers=headers,
+                        timeout=REQUEST_TIMEOUT,
+                        allow_redirects=True,
+                        verify=False,
+                    )
+                    if resp_alt.status_code == 200:
+                        resp = resp_alt
             # Tenta identificar o tipo pelo MIME type do servidor
             content_type = resp.headers.get("Content-Type", "")
             tipo = mime_para_extensao(content_type)

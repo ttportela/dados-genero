@@ -48,28 +48,6 @@ pip install -r requirements.txt
 
 ### 3. Executar o pipeline
 
-Exemplo completo por partes:
-
-```bash
-# 1. Rodar crawler com limite de profundidade 10:
-python main.py maringa --sem-limite --etapa 1 --max-profundidade 10
-# 2. Re-crawler com as urls que deram erro também:
-python main.py maringa --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros
-
-# 3. Baixar os arquivos:
-python main.py maringa --etapa 2   
-
-# 4. Analisar os arquivos de forma automática, inicialmente:
-python main.py maringa --etapa 3 
-
-# Adicione ao final de cada comando acima para salvar um log da execução: 
-# 2>&1 | tee -a resultados/_logs/maringa.txt
-python main.py maringa --etapa 3 2>&1 | tee -a resultados/_logs/maringa.txt
-
-```
-
-Outros Exemplos:
-
 ```bash
 # Rodar o pipeline completo para uma cidade (Etapas 1 → 2 → 3)
 python main.py maringa
@@ -160,6 +138,44 @@ O arquivo `cidades.json` na raiz do projeto define as cidades-alvo. Cada cidade 
   - omitido ou `false`: Usa o valor global de `config.py`
 
 Os resultados são gerados na pasta `resultados/<cidade>/`.
+
+### 7. Metodologia passo a passo:
+
+Exemplo completo por partes:
+
+```bash
+# 1. Rodar crawler com limite de profundidade 10:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10
+
+# 2. Atualizar o arquivo cidades.json com outros portais descobertos
+# (busca site da prefeitura e portal da transparência na web e se o link
+# existir no inventário_externos, adiciona a configuração)
+python descobrir_cidades.py --estado pr --cidade maringa --buscar-web --apenas-inventario
+
+# 3. Re-crawler com as urls que deram erro também e novas sementes adicionadas:
+python main.py maringa --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros
+
+# 4. Baixar os arquivos:
+python main.py maringa --etapa 2   
+
+# 5. Analisar os arquivos de forma automática, inicialmente:
+python main.py maringa --etapa 3 
+
+# Adicione ao final de cada comando acima para salvar um log da execução: 
+# 2>&1 | tee -a resultados/_logs/maringa.txt
+python main.py maringa --etapa 3 2>&1 | tee -a resultados/_logs/maringa.txt
+
+```
+
+OU
+
+```bash
+# Executar o pipeline completo para uma cidade:
+./run_pipeline.sh maringa
+```
+
+
+
 
 ## 📊 Resultados
 

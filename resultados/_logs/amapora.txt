@@ -1,0 +1,46 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | AMAPORA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: AMAPORA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.amapora.pr.gov.br/
+  [2/sem limite] fila=100 | depth=1 | https://www.amapora.pr.gov.br/mapa-site/
+  [3/sem limite] fila=99 | depth=1 | https://www.amapora.pr.gov.br/pagina/10/certidao-negativa-e-validacao-de-certida
+ ❌ HTTP_500: https://www.amapora.pr.gov.br/pagina/10/certidao-negativa-e-validacao-de-certidao
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/10/certidao-negativa-e-validacao-de-certidao
+  [4/sem limite] fila=98 | depth=1 | https://www.amapora.pr.gov.br/agendamento
+  [5/sem limite] fila=97 | depth=1 | https://www.amapora.pr.gov.br/concurso
+  [6/sem limite] fila=115 | depth=1 | https://www.amapora.pr.gov.br/auxilio-brasil
+  [7/sem limite] fila=117 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria
+  [8/sem limite] fila=125 | depth=1 | https://www.amapora.pr.gov.br/itr
+  [9/sem limite] fila=130 | depth=1 | https://www.amapora.pr.gov.br/licitacao
+  [10/sem limite] fila=132 | depth=1 | https://www.amapora.pr.gov.br/ouvidoria
+  [11/sem limite] fila=133 | depth=1 | https://www.amapora.pr.gov.br/fale-conosco
+  [12/sem limite] fila=132 | depth=1 | https://www.amapora.pr.gov.br/webmail/
+  [13/sem limite] fila=131 | depth=1 | https://www.amapora.pr.gov.br/cidade
+  [14/sem limite] fila=130 | depth=1 | https://www.amapora.pr.gov.br/cidade/hino
+  [15/sem limite] fila=129 | depth=1 | https://www.amapora.pr.gov.br/pagina/2/composicao-da-camara/
+  [16/sem limite] fila=128 | depth=1 | https://www.amapora.pr.gov.br/guia-da-cidade
+  [17/sem limite] fila=128 | depth=1 | https://www.amapora.pr.gov.br/cidade/simbolo
+  [18/sem limite] fila=127 | depth=1 | https://www.amapora.pr.gov.br/pagina/4/turismo
+  [19/sem limite] fila=126 | depth=1 | https://www.amapora.pr.gov.br/album-de-fotos
+  [20/sem limite] fila=125 | depth=1 | https://www.amapora.pr.gov.br/web-radio
+  [21/sem limite] fila=124 | depth=1 | https://www.amapora.pr.gov.br/pagina/5/informativos
+  ⚠️ [404] .pdf -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/190
+  ⚠️ [404] .pdf -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/270
+  ⚠️ [404] .pdf -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/270
+  ⚠️ [404] .docx -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/021
+  ⚠️ [0] .docx -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/290
+  ⚠️ [0] .docx -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/010
+  ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/110
+  ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/110

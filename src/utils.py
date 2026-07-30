@@ -357,7 +357,7 @@ def sanitizar_nome_arquivo(nome: str) -> str:
 # REQUISIÇÃO COM RETENTATIVAS
 # =============================================================================
 
-def fazer_request(url: str, stream: bool = False) -> requests.Response | None:
+def fazer_request(url: str, stream: bool = False):
     """
     Realiza uma requisição HTTP com retentativas automáticas e backoff exponencial.
 

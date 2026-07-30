@@ -2272,3 +2272,393 @@ Redirecionamento externo ignorado: https://altamiradoparana.pr.gov.br/auth/googl
  Pipeline encerrado. Resultados em: resultados/altamiradoparana/
 ============================================================
 
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Altamira do Paraná)
+  Cidades já configuradas: 401
+
+  [1/1] 🔍 Altamira do Paraná (slug: altamiradoparana)...   → buscando no DuckDuckGo (apenas inventário)... nenhum portal encontrado ✅ [padrão de slug] 1 semente(s), 2 domínio(s)
+           → https://www.altamiradoparana.pr.gov.br/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 1
+  Sem portal:          0
+  Já configuradas:     0
+
+  ✅ 1 novas cidades salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 402
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 543 arquivos já registrados.
+  Links externos parciais carregados: 937 links já registrados.
+  Log de erros parcial carregado: 15 erros já registrados.
+  Reprocessar erros: 4 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 11 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTAMIRADOPARANA
+  Páginas já visitadas (checkpoint): 1607
+  URLs na fila: 4
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1607)/sem limite] fila=3 | depth=2 | https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  [2 (+1607)/sem limite] fila=2 | depth=3 | https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  [3 (+1607)/sem limite] fila=1 | depth=6 | https://altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  [4 (+1607)/sem limite] fila=0 | depth=7 | https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&c
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_links.xlsx
+  543 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/erros_varredura.xlsx
+  15 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_externos.xlsx
+  937 links externos registrados.
+
+  Varredura encerrada: ALTAMIRADOPARANA
+  Páginas nesta sessão: 4
+  Páginas totais (acumulado): 1611
+  Arquivos no inventário: 543
+  Erros registrados: 15
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 2 - Downloader
+
+
+============================================================
+Downloader iniciado: ALTAMIRADOPARANA
+Total de arquivos no inventário: 543
+Pasta de downloads: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/downloads
+============================================================
+
+Já baixado: https://www.altamiradoparana.pr.gov.br/licitacoes/55b6c565fe
+
+============================================================
+ Deduplicando arquivos (hash MD5)...
+
+============================================================
+ Downloads encerrados: ALTAMIRADOPARANA
+ Novos downloads:                  0
+ Já baixados (sessões anteriores): 1
+ Duplicatas removidas (MD5):        0
+ Arquivos vazios descartados:       0
+ Ignorados (tipo não elegível):    541
+ Erros:                            0
+ Inventário atualizado: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_links.xlsx
+============================================================
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 3 - Analisador
+
+
+============================================================
+  Analisador iniciado: ALTAMIRADOPARANA
+  Arquivos para analisar: 1
+  Termos de gênero no dicionário: 19
+============================================================
+
+Analisando: 55b6c565fe3f6e5fd4f8715dd0ff0707.xlsx
+  ➖ Não | colunas: 19 | termos: —
+
+============================================================
+  Análise concluída: ALTAMIRADOPARANA
+  Com recorte de gênero          : 0
+  Sem recorte de gênero          : 1
+  ZIPs/RARs sem arq. elegíveis   : 0
+  Erros de leitura               : 0
+  Relatório salvo                : /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/relatorio_genero.xlsx
+  Resumo markdown salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/resumo_analise.md
+============================================================
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Altamira do Paraná)
+  Cidades já configuradas: 402
+
+  [1/1] 🔍 Altamira do Paraná (slug: altamiradoparana)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://altamiradoparana.oxy.elotech.com.br/portaltransparencia/1/orcamento/
+              ✅ https://altamiradoparana.pr.gov.br/
+            + ✅ https://www.altamiradoparana.pr.gov.br/secretariasAll/
+              ✅ https://www.amocentro.com.br/portal/portal-publicacoes.php?g=2&t=1/nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 543 arquivos já registrados.
+  Links externos parciais carregados: 937 links já registrados.
+  Log de erros parcial carregado: 15 erros já registrados.
+  Reprocessar erros: 4 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 11 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTAMIRADOPARANA
+  Páginas já visitadas (checkpoint): 1607
+  URLs na fila: 4
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1607)/sem limite] fila=3 | depth=2 | https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  [2 (+1607)/sem limite] fila=2 | depth=3 | https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  [3 (+1607)/sem limite] fila=1 | depth=6 | https://altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  [4 (+1607)/sem limite] fila=0 | depth=7 | https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&c
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_links.xlsx
+  543 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/erros_varredura.xlsx
+  15 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_externos.xlsx
+  937 links externos registrados.
+
+  Varredura encerrada: ALTAMIRADOPARANA
+  Páginas nesta sessão: 4
+  Páginas totais (acumulado): 1611
+  Arquivos no inventário: 543
+  Erros registrados: 15
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Altamira do Paraná)
+  Cidades já configuradas: 404
+
+  [1/1] 🔍 Altamira do Paraná (slug: altamiradoparana)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://altamiradoparana.oxy.elotech.com.br/portaltransparencia/1/orcamento/
+              ✅ https://altamiradoparana.pr.gov.br/
+            + ✅ https://www.altamiradoparana.pr.gov.br/secretariasAll/
+              ✅ https://www.amocentro.com.br/portal/portal-publicacoes.php?g=2&t=1/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 543 arquivos já registrados.
+  Links externos parciais carregados: 937 links já registrados.
+  Log de erros parcial carregado: 15 erros já registrados.
+  Reprocessar erros: 4 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 11 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTAMIRADOPARANA
+  Páginas já visitadas (checkpoint): 1607
+  URLs na fila: 4
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1607)/sem limite] fila=3 | depth=2 | https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  [2 (+1607)/sem limite] fila=2 | depth=3 | https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  [3 (+1607)/sem limite] fila=1 | depth=6 | https://altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  [4 (+1607)/sem limite] fila=0 | depth=7 | https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&c
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_links.xlsx
+  543 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/erros_varredura.xlsx
+  15 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_externos.xlsx
+  937 links externos registrados.
+
+  Varredura encerrada: ALTAMIRADOPARANA
+  Páginas nesta sessão: 4
+  Páginas totais (acumulado): 1611
+  Arquivos no inventário: 543
+  Erros registrados: 15
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Altamira do Paraná)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Altamira do Paraná (slug: altamiradoparana)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://altamiradoparana.oxy.elotech.com.br/portaltransparencia/1/orcamento/
+              ✅ https://altamiradoparana.pr.gov.br/
+            + ✅ https://www.altamiradoparana.pr.gov.br/secretariasAll/
+              ✅ https://www.amocentro.com.br/portal/portal-publicacoes.php?g=2&t=1/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ALTAMIRADOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 543 arquivos já registrados.
+  Links externos parciais carregados: 937 links já registrados.
+  Log de erros parcial carregado: 15 erros já registrados.
+  Reprocessar erros: 4 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 11 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ALTAMIRADOPARANA
+  Páginas já visitadas (checkpoint): 1607
+  URLs na fila: 4
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1607)/sem limite] fila=3 | depth=2 | https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/mapa-site-xml
+  [2 (+1607)/sem limite] fila=2 | depth=3 | https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id
+ ❌ HTTP_500: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://www.altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  [3 (+1607)/sem limite] fila=1 | depth=6 | https://altamiradoparana.pr.gov.br/mapa-site-xml
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/mapa-site-xml
+  [4 (+1607)/sem limite] fila=0 | depth=7 | https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&c
+ ❌ HTTP_500: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+  🤖 Usando Selenium para: https://altamiradoparana.pr.gov.br/page_carta_de_servicos_individual?tipo_id=1&carta_id=4&categoria_id=1
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_links.xlsx
+  543 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/erros_varredura.xlsx
+  15 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altamiradoparana/inventario_externos.xlsx
+  937 links externos registrados.
+
+  Varredura encerrada: ALTAMIRADOPARANA
+  Páginas nesta sessão: 4
+  Páginas totais (acumulado): 1611
+  Arquivos no inventário: 543
+  Erros registrados: 15
+
+
+ Pipeline encerrado. Resultados em: resultados/altamiradoparana/
+============================================================
+
