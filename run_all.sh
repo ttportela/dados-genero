@@ -1,23 +1,24 @@
-# ** # ./run_pipeline.sh abatia
+# ./run_pipeline.sh abatia
 # ./run_pipeline.sh adrianopolis
-# ** # ./run_pipeline.sh agudosdosul
+# ./run_pipeline.sh agudosdosul
 # ./run_pipeline.sh almirantetamandare
 # ./run_pipeline.sh altamiradoparana
 # ./run_pipeline.sh altonia
 # ./run_pipeline.sh altoparana
 # ./run_pipeline.sh altopiquiri
 # ./run_pipeline.sh alvoradadosul
-# ** # ./run_pipeline.sh altoparaiso
-# ** # ./run_pipeline.sh amapora
-
-# Executei as de cima ou estou rodando as de cima
-
+# ./run_pipeline.sh altoparaiso
+# ./run_pipeline.sh amapora
 # ./run_pipeline.sh ampere
 # ./run_pipeline.sh anahy
 # ./run_pipeline.sh andira
+
 # ./run_pipeline.sh angulo
 # ./run_pipeline.sh antonina
 # ./run_pipeline.sh antonioolinto
+
+# Executei as de cima ou estou rodando as de cima
+
 # ./run_pipeline.sh apucarana
 # ./run_pipeline.sh arapongas
 # ./run_pipeline.sh arapoti

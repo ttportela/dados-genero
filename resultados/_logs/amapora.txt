@@ -46,3 +46,764 @@ Nenhum checkpoint encontrado — iniciando do zero.
   ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/110
   ⚠️ [0] .docx -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/170
   ⚠️ [0] .pdf -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/160
+  ⚠️ [0] .docx -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/100
+  ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/070
+  ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/190
+  ⚠️ [0] .doc -> https://www.amapora.pr.gov.br/public/admin/globalarq/uploads/files/190
+  [22/sem limite] fila=125 | depth=1 | https://www.amapora.pr.gov.br/expediente
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/expediente
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/expediente
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/expediente
+  [23/sem limite] fila=124 | depth=1 | https://previdencia.amapora.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://previdencia.amapora.pr.gov.br/
+  🤖 Usando Selenium para: https://previdencia.amapora.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://previdencia.amapora.pr.gov.br/
+  [24/sem limite] fila=123 | depth=1 | https://www.amapora.pr.gov.br/prefeitura
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura
+  [25/sem limite] fila=122 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/departamento
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/departamento
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/departamento
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/departamento
+  [26/sem limite] fila=121 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/organograma
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/organograma
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/organograma
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/organograma
+  [27/sem limite] fila=120 | depth=1 | https://www.amapora.pr.gov.br/estrutura
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/estrutura
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/estrutura
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/estrutura
+  [28/sem limite] fila=119 | depth=1 | https://www.amapora.pr.gov.br/pagina/3/emails-da-prefeitura
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/3/emails-da-prefeitura
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/3/emails-da-prefeitura
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/3/emails-da-prefeitura
+  [29/sem limite] fila=118 | depth=1 | https://www.amapora.pr.gov.br/galeria-videos
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/galeria-videos
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/galeria-videos
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/galeria-videos
+  [30/sem limite] fila=117 | depth=1 | https://www.amapora.pr.gov.br/comissao
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/comissao
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/comissao
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/comissao
+  [31/sem limite] fila=116 | depth=1 | https://www.amapora.pr.gov.br/evento
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/evento
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/evento
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/evento
+  [32/sem limite] fila=115 | depth=1 | https://www.amapora.pr.gov.br/glossario
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/glossario
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/glossario
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/glossario
+  [33/sem limite] fila=114 | depth=1 | https://www.amapora.pr.gov.br/legislacao/lista/2004/categoria/8/lei-organica/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/lista/2004/categoria/8/lei-organica/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/lista/2004/categoria/8/lei-organica/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/lista/2004/categoria/8/lei-organica/
+  [34/sem limite] fila=113 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/telefones
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/telefones
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/telefones
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/telefones
+  [35/sem limite] fila=112 | depth=1 | https://www.amapora.pr.gov.br/cidadao
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/cidadao
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/cidadao
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/cidadao
+  [36/sem limite] fila=111 | depth=1 | https://www.amapora.pr.gov.br/junta-militar
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/junta-militar
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/junta-militar
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/junta-militar
+  [37/sem limite] fila=110 | depth=1 | https://www.amapora.pr.gov.br/denuncia-de-descarte
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/denuncia-de-descarte
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/denuncia-de-descarte
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/denuncia-de-descarte
+  [38/sem limite] fila=109 | depth=1 | https://www.amapora.pr.gov.br/meio-ambiente
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/meio-ambiente
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/meio-ambiente
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/meio-ambiente
+  [39/sem limite] fila=108 | depth=1 | https://www.amapora.pr.gov.br/portal-educacao
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/portal-educacao
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/portal-educacao
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/portal-educacao
+  [40/sem limite] fila=107 | depth=1 | https://www.amapora.pr.gov.br/pagina/24/secretaria-municipal-de-saude
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/24/secretaria-municipal-de-saude
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/24/secretaria-municipal-de-saude
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/24/secretaria-municipal-de-saude
+  [41/sem limite] fila=106 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/perguntas-frequentes
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/perguntas-frequentes
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/perguntas-frequentes
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/perguntas-frequentes
+  [42/sem limite] fila=105 | depth=1 | https://www.amapora.pr.gov.br/pagina/15/saude
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/15/saude
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/15/saude
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/15/saude
+  [43/sem limite] fila=104 | depth=1 | https://www.amapora.pr.gov.br/carta-servico/categoria
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/carta-servico/categoria
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/carta-servico/categoria
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/carta-servico/categoria
+  [44/sem limite] fila=103 | depth=1 | https://www.previdencia.amapora.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.previdencia.amapora.pr.gov.br/
+  🤖 Usando Selenium para: https://www.previdencia.amapora.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.previdencia.amapora.pr.gov.br/
+  [45/sem limite] fila=102 | depth=1 | https://www.amapora.pr.gov.br/poda-arvore
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/poda-arvore
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/poda-arvore
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/poda-arvore
+  [46/sem limite] fila=101 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/links-uteis
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/links-uteis
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/links-uteis
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/links-uteis
+  [47/sem limite] fila=100 | depth=1 | https://www.amapora.pr.gov.br/covid
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/covid
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/covid
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/covid
+  [48/sem limite] fila=99 | depth=1 | https://www.amapora.pr.gov.br/pagina/6/covid-19-documentos-auxiliares
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/6/covid-19-documentos-auxiliares
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/6/covid-19-documentos-auxiliares
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/6/covid-19-documentos-auxiliares
+  [49/sem limite] fila=98 | depth=1 | https://www.amapora.pr.gov.br/conta-publica
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/conta-publica
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/conta-publica
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/conta-publica
+  [50/sem limite] fila=97 | depth=1 | https://www.amapora.pr.gov.br/plano-municipal
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/plano-municipal
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/plano-municipal
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/plano-municipal
+  [51/sem limite] fila=96 | depth=1 | https://www.amapora.pr.gov.br/consulta-protocolo
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/consulta-protocolo
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/consulta-protocolo
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/consulta-protocolo
+  [52/sem limite] fila=95 | depth=1 | https://www.amapora.pr.gov.br/terceiro-setor
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/terceiro-setor
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/terceiro-setor
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/terceiro-setor
+  [53/sem limite] fila=94 | depth=1 | https://www.amapora.pr.gov.br/unidade-fiscal
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/unidade-fiscal
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/unidade-fiscal
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/unidade-fiscal
+  [54/sem limite] fila=93 | depth=1 | https://www.amapora.pr.gov.br/pagina/11/iptu
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/11/iptu
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/11/iptu
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/11/iptu
+  [55/sem limite] fila=92 | depth=1 | https://www.amapora.pr.gov.br/pagina/12/divida-ativa
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/12/divida-ativa
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/12/divida-ativa
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/12/divida-ativa
+  [56/sem limite] fila=91 | depth=1 | https://www.amapora.pr.gov.br/pagina/29/incentivo-cultural-lei-aldir-blanc
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/29/incentivo-cultural-lei-aldir-blanc
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/29/incentivo-cultural-lei-aldir-blanc
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/29/incentivo-cultural-lei-aldir-blanc
+  [57/sem limite] fila=90 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/47/ppss-2026-saude-e-assistenciap
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/47/ppss-2026-saude-e-assistenciap
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/47/ppss-2026-saude-e-assistenciap
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/47/ppss-2026-saude-e-assistenciap
+  [58/sem limite] fila=89 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystron
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp
+  [59/sem limite] fila=88 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento
+  [60/sem limite] fila=87 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/85/paquisicao-de-maquinas-de-cos
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/85/paquisicao-de-maquinas-de-costura-reta-industrial-convencional-com-motor-eletronico-destinadas-a-execucao-das-oficinas-de-corte-e-costura-em-tecidos-em-geral-promovidas-pela-secretaria-municipal-de-assistencia-social-do-municipio-de-amaporaprp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/85/paquisicao-de-maquinas-de-costura-reta-industrial-convencional-com-motor-eletronico-destinadas-a-execucao-das-oficinas-de-corte-e-costura-em-tecidos-em-geral-promovidas-pela-secretaria-municipal-de-assistencia-social-do-municipio-de-amaporaprp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/85/paquisicao-de-maquinas-de-costura-reta-industrial-convencional-com-motor-eletronico-destinadas-a-execucao-das-oficinas-de-corte-e-costura-em-tecidos-em-geral-promovidas-pela-secretaria-municipal-de-assistencia-social-do-municipio-de-amaporaprp
+  [61/sem limite] fila=86 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/83/pcontratacao-de-empresa-espec
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/83/pcontratacao-de-empresa-especializada-para-a-elaboracao-de-projetos-de-engenharia-de-infraestrutura-urbana-e-pavimentacao-em-atendimento-a-secretaria-municipal-de-infraestrutura-agricultura-e-meio-ambiente-do-municipio-de-amaporaprnbspp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/83/pcontratacao-de-empresa-especializada-para-a-elaboracao-de-projetos-de-engenharia-de-infraestrutura-urbana-e-pavimentacao-em-atendimento-a-secretaria-municipal-de-infraestrutura-agricultura-e-meio-ambiente-do-municipio-de-amaporaprnbspp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/83/pcontratacao-de-empresa-especializada-para-a-elaboracao-de-projetos-de-engenharia-de-infraestrutura-urbana-e-pavimentacao-em-atendimento-a-secretaria-municipal-de-infraestrutura-agricultura-e-meio-ambiente-do-municipio-de-amaporaprnbspp
+  [62/sem limite] fila=85 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/82/pcontratacao-de-pessoa-juridi
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/82/pcontratacao-de-pessoa-juridica-especializada-para-prestacao-de-servicos-de-seguro-total-do-veiculo-citroenbasalt-pertencente-a-secretaria-municipal-de-assistencia-socialp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/82/pcontratacao-de-pessoa-juridica-especializada-para-prestacao-de-servicos-de-seguro-total-do-veiculo-citroenbasalt-pertencente-a-secretaria-municipal-de-assistencia-socialp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/82/pcontratacao-de-pessoa-juridica-especializada-para-prestacao-de-servicos-de-seguro-total-do-veiculo-citroenbasalt-pertencente-a-secretaria-municipal-de-assistencia-socialp
+  [63/sem limite] fila=84 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/81/pcontratacao-de-empresa-jorna
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/81/pcontratacao-de-empresa-jornalistica-especializada-para-a-publicacao-de-extratos-de-editais-de-licitacao-do-municipio-de-amaporapr-em-jornal-impresso-diario-de-grande-circulacao-regional-e-em-edicao-eletronica-online-com-entrega-de-exemplares-fisicos-e-fornecimento-de-certidoes-comprobator
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/81/pcontratacao-de-empresa-jornalistica-especializada-para-a-publicacao-de-extratos-de-editais-de-licitacao-do-municipio-de-amaporapr-em-jornal-impresso-diario-de-grande-circulacao-regional-e-em-edicao-eletronica-online-com-entrega-de-exemplares-fisicos-e-fornecimento-de-certidoes-comprobator
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/81/pcontratacao-de-empresa-jornalistica-especializada-para-a-publicacao-de-extratos-de-editais-de-licitacao-do-municipio-de-amaporapr-em-jornal-impresso-diario-de-grande-circulacao-regional-e-em-edicao-eletronica-online-com-entrega-de-exemplares-fisicos-e-fornecimento-de-certidoes-comprobator
+  [64/sem limite] fila=83 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/46/ppss-01-2026p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/46/ppss-01-2026p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/46/ppss-01-2026p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/46/ppss-01-2026p
+  [65/sem limite] fila=82 | depth=1 | https://www.amapora.pr.gov.br/licitacao/detalhe/80/pcontratacao-de-empresa-espec
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/80/pcontratacao-de-empresa-especializada-para-execucao-de-ensaios-tecnologicos-de-controle-e-verificacao-estrutural-do-pavimento-incluindo-teste-de-carga-com-emissao-de-laudo-tecnico-conclusivo-visando-subsidiar-o-projeto-e-a-execucao-dos-servicos-de-recapeamento-asfaltico-em-vias-urbanas-do-mu
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/80/pcontratacao-de-empresa-especializada-para-execucao-de-ensaios-tecnologicos-de-controle-e-verificacao-estrutural-do-pavimento-incluindo-teste-de-carga-com-emissao-de-laudo-tecnico-conclusivo-visando-subsidiar-o-projeto-e-a-execucao-dos-servicos-de-recapeamento-asfaltico-em-vias-urbanas-do-mu
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/80/pcontratacao-de-empresa-especializada-para-execucao-de-ensaios-tecnologicos-de-controle-e-verificacao-estrutural-do-pavimento-incluindo-teste-de-carga-com-emissao-de-laudo-tecnico-conclusivo-visando-subsidiar-o-projeto-e-a-execucao-dos-servicos-de-recapeamento-asfaltico-em-vias-urbanas-do-mu
+  [66/sem limite] fila=81 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/45/pconcurso-emprego-publico-55-2
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/45/pconcurso-emprego-publico-55-2025p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/45/pconcurso-emprego-publico-55-2025p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/45/pconcurso-emprego-publico-55-2025p
+  [67/sem limite] fila=80 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/44/pconcurso-publico-542025p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/44/pconcurso-publico-542025p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/44/pconcurso-publico-542025p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/44/pconcurso-publico-542025p
+  [68/sem limite] fila=79 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/43/peleicoes-dos-membros-do-conse
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/43/peleicoes-dos-membros-do-conselho-municipal-de-previdencia-conselho-deliberativo-e-conselho-fiscal-do-amaporaprev-fundo-previdenciario-de-previdencia-dos-servidores-publicos-do-municipio-de-amapora-para-o-quadrienio-20262029p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/43/peleicoes-dos-membros-do-conselho-municipal-de-previdencia-conselho-deliberativo-e-conselho-fiscal-do-amaporaprev-fundo-previdenciario-de-previdencia-dos-servidores-publicos-do-municipio-de-amapora-para-o-quadrienio-20262029p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/43/peleicoes-dos-membros-do-conselho-municipal-de-previdencia-conselho-deliberativo-e-conselho-fiscal-do-amaporaprev-fundo-previdenciario-de-previdencia-dos-servidores-publicos-do-municipio-de-amapora-para-o-quadrienio-20262029p
+  [69/sem limite] fila=78 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/42/ppss-diversos-2025p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/42/ppss-diversos-2025p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/42/ppss-diversos-2025p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/42/ppss-diversos-2025p
+  [70/sem limite] fila=77 | depth=1 | https://www.amapora.pr.gov.br/concurso/detalhe/41/ppss-saude-2025p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/detalhe/41/ppss-saude-2025p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/detalhe/41/ppss-saude-2025p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/detalhe/41/ppss-saude-2025p
+  [71/sem limite] fila=76 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/801/pinstitui-o-diario-oficial-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/801/pinstitui-o-diario-oficial-dos-municipios-do-parana-como-veiculo-oficial-de-comunicacao-dos-atos-normativos-e-administrativos-do-municipio-de-amapora-e-da-outras-providenciasp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/801/pinstitui-o-diario-oficial-dos-municipios-do-parana-como-veiculo-oficial-de-comunicacao-dos-atos-normativos-e-administrativos-do-municipio-de-amapora-e-da-outras-providenciasp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/801/pinstitui-o-diario-oficial-dos-municipios-do-parana-como-veiculo-oficial-de-comunicacao-dos-atos-normativos-e-administrativos-do-municipio-de-amapora-e-da-outras-providenciasp
+  [72/sem limite] fila=75 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/811/pinformacao-vtnp
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/811/pinformacao-vtnp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/811/pinformacao-vtnp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/811/pinformacao-vtnp
+  [73/sem limite] fila=74 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/806/pinclusao-e-alteracao-de-ac
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/806/pinclusao-e-alteracao-de-acoes-de-governo-no-ppa-para-o-exercicio-de-2019-e-da-outras-providenciasp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/806/pinclusao-e-alteracao-de-acoes-de-governo-no-ppa-para-o-exercicio-de-2019-e-da-outras-providenciasp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/806/pinclusao-e-alteracao-de-acoes-de-governo-no-ppa-para-o-exercicio-de-2019-e-da-outras-providenciasp
+  [74/sem limite] fila=73 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/810/pestima-a-receita-e-fixa-a-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/810/pestima-a-receita-e-fixa-a-despesa-do-municipio-de-amapora-estado-do-parana-para-o-exercicio-financeiro-de-2019p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/810/pestima-a-receita-e-fixa-a-despesa-do-municipio-de-amapora-estado-do-parana-para-o-exercicio-financeiro-de-2019p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/810/pestima-a-receita-e-fixa-a-despesa-do-municipio-de-amapora-estado-do-parana-para-o-exercicio-financeiro-de-2019p
+  [75/sem limite] fila=72 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/808/paltera-o-anexo-da-relacao-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/808/paltera-o-anexo-da-relacao-das-prioridades-por-orgao-e-unidade-da-lei-de-diretrizes-orcamentaria-para-o-exercicio-de-2019p
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/808/paltera-o-anexo-da-relacao-das-prioridades-por-orgao-e-unidade-da-lei-de-diretrizes-orcamentaria-para-o-exercicio-de-2019p
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/808/paltera-o-anexo-da-relacao-das-prioridades-por-orgao-e-unidade-da-lei-de-diretrizes-orcamentaria-para-o-exercicio-de-2019p
+  [76/sem limite] fila=71 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/809/pdispoe-sobre-as-diretrizes
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/809/pdispoe-sobre-as-diretrizes-para-a-elaboracao-da-lei-orcamentaria-de-2019-do-municipio-de-amapora-parana-e-da-outras-providenciasp
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/809/pdispoe-sobre-as-diretrizes-para-a-elaboracao-da-lei-orcamentaria-de-2019-do-municipio-de-amapora-parana-e-da-outras-providenciasp
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/809/pdispoe-sobre-as-diretrizes-para-a-elaboracao-da-lei-orcamentaria-de-2019-do-municipio-de-amapora-parana-e-da-outras-providenciasp
+  [77/sem limite] fila=70 | depth=1 | https://www.amapora.pr.gov.br/legislacao/detalhe/804/pregulamenta-e-disciplina-a
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/legislacao/detalhe/804/pregulamenta-e-disciplina-a-gestao-de-e-mails-do-municipio-de-amaporap
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/legislacao/detalhe/804/pregulamenta-e-disciplina-a-gestao-de-e-mails-do-municipio-de-amaporap
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/legislacao/detalhe/804/pregulamenta-e-disciplina-a-gestao-de-e-mails-do-municipio-de-amaporap
+  [78/sem limite] fila=69 | depth=1 | https://www.amapora.pr.gov.br/album-de-fotos/foto/1/turismo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/album-de-fotos/foto/1/turismo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/album-de-fotos/foto/1/turismo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/album-de-fotos/foto/1/turismo/
+  [79/sem limite] fila=68 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria/6/obras/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/6/obras/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/6/obras/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/6/obras/
+  [80/sem limite] fila=67 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/50/saude/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/50/saude/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/50/saude/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/50/saude/
+  [81/sem limite] fila=66 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/49/educacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/49/educacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/49/educacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/49/educacao/
+  [82/sem limite] fila=65 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/47/assistencia-soc
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/47/assistencia-social/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/47/assistencia-social/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/47/assistencia-social/
+  [83/sem limite] fila=64 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/42/administracao/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/42/administracao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/42/administracao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/42/administracao/
+  [84/sem limite] fila=63 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/43/diretor-do-dept
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/43/diretor-do-depto-de-administracao-secretaria-de-administracao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/43/diretor-do-depto-de-administracao-secretaria-de-administracao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/43/diretor-do-depto-de-administracao-secretaria-de-administracao/
+  [85/sem limite] fila=62 | depth=1 | https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/46/chefe-da-divisa
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/46/chefe-da-divisao-de-tesouraria/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/46/chefe-da-divisao-de-tesouraria/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/prefeitura/detalhe-departamento/46/chefe-da-divisao-de-tesouraria/
+  [86/sem limite] fila=61 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria/5/cultura/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/5/cultura/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/5/cultura/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/5/cultura/
+  [87/sem limite] fila=60 | depth=1 | https://www.amapora.pr.gov.br/noticia/29/audiencia-publica-/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/29/audiencia-publica-/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/29/audiencia-publica-/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/29/audiencia-publica-/
+  [88/sem limite] fila=59 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria/11/meio-ambiente-e-agricultura/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/11/meio-ambiente-e-agricultura/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/11/meio-ambiente-e-agricultura/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/11/meio-ambiente-e-agricultura/
+  [89/sem limite] fila=58 | depth=1 | https://www.amapora.pr.gov.br/noticia/28/regulamento-da-1-a-conferencia-de-meio-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/28/regulamento-da-1-a-conferencia-de-meio-ambiente-intermunicpal-de-paranavai-e-mirador/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/28/regulamento-da-1-a-conferencia-de-meio-ambiente-intermunicpal-de-paranavai-e-mirador/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/28/regulamento-da-1-a-conferencia-de-meio-ambiente-intermunicpal-de-paranavai-e-mirador/
+  [90/sem limite] fila=57 | depth=1 | https://www.amapora.pr.gov.br/noticia/27/63-sexagesimo-terceiro-aniversario-da-e
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/27/63-sexagesimo-terceiro-aniversario-da-emancipacao-do-municipio-de-amapora/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/27/63-sexagesimo-terceiro-aniversario-da-emancipacao-do-municipio-de-amapora/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/27/63-sexagesimo-terceiro-aniversario-da-emancipacao-do-municipio-de-amapora/
+  [91/sem limite] fila=56 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria/14/saude/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/14/saude/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/14/saude/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/14/saude/
+  [92/sem limite] fila=55 | depth=1 | https://www.amapora.pr.gov.br/noticia/9/mesarios-voluntarios-com-deficiencia-/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/9/mesarios-voluntarios-com-deficiencia-/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/9/mesarios-voluntarios-com-deficiencia-/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/9/mesarios-voluntarios-com-deficiencia-/
+  [93/sem limite] fila=54 | depth=1 | https://www.amapora.pr.gov.br/noticia/25/sisab-sistema-de-informacao-em-saude-pa
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/25/sisab-sistema-de-informacao-em-saude-para-a-atencao-basica/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/25/sisab-sistema-de-informacao-em-saude-para-a-atencao-basica/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/25/sisab-sistema-de-informacao-em-saude-para-a-atencao-basica/
+  [94/sem limite] fila=53 | depth=1 | https://www.amapora.pr.gov.br/noticia/24/cinema-na-praca/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/24/cinema-na-praca/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/24/cinema-na-praca/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/24/cinema-na-praca/
+  [95/sem limite] fila=52 | depth=1 | https://www.amapora.pr.gov.br/noticia/categoria/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/
+  [96/sem limite] fila=51 | depth=1 | https://www.amapora.pr.gov.br/pagina/27/secretaria-municipal-de-educacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/27/secretaria-municipal-de-educacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/27/secretaria-municipal-de-educacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/27/secretaria-municipal-de-educacao/
+  [97/sem limite] fila=50 | depth=1 | https://www.amapora.pr.gov.br/sic-servico-de-informacao-ao-cidadao
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/sic-servico-de-informacao-ao-cidadao
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/sic-servico-de-informacao-ao-cidadao
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/sic-servico-de-informacao-ao-cidadao
+  [98/sem limite] fila=49 | depth=1 | https://www.amapora.pr.gov.br/webmail
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/webmail
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/webmail
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/webmail
+  [99/sem limite] fila=48 | depth=1 | https://www.amapora.pr.gov.br/fale-conosco/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/fale-conosco/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/fale-conosco/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/fale-conosco/
+  [100/sem limite] fila=47 | depth=1 | https://www.amapora.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+  [101/sem limite] fila=46 | depth=1 | https://www.amapora.pr.gov.br/politicas-de-cookies/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/politicas-de-cookies/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/politicas-de-cookies/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/politicas-de-cookies/
+  [102/sem limite] fila=45 | depth=1 | https://www.amapora.pr.gov.br/lgpd/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/lgpd/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/lgpd/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/lgpd/
+  [103/sem limite] fila=44 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/24/processo-seletivo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/24/processo-seletivo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/24/processo-seletivo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/24/processo-seletivo/
+  [104/sem limite] fila=43 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/25/concurso/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/25/concurso/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/25/concurso/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/25/concurso/
+  [105/sem limite] fila=42 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/26/concurso-publico-2022/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/26/concurso-publico-2022/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/26/concurso-publico-2022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/26/concurso-publico-2022/
+  [106/sem limite] fila=41 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/27/pss-2022/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/27/pss-2022/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/27/pss-2022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/27/pss-2022/
+  [107/sem limite] fila=40 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/28/concurso-publico-2020/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/28/concurso-publico-2020/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/28/concurso-publico-2020/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/28/concurso-publico-2020/
+  [108/sem limite] fila=39 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/29/concurso-emprego-publico-202
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/29/concurso-emprego-publico-2022/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/29/concurso-emprego-publico-2022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/29/concurso-emprego-publico-2022/
+  [109/sem limite] fila=38 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/30/pss-odontologo-2023/
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Amaporã)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Amaporã (slug: amapora)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | AMAPORA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 14 arquivos já registrados.
+
+============================================================
+  Crawler iniciado: AMAPORA
+  Páginas já visitadas (checkpoint): 109
+  URLs na fila: 38
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+109)/sem limite] fila=37 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+  [2 (+109)/sem limite] fila=36 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+  [3 (+109)/sem limite] fila=35 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-insti
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+  [4 (+109)/sem limite] fila=34 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+  [5 (+109)/sem limite] fila=33 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+  [6 (+109)/sem limite] fila=32 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+  [7 (+109)/sem limite] fila=31 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+  [8 (+109)/sem limite] fila=30 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+  [9 (+109)/sem limite] fila=29 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+  [10 (+109)/sem limite] fila=28 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+  [11 (+109)/sem limite] fila=27 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-202
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+  [12 (+109)/sem limite] fila=26 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assisten
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+  [13 (+109)/sem limite] fila=25 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+  [14 (+109)/sem limite] fila=24 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+  [15 (+109)/sem limite] fila=23 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+  [16 (+109)/sem limite] fila=22 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+  [17 (+109)/sem limite] fila=21 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+  [18 (+109)/sem limite] fila=20 | depth=2 | https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+  [19 (+109)/sem limite] fila=19 | depth=2 | https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+  [20 (+109)/sem limite] fila=18 | depth=2 | https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+  [21 (+109)/sem limite] fila=17 | depth=2 | https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+  [22 (+109)/sem limite] fila=16 | depth=2 | https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+  [23 (+109)/sem limite] fila=15 | depth=2 | https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+  [24 (+109)/sem limite] fila=14 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/page/2
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+  [25 (+109)/sem limite] fila=13 | depth=2 | https://www.amapora.pr.gov.br/itr/download/6/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/6/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/6/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/6/
+  [26 (+109)/sem limite] fila=12 | depth=2 | https://www.amapora.pr.gov.br/itr/download/5/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/5/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/5/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/5/
+  [27 (+109)/sem limite] fila=11 | depth=2 | https://www.amapora.pr.gov.br/itr/download/4/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/4/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/4/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/4/
+  [28 (+109)/sem limite] fila=10 | depth=2 | https://www.amapora.pr.gov.br/itr/download/3/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/3/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/3/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/3/
+  [29 (+109)/sem limite] fila=9 | depth=2 | https://www.amapora.pr.gov.br/itr/download/2/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/2/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/2/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/2/
+  [30 (+109)/sem limite] fila=8 | depth=2 | https://www.amapora.pr.gov.br/itr/download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/1/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/1/
+  [31 (+109)/sem limite] fila=7 | depth=2 | https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystron
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+  [32 (+109)/sem limite] fila=6 | depth=2 | https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+  [33 (+109)/sem limite] fila=5 | depth=2 | https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+  [34 (+109)/sem limite] fila=4 | depth=2 | https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+  [35 (+109)/sem limite] fila=3 | depth=2 | https://www.amapora.pr.gov.br/ouvidoria/change-email/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+  [36 (+109)/sem limite] fila=2 | depth=2 | https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+  [37 (+109)/sem limite] fila=1 | depth=2 | https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+  [38 (+109)/sem limite] fila=0 | depth=2 | https://www.amapora.pr.gov.br/pagina/5/informativos/download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/5/informativos/download/1/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/5/informativos/download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/5/informativos/download/1/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/amapora/inventario_links.xlsx
+  14 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/amapora/erros_varredura.xlsx
+  76 erros/bloqueios registrados.
+
+  Varredura encerrada: AMAPORA
+  Páginas nesta sessão: 38
+  Páginas totais (acumulado): 147
+  Arquivos no inventário: 14
+  Erros registrados: 76
+
+
+ Pipeline encerrado. Resultados em: resultados/amapora/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Amaporã)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Amaporã (slug: amapora)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/amapora/index.cfm/
+              ✗ https://www.amapora.pr.gov.br/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Amaporã
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | AMAPORA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 14 arquivos já registrados.
+  Log de erros parcial carregado: 76 erros já registrados.
+  Reprocessar erros: 38 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 38 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: AMAPORA
+  Páginas já visitadas (checkpoint): 109
+  URLs na fila: 38
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+109)/sem limite] fila=37 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/31/pss-enfermeiro/
+  [2 (+109)/sem limite] fila=36 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/32/processo-seletivo-auxiliar-e-tecnico-em-enfermagem/
+  [3 (+109)/sem limite] fila=35 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-insti
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/33/processo-seletivo-itai-instituto-de-tecnologia-aplicada-e-inovacao/
+  [4 (+109)/sem limite] fila=34 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/35/pss-odontologo-2025/
+  [5 (+109)/sem limite] fila=33 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/37/pss-professor-02-2025/
+  [6 (+109)/sem limite] fila=32 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/38/pss-medico-2025/
+  [7 (+109)/sem limite] fila=31 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/39/pss-saude-2025/
+  [8 (+109)/sem limite] fila=30 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/40/pss-diversos-2025/
+  [9 (+109)/sem limite] fila=29 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/41/eleicoes/
+  [10 (+109)/sem limite] fila=28 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/42/concurso-publico-n-542025/
+  [11 (+109)/sem limite] fila=27 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-202
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/43/concurso-emprego-publico-2025/
+  [12 (+109)/sem limite] fila=26 | depth=2 | https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assisten
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/concurso/categoria/46/pss-02-2026-saude-e-assistencia-social/
+  [13 (+109)/sem limite] fila=25 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2024/
+  [14 (+109)/sem limite] fila=24 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2023/
+  [15 (+109)/sem limite] fila=23 | depth=2 | https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/auxilio-brasil/2022/
+  [16 (+109)/sem limite] fila=22 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/15/assistencia-social/
+  [17 (+109)/sem limite] fila=21 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/7/educacao/
+  [18 (+109)/sem limite] fila=20 | depth=2 | https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/23/consulta-publica-para-a-elaboracao-do-plano-anual-de-aplicacao-dos-recursos/
+  [19 (+109)/sem limite] fila=19 | depth=2 | https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/21/eleicao-para-conselheiro-tutelar-2023/
+  [20 (+109)/sem limite] fila=18 | depth=2 | https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/20/consulta-publica-lei-paulo-gustavo-2023-amapora-pr/
+  [21 (+109)/sem limite] fila=17 | depth=2 | https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/17/convite-setembro-amarelo/
+  [22 (+109)/sem limite] fila=16 | depth=2 | https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/16/assistencia-social-de-amapora/
+  [23 (+109)/sem limite] fila=15 | depth=2 | https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.amapora.pr.gov.br/noticia/15/cadastro-unico-/
+  [24 (+109)/sem limite] fila=14 | depth=2 | https://www.amapora.pr.gov.br/noticia/categoria/page/2
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/noticia/categoria/page/2
+  [25 (+109)/sem limite] fila=13 | depth=2 | https://www.amapora.pr.gov.br/itr/download/6/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/6/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/6/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/6/
+  [26 (+109)/sem limite] fila=12 | depth=2 | https://www.amapora.pr.gov.br/itr/download/5/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/5/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/5/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/5/
+  [27 (+109)/sem limite] fila=11 | depth=2 | https://www.amapora.pr.gov.br/itr/download/4/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/4/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/4/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/4/
+  [28 (+109)/sem limite] fila=10 | depth=2 | https://www.amapora.pr.gov.br/itr/download/3/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/3/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/3/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/3/
+
+============================================================
+  TCC - Pipeline de Dados Publicos | AMAPORA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 14 arquivos já registrados.
+  Log de erros parcial carregado: 76 erros já registrados.
+
+============================================================
+  Crawler iniciado: AMAPORA
+  Páginas já visitadas (checkpoint): 137
+  URLs na fila: 10
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+137)/sem limite] fila=9 | depth=2 | https://www.amapora.pr.gov.br/itr/download/2/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/2/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/2/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/2/
+  [2 (+137)/sem limite] fila=8 | depth=2 | https://www.amapora.pr.gov.br/itr/download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/itr/download/1/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/itr/download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/itr/download/1/
+  [3 (+137)/sem limite] fila=7 | depth=2 | https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystron
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/86/p-styletext-alignjustifystrongcontratacao-de-empresa-de-organizacao-geral-de-eventos-para-organizacao-da-festa-do-trabalhador-a-ser-realizada-nos-dias-22-de-maio-e-23-de-maio-de-2026-no-municipio-de-amapora-prstrongp/
+  [4 (+137)/sem limite] fila=6 | depth=2 | https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/detalhe/87/p-styletext-alignjustifyspan-stylecolorblackstrongcontratacao-de-empresa-especializada-para-o-fornecimento-montagem-e-desmontagem-de-palco-e-tendas-e-operacao-de-palco-tendas-sistema-de-som-iluminacao-cenica-painel-de-led-e-banheiros-quimicos-destinadas-a-realizacao-do-evento/
+  [5 (+137)/sem limite] fila=5 | depth=2 | https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/licitacao/categoria/24/dispensa-de-licitacao-nova-lei-141332021/
+  [6 (+137)/sem limite] fila=4 | depth=2 | https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/ouvidoria/chamado-anonimo/
+  [7 (+137)/sem limite] fila=3 | depth=2 | https://www.amapora.pr.gov.br/ouvidoria/change-email/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/ouvidoria/change-email/
+  [8 (+137)/sem limite] fila=2 | depth=2 | https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/

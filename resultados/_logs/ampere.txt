@@ -1,0 +1,166 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | AMPERE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: AMPERE
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.camaraampere.com.br/
+
+  Nenhum arquivo encontrado para ampere.
+
+  Varredura encerrada: AMPERE
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/ampere/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Ampére)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Ampére (slug: ampere)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/ampere/index.cfm/
+            + ✅ https://www.ampere.pr.gov.br/
+              ✅ https://www.ampere.pr.leg.br/
+              ✅ https://www.globgov.com/BR/Amp%C3%A8re/551414984897034/Prefeitura-Municipal-de-Amp%C3%A9re/
+nenhum portal encontrado ✅ [+1 semente(s), +1 domínio(s)]
+           → https://www.ampere.pr.gov.br/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | AMPERE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: AMPERE
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1)/sem limite] fila=0 | depth=0 | https://www.ampere.pr.gov.br/
+  [2 (+1)/sem limite] fila=32 | depth=1 | https://www.ampere.pr.gov.br
+  [3 (+1)/sem limite] fila=31 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1988
+  [4 (+1)/sem limite] fila=30 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1990
+  [5 (+1)/sem limite] fila=29 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1989
+  [6 (+1)/sem limite] fila=28 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1983
+  [7 (+1)/sem limite] fila=27 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1986
+  [8 (+1)/sem limite] fila=26 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1987
+  [9 (+1)/sem limite] fila=25 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368ncb0&id=1985
+  [10 (+1)/sem limite] fila=24 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vpb0
+  [11 (+1)/sem limite] fila=23 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3916
+  [12 (+1)/sem limite] fila=29 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3924
+  [13 (+1)/sem limite] fila=28 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3922
+  [14 (+1)/sem limite] fila=31 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3927
+  [15 (+1)/sem limite] fila=30 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3917
+  [16 (+1)/sem limite] fila=29 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3918
+  [17 (+1)/sem limite] fila=32 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3926
+  [18 (+1)/sem limite] fila=31 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3919
+  [19 (+1)/sem limite] fila=30 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=4060
+  [20 (+1)/sem limite] fila=32 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3921
+  [21 (+1)/sem limite] fila=31 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=4167
+  [22 (+1)/sem limite] fila=30 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3923
+  [23 (+1)/sem limite] fila=29 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368svb0&id=3925
+  [24 (+1)/sem limite] fila=35 | depth=1 | http://ampere.pr.gov.br/index.php?sessao=b054603368b4b0
+  [25 (+1)/sem limite] fila=34 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481440
+  [26 (+1)/sem limite] fila=33 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473456
+  [27 (+1)/sem limite] fila=32 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472318
+  [28 (+1)/sem limite] fila=31 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470386
+  [29 (+1)/sem limite] fila=30 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1451190
+  [30 (+1)/sem limite] fila=29 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476765
+  [31 (+1)/sem limite] fila=28 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466258
+  [32 (+1)/sem limite] fila=27 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462401
+  [33 (+1)/sem limite] fila=26 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462214
+  [34 (+1)/sem limite] fila=25 | depth=1 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1457464
+  [35 (+1)/sem limite] fila=24 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481440&id_secre
+  [36 (+1)/sem limite] fila=23 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473456&id_secre
+  [37 (+1)/sem limite] fila=22 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466258&id_secre
+  [38 (+1)/sem limite] fila=21 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462401&id_secre
+  [39 (+1)/sem limite] fila=20 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462214&id_secre
+  [40 (+1)/sem limite] fila=19 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1457464&id_secre
+  [41 (+1)/sem limite] fila=18 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3916
+  [42 (+1)/sem limite] fila=20 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476765&id_secre
+  [43 (+1)/sem limite] fila=19 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470386&id_secre
+  [44 (+1)/sem limite] fila=18 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1456888&id_secre
+  [45 (+1)/sem limite] fila=17 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3922
+  [46 (+1)/sem limite] fila=18 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368swb0&id=63
+  [47 (+1)/sem limite] fila=17 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462214&id_secre
+  [48 (+1)/sem limite] fila=16 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1451190&id_secre
+  [49 (+1)/sem limite] fila=15 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3918
+  [50 (+1)/sem limite] fila=16 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473456&id_secre
+  [51 (+1)/sem limite] fila=15 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472318&id_secre
+  [52 (+1)/sem limite] fila=14 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4060
+  [53 (+1)/sem limite] fila=15 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1712
+  [54 (+1)/sem limite] fila=14 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1711
+  [55 (+1)/sem limite] fila=13 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1710
+  [56 (+1)/sem limite] fila=12 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1709
+  [57 (+1)/sem limite] fila=11 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1708
+  [58 (+1)/sem limite] fila=10 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1706
+  [59 (+1)/sem limite] fila=9 | depth=2 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368spb0&id=1705
+  [60 (+1)/sem limite] fila=8 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&cn=
+  [61 (+1)/sem limite] fila=9 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3916&
+  [62 (+1)/sem limite] fila=8 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3916&
+  [63 (+1)/sem limite] fila=7 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3922&
+  [64 (+1)/sem limite] fila=6 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3922&
+  [65 (+1)/sem limite] fila=5 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3918&
+  [66 (+1)/sem limite] fila=4 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3918&
+  [67 (+1)/sem limite] fila=3 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4060&
+  [68 (+1)/sem limite] fila=2 | depth=3 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4060&
+  [69 (+1)/sem limite] fila=1 | depth=4 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=1
+  [70 (+1)/sem limite] fila=0 | depth=4 | https://www.ampere.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=2
+
+  Nenhum arquivo encontrado para ampere.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ampere/inventario_externos.xlsx
+  228 links externos registrados.
+
+  Varredura encerrada: AMPERE
+  Páginas nesta sessão: 70
+  Páginas totais (acumulado): 71
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/ampere/
+============================================================
+

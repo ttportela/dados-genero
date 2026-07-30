@@ -435,6 +435,20 @@ class CrawlerUrbano:
 
             html = driver.page_source
 
+            # Detecta se a URL retornou um arquivo (não HTML) via Content-Type
+            content_type = ""
+            try:
+                content_type = driver.execute_script(
+                    "return document.contentType || '';"
+                ).lower()
+            except Exception:
+                pass
+            if content_type and not content_type.startswith("text/html"):
+                ext = mime_para_extensao(content_type)
+                if ext is not None:
+                    self._arquivo_detectado = ext
+                    return []
+
             # Se a página veio vazia ou com erro, tenta protocolo alternativo
             if not html or len(html) < 500 or self._detectar_captcha(html):
                 url_alt = self._alternar_protocolo(url)
@@ -510,12 +524,25 @@ class CrawlerUrbano:
         if self._redirect_subdominio:
             return False   # BFS não marcará como visitada
 
-        # Se None → tenta Nível 2 (Selenium)
-        if links is None:
+        # Se a URL da fila foi detectada como arquivo via MIME type (Nível 1),
+        # registra no inventário e NÃO tenta Selenium — arquivo não tem links.
+        if self._arquivo_detectado:
+            self._registrar_arquivo(
+                url_encontrada=url,
+                texto_no_site="",
+                pagina_de_origem="",
+                depth=depth,
+                tipo_conhecido=self._arquivo_detectado,
+            )
+            return True
+
+        # Se None (403/CAPTCHA/timeout) ou [] (SPA sem links no HTML estático)
+        # → tenta Nível 2 (Selenium)
+        if not links:
             links = self._extrair_links_selenium(url)
 
-        # Se a URL da fila foi detectada como arquivo via MIME type,
-        # registra no inventário e não processa links.
+        # Após Selenium: pode ter detectado MIME type de arquivo
+        # (ex: URL que retorna PDF mas o request inicial falhou por timeout)
         if self._arquivo_detectado:
             self._registrar_arquivo(
                 url_encontrada=url,

@@ -1,0 +1,762 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANDIRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: ANDIRA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://andira.pr.gov.br/
+  [2/sem limite] fila=55 | depth=1 | https://andira.pr.gov.br/contato
+  [3/sem limite] fila=54 | depth=1 | https://andira.pr.gov.br/cidade/midia
+  [4/sem limite] fila=53 | depth=1 | https://andira.pr.gov.br/cidade/dados-gerais
+  [5/sem limite] fila=52 | depth=1 | https://andira.pr.gov.br/cidade/galerias
+  [6/sem limite] fila=84 | depth=1 | https://andira.pr.gov.br/cidade/historia
+  [7/sem limite] fila=83 | depth=1 | https://andira.pr.gov.br/cidade/noticias
+  [8/sem limite] fila=127 | depth=1 | https://andira.pr.gov.br/cidade/reforma-e-ampliacao-da-escola-prof-michel-kairal
+  [9/sem limite] fila=126 | depth=1 | https://andira.pr.gov.br/governo/agenda
+  [10/sem limite] fila=198 | depth=1 | https://andira.pr.gov.br/governo/audios
+  [11/sem limite] fila=197 | depth=1 | https://andira.pr.gov.br/governo/bolsa-familia
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//27_f50d52244644af4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//27_f55a63952724327
+  [12/sem limite] fila=198 | depth=1 | https://andira.pr.gov.br/governo/concursos
+  [13/sem limite] fila=218 | depth=1 | https://andira.pr.gov.br/governo/conselho-municipal-de-meio-ambiente
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_fead70d5b3baca1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_1f15f981ce657a1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_bcad959b0505471
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_557e7d7a3e26fa2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_73ba825687824e9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_2602b8400720fa8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_d85fcd744168311
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_f14d99e0cee9f23
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//48_3465156375db3b8
+  [14/sem limite] fila=218 | depth=1 | https://andira.pr.gov.br/governo/eleicoes-conselho-tutelar-2019
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_ee8c6490d4ab6a1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_86a856c1d8f628d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_a381a39a1de993e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_15e5360cbc02b4a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_751092eb00aabc2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_1ec9309315949e8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_fccb5c1cafe7dd4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_b8de9a65743b3b3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_eb6d4250a941bdf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_655fa125bba0960
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_74922c00a494e8d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_a36f9716a428e56
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_701449cf92698ae
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_1c10ed9ca0da0a5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_3765a6b86f6399b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_84ea412adcf6c67
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_d275af241c8e6dd
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_f54a7b0b11debed
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_8b3eb1b83792502
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//34_065406724de75f0
+  [15/sem limite] fila=220 | depth=1 | https://andira.pr.gov.br/governo/conselho-tutelar-eleicoes-2023
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_99ca4007764e00
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_d920ccad239121
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_4e8a22307c56e7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_bd943f6838929c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_a297cd66b7689a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_9578c91704fac5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_619e780a499809
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_7d5abab8e4bcfc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_7274f7dea9c7cf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_7aa28c4b6f19bc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_4fcaed1763b696
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_fd385d8f385c7c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_ed52ad82242285
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_279752f2fa9ce0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_02ebfa4ae5534c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_01910fd0e8b1ea
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//104_034fe40245b301
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//104_29175cdcb40c47
+  [16/sem limite] fila=221 | depth=1 | https://andira.pr.gov.br/governo/departamentos
+  [17/sem limite] fila=248 | depth=1 | https://andira.pr.gov.br/governo/publicacoes
+  [18/sem limite] fila=424 | depth=1 | https://andira.pr.gov.br/governo/lista-de-espera-dos-centros-municipais-de-educa
+  [19/sem limite] fila=423 | depth=1 | https://andira.pr.gov.br/governo/
+  [20/sem limite] fila=422 | depth=1 | https://andira.pr.gov.br/governo/numero-de-alunos-e-vagas
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//125_1647acb310fbcf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//125_acc83fd1da4255
+  [21/sem limite] fila=422 | depth=1 | https://andira.pr.gov.br/governo/plano-de-trabalho-anual-pta-municipios-2026
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//127_d13737e7ff6871
+  [22/sem limite] fila=422 | depth=1 | https://andira.pr.gov.br/governo/servico-de-acolhimento-institucional-casa-lar
+  [23/sem limite] fila=421 | depth=1 | https://andira.pr.gov.br/governo/servico-em-familia-acolhedora
+  [24/sem limite] fila=420 | depth=1 | https://andira.pr.gov.br/governo/videos
+  [25/sem limite] fila=444 | depth=1 | https://andira.pr.gov.br/servicos/cadastro-de-artistas-e-espacos-culturais
+  [26/sem limite] fila=443 | depth=1 | https://andira.pr.gov.br/servicos
+  [27/sem limite] fila=444 | depth=1 | http://cemiterio.andira.pr.gov.br
+  [28/sem limite] fila=450 | depth=1 | https://andira.pr.gov.br/licitacoes/contato
+  [29/sem limite] fila=478 | depth=1 | https://andira.pr.gov.br/servicos/chamamentos-publicos
+  [30/sem limite] fila=477 | depth=1 | https://andira.pr.gov.br/servicos/faq
+  [31/sem limite] fila=476 | depth=1 | https://andira.pr.gov.br/licitacoes
+  [32/sem limite] fila=475 | depth=1 | https://andira.pr.gov.br/servicos/manuais-e-modelos
+  [33/sem limite] fila=474 | depth=1 | https://andira.pr.gov.br/servicos/nova-lei-de-licitacoes
+  [34/sem limite] fila=473 | depth=1 | https://andira.pr.gov.br/servicos/sala-do-empreendedor
+  [35/sem limite] fila=472 | depth=1 | https://andira.pr.gov.br/servicos/servicos-publicos
+  [36/sem limite] fila=471 | depth=1 | https://andira.pr.gov.br/governo/videos/group/licitacoes
+  [37/sem limite] fila=470 | depth=1 | https://andira.pr.gov.br/servicos/telefones
+  [38/sem limite] fila=469 | depth=1 | https://andira.pr.gov.br/busca
+  [39/sem limite] fila=468 | depth=1 | https://andira.pr.gov.br/concursos
+  [40/sem limite] fila=468 | depth=1 | https://andira.pr.gov.br/governo/conselho-tutelar-processo-suplementar-2026
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_ad39d5343cd993
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_f9db97b58a5992
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_0aec7bb111612f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_9fe87fb6a2e5cc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_4282694bd1db0b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//138_685189754cf8eb
+  [41/sem limite] fila=468 | depth=1 | http://andira.pr.gov.br/department/040-secretaria-de-educacao/page/fundeb
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//105_94d2e2c155e00d1
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//105_68a2003683ce657
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//105_1d056366b1ee1e9
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//105_f29a7f0f0190f80
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//105_fa8ccc4e58b6b51
+  [42/sem limite] fila=517 | depth=1 | http://andira.pr.gov.br/department/02-secretaria-de-financas/page/conselho-munic
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_5301ec62f451157
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_4c375186c516ea4
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_5fe04542ea31493
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_00dcee8011ba941
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_a71ca2649d897d1
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_a06bc2e7ca78316
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_ca1fc69811bf33f
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_88c97c600865d4f
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_e989313b8726d84
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_eecdd732c60efc4
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_8c12746214549f3
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_0bc284653093e34
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_d737aa1ecdf12f1
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_e0f06d74d85c440
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_9e3db17e129b90e
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_d52b1ceac5d5259
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_4a15548a42df89e
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_7a1079dc8f854fd
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_5b908afca821c2a
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/7/uploads/pages//103_d376fcbf8ea5fb6
+  [43/sem limite] fila=525 | depth=1 | https://andira.pr.gov.br/governo/departamentos/view/de-assistencia-social-e-educ
+  [44/sem limite] fila=574 | depth=1 | https://andira.pr.gov.br/department/070-secretaria-de-saude
+  [45/sem limite] fila=620 | depth=1 | https://andira.pr.gov.br/governo/funpespa
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_34dc675ed2573eb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_73f490b485b224b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_cbf3dfffa9b66d9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_5bc1a524a179bad
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_6ec206b94f4dd65
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_c80d0ae7bf4d8d7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_5331c5d1604598c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_5d458774b7d4fc8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_5c98fb87dfef7ab
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_10fdb6d07b8d0a0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_cabbf93973f7aff
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_1a2aaa1b47d7fca
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_a31abae7fa54253
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_9ab3bfdda70ef6a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_47541e1e0b3bf64
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_5b9753e8ca778c7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_dee157d6526e976
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_908981a5cd9941e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_40b0baaff4315a0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//17_0cca5a1f39955f9
+  [46/sem limite] fila=644 | depth=1 | https://andira.pr.gov.br/governo/aspma
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_97ae7e489016d58
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_9855f6eb9da20c8
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_e39c3afdb49f29b
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_2c1948eccf482c8
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_b1c0026e5a9b6bd
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_aff2e0d1d49f449
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/6/uploads/pages//19_51facdda0abe486
+  📄 [200] .xlsx -> https://andira.pr.gov.br/instances/6/uploads/pages//19_2668f37a4b794d7
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_f113db95852d2bd
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_1fdc2a481097991
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_6383cd18c58db2c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//19_c8651bca0fe61d3
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_bdf5e55fb48d5b9
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_f03bfb6481724ee
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_c5dc38bda30e04c
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_b169d3dbe648702
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_2c50bbcfd7ef426
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_d2155566bff1a24
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_c44e41b44bc27c2
+  📄 [200] .xls -> https://andira.pr.gov.br/instances/6/uploads/pages//19_b7943217938b454
+  [47/sem limite] fila=654 | depth=1 | http://andira.pr.gov.br/governo/bolsa-familia
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/6/uploads/pages//27_f50d52244644af45
+  📄 [200] .pdf -> http://andira.pr.gov.br/instances/6/uploads/pages//27_f55a639527243278
+  [48/sem limite] fila=657 | depth=1 | http://andira.pr.gov.br/servicos/sala-do-empreendedor
+  [49/sem limite] fila=656 | depth=1 | https://www.cmandira.pr.gov.br/
+  [50/sem limite] fila=717 | depth=1 | https://andira.pr.gov.br/governo/plano-diretor-2021
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_7d87e1375d1eac5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_4a25dbfd968bcc6
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_18e661d0af603bb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_cb18014a3455560
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_163f22180cd48ee
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_3062c01ce010073
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//98_2d2e39d8fcf67be
+  [51/sem limite] fila=717 | depth=1 | http://andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo
+  [52/sem limite] fila=765 | depth=1 | http://andira.pr.gov.br/cidade/noticia/andira-conquista-o-titulo-da-3a-etapa-da-
+  [53/sem limite] fila=791 | depth=1 | http://andira.pr.gov.br/cidade/noticia/andiraense-busca-confirmar-lideranca-da-c
+  [54/sem limite] fila=790 | depth=1 | http://andira.pr.gov.br/cidade/noticia/a-prefeitura-municipal-de-andira-inauguro
+  [55/sem limite] fila=789 | depth=1 | https://andira.pr.gov.br/faqs
+  [56/sem limite] fila=788 | depth=1 | https://andira.pr.gov.br/sitemap
+  [57/sem limite] fila=793 | depth=1 | https://andira.pr.gov.br/cidade/noticia/alistamento-militar-obrigatorio
+  [58/sem limite] fila=793 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/cidade
+  [59/sem limite] fila=792 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/acao-social
+  [60/sem limite] fila=794 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/administracao
+  [61/sem limite] fila=795 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/cultura
+  [62/sem limite] fila=799 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/economia
+  [63/sem limite] fila=798 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/educacao
+  [64/sem limite] fila=799 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/esporte-e-lazer
+  [65/sem limite] fila=799 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/gabinete-do-prefeito
+  [66/sem limite] fila=803 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/geral
+  [67/sem limite] fila=820 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/governo
+  [68/sem limite] fila=820 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/habitacao
+  [69/sem limite] fila=820 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/meio-ambiente
+  [70/sem limite] fila=820 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/obras-e-servicos
+  [71/sem limite] fila=821 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/obras-em-andamento
+  [72/sem limite] fila=821 | depth=2 | https://andira.pr.gov.br/cidade/galerias/group/saude
+  [73/sem limite] fila=823 | depth=2 | https://andira.pr.gov.br/cidade/galeria/feira-dos-produtos-da-terra
+  [74/sem limite] fila=822 | depth=2 | https://andira.pr.gov.br/cidade/galeria/iii-festival-de-hip-hop-de-andira
+  [75/sem limite] fila=821 | depth=2 | https://andira.pr.gov.br/cidade/galeria/turismo-rural-andira-realiza-1-roteiro-t
+  [76/sem limite] fila=820 | depth=2 | https://andira.pr.gov.br/cidade/galeria/desfile-civico-de-7-de-setembro
+  [77/sem limite] fila=819 | depth=2 | https://andira.pr.gov.br/cidade/galeria/2-festa-junina-municipal-de-andira
+  [78/sem limite] fila=818 | depth=2 | https://andira.pr.gov.br/cidade/galeria/pascoa-em-andira
+  [79/sem limite] fila=817 | depth=2 | https://andira.pr.gov.br/cidade/galeria/entrega-do-certificado-de-dispensa-de-in
+  [80/sem limite] fila=816 | depth=2 | https://andira.pr.gov.br/cidade/galeria/10-encontro-de-bandas-e-fanfarras-de-and
+  [81/sem limite] fila=815 | depth=2 | https://andira.pr.gov.br/cidade/galeria/capacitacao-de-servidores-da-administrac
+  [82/sem limite] fila=814 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/2
+  [83/sem limite] fila=814 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/3
+  [84/sem limite] fila=814 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/4
+  [85/sem limite] fila=816 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/5
+  [86/sem limite] fila=818 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/6
+  [87/sem limite] fila=821 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/7
+  [88/sem limite] fila=830 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/8
+  [89/sem limite] fila=839 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/9
+  [90/sem limite] fila=848 | depth=2 | https://andira.pr.gov.br/cidade/galerias/page/10
+  [91/sem limite] fila=857 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/cidade
+  [92/sem limite] fila=874 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/acao-social
+  [93/sem limite] fila=882 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/administracao
+  [94/sem limite] fila=897 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/agricultura
+  [95/sem limite] fila=908 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/comunicacao
+  [96/sem limite] fila=922 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/covid-19
+  [97/sem limite] fila=936 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/crianca
+  [98/sem limite] fila=941 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/cultura
+  [99/sem limite] fila=958 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/economia
+  [100/sem limite] fila=970 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/educacao
+  [101/sem limite] fila=986 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/esporte-e-lazer
+  [102/sem limite] fila=1001 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/financas
+  [103/sem limite] fila=1013 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/gabinete-do-prefeito
+  [104/sem limite] fila=1028 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/geral
+  [105/sem limite] fila=1046 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/governo
+  [106/sem limite] fila=1064 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/habitacao
+  [107/sem limite] fila=1072 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/licitacoes
+  [108/sem limite] fila=1073 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/meio-ambiente
+  [109/sem limite] fila=1085 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/obras-e-servicos
+  [110/sem limite] fila=1103 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/obras-em-andamento
+  [111/sem limite] fila=1110 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/outros
+  [112/sem limite] fila=1117 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/planejamento
+  [113/sem limite] fila=1127 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/prefeitura-municipal-de-andira
+  [114/sem limite] fila=1129 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/recursos-humanos
+  [115/sem limite] fila=1132 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/regiao
+  [116/sem limite] fila=1134 | depth=2 | https://andira.pr.gov.br/cidade/noticias/group/saude
+  [117/sem limite] fila=1145 | depth=2 | https://andira.pr.gov.br/cidade/noticia/andira-conquista-o-titulo-da-3a-etapa-da
+  [118/sem limite] fila=1144 | depth=2 | https://andira.pr.gov.br/cidade/noticia/andiraense-busca-confirmar-lideranca-da-
+  [119/sem limite] fila=1143 | depth=2 | https://andira.pr.gov.br/cidade/noticia/a-prefeitura-municipal-de-andira-inaugur
+  [120/sem limite] fila=1142 | depth=2 | https://andira.pr.gov.br/cidade/noticia/cia-amma-leva-espetaculo-amma-circo-show
+  [121/sem limite] fila=1141 | depth=2 | https://andira.pr.gov.br/cidade/noticia/prefeitura-realiza-servicos-de-micropavi
+  [122/sem limite] fila=1140 | depth=2 | https://andira.pr.gov.br/cidade/noticia/encontro-da-melhor-idade-promove-integra
+  [123/sem limite] fila=1139 | depth=2 | https://andira.pr.gov.br/cidade/noticia/parceria-que-gera-oportunidades-em-andir
+  [124/sem limite] fila=1138 | depth=2 | https://andira.pr.gov.br/cidade/noticia/andira-recebe-com-sucesso-o-circuito-cam
+  [125/sem limite] fila=1137 | depth=2 | https://andira.pr.gov.br/cidade/noticia/andira-leva-ensino-de-ingles-com-materia
+  [126/sem limite] fila=1136 | depth=2 | https://andira.pr.gov.br/cidade/noticia/andira-antecipa-meta-e-atinge-82-de-alfa
+  [127/sem limite] fila=1135 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/2
+  [128/sem limite] fila=1135 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/3
+  [129/sem limite] fila=1135 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/4
+  [130/sem limite] fila=1134 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/5
+  [131/sem limite] fila=1136 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/6
+  [132/sem limite] fila=1139 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/7
+  [133/sem limite] fila=1142 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/8
+  [134/sem limite] fila=1150 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/9
+  [135/sem limite] fila=1153 | depth=2 | https://andira.pr.gov.br/cidade/noticias/page/10
+  [136/sem limite] fila=1160 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/cidade
+  [137/sem limite] fila=1161 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/acao-social
+  [138/sem limite] fila=1161 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/comunicacao
+  [139/sem limite] fila=1161 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/covid-19
+  [140/sem limite] fila=1160 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/cultura
+  [141/sem limite] fila=1159 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/educacao
+  [142/sem limite] fila=1159 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/esporte-e-lazer
+  [143/sem limite] fila=1160 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/geral
+  [144/sem limite] fila=1175 | depth=2 | https://andira.pr.gov.br/governo/agenda/group/saude
+  [145/sem limite] fila=1175 | depth=2 | https://andira.pr.gov.br/governo/Conselho Tutelar- Eleições 2015
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_fb386953733744c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_bcf7a79b40421f0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_ffce8e32bbe9ff2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_9877db61f3f3f9d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_f9a5145ab6bc3a3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_9691e11314a2ccc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_bd7a91fc98e5151
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/6/uploads/pages//23_884fb2cc75a3193
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/6/uploads/pages//23_2b70e08053b3b78
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_c47336ba533fb7c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_336dd45033017aa
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_1e8344c02c178fd
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_3ad4a3b7364a095
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_f23b7c03871a0b8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_668f05929d20fc5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_8269fcf09c16beb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_76ff9f7347e8ef5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_254d9c73ae6e217
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_7dce7a5399f6721
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//23_f3ce97cac9d015c
+  [146/sem limite] fila=1176 | depth=2 | https://andira.pr.gov.br/governo/ubs-santa-ines
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//49_3a7659658da90ec
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//49_b0ca7d43154e768
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//49_e31c4eb5006c79a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/6/uploads/pages//49_1e97427aa6b6da2
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//49_0cec596c1c3f2d4
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//49_67e67197edf156a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//49_f3ada15a06e27e4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//49_6740936e9c4bc99
+  [147/sem limite] fila=1181 | depth=2 | https://andira.pr.gov.br/governo/programa-melhor-em-casa
+  [148/sem limite] fila=1180 | depth=2 | https://andira.pr.gov.br/governo/leis-e-decretos-educacao
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_c582c234154d482
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_48ce89c79f9228f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_744fefeadb7456e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_c0a04c7d938748c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_286d49b2468b09c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_f9cb2afb8119bf5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_af3cc0ea8663b8f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//60_b37a8aa39d36bcb
+  [149/sem limite] fila=1180 | depth=2 | https://andira.pr.gov.br/governo/servico-de-convivencia-e-fortalecimentos-de-vin
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//61_9fadb8c5bf281fe
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//61_e9f882892c9f29c
+  [150/sem limite] fila=1180 | depth=2 | https://andira.pr.gov.br/governo/plano-municipal-de-contingencia-no-ambito-da-se
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_88a0e7e46e83db3
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_5a692a5ed15dccf
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_f7cdd6548488b46
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_96907d5304a37bb
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_5ea54d5d84b1d80
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_b87659f0820a782
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_4cd3d5fbafe3b60
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_d02a41d9e4b557e
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_ef2668f9f02801c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_7a17ed0b07266a0
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_42b268c4ec55fe7
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_b40031746b8a86d
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//62_a277607804d9e00
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//62_b1ecbbf595ba356
+  [151/sem limite] fila=1180 | depth=2 | https://andira.pr.gov.br/governo/motorista-escolar-ambulancia
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//63_051d62d414714f9
+  [152/sem limite] fila=1180 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-ana-nery
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//64_0726aa13b7433b5
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//64_37dc5d844505afe
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//64_3846bc3e549d6f7
+  [153/sem limite] fila=1181 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-arco-iris
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//65_4e48c42ef690031
+  [154/sem limite] fila=1181 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-crianca-feliz
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//66_b1bbcca2132ff8b
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//66_2d4d7085a34d338
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//66_ba31d2029f43e95
+  [155/sem limite] fila=1182 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-pingo-de-gente
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//67_7c4124f01234409
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//67_2e8d1b73a0d34f7
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//67_4506ee4b0394df9
+  [156/sem limite] fila=1183 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-prof-michel-kairalla
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//68_8649749856f402a
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//68_ac0c27ea987cea5
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//68_8db2e995f295138
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//68_919a658312a5d14
+  [157/sem limite] fila=1184 | depth=2 | https://andira.pr.gov.br/governo/escola-municipal-santa-ines
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//69_acfe999535bea23
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//69_fac6b3017a4a58c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//69_6c2e7f81d298942
+  [158/sem limite] fila=1185 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-de-saude-cms
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_79c2ef2bdab7647
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_9ab9382ebccf493
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_9af1dcb8dd1999b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_b84f6ffb72fde98
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_2d81bf900dfec93
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_a31f7470529364b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_53f24f886838f1f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_5e6114363f4813f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_aea92545ab303c7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_3387dcae3abb791
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_e6ddfc250f90e4f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_c21fbe0bbe08608
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_bd704e9c1adc2c3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_58ff2bfd9d1e2de
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_e9198c835bba64e
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//77_7f5496318310a71
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_8bdde5b8ecf4af8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_0198820c61cd13d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_cde5eb81af66a85
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//77_e5eb23eebfb214d
+  [159/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/centro-de-referencia-especializado-de-assistenc
+  📄 [200] .doc -> https://andira.pr.gov.br/instances/7/uploads/pages//78_d3b017b0c0cc09a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//78_2628cafbb32f85d
+  [160/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/centro-de-referencia-de-assistencia-social-cras
+  📄 [200] .doc -> https://andira.pr.gov.br/instances/7/uploads/pages//79_fe3de465ca20d59
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//79_8bd20d3d09d480c
+  [161/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/conselho-tutelar
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//80_727074cb97b4ab5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//80_41b4796385785ea
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//80_67fe57bd9f4e28f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//80_fcd6fc16ee21d2d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//80_ea76a816acd6fd7
+  [162/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/centro-de-convivencia-dos-idosos-cci
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//81_8faf5bd1d8465fe
+  [163/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/programa-crianca-feliz
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//82_883cf2c92b55f7e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//82_2b3db627731bb94
+  [164/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/secretaria-municipal-de-assistencia-social-e-ed
+  [165/sem limite] fila=1187 | depth=2 | https://andira.pr.gov.br/governo/nutricionista-escolar
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_2b1429052ec7d1a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_e1360be4b27217f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_e0f1853ebafc8dd
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_6009b23096d6b07
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_f1a3b266ef16e37
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_dc5332db7843ed7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_3619f6ca2f445a1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_8c7fc5eb0b0126b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_a8f694a14373db2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_cbb1044d340e009
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_c76b6a469b0b3a3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_70e29552d899293
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_d6aa42aba98dd78
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_7d1f79fbc9f6af3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_ff62e5e09e72b24
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_9e6e1248082caea
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_98e65e565e0b9d7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_24ad20540f26b86
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_1d40944a71047bb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//85_3aaf13fce094dc4
+  [166/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-licitacao
+  [167/sem limite] fila=1187 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-esporte
+  [168/sem limite] fila=1186 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-cultura
+  [169/sem limite] fila=1185 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-contabilidade
+  [170/sem limite] fila=1184 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-cadastro-e-tributos
+  [171/sem limite] fila=1183 | depth=2 | https://andira.pr.gov.br/governo/programa-anual-de-saude
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_9c3b93e2e24be1d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_83d9bf4ccc5996f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_36f17843ff50462
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_79b1356d9d8bf6c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_edd0e0a768a363e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_b27b5f4b0050d4b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_77cce9d9f9857a4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_c08d8f902983c77
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_5fbb7bf9a1acc86
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_92ebf3c1d3efdb9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_73d6d1e259b6a77
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_4855a4fd4647572
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_16169a0c9af4861
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_258690427c74752
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_0fa979a0f7b7b91
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_365f795c30143cc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_6284a51a9554974
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_0ca0a7757267e4a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_8d2ebbaf4b6e318
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//93_63edfb1639c4536
+  [172/sem limite] fila=1188 | depth=2 | https://andira.pr.gov.br/governo/relatorios-de-transicao
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_8a866b7195d57a1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_d7fb323d32e58ac
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_b508ebae12e2eba
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_03f41782197bb58
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_c331f02d65337e6
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_748ac0ec8390923
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_30412ae2e5e5730
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_ecc7aa2f60baf10
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_0c7fbd1d78cb4dd
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_7f2df7cf5cb617b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_b9ac67b2348ea15
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_0f2fb1bff10e24a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_88ce17a5e2a438a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_fb94d0594aca318
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_1478dfa96f1ae45
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_2363154c88d0f14
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_024a1f9dbfec746
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_72c2864ff7af33b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_a905a15888e8002
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//95_7aecf53a3eda03e
+  [173/sem limite] fila=1209 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-de-educacao
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_926ff36a1559318
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_5023c230bb50c24
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_9758422a8cf2a61
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_1c29514c3daab1a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_4e685165a546ae9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_638ce4b5c2463c8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_03f09dddb76cf6e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_6b865d24172b5c0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_ba1950de7160137
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//97_219944ceac63bfd
+  [174/sem limite] fila=1210 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-de-assistencia-social-cmas
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_315248d14435625
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_4f6e8824515b148
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_05bb4d31b2d2b5e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_a815ecd11bb5c3c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_9cb775bf05825c5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_34c108ae0e506c3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_7e01b1222aff2c1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_54c1d0e5d6d8841
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_6b5270cd4527230
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_4c514464d3e0778
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_b0c07b958545595
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_9c270ca47d55ee7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_3b7b0c88f2b48be
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_88b01a6eb0aed04
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_99f971fd3c9b520
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_b8d5bbf751d61e3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_6254bec3d4e7616
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_e3a467a05b20d37
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_86eb4413fc7628b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//99_5ebab99f93c15d7
+  [175/sem limite] fila=1228 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-dos-direitos-da-crianca-e-do
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_16171d57269ad6
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_c33632f2443d09
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_10bba5180d762e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_1f805e751dc003
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_a7dce5be8fb633
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_67bd92ef8d3527
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_68e9288c70211d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_a4b5e67dba27c2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_11d2abf6df6201
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_26f2a5732b4c19
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_b0c536d163d797
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_4b0f6135dd523f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_9619acc5a3a19d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_42752f5f9ae412
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_2dfd4ce927ede5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_51ce7360591c34
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_300e236a15f824
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_4821b5eeec6c73
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_5f5ed11614b6df
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//100_9831c7ad9a59a3
+  [176/sem limite] fila=1246 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-dos-direitos-do-idoso-cmdi
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_8d95c01bc4dbc9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_a9b3818cb1175d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_400bd8207278eb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_0e8682007a7d00
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_ccafbd12557579
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_7097cd94c3327f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_e4cd555ea589a0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_9f26a8766e913c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_d76b75124583bc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_95d07d939fe94a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_70a4deed950c75
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_63d685f29d8234
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_bba1d8d04db4ba
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_c23bba85485900
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_9ae9e0c6efb08e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_4d9dccfb83c2bf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_860b53844d3473
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_0a9c72d4afda80
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_f4e4ab7e9cd158
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//101_0401e70682b00d
+  [177/sem limite] fila=1264 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-de-seguranca-alimentar-e-nut
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_033252d199e0ef
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_7c7d93681c6db4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_70ae3fec60ad6e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_2e5ebaf87ca05e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_13a1cd33eb27b9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_b56412a3b8610c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_5f3d69c44ccbac
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_79cb436cefc963
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_64e04dbf62c80b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_ac5d57851a426b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_7705db8bdf3dc3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_b3100fa1e72338
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_1ec79dc59cf69b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_71c89543bd48f3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_4d73c452f7fa56
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_ac201d05f64824
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_6c05196271e5b1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_8c8153bf181936
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_79fbfd0a7a55fb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//102_55945194e10cb0
+  [178/sem limite] fila=1276 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-de-contribuintes-de-andira
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_5301ec62f45115
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_4c375186c516ea
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_5fe04542ea3149
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_00dcee8011ba94
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_a71ca2649d897d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_a06bc2e7ca7831
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_ca1fc69811bf33
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_88c97c600865d4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_e989313b8726d8
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_eecdd732c60efc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_8c12746214549f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_0bc284653093e3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_d737aa1ecdf12f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_e0f06d74d85c44
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_9e3db17e129b90
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_d52b1ceac5d525
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_4a15548a42df89
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_7a1079dc8f854f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_5b908afca821c2
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//103_d376fcbf8ea5fb
+  [179/sem limite] fila=1281 | depth=2 | https://andira.pr.gov.br/governo/lei-paulo-gustavo
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_6559c65040eb4b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_81f0a16daa8061
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_6862a13abc77c9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_b5c7f25ceb0e58
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_13a5d5a449a9db
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_ac9fef1d04c9cb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_a4f00f29f65a64
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_0c946699a5d772
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_b5ca22077a860a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_e45078ac961d9c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_fde071e5462f47
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_e7a95f56544795
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//109_baa5d68b34bd90
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_3fe34a00fc32a2
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_f5d6dea26f398c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_2178e0e646098a
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_a4815dcc6b1e8c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//109_a692689b107447
+  📄 [200] .doc -> https://andira.pr.gov.br/instances/7/uploads/pages//109_4686841bec202a
+  [180/sem limite] fila=1287 | depth=2 | https://andira.pr.gov.br/governo/impedidos-de-licitar
+  [181/sem limite] fila=1286 | depth=2 | https://andira.pr.gov.br/governo/leis-e-decretos-de-compras
+  [182/sem limite] fila=1285 | depth=2 | https://andira.pr.gov.br/governo/pca-plano-de-contratacao-anual
+  [183/sem limite] fila=1284 | depth=2 | https://andira.pr.gov.br/governo/lei-aldir-blanc
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_0fe092b83271ed
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_ed2d40e1795bde
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_c0646a7612002c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_3975e1af97dd7a
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_0e505e89041f47
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_8fa880f864cc49
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_0c96f8fc5ce5cb
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_fc8f801210e79c
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_391f21d5fa30ed
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//122_0ed7ab7764a319
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_272b677b16930c
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_c93229d9ca983e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_a1f042197f8402
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_5bdda152b3fc52
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_5efe82b6688e23
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_33ebb6acb52099
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_78c9c838e32e56
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_ba0ce81b4ad7e0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_81a27ee4eb02a6
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//122_e93201e25e62e1
+  [184/sem limite] fila=1286 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-dos-direitos-da-pessoa-com-d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_5db493614fe1f9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_e170f0eb70ca39
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_dcb9b80a9535fc
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_289bacbe25970f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_19ce920228cc0a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_03ff594987b93d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_87db84444e6446
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_6403dfd74d3d0a
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_84b084a0778896
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_299b5ab7ae0698
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_14e61336915a03
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_3c93191a865c94
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_8f6cae68f90ee3
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_d71f13c7083714
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_dc3e583fb2d876
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_f0f958ac2ae473
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_4eb3dd48550b72
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_92358edeaf6a26
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_686be68e4eb61b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//126_a222207672c932
+  [185/sem limite] fila=1293 | depth=2 | https://andira.pr.gov.br/governo/conselho-municipal-dos-direitos-da-mulher-cmdm
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_12723a2ab26af0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_8ad5195a602ab4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_f305421a48eb72
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_d0aeca2901546b
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_deec2e6076c821
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_3d2eac9b9017b5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_54494c9f40a96d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_8b37b07a43e198
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_c2437e1df81642
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_66f242af6495d5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_68e2449b391267
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_1976dbf716f83d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_8c4144a97771cf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_1e16b158a434b7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_cf4165faf65a38
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_2bf674447b136d
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_889ec474166518
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_ffbc5345587c38
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//128_d98446e7a1e5ac
+  [186/sem limite] fila=1304 | depth=2 | https://andira.pr.gov.br/governo/ata-de-avaliacao-de-merito-dos-projetos-do-art-
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//129_24bef5de241fa5
+  [187/sem limite] fila=1304 | depth=2 | https://andira.pr.gov.br/governo/ata-de-avaliacao-de-merito-dos-projetos-do-art-
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//130_d18c05f05c324f
+  [188/sem limite] fila=1304 | depth=2 | https://andira.pr.gov.br/governo/ubs-dr-alarico-abib
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//132_abe103167c3b0a
+  📄 [200] .docx -> https://andira.pr.gov.br/instances/7/uploads/pages//132_ad5d3402df1876
+  [189/sem limite] fila=1305 | depth=2 | https://andira.pr.gov.br/governo/centros-municipais-de-educacao-intantil
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_7761eb7a078cb5
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_73cb98dc471a68
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_98ea1a8d6393e9
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_47c5245e089972
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_8e18111e8c7113
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//133_6a1955dd202081
+  [190/sem limite] fila=1306 | depth=2 | https://andira.pr.gov.br/governo/departamento-de-vigilancia-socioassistencial
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//135_30a4db641414b4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//135_67e32ee0a988c7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//135_4629a1f0cbd1da
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/pages//135_cb6b73e4c4010d
+  [191/sem limite] fila=1307 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/o-conselho-municipal-de-seguranca
+  [192/sem limite] fila=1306 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/200-anos-de-independencia-do-bras
+  [193/sem limite] fila=1305 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/projeto-de-suporte-emocional-ao-p
+  [194/sem limite] fila=1304 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/estudo-e-planejamento-2o-semestre
+  [195/sem limite] fila=1303 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/capacitacao-ftd
+  [196/sem limite] fila=1302 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/reuniao-pedagogica
+  [197/sem limite] fila=1301 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/conae
+  [198/sem limite] fila=1300 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/abertura-do-natal-luz-2019-em-and
+  [199/sem limite] fila=1299 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/zumba-fest-no-morcegao
+  [200/sem limite] fila=1298 | depth=2 | https://andira.pr.gov.br/governo/agenda/evento/audiencia-publica-2-3
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/andira/inventario_links.xlsx
+  496 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/andira/inventario_externos.xlsx
+  83 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=1297 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/2
+  [202/sem limite] fila=1297 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/3
+  [203/sem limite] fila=1298 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/4
+  [204/sem limite] fila=1307 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/5
+  [205/sem limite] fila=1316 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/6
+  [206/sem limite] fila=1325 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/7
+  [207/sem limite] fila=1334 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/8
+  [208/sem limite] fila=1343 | depth=2 | https://andira.pr.gov.br/governo/agenda/page/9
+  [209/sem limite] fila=1344 | depth=2 | https://andira.pr.gov.br/governo/bolsa-familia/year/2018
+  [210/sem limite] fila=1343 | depth=2 | https://andira.pr.gov.br/governo/bolsa-familia/year/2017
+  [211/sem limite] fila=1342 | depth=2 | https://andira.pr.gov.br/concursos/ver/id/23
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//23_b74384c1a7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//23_fc20551aa4
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//23_eb9aab5b9e
+  [212/sem limite] fila=1341 | depth=2 | https://andira.pr.gov.br/concursos/ver/id/22
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//22_ca5afcb830
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//22_3256c698e2
+  [213/sem limite] fila=1340 | depth=2 | https://andira.pr.gov.br/concursos/ver/id/21
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//21_08b2bbd640
+  [214/sem limite] fila=1339 | depth=2 | https://andira.pr.gov.br/concursos/ver/id/20
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_1eecd77555
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_fe686463f1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_b80ef0c3c1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_aa27386dd0
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_f4d4bb1ab7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_51f4fd2ed1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_56cdb719be
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_44774da2b1
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_2899d812ab
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_9858546a5e
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_6179d61744
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_c89689e234
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_4aa945e1f7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_848ed8be2f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_e1a1647c8f
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//20_90d769fbf1
+  [215/sem limite] fila=1338 | depth=2 | https://andira.pr.gov.br/concursos/ver/id/19
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_20a42659f7
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_b6362733bf
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_4baa0c7914
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_6e1d6c8bbb
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_aec6eeb8af
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_3755392981
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_5f24e1e5c6
+  📄 [200] .pdf -> https://andira.pr.gov.br/instances/7/uploads/concourses//19_4c0d8345a2

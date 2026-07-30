@@ -5,13 +5,11 @@
  Modo: Somente Etapa 1 - Crawler
 
 Nenhum checkpoint encontrado — iniciando do zero.
-  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
 
 ============================================================
   Crawler iniciado: ALTOPIQUIRI
   Páginas já visitadas (checkpoint): 0
   URLs na fila: 1
-  Reprocessar erros: ATIVADO
 ============================================================
 
   Modo: SEM LIMITE de páginas
@@ -255,67 +253,7 @@ Nenhum checkpoint encontrado — iniciando do zero.
 Consultando IBGE — municípios de PR (código 41)...
   399 municípios encontrados.
   (Filtro: apenas Alto Piquiri)
-  Cidades já configuradas: 404
-
-  [1/1] 🔍 Alto Piquiri (slug: altopiquiri)...   → buscando no DuckDuckGo (apenas inventário)... nenhum portal encontrado ⏭️  já configurada, sem novidades
-
-============================================================
-  RESUMO — PR
-============================================================
-  Total testado:       1
-  Novas encontradas:   0
-    via página oficial: 0
-    via padrão de slug: 0
-  Sem portal:          0
-  Já configuradas:     1
-  Atualizadas (novas sementes): 0
-
-  Nenhuma cidade nova para salvar.
-
-============================================================
-
-
-============================================================
-  TCC - Pipeline de Dados Publicos | ALTOPIQUIRI
-============================================================
- Modo: Somente Etapa 1 - Crawler
-
-Checkpoint carregado — retomando varredura.
-  Links externos parciais carregados: 746 links já registrados.
-  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
-
-============================================================
-  Crawler iniciado: ALTOPIQUIRI
-  Páginas já visitadas (checkpoint): 212
-  URLs na fila: 0
-  Reprocessar erros: ATIVADO
-============================================================
-
-  Modo: SEM LIMITE de páginas
-
-  Nenhum arquivo encontrado para altopiquiri.
-  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/altopiquiri/inventario_externos.xlsx
-  746 links externos registrados.
-
-  Varredura encerrada: ALTOPIQUIRI
-  Páginas nesta sessão: 0
-  Páginas totais (acumulado): 212
-  Arquivos no inventário: 0
-  Erros registrados: 0
-
-
- Pipeline encerrado. Resultados em: resultados/altopiquiri/
-============================================================
-
-
-============================================================
-  Descoberta de Portais Municipais — PR
-============================================================
-
-Consultando IBGE — municípios de PR (código 41)...
-  399 municípios encontrados.
-  (Filtro: apenas Alto Piquiri)
-  Cidades já configuradas: 405
+  Cidades já configuradas: 399
 
   [1/1] 🔍 Alto Piquiri (slug: altopiquiri)...   → buscando no DuckDuckGo (apenas inventário)... 
               ✗ https://45.225.146.100:8090/portaltransparencia/
