@@ -693,3 +693,1533 @@ Nenhum checkpoint encontrado — iniciando do zero.
   [303/sem limite] fila=740 | depth=2 | https://diario.angulo.pr.gov.br/legislacao/t/t/34/t/t/t/t/1
   [304/sem limite] fila=771 | depth=2 | https://diario.angulo.pr.gov.br/legislacao/t/t/33/t/t/t/t/1
   [305/sem limite] fila=813 | depth=2 | https://diario.angulo.pr.gov.br/legislacao/t/t/36/t/t/t/t/1
+  [306/sem limite] fila=861 | depth=2 | https://diario.angulo.pr.gov.br/publicacoes/t/t/t/t/t/t/t/1
+  [307/sem limite] fila=904 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/139020261472
+  [308/sem limite] fila=905 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138920261471
+  [309/sem limite] fila=909 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138820261470
+  [310/sem limite] fila=909 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138720261469
+  [311/sem limite] fila=914 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138620261468
+  [312/sem limite] fila=914 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138520261467
+  [313/sem limite] fila=916 | depth=2 | https://diario.angulo.pr.gov.br/diariooficial/materias/138420261466
+  [314/sem limite] fila=925 | depth=2 | https://www.angulo.pr.gov.br/esic
+  ⚠️ [404] .doc -> https://www.angulo.pr.gov.br/formulario/form-pedido_pf.doc
+  ⚠️ [404] .doc -> https://www.angulo.pr.gov.br/formulario/form-pedido_pj.doc
+  [315/sem limite] fila=936 | depth=2 | https://diario.angulo.pr.gov.br/swagger
+  [316/sem limite] fila=936 | depth=2 | https://diario.angulo.pr.gov.br/termos
+ ❌ HTTP_500: https://diario.angulo.pr.gov.br/termos
+  🤖 Usando Selenium para: https://diario.angulo.pr.gov.br/termos
+  [317/sem limite] fila=935 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1005584&Concurso=
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/142903edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/462309edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/351503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/270704edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/000108edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/472504edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/342002prorrogacao-da-vali
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/430804edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240704edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/292403edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/281701edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/001311edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/530903edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/480503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/260403edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/392508edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/061204edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/551203edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/461203edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/071203edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/281304edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/230604edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/402903edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/292205edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/331601edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/090803edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/022903edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/022204edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/561503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/380803edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/480104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/542903edital-de-cancelame
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/332503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/152104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/171103edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/530204edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/580104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/312403edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/151006edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/111006edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/410505edital-de-divulgaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/560206edital-de-divulgaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/452204edital-de-homologac
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/390802edital-de-abertura-
+  [318/sem limite] fila=934 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1005583&Concurso=
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/460503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/103104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/323104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/182304edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/010503edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/000304edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/150803edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/510804edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/390804edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240104edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110204edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/542403edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/510204edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/020204edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/592601edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/331903edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/281903edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/341302edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/461302edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/222804edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/383101edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/543101edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/182306edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/402306edital-de-desclassi
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/412005edital-de-convocaca
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/482310prorroga-a-validade
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024621.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024620.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024617.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024615.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024611.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024608.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024607.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024606.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024604.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024603.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/170223134500_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/300123160655_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/040123161917_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030123150433_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/161222083408_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/201022083718_decreto_1392
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/131022095713_edital_de_re
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/061022170229_edital_de_re
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/061022170057_edital_de_di
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/220922152042_edital_de_re
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/220922151010_edital_de_di
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/190922160344_edital_de_di
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/150922082636_edital_de_re
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/130922145812_edital_de_ho
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/230822172354_edital__angu
+  [319/sem limite] fila=933 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1003355&Concurso=
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/150321133015_edital_00420
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/260221133651_edital_00220
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/050820165512_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/210720150315_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/290620090619_014_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/290620090510_013_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/220620084213_012_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/120620085231_011_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/120620084536_010_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250520145737_tecnico_em_e
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250520145640_009_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140520091741_008_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/080520090543_007_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/190320103053_comunicado_p
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110320091940_006_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110320091823_005_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/020320082444_004_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140220090039_003_edital_r
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140220085835_002_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/050220084813_novas_inscri
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/050220084624_edital_de_ab
+  [320/sem limite] fila=932 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1003288&Concurso=
+  ⚠️ [404] .pdf -> https://angulo.pr.gov.br/documentos/concurso/301219102435_002__primeir
+  [321/sem limite] fila=931 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1003284&Concurso=
+  [322/sem limite] fila=930 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1003283&Concurso=
+  [323/sem limite] fila=929 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1003282&Concurso=
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024619.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024618.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024616.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024614.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024613.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024612.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024610.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024609.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/1024605.pdf
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/170323153015_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/020323163648_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/170223134416_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/080223084102_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030123150336_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030123150102_edital_de_ex
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/151222145859_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/311022170836_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/201022162237_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/010922152224_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/190822172813_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/050822153844_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030622145251_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/270522083759_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/130522105210_decreto_0702
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/130522104923_decreto_0692
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/040522144836_165168604939
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110422143902_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/280322105816_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/160322203619_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250222153953_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030222132554_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/310122113412_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/310122113327_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/310122113233_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/270921134552_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/100921155952_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/300821135332_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/060821101329_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/080621152827_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/260221133548_edital_00320
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/090221093620_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/031120163415_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/061020141810_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250920153846_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/210720150143_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/010720141650_edital_de_co
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250620091826_024__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/250620091703_023__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/150620094438_022__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/020620083219_021__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/190520084141_020__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/190520084035_019__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140520094119_018_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140520094013_017_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140520093848_016_edital_d
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/080520090153_015__reabert
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/080520090026_014__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240420084303_013__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/170420095455_012__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240320141629_011__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240320104044_010__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/130320091033_009__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/130320090905_008__edital_
+  📄 [200] .rar -> https://angulo.pr.gov.br/documentos/concurso/170220165519_cadernos_1_r
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/170220165254_00720__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/310120105517_00620__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/310120105232_00520__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/240120152518_00420__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/210120213528_00320__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/140120131645_00220__edita
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030120083010_003__edital_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/301219153245_002__primeir
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/191219164336_edital_de_ab
+  [324/sem limite] fila=928 | depth=2 | https://angulo.pr.gov.br/index.php?mod=466&idConcurso=1000994&Concurso=
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/221116081507_edital012201
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/201016131320_decreto_1262
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/060716081629_edital005201
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/280616153355_edital004201
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/200616143024_edital_00320
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030616085629_ensalamento_
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/030616085532_homologacao_
+  📄 [200] .doc -> https://angulo.pr.gov.br/documentos/concurso/110516100622_ficha_de_ins
+  📄 [200] .doc -> https://angulo.pr.gov.br/documentos/concurso/110516100621_anexosedital
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110516100621_atribuicoesd
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110516100621_conteudoprog
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/concurso/110516100621_editaabertur
+  [325/sem limite] fila=927 | depth=2 | https://www.angulo.pr.gov.br/index.php?mod=988
+  [326/sem limite] fila=926 | depth=2 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=
+  [327/sem limite] fila=925 | depth=2 | https://www.angulo.pr.gov.br?meio=175320
+  [328/sem limite] fila=924 | depth=2 | https://www.angulo.pr.gov.br?meio=17265
+  [329/sem limite] fila=923 | depth=2 | https://www.angulo.pr.gov.br?meio=17119
+  [330/sem limite] fila=922 | depth=2 | https://www.angulo.pr.gov.br?meio=17118
+  [331/sem limite] fila=921 | depth=2 | https://www.angulo.pr.gov.br?meio=17116
+  [332/sem limite] fila=920 | depth=2 | https://www.angulo.pr.gov.br?meio=17117
+  [333/sem limite] fila=919 | depth=2 | https://www.angulo.pr.gov.br?meio=17122
+  [334/sem limite] fila=918 | depth=2 | https://www.angulo.pr.gov.br?meio=17435
+  [335/sem limite] fila=917 | depth=2 | https://www.angulo.pr.gov.br?meio=17124
+  [336/sem limite] fila=916 | depth=2 | https://www.angulo.pr.gov.br?meio=17152
+  [337/sem limite] fila=915 | depth=2 | https://www.angulo.pr.gov.br?meio=17133
+  [338/sem limite] fila=914 | depth=2 | https://www.angulo.pr.gov.br?meio=17624
+  [339/sem limite] fila=913 | depth=2 | https://www.angulo.pr.gov.br?meio=17128
+  [340/sem limite] fila=912 | depth=2 | https://www.angulo.pr.gov.br?meio=171773
+  [341/sem limite] fila=914 | depth=2 | https://www.angulo.pr.gov.br?meio=17220
+  [342/sem limite] fila=913 | depth=2 | https://www.angulo.pr.gov.br?meio=17221
+  [343/sem limite] fila=912 | depth=2 | https://www.angulo.pr.gov.br?meio=175418
+  [344/sem limite] fila=911 | depth=2 | https://www.angulo.pr.gov.br?meio=17426
+  [345/sem limite] fila=913 | depth=2 | https://www.angulo.pr.gov.br?meio=1834032
+  [346/sem limite] fila=912 | depth=2 | https://www.angulo.pr.gov.br?meio=17223
+  [347/sem limite] fila=911 | depth=2 | https://www.angulo.pr.gov.br?meio=172271
+  [348/sem limite] fila=910 | depth=2 | https://www.angulo.pr.gov.br?meio=172084
+  [349/sem limite] fila=909 | depth=2 | https://www.angulo.pr.gov.br?meio=17155
+  [350/sem limite] fila=908 | depth=2 | https://www.angulo.pr.gov.br?meio=17154
+  [351/sem limite] fila=907 | depth=2 | https://www.angulo.pr.gov.br?meio=17125
+  [352/sem limite] fila=906 | depth=2 | https://www.angulo.pr.gov.br?meio=17450
+  [353/sem limite] fila=905 | depth=2 | https://www.angulo.pr.gov.br?meio=17449
+  [354/sem limite] fila=904 | depth=2 | https://www.angulo.pr.gov.br?meio=17448
+  [355/sem limite] fila=903 | depth=2 | https://www.angulo.pr.gov.br?meio=17493
+  [356/sem limite] fila=902 | depth=2 | https://www.angulo.pr.gov.br?meio=17699
+  [357/sem limite] fila=901 | depth=2 | https://www.angulo.pr.gov.br?meio=1024&ano=&tipolei=409&search=&numero=
+  [358/sem limite] fila=900 | depth=2 | https://www.angulo.pr.gov.br?meio=17311
+  [359/sem limite] fila=899 | depth=2 | https://www.angulo.pr.gov.br?meio=1834039
+  [360/sem limite] fila=898 | depth=2 | https://www.angulo.pr.gov.br?meio=172120
+  [361/sem limite] fila=897 | depth=2 | https://www.angulo.pr.gov.br?meio=172147
+  [362/sem limite] fila=896 | depth=2 | https://www.angulo.pr.gov.br?meio=172148
+  [363/sem limite] fila=895 | depth=2 | https://www.angulo.pr.gov.br?meio=17302
+  [364/sem limite] fila=894 | depth=2 | https://www.angulo.pr.gov.br?meio=1834255
+  [365/sem limite] fila=893 | depth=2 | https://www.angulo.pr.gov.br?meio=1834327
+  [366/sem limite] fila=892 | depth=2 | https://www.angulo.pr.gov.br?meio=172133
+  [367/sem limite] fila=891 | depth=2 | https://www.angulo.pr.gov.br?meio=171887
+  [368/sem limite] fila=890 | depth=2 | https://www.angulo.pr.gov.br?meio=171946
+  [369/sem limite] fila=889 | depth=2 | https://www.angulo.pr.gov.br?meio=17492
+  [370/sem limite] fila=888 | depth=2 | https://www.angulo.pr.gov.br?meio=172020
+  [371/sem limite] fila=887 | depth=2 | https://www.angulo.pr.gov.br?meio=16387
+  [372/sem limite] fila=886 | depth=3 | https://www.angulo.pr.gov.br/index.php?meio=16764&pag=1&search=&local_id=
+  [373/sem limite] fila=885 | depth=3 | https://www.angulo.pr.gov.br/index.php?meio=16764&pag=2&search=&local_id=
+  [374/sem limite] fila=884 | depth=3 | https://www.angulo.pr.gov.br/index.php?meio=16764&pag=3&search=&local_id=
+  [375/sem limite] fila=883 | depth=3 | https://www.angulo.pr.gov.br/index.php?meio=17464
+  [376/sem limite] fila=882 | depth=3 | https://www.angulo.pr.gov.br/index.php?meio=17126
+  [377/sem limite] fila=881 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=944&idSec=14
+  [378/sem limite] fila=880 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=944&idSec=17
+  [379/sem limite] fila=879 | depth=3 | https://angulo.pr.gov.br/?meio=17699
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/402911-decreto-155-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/592911-decreto-154-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/252911-decreto-153-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/122911-decreto-152-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/182911-decreto-151-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/512911-decreto-150-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/092911-decreto-149-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/452910-decreto-148-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/592910-decreto-147-2026
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/legislacao/302910-decreto-146-2026
+  [380/sem limite] fila=878 | depth=3 | https://angulo.pr.gov.br/?meio=1024&ano=&tipolei=409&search=&numero=
+  [381/sem limite] fila=877 | depth=3 | https://angulo.pr.gov.br/?meio=17311
+  [382/sem limite] fila=876 | depth=3 | https://angulo.pr.gov.br/?meio=1834039
+  [383/sem limite] fila=876 | depth=3 | https://angulo.pr.gov.br/?meio=172120
+  [384/sem limite] fila=875 | depth=3 | https://angulo.pr.gov.br/?meio=172147
+  [385/sem limite] fila=874 | depth=3 | https://angulo.pr.gov.br/?meio=172148
+  [386/sem limite] fila=873 | depth=3 | https://angulo.pr.gov.br/?meio=17302
+  [387/sem limite] fila=872 | depth=3 | https://angulo.pr.gov.br/?meio=1834255
+  [388/sem limite] fila=871 | depth=3 | https://angulo.pr.gov.br/?meio=1834327
+  [389/sem limite] fila=870 | depth=3 | https://angulo.pr.gov.br/?meio=172133
+  [390/sem limite] fila=869 | depth=3 | https://angulo.pr.gov.br/?meio=171887
+  [391/sem limite] fila=868 | depth=3 | https://angulo.pr.gov.br/?meio=171946
+  [392/sem limite] fila=867 | depth=3 | https://angulo.pr.gov.br/?meio=17492
+  [393/sem limite] fila=866 | depth=3 | https://angulo.pr.gov.br/?meio=172020
+  [394/sem limite] fila=865 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17699
+  [395/sem limite] fila=864 | depth=3 | https://angulo.pr.gov.br/index.php?meio=1024&ano=&tipolei=409&search=&numero=
+  [396/sem limite] fila=863 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17311
+  [397/sem limite] fila=862 | depth=3 | https://angulo.pr.gov.br/index.php?meio=1834039
+  [398/sem limite] fila=861 | depth=3 | https://angulo.pr.gov.br/index.php?meio=172120
+  [399/sem limite] fila=860 | depth=3 | https://angulo.pr.gov.br/index.php?meio=172147
+  [400/sem limite] fila=859 | depth=3 | https://angulo.pr.gov.br/index.php?meio=172148
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  558 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  12 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  124 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=858 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17302
+  [402/sem limite] fila=857 | depth=3 | https://angulo.pr.gov.br/index.php?meio=1834255
+  [403/sem limite] fila=856 | depth=3 | https://angulo.pr.gov.br/index.php?meio=1834327
+  [404/sem limite] fila=855 | depth=3 | https://angulo.pr.gov.br/index.php?meio=172133
+  [405/sem limite] fila=854 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171887
+  [406/sem limite] fila=853 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171946
+  [407/sem limite] fila=852 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17492
+  [408/sem limite] fila=851 | depth=3 | https://angulo.pr.gov.br/index.php?meio=172020
+  [409/sem limite] fila=850 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453870
+  [410/sem limite] fila=851 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453869
+  [411/sem limite] fila=850 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453867
+  [412/sem limite] fila=849 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453866
+  [413/sem limite] fila=848 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453868
+  [414/sem limite] fila=847 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453865
+  [415/sem limite] fila=846 | depth=3 | https://angulo.pr.gov.br/paginadepconteudo.php?id=5
+ ❌ HTTP_404: https://angulo.pr.gov.br/paginadepconteudo.php?id=5
+  🤖 Usando Selenium para: https://angulo.pr.gov.br/paginadepconteudo.php?id=5
+  [416/sem limite] fila=845 | depth=3 | https://angulo.pr.gov.br/paginadepconteudo.php?id=4
+ ❌ HTTP_404: https://angulo.pr.gov.br/paginadepconteudo.php?id=4
+  🤖 Usando Selenium para: https://angulo.pr.gov.br/paginadepconteudo.php?id=4
+  [417/sem limite] fila=844 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453863
+  [418/sem limite] fila=843 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453861
+  [419/sem limite] fila=842 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453862
+  [420/sem limite] fila=841 | depth=3 | https://angulo.pr.gov.br/index.php?meio=1834207
+  [421/sem limite] fila=840 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453864
+  [422/sem limite] fila=839 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=9
+  [423/sem limite] fila=838 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=8
+  [424/sem limite] fila=837 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=7
+  [425/sem limite] fila=836 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=6
+  [426/sem limite] fila=835 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=5
+  [427/sem limite] fila=834 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=4
+  [428/sem limite] fila=833 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=3
+  [429/sem limite] fila=832 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=2
+  [430/sem limite] fila=831 | depth=3 | https://angulo.pr.gov.br/index.php?mod=344&idver=1
+  [431/sem limite] fila=830 | depth=3 | https://angulo.pr.gov.br/index.php?meio=16764&pag=1&search=&local_id=
+  [432/sem limite] fila=829 | depth=3 | https://angulo.pr.gov.br/index.php?meio=16764&pag=2&search=&local_id=
+  [433/sem limite] fila=828 | depth=3 | https://angulo.pr.gov.br/index.php?meio=16764&pag=3&search=&local_id=
+  [434/sem limite] fila=827 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17464
+  [435/sem limite] fila=826 | depth=3 | https://angulo.pr.gov.br/index.php?meio=17126
+  [436/sem limite] fila=825 | depth=3 | https://angulo.pr.gov.br/index.php?mod=4499&idGaleria=1
+  [437/sem limite] fila=824 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453860
+  [438/sem limite] fila=823 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453859
+  [439/sem limite] fila=822 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453858
+  [440/sem limite] fila=821 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453857
+  [441/sem limite] fila=820 | depth=3 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453856
+  [442/sem limite] fila=819 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=1
+  [443/sem limite] fila=818 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=2
+  [444/sem limite] fila=832 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=3
+  [445/sem limite] fila=846 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=4
+  [446/sem limite] fila=860 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=5
+  [447/sem limite] fila=874 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=6
+  [448/sem limite] fila=888 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=7
+  [449/sem limite] fila=902 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=8
+  [450/sem limite] fila=916 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=9
+  [451/sem limite] fila=930 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=10
+  [452/sem limite] fila=944 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=11
+  [453/sem limite] fila=958 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=12
+  [454/sem limite] fila=972 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=13
+  [455/sem limite] fila=986 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=14
+  [456/sem limite] fila=1000 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=15
+  [457/sem limite] fila=1014 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=16
+  [458/sem limite] fila=1028 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=17
+  [459/sem limite] fila=1042 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=18
+  [460/sem limite] fila=1056 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=19
+  [461/sem limite] fila=1070 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=20
+  [462/sem limite] fila=1084 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=21
+  [463/sem limite] fila=1098 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=22
+  [464/sem limite] fila=1112 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=23
+  [465/sem limite] fila=1126 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=24
+  [466/sem limite] fila=1140 | depth=3 | https://angulo.pr.gov.br/index.php?meio=171612&pag=25
+  [467/sem limite] fila=1141 | depth=3 | https://angulo.pr.gov.br/index.php?mod=944&idSec=14
+  [468/sem limite] fila=1140 | depth=3 | https://angulo.pr.gov.br/?meio=16764&pag=1&search=&local_id=
+  [469/sem limite] fila=1139 | depth=3 | https://angulo.pr.gov.br/?meio=16764&pag=2&search=&local_id=
+  [470/sem limite] fila=1138 | depth=3 | https://angulo.pr.gov.br/?meio=16764&pag=3&search=&local_id=
+  [471/sem limite] fila=1137 | depth=3 | https://angulo.pr.gov.br/?meio=1834207
+  [472/sem limite] fila=1136 | depth=3 | https://angulo.pr.gov.br/?meio=17464
+  [473/sem limite] fila=1135 | depth=3 | https://angulo.pr.gov.br/?meio=17126
+  [474/sem limite] fila=1134 | depth=3 | http://angulo.pr.gov.br/esic/relatorio
+  [475/sem limite] fila=1134 | depth=3 | http://angulo.pr.gov.br/esic/solicitacao
+  [476/sem limite] fila=1133 | depth=3 | http://angulo.pr.gov.br/esic/consulta
+  [477/sem limite] fila=1132 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao
+  [478/sem limite] fila=1131 | depth=3 | http://angulo.pr.gov.br/esic/infosigilo
+  [479/sem limite] fila=1130 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao/relatorio
+ ❌ HTTP_404: http://angulo.pr.gov.br/esic/regulamentacao/relatorio
+  🤖 Usando Selenium para: http://angulo.pr.gov.br/esic/regulamentacao/relatorio
+  [480/sem limite] fila=1129 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao/solicitacao
+  [481/sem limite] fila=1128 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao/consulta
+  [482/sem limite] fila=1127 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao/regulamentacao
+  [483/sem limite] fila=1127 | depth=3 | http://angulo.pr.gov.br/esic/regulamentacao/infosigilo
+  [484/sem limite] fila=1126 | depth=3 | http://angulo.pr.gov.br/esic/relatorio/?ano=2026&periodo=ano&export=csv
+  📄 [200] .csv -> http://angulo.pr.gov.br/esic/relatorio/?ano=2026&periodo=ano&export=cs
+  [485/sem limite] fila=1125 | depth=3 | http://angulo.pr.gov.br/esic/infosigilo/declaracao.php?ano=2026
+  [486/sem limite] fila=1124 | depth=3 | http://angulo.pr.gov.br/esic/infosigilo/declaracao.php?ano=2025
+  [487/sem limite] fila=1123 | depth=3 | http://angulo.pr.gov.br/esic/infosigilo/declaracao.php?ano=2024
+  [488/sem limite] fila=1122 | depth=3 | http://angulo.pr.gov.br/esic/infosigilo/declaracao.php?ano=2023
+  [489/sem limite] fila=1121 | depth=3 | http://angulo.pr.gov.br/esic/esic/
+  📄 [200] .doc -> http://angulo.pr.gov.br/esic/esic/formulario/form-pedido_pf.doc
+  📄 [200] .doc -> http://angulo.pr.gov.br/esic/esic/formulario/form-pedido_pj.doc
+  [490/sem limite] fila=1125 | depth=3 | http://angulo.pr.gov.br/esic/solicitacao/
+  [491/sem limite] fila=1124 | depth=3 | http://angulo.pr.gov.br/esic/consulta/
+  [492/sem limite] fila=1123 | depth=3 | http://angulo.pr.gov.br/?meio=175320
+  [493/sem limite] fila=1122 | depth=3 | http://angulo.pr.gov.br/(44)3135 - 4000
+ ❌ HTTP_404: http://angulo.pr.gov.br/(44)3135 - 4000
+  🤖 Usando Selenium para: http://angulo.pr.gov.br/(44)3135 - 4000
+  [494/sem limite] fila=1121 | depth=3 | http://angulo.pr.gov.br/index.php
+  [495/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/?meio=17265
+  [496/sem limite] fila=1172 | depth=3 | http://angulo.pr.gov.br/?meio=17119
+  [497/sem limite] fila=1171 | depth=3 | http://angulo.pr.gov.br/?meio=17118
+  [498/sem limite] fila=1170 | depth=3 | http://angulo.pr.gov.br/?meio=17116
+  [499/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/?meio=17117
+  [500/sem limite] fila=1168 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=18
+  [501/sem limite] fila=1168 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=2
+  [502/sem limite] fila=1167 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=3
+  [503/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=4
+  [504/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=5
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/arquivos/071708EDITAL_HOMOLOGAÇÃO_I
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/arquivos/281210EDITAL_DESIGNAÇÃO_DI
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/arquivos/451602Plano Municipal de E
+  [505/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=6
+  [506/sem limite] fila=1168 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=7
+  [507/sem limite] fila=1167 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=8
+  [508/sem limite] fila=1166 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=9
+  [509/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=10
+  [510/sem limite] fila=1164 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=11
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/arquivos/arquivo_fluxograma-de-aten
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/arquivos/arquivo_lista-de-espera-sa
+  [511/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=15
+  [512/sem limite] fila=1164 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=1
+  [513/sem limite] fila=1163 | depth=3 | http://angulo.pr.gov.br/?meio=17122
+  [514/sem limite] fila=1162 | depth=3 | http://angulo.pr.gov.br/?meio=17435
+  [515/sem limite] fila=1161 | depth=3 | http://angulo.pr.gov.br/?meio=17124
+  [516/sem limite] fila=1160 | depth=3 | http://angulo.pr.gov.br/?meio=17152
+  [517/sem limite] fila=1168 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=12
+  [518/sem limite] fila=1167 | depth=3 | http://angulo.pr.gov.br/index.php?mod=944&idSec=13
+  [519/sem limite] fila=1166 | depth=3 | http://angulo.pr.gov.br/?meio=17133
+  [520/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/?meio=17624
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/290210bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/450210bolsa-familia-F
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/101901bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/522501bolsa-familia-A
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/102501bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/252511bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/242202bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/552008bolsa-familia-F
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/521705bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/502210bolsa-familia-A
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/430411bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/210411bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/490411bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/551901bolsa-familia-A
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/121901bolsa-familia-S
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/241704bolsa-familia-O
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/512601bolsa-familia-N
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/441101bolsa-familia-D
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/392202bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/162202bolsa-familia-F
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/13.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/14.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/102202bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/242202bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/22.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/082004bolsa-familia-A
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/431201bolsa-familia-S
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/581201bolsa-familia-O
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/402101bolsa-familia-N
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/531101bolsa-familia-D
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/532202bolsa-familia-M
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/312202bolsa-familia-J
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/5.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/7.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/8.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/6.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/9.pdf
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/bolsa_familia/10.pdf
+  [521/sem limite] fila=1164 | depth=3 | http://angulo.pr.gov.br/?meio=17128
+  [522/sem limite] fila=1163 | depth=3 | http://angulo.pr.gov.br/?meio=171773
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/escala_ubs/escala_Núcleo Integrado 
+  [523/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/?meio=17220
+  [524/sem limite] fila=1164 | depth=3 | http://angulo.pr.gov.br/?meio=17221
+  [525/sem limite] fila=1163 | depth=3 | http://angulo.pr.gov.br/?meio=175418
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/comunicado_saude/1.pdf
+  [526/sem limite] fila=1162 | depth=3 | http://angulo.pr.gov.br/?meio=17426
+  [527/sem limite] fila=1164 | depth=3 | http://angulo.pr.gov.br/?meio=1834032
+  [528/sem limite] fila=1163 | depth=3 | http://angulo.pr.gov.br/?meio=17223
+  [529/sem limite] fila=1162 | depth=3 | http://angulo.pr.gov.br/?meio=172271
+  [530/sem limite] fila=1161 | depth=3 | http://angulo.pr.gov.br/?meio=172084
+  [531/sem limite] fila=1160 | depth=3 | http://angulo.pr.gov.br/?meio=17155
+  [532/sem limite] fila=1160 | depth=3 | http://angulo.pr.gov.br/?meio=17154
+  [533/sem limite] fila=1159 | depth=3 | http://angulo.pr.gov.br/?meio=17125
+  [534/sem limite] fila=1188 | depth=3 | http://angulo.pr.gov.br/?meio=17450
+  [535/sem limite] fila=1187 | depth=3 | http://angulo.pr.gov.br/?meio=17449
+  [536/sem limite] fila=1186 | depth=3 | http://angulo.pr.gov.br/?meio=17448
+  [537/sem limite] fila=1185 | depth=3 | http://angulo.pr.gov.br/?meio=17493
+  [538/sem limite] fila=1184 | depth=3 | http://angulo.pr.gov.br/?meio=17699
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/402911-decreto-155-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/592911-decreto-154-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/252911-decreto-153-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/122911-decreto-152-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/182911-decreto-151-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/512911-decreto-150-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/092911-decreto-149-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/452910-decreto-148-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/592910-decreto-147-2026.
+  📄 [200] .pdf -> http://angulo.pr.gov.br/documentos/legislacao/302910-decreto-146-2026.
+  [539/sem limite] fila=1183 | depth=3 | http://angulo.pr.gov.br/?meio=1024&ano=&tipolei=409&search=&numero=
+  [540/sem limite] fila=1182 | depth=3 | http://angulo.pr.gov.br/?meio=17311
+  [541/sem limite] fila=1181 | depth=3 | http://angulo.pr.gov.br/?meio=1834039
+  [542/sem limite] fila=1180 | depth=3 | http://angulo.pr.gov.br/?meio=172120
+  [543/sem limite] fila=1179 | depth=3 | http://angulo.pr.gov.br/?meio=172147
+  [544/sem limite] fila=1178 | depth=3 | http://angulo.pr.gov.br/?meio=172148
+  [545/sem limite] fila=1177 | depth=3 | http://angulo.pr.gov.br/?meio=17302
+  [546/sem limite] fila=1176 | depth=3 | http://angulo.pr.gov.br/?meio=1834255
+  [547/sem limite] fila=1175 | depth=3 | http://angulo.pr.gov.br/?meio=1834327
+  [548/sem limite] fila=1174 | depth=3 | http://angulo.pr.gov.br/?meio=172133
+  [549/sem limite] fila=1173 | depth=3 | http://angulo.pr.gov.br/?meio=171887
+  [550/sem limite] fila=1172 | depth=3 | http://angulo.pr.gov.br/?meio=171946
+  [551/sem limite] fila=1171 | depth=3 | http://angulo.pr.gov.br/?meio=17492
+  [552/sem limite] fila=1170 | depth=3 | http://angulo.pr.gov.br/?meio=172020
+  [553/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453870
+  [554/sem limite] fila=1170 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453869
+  [555/sem limite] fila=1169 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453867
+  [556/sem limite] fila=1168 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453866
+  [557/sem limite] fila=1167 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453868
+  [558/sem limite] fila=1166 | depth=3 | http://angulo.pr.gov.br/index.php?mod=988&idNot=1453865
+  [559/sem limite] fila=1165 | depth=3 | http://angulo.pr.gov.br/?meio=16387
+  [560/sem limite] fila=1164 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453854
+  [561/sem limite] fila=1163 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453855
+  [562/sem limite] fila=1162 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453853
+  [563/sem limite] fila=1161 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453850
+  [564/sem limite] fila=1160 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453851
+  [565/sem limite] fila=1159 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453852
+  [566/sem limite] fila=1158 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453848
+  [567/sem limite] fila=1157 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453849
+  [568/sem limite] fila=1156 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453846
+  [569/sem limite] fila=1155 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453847
+  [570/sem limite] fila=1154 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453845
+  [571/sem limite] fila=1153 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453843
+  [572/sem limite] fila=1152 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453842
+  [573/sem limite] fila=1151 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453844
+  [574/sem limite] fila=1150 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453841
+  [575/sem limite] fila=1149 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453840
+  [576/sem limite] fila=1148 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453839
+  [577/sem limite] fila=1147 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453838
+  [578/sem limite] fila=1146 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453837
+  [579/sem limite] fila=1145 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453834
+  [580/sem limite] fila=1144 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453836
+  [581/sem limite] fila=1143 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453833
+  [582/sem limite] fila=1142 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453835
+  [583/sem limite] fila=1141 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453832
+  [584/sem limite] fila=1140 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453829
+  [585/sem limite] fila=1139 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453830
+  [586/sem limite] fila=1138 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453831
+  [587/sem limite] fila=1137 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453828
+  [588/sem limite] fila=1136 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453827
+  [589/sem limite] fila=1135 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453826
+  [590/sem limite] fila=1134 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453825
+  [591/sem limite] fila=1133 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453824
+  [592/sem limite] fila=1132 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453823
+  [593/sem limite] fila=1131 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453822
+  [594/sem limite] fila=1130 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453821
+  [595/sem limite] fila=1129 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453820
+  [596/sem limite] fila=1128 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453818
+  [597/sem limite] fila=1127 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453819
+  [598/sem limite] fila=1126 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453817
+  [599/sem limite] fila=1125 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453816
+  [600/sem limite] fila=1124 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453813
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  623 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  125 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 600 nesta sessão).
+  [601/sem limite] fila=1123 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453814
+  [602/sem limite] fila=1122 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453815
+  [603/sem limite] fila=1121 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453812
+  [604/sem limite] fila=1120 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453811
+  [605/sem limite] fila=1119 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453810
+  [606/sem limite] fila=1118 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453809
+  [607/sem limite] fila=1117 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453808
+  [608/sem limite] fila=1116 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453807
+  [609/sem limite] fila=1115 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453806
+  [610/sem limite] fila=1114 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453804
+  [611/sem limite] fila=1113 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453805
+  [612/sem limite] fila=1112 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453802
+  [613/sem limite] fila=1111 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453803
+  [614/sem limite] fila=1110 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453800
+  [615/sem limite] fila=1109 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453801
+  [616/sem limite] fila=1108 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453799
+  [617/sem limite] fila=1107 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453798
+  [618/sem limite] fila=1106 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453797
+  [619/sem limite] fila=1105 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453796
+  [620/sem limite] fila=1104 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453795
+  [621/sem limite] fila=1103 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453794
+  [622/sem limite] fila=1102 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453792
+  [623/sem limite] fila=1101 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453793
+  [624/sem limite] fila=1100 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453790
+  [625/sem limite] fila=1099 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453791
+  [626/sem limite] fila=1098 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453789
+  [627/sem limite] fila=1097 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453788
+  [628/sem limite] fila=1096 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453787
+  [629/sem limite] fila=1095 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453778
+  [630/sem limite] fila=1094 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453777
+  [631/sem limite] fila=1093 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453776
+  📄 [200] .pdf -> https://www.angulo.pr.gov.br/documentos/anexos_noticias/2.pdf
+  [632/sem limite] fila=1092 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453774
+  [633/sem limite] fila=1091 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453775
+  📄 [200] .pdf -> https://www.angulo.pr.gov.br/documentos/anexos_noticias/1.pdf
+  [634/sem limite] fila=1090 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453772
+  [635/sem limite] fila=1089 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453773
+  [636/sem limite] fila=1088 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453769
+  [637/sem limite] fila=1087 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453761
+  [638/sem limite] fila=1086 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453762
+  [639/sem limite] fila=1085 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453764
+  [640/sem limite] fila=1084 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453763
+  [641/sem limite] fila=1083 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453766
+  [642/sem limite] fila=1082 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453765
+  [643/sem limite] fila=1081 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453771
+  [644/sem limite] fila=1080 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453767
+  [645/sem limite] fila=1079 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453770
+  [646/sem limite] fila=1078 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453768
+  [647/sem limite] fila=1077 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453759
+  [648/sem limite] fila=1076 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453760
+  [649/sem limite] fila=1075 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453758
+  [650/sem limite] fila=1074 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453757
+  [651/sem limite] fila=1073 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453756
+  [652/sem limite] fila=1072 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453754
+  [653/sem limite] fila=1071 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453755
+  [654/sem limite] fila=1070 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453753
+  [655/sem limite] fila=1069 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453752
+  [656/sem limite] fila=1068 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453751
+  [657/sem limite] fila=1067 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453749
+  [658/sem limite] fila=1066 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453750
+  [659/sem limite] fila=1065 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453748
+  [660/sem limite] fila=1064 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453747
+  [661/sem limite] fila=1063 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453745
+  [662/sem limite] fila=1062 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453746
+  [663/sem limite] fila=1061 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453744
+  [664/sem limite] fila=1060 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453741
+  [665/sem limite] fila=1059 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453742
+  [666/sem limite] fila=1058 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453743
+  [667/sem limite] fila=1057 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453740
+  [668/sem limite] fila=1056 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453739
+  [669/sem limite] fila=1055 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453738
+  [670/sem limite] fila=1054 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453737
+  [671/sem limite] fila=1053 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453736
+  [672/sem limite] fila=1052 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453735
+  [673/sem limite] fila=1051 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453734
+  [674/sem limite] fila=1050 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1
+  [675/sem limite] fila=1049 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1453733
+  [676/sem limite] fila=1048 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1452671
+  [677/sem limite] fila=1047 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1452597
+  [678/sem limite] fila=1046 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=3
+  [679/sem limite] fila=1045 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451341
+  [680/sem limite] fila=1044 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451342
+  [681/sem limite] fila=1043 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451343
+  [682/sem limite] fila=1042 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451344
+  [683/sem limite] fila=1041 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451346
+  [684/sem limite] fila=1040 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451350
+  [685/sem limite] fila=1039 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451352
+  [686/sem limite] fila=1038 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451353
+  [687/sem limite] fila=1037 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1451354
+  [688/sem limite] fila=1036 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1450297
+  [689/sem limite] fila=1035 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449970
+  [690/sem limite] fila=1034 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449201
+  [691/sem limite] fila=1033 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449202
+  [692/sem limite] fila=1032 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449203
+  [693/sem limite] fila=1031 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449204
+  [694/sem limite] fila=1030 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449205
+  [695/sem limite] fila=1029 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449965
+  [696/sem limite] fila=1028 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1448787
+  [697/sem limite] fila=1032 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1448325
+  [698/sem limite] fila=1031 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1449975
+  [699/sem limite] fila=1031 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1447746
+  [700/sem limite] fila=1030 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1447427
+  [701/sem limite] fila=1029 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1447428
+  [702/sem limite] fila=1028 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1447169
+  [703/sem limite] fila=1027 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1446880
+  [704/sem limite] fila=1026 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1446882
+  [705/sem limite] fila=1025 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1446897
+  [706/sem limite] fila=1024 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1446884
+  [707/sem limite] fila=1023 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1446877
+  [708/sem limite] fila=1022 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1443551
+  [709/sem limite] fila=1021 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1440535
+  [710/sem limite] fila=1020 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1440289
+  [711/sem limite] fila=1019 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1440290
+  [712/sem limite] fila=1018 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1439251
+  [713/sem limite] fila=1017 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1438090
+  [714/sem limite] fila=1016 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1437686
+  [715/sem limite] fila=1015 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1436215
+  [716/sem limite] fila=1014 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1435583
+  [717/sem limite] fila=1013 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1435598
+  [718/sem limite] fila=1012 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1435599
+  [719/sem limite] fila=1011 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1435473
+  [720/sem limite] fila=1010 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1434835
+  [721/sem limite] fila=1009 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1434332
+  [722/sem limite] fila=1008 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1433105
+  [723/sem limite] fila=1007 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1432935
+  [724/sem limite] fila=1006 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1432936
+  [725/sem limite] fila=1005 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1432272
+  [726/sem limite] fila=1004 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1432274
+  [727/sem limite] fila=1003 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1431880
+  [728/sem limite] fila=1002 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1431486
+  [729/sem limite] fila=1001 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1431352
+  [730/sem limite] fila=1000 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1431353
+  [731/sem limite] fila=999 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1431178
+  [732/sem limite] fila=998 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1430913
+  [733/sem limite] fila=997 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1430751
+  [734/sem limite] fila=996 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1429816
+  [735/sem limite] fila=995 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1429647
+  [736/sem limite] fila=994 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1429467
+  [737/sem limite] fila=993 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1429300
+  [738/sem limite] fila=992 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1429099
+  [739/sem limite] fila=991 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1428520
+  [740/sem limite] fila=990 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1428019
+  [741/sem limite] fila=989 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1427457
+  [742/sem limite] fila=988 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1427446
+  [743/sem limite] fila=988 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1427313
+  [744/sem limite] fila=987 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1427106
+  [745/sem limite] fila=986 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1427029
+  [746/sem limite] fila=985 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1426708
+  [747/sem limite] fila=984 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1426685
+  [748/sem limite] fila=983 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1426502
+  [749/sem limite] fila=982 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1426429
+  [750/sem limite] fila=981 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1425318
+  [751/sem limite] fila=980 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1425137
+  [752/sem limite] fila=979 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1424896
+  [753/sem limite] fila=978 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1424760
+  [754/sem limite] fila=977 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1424571
+  [755/sem limite] fila=976 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1424240
+  [756/sem limite] fila=975 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1424024
+  [757/sem limite] fila=974 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423960
+  [758/sem limite] fila=973 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423961
+  [759/sem limite] fila=972 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423779
+  [760/sem limite] fila=971 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423780
+  [761/sem limite] fila=970 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423494
+  [762/sem limite] fila=969 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423259
+  [763/sem limite] fila=968 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423173
+  [764/sem limite] fila=967 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1423017
+  [765/sem limite] fila=966 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1422754
+  [766/sem limite] fila=965 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1422443
+  [767/sem limite] fila=964 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1422379
+  [768/sem limite] fila=963 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1422352
+  [769/sem limite] fila=962 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1422266
+  [770/sem limite] fila=961 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1421680
+  [771/sem limite] fila=960 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1421708
+  [772/sem limite] fila=959 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1421424
+  [773/sem limite] fila=958 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420774
+  [774/sem limite] fila=957 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420708
+  [775/sem limite] fila=956 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420377
+  [776/sem limite] fila=955 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420332
+  [777/sem limite] fila=954 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420263
+  [778/sem limite] fila=953 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420158
+  [779/sem limite] fila=952 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420159
+  [780/sem limite] fila=951 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1420214
+  [781/sem limite] fila=950 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1419144
+  [782/sem limite] fila=949 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1418814
+  [783/sem limite] fila=948 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1417338
+  [784/sem limite] fila=947 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1416503
+  [785/sem limite] fila=946 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1415541
+  [786/sem limite] fila=945 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1415542
+  [787/sem limite] fila=944 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1415543
+  [788/sem limite] fila=943 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1413317
+  [789/sem limite] fila=942 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1412971
+  [790/sem limite] fila=941 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1412977
+  [791/sem limite] fila=940 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1412898
+  [792/sem limite] fila=939 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1411284
+  [793/sem limite] fila=938 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1410828
+  [794/sem limite] fila=937 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1410647
+  [795/sem limite] fila=936 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1410648
+  [796/sem limite] fila=935 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1410649
+  [797/sem limite] fila=934 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1409461
+  [798/sem limite] fila=933 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1409149
+  [799/sem limite] fila=932 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1409150
+  [800/sem limite] fila=931 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1409095
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  625 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  125 links externos registrados.
+  Checkpoint salvo (800 páginas totais | 800 nesta sessão).
+  [801/sem limite] fila=930 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1408040
+  [802/sem limite] fila=929 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1406472
+  [803/sem limite] fila=928 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1404989
+  [804/sem limite] fila=927 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1402172
+  [805/sem limite] fila=926 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1402173
+  [806/sem limite] fila=925 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1401412
+  [807/sem limite] fila=924 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1401146
+  [808/sem limite] fila=923 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1400445
+  [809/sem limite] fila=922 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1400423
+  [810/sem limite] fila=921 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1400237
+  [811/sem limite] fila=920 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1399904
+  [812/sem limite] fila=919 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1399778
+  [813/sem limite] fila=918 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1399644
+  [814/sem limite] fila=917 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1399381
+  [815/sem limite] fila=916 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1395788
+  [816/sem limite] fila=915 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1395555
+  [817/sem limite] fila=914 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1394964
+  [818/sem limite] fila=913 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1394710
+  [819/sem limite] fila=912 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1394506
+  [820/sem limite] fila=911 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1393839
+  [821/sem limite] fila=910 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1393588
+  [822/sem limite] fila=909 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1393375
+  [823/sem limite] fila=908 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1393037
+  [824/sem limite] fila=907 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1392975
+  [825/sem limite] fila=906 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1392837
+  [826/sem limite] fila=905 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1392699
+  [827/sem limite] fila=904 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1392209
+  [828/sem limite] fila=903 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1392035
+  [829/sem limite] fila=902 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1391582
+  [830/sem limite] fila=901 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1391344
+  [831/sem limite] fila=900 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1390717
+  [832/sem limite] fila=899 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1390585
+  [833/sem limite] fila=898 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1390217
+  [834/sem limite] fila=897 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1390125
+  [835/sem limite] fila=896 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1390024
+  [836/sem limite] fila=895 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1389857
+  [837/sem limite] fila=894 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1389743
+  [838/sem limite] fila=893 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1389181
+  [839/sem limite] fila=892 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1388613
+  [840/sem limite] fila=891 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1388272
+  [841/sem limite] fila=890 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1387331
+  [842/sem limite] fila=889 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1386692
+  [843/sem limite] fila=888 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1386346
+  [844/sem limite] fila=887 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1385495
+  [845/sem limite] fila=886 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1385385
+  [846/sem limite] fila=885 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1384209
+  [847/sem limite] fila=884 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1384052
+  [848/sem limite] fila=883 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1383818
+  [849/sem limite] fila=882 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1383635
+  [850/sem limite] fila=881 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1383405
+  [851/sem limite] fila=880 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1383406
+  [852/sem limite] fila=879 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1382826
+  [853/sem limite] fila=878 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1382788
+  [854/sem limite] fila=877 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1382398
+  [855/sem limite] fila=876 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1381656
+  [856/sem limite] fila=875 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1381409
+  [857/sem limite] fila=874 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1380877
+  [858/sem limite] fila=873 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1380189
+  [859/sem limite] fila=872 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1380044
+  [860/sem limite] fila=871 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1379377
+  [861/sem limite] fila=870 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1379179
+  [862/sem limite] fila=869 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1378955
+  [863/sem limite] fila=868 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1378310
+  [864/sem limite] fila=867 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1378159
+  [865/sem limite] fila=866 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1357939
+  [866/sem limite] fila=865 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1357768
+  [867/sem limite] fila=864 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1346221
+  [868/sem limite] fila=863 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1345928
+  [869/sem limite] fila=862 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1345834
+  [870/sem limite] fila=861 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1345837
+  [871/sem limite] fila=860 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1344814
+  [872/sem limite] fila=859 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1344914
+  [873/sem limite] fila=858 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1344811
+  [874/sem limite] fila=857 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1341788
+  [875/sem limite] fila=856 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1341084
+  [876/sem limite] fila=855 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1338275
+  [877/sem limite] fila=854 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1340463
+  [878/sem limite] fila=853 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1340465
+  [879/sem limite] fila=852 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1340467
+  [880/sem limite] fila=851 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1338253
+  [881/sem limite] fila=850 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1335668
+  [882/sem limite] fila=849 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1335530
+  [883/sem limite] fila=848 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1335532
+  [884/sem limite] fila=847 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1334891
+  [885/sem limite] fila=846 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1334427
+  [886/sem limite] fila=845 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1333002
+  [887/sem limite] fila=844 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1332809
+  [888/sem limite] fila=843 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1330897
+  [889/sem limite] fila=842 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1330107
+  [890/sem limite] fila=842 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329958
+  [891/sem limite] fila=841 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329904
+  [892/sem limite] fila=840 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329574
+  [893/sem limite] fila=839 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329477
+  [894/sem limite] fila=838 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329423
+  [895/sem limite] fila=837 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329092
+  [896/sem limite] fila=836 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1328920
+  [897/sem limite] fila=835 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1328909
+  [898/sem limite] fila=834 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1329117
+  [899/sem limite] fila=834 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1328492
+  [900/sem limite] fila=833 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1328204
+  ⚠️ [404] .html" -> https://www.angulo.pr.gov.br/"http:/www.sesc.com.br/mesabrasil/modalid
+  [901/sem limite] fila=832 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1327914
+  [902/sem limite] fila=831 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1327885
+  [903/sem limite] fila=830 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1325618
+  [904/sem limite] fila=829 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1325644
+  [905/sem limite] fila=828 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1325228
+  [906/sem limite] fila=828 | depth=3 | https://www.angulo.pr.gov.br/index.php?mod=988&idNot=1323335
+  [907/sem limite] fila=827 | depth=3 | https://diario.angulo.pr.gov.br
+  [908/sem limite] fila=826 | depth=3 | https://diario.angulo.pr.gov.br/recuperar
+  [909/sem limite] fila=825 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1234
+  [910/sem limite] fila=825 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1235
+  [911/sem limite] fila=824 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1236
+  [912/sem limite] fila=823 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1228
+  [913/sem limite] fila=823 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1223
+  [914/sem limite] fila=822 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1218
+  [915/sem limite] fila=822 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/1212
+  [916/sem limite] fila=823 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/1213
+  [917/sem limite] fila=823 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1211
+  [918/sem limite] fila=822 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1208
+  [919/sem limite] fila=822 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1207
+  [920/sem limite] fila=821 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1206
+  [921/sem limite] fila=820 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1209
+  [922/sem limite] fila=819 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1204
+  [923/sem limite] fila=819 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1197
+  [924/sem limite] fila=819 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1203
+  [925/sem limite] fila=818 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1192
+  [926/sem limite] fila=818 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1191
+  [927/sem limite] fila=817 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1189
+  [928/sem limite] fila=816 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1190
+  [929/sem limite] fila=815 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1182
+  [930/sem limite] fila=815 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1181
+  [931/sem limite] fila=815 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1178
+  [932/sem limite] fila=814 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1173
+  [933/sem limite] fila=814 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1166
+  [934/sem limite] fila=814 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1167
+  [935/sem limite] fila=813 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1168
+  [936/sem limite] fila=812 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1165
+  [937/sem limite] fila=811 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1164
+  [938/sem limite] fila=810 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1163
+  [939/sem limite] fila=810 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1161
+  [940/sem limite] fila=809 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1162
+  [941/sem limite] fila=808 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1158
+  [942/sem limite] fila=808 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1159
+  [943/sem limite] fila=807 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1157
+  [944/sem limite] fila=806 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1154
+  [945/sem limite] fila=806 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1153
+  [946/sem limite] fila=805 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1152
+  [947/sem limite] fila=804 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1144
+  [948/sem limite] fila=804 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1142
+  [949/sem limite] fila=803 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1148
+  [950/sem limite] fila=802 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1150
+  [951/sem limite] fila=801 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1147
+  [952/sem limite] fila=800 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1149
+  [953/sem limite] fila=799 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1143
+  [954/sem limite] fila=798 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1137
+  [955/sem limite] fila=798 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1136
+  [956/sem limite] fila=797 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/1133
+  [957/sem limite] fila=797 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1135
+  [958/sem limite] fila=796 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1122
+  [959/sem limite] fila=796 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/t/t/t/t/t/2
+  [960/sem limite] fila=802 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/t/t/t/t/t/3
+  [961/sem limite] fila=818 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/t/t/t/t/t/4
+  [962/sem limite] fila=851 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/t/t/t/t/t/34
+  [963/sem limite] fila=878 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/138320261465
+  [964/sem limite] fila=881 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/138220261464
+  [965/sem limite] fila=887 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/138120261463
+  [966/sem limite] fila=889 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/138020261462
+  [967/sem limite] fila=889 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137920261461
+  [968/sem limite] fila=891 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137820261460
+  [969/sem limite] fila=892 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137720261459
+  [970/sem limite] fila=892 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137620261458
+  [971/sem limite] fila=898 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137520261457
+  [972/sem limite] fila=898 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137420261456
+  [973/sem limite] fila=901 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137320261455
+  [974/sem limite] fila=906 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137220261454
+  [975/sem limite] fila=912 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/view/137220261454
+  [976/sem limite] fila=912 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/materias/137120261453
+  [977/sem limite] fila=912 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/view/137120261453
+  [978/sem limite] fila=912 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/pesquisa/all/all/all/all/2
+  [979/sem limite] fila=952 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/pesquisa/all/all/all/all/3
+  [980/sem limite] fila=992 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/pesquisa/all/all/all/all/4
+  [981/sem limite] fila=1032 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial/pesquisa/all/all/all/all/72
+  [982/sem limite] fila=1038 | depth=3 | https://diario.angulo.pr.gov.br/diariooficial
+  [983/sem limite] fila=1037 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/139020261472
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1390202
+  [984/sem limite] fila=1036 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137320261455
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1373202
+  [985/sem limite] fila=1035 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137420261456
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1374202
+  [986/sem limite] fila=1034 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137520261457
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1375202
+  [987/sem limite] fila=1033 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137620261458
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1376202
+  [988/sem limite] fila=1032 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137720261459
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1377202
+  [989/sem limite] fila=1031 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137820261460
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1378202
+  [990/sem limite] fila=1030 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/137920261461
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1379202
+  [991/sem limite] fila=1029 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138020261462
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1380202
+  [992/sem limite] fila=1028 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138120261463
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1381202
+  [993/sem limite] fila=1027 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138220261464
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1382202
+  [994/sem limite] fila=1026 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138320261465
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1383202
+  [995/sem limite] fila=1025 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138420261466
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1384202
+  [996/sem limite] fila=1024 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138520261467
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1385202
+  [997/sem limite] fila=1023 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138620261468
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1386202
+  [998/sem limite] fila=1022 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138720261469
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1387202
+  [999/sem limite] fila=1021 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138820261470
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1388202
+  [1000/sem limite] fila=1020 | depth=3 | https://diario.angulo.pr.gov.br/download/diariooficial/edition/138920261471
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/diariooficial/edition/1389202
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  644 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  125 links externos registrados.
+  Checkpoint salvo (1000 páginas totais | 1000 nesta sessão).
+  [1001/sem limite] fila=1019 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1110
+  [1002/sem limite] fila=1019 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1111
+  [1003/sem limite] fila=1018 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1094
+  [1004/sem limite] fila=1018 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1079
+  [1005/sem limite] fila=1018 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1072
+  [1006/sem limite] fila=1018 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1044
+  [1007/sem limite] fila=1018 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1043
+  [1008/sem limite] fila=1017 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1035
+  [1009/sem limite] fila=1017 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1012
+  [1010/sem limite] fila=1017 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1011
+  [1011/sem limite] fila=1016 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/963
+  [1012/sem limite] fila=1016 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/897
+  [1013/sem limite] fila=1016 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/896
+  [1014/sem limite] fila=1015 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/882
+  [1015/sem limite] fila=1015 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/872
+  [1016/sem limite] fila=1015 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/869
+  [1017/sem limite] fila=1015 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/821
+  [1018/sem limite] fila=1015 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/822
+  [1019/sem limite] fila=1014 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/799
+  [1020/sem limite] fila=1014 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/800
+  [1021/sem limite] fila=1013 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/801
+  [1022/sem limite] fila=1012 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/802
+  [1023/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/777
+  [1024/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/772
+  [1025/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/768
+  [1026/sem limite] fila=1012 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/741
+  [1027/sem limite] fila=1012 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/751
+  [1028/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/711
+  [1029/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/637
+  [1030/sem limite] fila=1011 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/640
+  [1031/sem limite] fila=1010 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/620
+  [1032/sem limite] fila=1010 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/612
+  [1033/sem limite] fila=1010 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/613
+  [1034/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/554
+  [1035/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/526
+  [1036/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/477
+  [1037/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/454
+  [1038/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/439
+  [1039/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/428
+  [1040/sem limite] fila=1009 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/35/t/t/t/t/2
+  [1041/sem limite] fila=1059 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/35/t/t/t/t/3
+  [1042/sem limite] fila=1109 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/35/t/t/t/t/4
+  [1043/sem limite] fila=1158 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/35/t/t/t/t/7
+  [1044/sem limite] fila=1158 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1123
+  [1045/sem limite] fila=1157 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1109
+  [1046/sem limite] fila=1156 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1112
+  [1047/sem limite] fila=1155 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1106
+  [1048/sem limite] fila=1155 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1102
+  [1049/sem limite] fila=1155 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1104
+  [1050/sem limite] fila=1154 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1099
+  [1051/sem limite] fila=1154 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1098
+  [1052/sem limite] fila=1153 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1097
+  [1053/sem limite] fila=1152 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1095
+  [1054/sem limite] fila=1151 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1096
+  [1055/sem limite] fila=1150 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1092
+  [1056/sem limite] fila=1150 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1090
+  [1057/sem limite] fila=1150 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1091
+  [1058/sem limite] fila=1149 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1078
+  [1059/sem limite] fila=1148 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1071
+  [1060/sem limite] fila=1147 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/1069
+  [1061/sem limite] fila=1147 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1068
+  [1062/sem limite] fila=1147 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1066
+  [1063/sem limite] fila=1147 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1050
+  [1064/sem limite] fila=1147 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1051
+  [1065/sem limite] fila=1146 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1047
+  [1066/sem limite] fila=1145 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1040
+  [1067/sem limite] fila=1145 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1039
+  [1068/sem limite] fila=1144 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1037
+  [1069/sem limite] fila=1143 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1038
+  [1070/sem limite] fila=1142 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1033
+  [1071/sem limite] fila=1141 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1032
+  [1072/sem limite] fila=1140 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/34/t/t/t/t/2
+  [1073/sem limite] fila=1141 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/34/t/t/t/t/3
+  [1074/sem limite] fila=1185 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/34/t/t/t/t/4
+  [1075/sem limite] fila=1235 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/34/t/t/t/t/19
+  [1076/sem limite] fila=1237 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1100
+  [1077/sem limite] fila=1236 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1087
+  [1078/sem limite] fila=1235 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1074
+  [1079/sem limite] fila=1234 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1041
+  [1080/sem limite] fila=1233 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1042
+  [1081/sem limite] fila=1232 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1018
+  [1082/sem limite] fila=1232 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/939
+  [1083/sem limite] fila=1232 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/941
+  [1084/sem limite] fila=1231 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/940
+  [1085/sem limite] fila=1230 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/915
+  [1086/sem limite] fila=1230 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/912
+  [1087/sem limite] fila=1230 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/913
+  [1088/sem limite] fila=1229 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/904
+  [1089/sem limite] fila=1229 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/901
+  [1090/sem limite] fila=1228 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/906
+  [1091/sem limite] fila=1227 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/907
+  [1092/sem limite] fila=1226 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/908
+  [1093/sem limite] fila=1225 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/909
+  [1094/sem limite] fila=1224 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/910
+  [1095/sem limite] fila=1223 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/911
+  [1096/sem limite] fila=1222 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/902
+  [1097/sem limite] fila=1221 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/903
+  [1098/sem limite] fila=1220 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/905
+  [1099/sem limite] fila=1219 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/886
+  [1100/sem limite] fila=1218 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/841
+  [1101/sem limite] fila=1218 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/845
+  [1102/sem limite] fila=1217 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/843
+  [1103/sem limite] fila=1216 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/844
+  [1104/sem limite] fila=1215 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/839
+  [1105/sem limite] fila=1214 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/840
+  [1106/sem limite] fila=1213 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/842
+  [1107/sem limite] fila=1212 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/806
+  [1108/sem limite] fila=1212 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/804
+  [1109/sem limite] fila=1211 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/805
+  [1110/sem limite] fila=1210 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/746
+  [1111/sem limite] fila=1209 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/747
+  [1112/sem limite] fila=1208 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/748
+  [1113/sem limite] fila=1207 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/749
+  [1114/sem limite] fila=1206 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/750
+  [1115/sem limite] fila=1205 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/33/t/t/t/t/2
+  [1116/sem limite] fila=1255 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/33/t/t/t/t/3
+  [1117/sem limite] fila=1304 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/33/t/t/t/t/4
+  [1118/sem limite] fila=1353 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/33/t/t/t/t/6
+  [1119/sem limite] fila=1380 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1124
+  [1120/sem limite] fila=1379 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/1086
+  [1121/sem limite] fila=1380 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/1065
+  [1122/sem limite] fila=1379 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/962
+  [1123/sem limite] fila=1378 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/952
+  [1124/sem limite] fila=1378 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/947
+  [1125/sem limite] fila=1378 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/937
+  [1126/sem limite] fila=1377 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/925
+  [1127/sem limite] fila=1377 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/926
+  [1128/sem limite] fila=1376 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/929
+  [1129/sem limite] fila=1375 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/792
+  [1130/sem limite] fila=1376 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/762
+  [1131/sem limite] fila=1376 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/753
+  [1132/sem limite] fila=1375 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/754
+  [1133/sem limite] fila=1374 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/695
+  [1134/sem limite] fila=1374 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/654
+  [1135/sem limite] fila=1374 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/651
+  [1136/sem limite] fila=1374 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/652
+  [1137/sem limite] fila=1373 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/634
+  [1138/sem limite] fila=1373 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/534
+  [1139/sem limite] fila=1373 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/496
+  [1140/sem limite] fila=1373 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/497
+  [1141/sem limite] fila=1372 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/498
+  [1142/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/480
+  [1143/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/482
+  [1144/sem limite] fila=1370 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/481
+  [1145/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/429
+  [1146/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/381
+  [1147/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/354
+  [1148/sem limite] fila=1370 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/295
+  [1149/sem limite] fila=1370 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/250
+  [1150/sem limite] fila=1370 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/249
+  [1151/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/251
+  [1152/sem limite] fila=1368 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/211
+  [1153/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/193
+  [1154/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/128
+  [1155/sem limite] fila=1369 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/44
+  [1156/sem limite] fila=1370 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/969
+  [1157/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/968
+  [1158/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/970
+  [1159/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/967
+  [1160/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3779
+  [1161/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3809
+  [1162/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3732
+  [1163/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3806
+  [1164/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3518
+  [1165/sem limite] fila=1371 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/36/t/t/t/t/2
+  [1166/sem limite] fila=1420 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/36/t/t/t/t/3
+  [1167/sem limite] fila=1469 | depth=3 | https://diario.angulo.pr.gov.br/legislacao/t/t/36/t/t/t/t/4
+  [1168/sem limite] fila=1469 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3914
+  [1169/sem limite] fila=1469 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3907
+  [1170/sem limite] fila=1469 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3906
+  [1171/sem limite] fila=1469 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3904
+  [1172/sem limite] fila=1468 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3903
+  [1173/sem limite] fila=1467 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3902
+  [1174/sem limite] fila=1466 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3900
+  [1175/sem limite] fila=1465 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3897
+  [1176/sem limite] fila=1465 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3894
+  [1177/sem limite] fila=1465 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3893
+  [1178/sem limite] fila=1464 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3892
+  [1179/sem limite] fila=1463 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3891
+  [1180/sem limite] fila=1462 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3890
+  [1181/sem limite] fila=1461 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3875
+  [1182/sem limite] fila=1461 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3874
+  [1183/sem limite] fila=1461 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3873
+  [1184/sem limite] fila=1460 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3872
+  [1185/sem limite] fila=1459 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3867
+  [1186/sem limite] fila=1459 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3866
+  [1187/sem limite] fila=1458 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3865
+  [1188/sem limite] fila=1457 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3862
+  [1189/sem limite] fila=1457 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3859
+  [1190/sem limite] fila=1457 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3858
+  [1191/sem limite] fila=1456 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3853
+  [1192/sem limite] fila=1456 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3848
+  [1193/sem limite] fila=1456 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3847
+  [1194/sem limite] fila=1455 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3845
+  [1195/sem limite] fila=1454 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3844
+  [1196/sem limite] fila=1453 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3843
+  [1197/sem limite] fila=1453 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3842
+  [1198/sem limite] fila=1452 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3841
+  [1199/sem limite] fila=1451 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3832
+  [1200/sem limite] fila=1451 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3822
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  644 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  125 links externos registrados.
+  Checkpoint salvo (1200 páginas totais | 1200 nesta sessão).
+  [1201/sem limite] fila=1451 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3821
+  [1202/sem limite] fila=1450 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3820
+  [1203/sem limite] fila=1450 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3819
+  [1204/sem limite] fila=1449 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3818
+  [1205/sem limite] fila=1448 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3817
+  [1206/sem limite] fila=1447 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3816
+  [1207/sem limite] fila=1446 | depth=3 | https://diario.angulo.pr.gov.br/webdocview/materiadiario/3815
+  [1208/sem limite] fila=1445 | depth=3 | https://diario.angulo.pr.gov.br/publicacoes/t/t/t/t/t/t/t/2
+  [1209/sem limite] fila=1485 | depth=3 | https://diario.angulo.pr.gov.br/publicacoes/t/t/t/t/t/t/t/3
+  [1210/sem limite] fila=1525 | depth=3 | https://diario.angulo.pr.gov.br/publicacoes/t/t/t/t/t/t/t/4
+  [1211/sem limite] fila=1565 | depth=3 | https://diario.angulo.pr.gov.br/publicacoes/t/t/t/t/t/t/t/43
+  [1212/sem limite] fila=1585 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-b14cef-290720
+  🤖 Usando Selenium para: https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-b14cef-29072026153605
+  [1213/sem limite] fila=1584 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-a96540-290720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-a96
+  [1214/sem limite] fila=1583 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-3d183e-280720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-3d1
+  [1215/sem limite] fila=1582 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-1e9b81-280720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-1e9
+  [1216/sem limite] fila=1581 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-a0cbd0-280720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-a0c
+  [1217/sem limite] fila=1580 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-cedc64-280720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-ced
+  [1218/sem limite] fila=1579 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-b9c8c4-280720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-b9c
+  [1219/sem limite] fila=1578 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-f0b162-270720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-f0b
+  [1220/sem limite] fila=1577 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-de7c10-240720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-de7
+  [1221/sem limite] fila=1576 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-083da4-240720
+  🤖 Usando Selenium para: https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-083da4-24072026155831
+  [1222/sem limite] fila=1575 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-3234e6-240720
+  🤖 Usando Selenium para: https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-3234e6-24072026160215
+  [1223/sem limite] fila=1574 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-08fb71-240720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-08f
+  [1224/sem limite] fila=1573 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-7293f8-240720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-729
+  [1225/sem limite] fila=1572 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-41b300-240720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-41b
+  [1226/sem limite] fila=1571 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-831900-230720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-831
+  [1227/sem limite] fila=1570 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-1772b5-220720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-177
+  [1228/sem limite] fila=1569 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-5346fa-220720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-534
+  [1229/sem limite] fila=1568 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-4615e6-220720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-461
+  [1230/sem limite] fila=1567 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-dc7ac7-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-dc7
+  [1231/sem limite] fila=1566 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-5acec4-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-5ac
+  [1232/sem limite] fila=1565 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-c3ee6f-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-c3e
+  [1233/sem limite] fila=1564 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-acab75-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-aca
+  [1234/sem limite] fila=1563 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e7d542-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e7d
+  [1235/sem limite] fila=1562 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e2548c-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e25
+  [1236/sem limite] fila=1561 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-7a98bc-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-7a9
+  [1237/sem limite] fila=1560 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e4a3cf-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-e4a
+  [1238/sem limite] fila=1559 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-5ec684-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-5ec
+  [1239/sem limite] fila=1558 | depth=3 | https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-57cb63-210720
+  📄 [200] .pdf -> https://diario.angulo.pr.gov.br/download/materiadiario/materia/MAT-57c
+  [1240/sem limite] fila=1557 | depth=3 | https://www.angulo.pr.gov.br/esic/
+  📄 [200] .doc -> https://www.angulo.pr.gov.br/esic/formulario/form-pedido_pf.doc
+  📄 [200] .doc -> https://www.angulo.pr.gov.br/esic/formulario/form-pedido_pj.doc
+  [1241/sem limite] fila=1561 | depth=3 | https://www.angulo.pr.gov.br/esic/regulamentacao/
+  📄 [200] .doc -> https://www.angulo.pr.gov.br/esic/regulamentacao/formulario/form-pedid
+  📄 [200] .doc -> https://www.angulo.pr.gov.br/esic/regulamentacao/formulario/form-pedid
+  [1242/sem limite] fila=1565 | depth=3 | https://www.angulo.pr.gov.br/esic/relatorio/
+  [1243/sem limite] fila=1565 | depth=3 | https://www.angulo.pr.gov.br/esic/infosigilo/
+  [1244/sem limite] fila=1568 | depth=3 | https://www.angulo.pr.gov.br/esic/faq/
+  [1245/sem limite] fila=1568 | depth=3 | https://www.angulo.pr.gov.br/esic/mapa/
+  [1246/sem limite] fila=1569 | depth=3 | https://www.angulo.pr.gov.br/esic/manual/
+  [1247/sem limite] fila=1568 | depth=3 | https://www.angulo.pr.gov.br/relatorio
+ ❌ HTTP_404: https://www.angulo.pr.gov.br/relatorio
+  🤖 Usando Selenium para: https://www.angulo.pr.gov.br/relatorio
+  [1248/sem limite] fila=1567 | depth=3 | https://www.angulo.pr.gov.br/solicitacao
+ ❌ HTTP_404: https://www.angulo.pr.gov.br/solicitacao
+  🤖 Usando Selenium para: https://www.angulo.pr.gov.br/solicitacao
+  [1249/sem limite] fila=1566 | depth=3 | https://www.angulo.pr.gov.br/consulta
+ ❌ HTTP_404: https://www.angulo.pr.gov.br/consulta
+  🤖 Usando Selenium para: https://www.angulo.pr.gov.br/consulta
+  [1250/sem limite] fila=1565 | depth=3 | https://www.angulo.pr.gov.br/regulamentacao
+ ❌ HTTP_404: https://www.angulo.pr.gov.br/regulamentacao
+  🤖 Usando Selenium para: https://www.angulo.pr.gov.br/regulamentacao
+  [1251/sem limite] fila=1564 | depth=3 | https://www.angulo.pr.gov.br/infosigilo
+ ❌ HTTP_404: https://www.angulo.pr.gov.br/infosigilo
+  🤖 Usando Selenium para: https://www.angulo.pr.gov.br/infosigilo
+  [1252/sem limite] fila=1563 | depth=3 | https://diario.angulo.pr.gov.br/swagger/sample
+  [1253/sem limite] fila=1562 | depth=3 | https://www.angulo.pr.gov.br?meio=16764&pag=1&search=&local_id=
+  [1254/sem limite] fila=1561 | depth=3 | https://www.angulo.pr.gov.br?meio=16764&pag=2&search=&local_id=
+  [1255/sem limite] fila=1560 | depth=3 | https://www.angulo.pr.gov.br?meio=16764&pag=3&search=&local_id=
+  [1256/sem limite] fila=1559 | depth=3 | https://www.angulo.pr.gov.br?meio=1834207
+  [1257/sem limite] fila=1558 | depth=3 | https://www.angulo.pr.gov.br?meio=17464
+  [1258/sem limite] fila=1557 | depth=3 | https://www.angulo.pr.gov.br?meio=17126
+  [1259/sem limite] fila=1556 | depth=4 | https://angulo.pr.gov.br/
+  [1260/sem limite] fila=1555 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988
+  [1261/sem limite] fila=1554 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=
+  [1262/sem limite] fila=1553 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453854
+  [1263/sem limite] fila=1552 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453855
+  [1264/sem limite] fila=1551 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453853
+  [1265/sem limite] fila=1550 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453850
+  [1266/sem limite] fila=1549 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453851
+  [1267/sem limite] fila=1548 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453852
+  [1268/sem limite] fila=1547 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453848
+  [1269/sem limite] fila=1546 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453849
+  [1270/sem limite] fila=1545 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453846
+  [1271/sem limite] fila=1544 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453847
+  [1272/sem limite] fila=1543 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453845
+  [1273/sem limite] fila=1542 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453843
+  [1274/sem limite] fila=1541 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453842
+  [1275/sem limite] fila=1540 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453844
+  [1276/sem limite] fila=1539 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453841
+  [1277/sem limite] fila=1538 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453840
+  [1278/sem limite] fila=1537 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453839
+  [1279/sem limite] fila=1536 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453838
+  [1280/sem limite] fila=1535 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453837
+  [1281/sem limite] fila=1534 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453834
+  [1282/sem limite] fila=1533 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453836
+  [1283/sem limite] fila=1532 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453833
+  [1284/sem limite] fila=1531 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453835
+  [1285/sem limite] fila=1530 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453832
+  [1286/sem limite] fila=1529 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453829
+  [1287/sem limite] fila=1528 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453830
+  [1288/sem limite] fila=1527 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453831
+  [1289/sem limite] fila=1526 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453828
+  [1290/sem limite] fila=1525 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453827
+  [1291/sem limite] fila=1524 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453826
+  [1292/sem limite] fila=1523 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453825
+  [1293/sem limite] fila=1522 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453824
+  [1294/sem limite] fila=1521 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453823
+  [1295/sem limite] fila=1520 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453822
+  [1296/sem limite] fila=1519 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453821
+  [1297/sem limite] fila=1518 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453820
+  [1298/sem limite] fila=1517 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453818
+  [1299/sem limite] fila=1516 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453819
+  [1300/sem limite] fila=1515 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453817
+  [1301/sem limite] fila=1514 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453816
+  [1302/sem limite] fila=1513 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453813
+  [1303/sem limite] fila=1512 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453814
+  [1304/sem limite] fila=1511 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453815
+  [1305/sem limite] fila=1510 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453812
+  [1306/sem limite] fila=1509 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453811
+  [1307/sem limite] fila=1508 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453810
+  [1308/sem limite] fila=1507 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453809
+  [1309/sem limite] fila=1506 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453808
+  [1310/sem limite] fila=1505 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453807
+  [1311/sem limite] fila=1504 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453806
+  [1312/sem limite] fila=1503 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453804
+  [1313/sem limite] fila=1502 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453805
+  [1314/sem limite] fila=1501 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453802
+  [1315/sem limite] fila=1500 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453803
+  [1316/sem limite] fila=1499 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453800
+  [1317/sem limite] fila=1498 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453801
+  [1318/sem limite] fila=1497 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453799
+  [1319/sem limite] fila=1496 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453798
+  [1320/sem limite] fila=1495 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453797
+  [1321/sem limite] fila=1494 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453796
+  [1322/sem limite] fila=1493 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453795
+  [1323/sem limite] fila=1492 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453794
+  [1324/sem limite] fila=1491 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453792
+  [1325/sem limite] fila=1490 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453793
+  [1326/sem limite] fila=1489 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453790
+  [1327/sem limite] fila=1488 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453791
+  [1328/sem limite] fila=1487 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453789
+  [1329/sem limite] fila=1486 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453788
+  [1330/sem limite] fila=1485 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453787
+  [1331/sem limite] fila=1484 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453778
+  [1332/sem limite] fila=1483 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453777
+  [1333/sem limite] fila=1482 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453776
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/anexos_noticias/2.pdf
+  [1334/sem limite] fila=1481 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453774
+  [1335/sem limite] fila=1480 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453775
+  📄 [200] .pdf -> https://angulo.pr.gov.br/documentos/anexos_noticias/1.pdf
+  [1336/sem limite] fila=1479 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453772
+  [1337/sem limite] fila=1478 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453773
+  [1338/sem limite] fila=1477 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453769
+  [1339/sem limite] fila=1476 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453761
+  [1340/sem limite] fila=1475 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453762
+  [1341/sem limite] fila=1474 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453764
+  [1342/sem limite] fila=1473 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453763
+  [1343/sem limite] fila=1472 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453766
+  [1344/sem limite] fila=1471 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453765
+  [1345/sem limite] fila=1470 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453771
+  [1346/sem limite] fila=1469 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453767
+  [1347/sem limite] fila=1468 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453770
+  [1348/sem limite] fila=1467 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453768
+  [1349/sem limite] fila=1466 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453759
+  [1350/sem limite] fila=1465 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453760
+  [1351/sem limite] fila=1464 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453758
+  [1352/sem limite] fila=1463 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453757
+  [1353/sem limite] fila=1462 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453756
+  [1354/sem limite] fila=1461 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453754
+  [1355/sem limite] fila=1460 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453755
+  [1356/sem limite] fila=1459 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453753
+  [1357/sem limite] fila=1458 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453752
+  [1358/sem limite] fila=1457 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453751
+  [1359/sem limite] fila=1456 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453749
+  [1360/sem limite] fila=1455 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453750
+  [1361/sem limite] fila=1454 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453748
+  [1362/sem limite] fila=1453 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453747
+  [1363/sem limite] fila=1452 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453745
+  [1364/sem limite] fila=1451 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453746
+  [1365/sem limite] fila=1450 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453744
+  [1366/sem limite] fila=1449 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453741
+  [1367/sem limite] fila=1448 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453742
+  [1368/sem limite] fila=1447 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453743
+  [1369/sem limite] fila=1446 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453740
+  [1370/sem limite] fila=1445 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453739
+  [1371/sem limite] fila=1444 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453738
+  [1372/sem limite] fila=1443 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453737
+  [1373/sem limite] fila=1442 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453736
+  [1374/sem limite] fila=1441 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453735
+  [1375/sem limite] fila=1440 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453734
+  [1376/sem limite] fila=1439 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1
+  [1377/sem limite] fila=1438 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1453733
+  [1378/sem limite] fila=1437 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1452671
+  [1379/sem limite] fila=1436 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1452597
+  [1380/sem limite] fila=1435 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=3
+  [1381/sem limite] fila=1434 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451341
+  [1382/sem limite] fila=1433 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451342
+  [1383/sem limite] fila=1432 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451343
+  [1384/sem limite] fila=1431 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451344
+  [1385/sem limite] fila=1430 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451346
+  [1386/sem limite] fila=1429 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451350
+  [1387/sem limite] fila=1428 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451352
+  [1388/sem limite] fila=1427 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451353
+  [1389/sem limite] fila=1426 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1451354
+  [1390/sem limite] fila=1425 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1450297
+  [1391/sem limite] fila=1424 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449970
+  [1392/sem limite] fila=1423 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449201
+  [1393/sem limite] fila=1422 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449202
+  [1394/sem limite] fila=1421 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449203
+  [1395/sem limite] fila=1420 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449204
+  [1396/sem limite] fila=1419 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449205
+  [1397/sem limite] fila=1418 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449965
+  [1398/sem limite] fila=1417 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1448787
+  [1399/sem limite] fila=1421 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1448325
+  [1400/sem limite] fila=1420 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1449975
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_links.xlsx
+  675 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/erros_varredura.xlsx
+  21 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/angulo/inventario_externos.xlsx
+  126 links externos registrados.
+  Checkpoint salvo (1400 páginas totais | 1400 nesta sessão).
+  [1401/sem limite] fila=1420 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1447746
+  [1402/sem limite] fila=1419 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1447427
+  [1403/sem limite] fila=1418 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1447428
+  [1404/sem limite] fila=1417 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1447169
+  [1405/sem limite] fila=1416 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1446880
+  [1406/sem limite] fila=1415 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1446882
+  [1407/sem limite] fila=1414 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1446897
+  [1408/sem limite] fila=1413 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1446884
+  [1409/sem limite] fila=1412 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1446877
+  [1410/sem limite] fila=1411 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1443551
+  [1411/sem limite] fila=1410 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1440535
+  [1412/sem limite] fila=1409 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1440289
+  [1413/sem limite] fila=1408 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1440290
+  [1414/sem limite] fila=1407 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1439251
+  [1415/sem limite] fila=1406 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1438090
+  [1416/sem limite] fila=1405 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1437686
+  [1417/sem limite] fila=1404 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1436215
+  [1418/sem limite] fila=1403 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1435583
+  [1419/sem limite] fila=1402 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1435598
+  [1420/sem limite] fila=1401 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1435599
+  [1421/sem limite] fila=1400 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1435473
+  [1422/sem limite] fila=1399 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1434835
+  [1423/sem limite] fila=1398 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1434332
+  [1424/sem limite] fila=1397 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1433105
+  [1425/sem limite] fila=1396 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1432935
+  [1426/sem limite] fila=1395 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1432936
+  [1427/sem limite] fila=1394 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1432272
+  [1428/sem limite] fila=1393 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1432274
+  [1429/sem limite] fila=1392 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1431880
+  [1430/sem limite] fila=1391 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1431486
+  [1431/sem limite] fila=1390 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1431352
+  [1432/sem limite] fila=1389 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1431353
+  [1433/sem limite] fila=1388 | depth=4 | https://angulo.pr.gov.br/index.php?mod=988&idNot=1431178

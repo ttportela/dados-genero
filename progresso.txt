@@ -1,0 +1,4 @@
+Problemas encontrados:
+- Descrobrir cidades, não encontrou links válidos para algumas prefeituras (não lembro quais). Inicialmente, encontrou endereços para camaras municipais em vez da prefeitura (83, precisou ser alterado manualmente com palavra camara e +83 com prefixo cm). 
+- Algumas cidades usam atende.net, e que o crawler não conseguia ler, alterado para usar selenium neses casos de páginas sem links carregados.
+- o crawler encontrou algus links que são de download automático, ele faz o download direto

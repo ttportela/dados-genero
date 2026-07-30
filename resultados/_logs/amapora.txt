@@ -807,3 +807,7 @@ Inventário parcial carregado: 14 arquivos já registrados.
  ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
   🤖 Usando Selenium para: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/guia-da-cidade/cadastro-empresa/
+  [9 (+137)/sem limite] fila=1 | depth=2 | https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+  🤖 Usando Selenium para: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.amapora.pr.gov.br/pagina/5/informativos/sub-pagina/9/

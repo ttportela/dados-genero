@@ -17,14 +17,16 @@
 # ./run_pipeline.sh antonina
 # ./run_pipeline.sh antonioolinto
 
-# Executei as de cima ou estou rodando as de cima
-
 # ./run_pipeline.sh apucarana
 # ./run_pipeline.sh arapongas
 # ./run_pipeline.sh arapoti
+
 # ./run_pipeline.sh arapua
 # ./run_pipeline.sh araruna
 # ./run_pipeline.sh araucaria
+
+# Executei as de cima ou estou rodando as de cima
+
 # ./run_pipeline.sh ariranhadoivai
 # ./run_pipeline.sh assai
 # ./run_pipeline.sh assischateaubriand
