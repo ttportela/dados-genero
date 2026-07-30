@@ -18594,3 +18594,16 @@ Redirecionamento externo ignorado: https://www.agudosdosul.pr.gov.br/comunicacao
   [2148 (+8862)/sem limite] fila=826 | depth=7 | http://www.agudosdosul.pr.gov.br/processos-licitatorios?site=12
   [2149 (+8862)/sem limite] fila=846 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/secretaria-de-obras-recebe
   [2150 (+8862)/sem limite] fila=845 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/concluido-o-curso-de-insta
+  [2151 (+8862)/sem limite] fila=844 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/secretaria-de-saude-de-agu
+  [2152 (+8862)/sem limite] fila=843 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/ponte-miguel-worniak-junio
+  [2153 (+8862)/sem limite] fila=842 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/agudos-do-sul-anuncia-mais
+  [2154 (+8862)/sem limite] fila=841 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/reuniao-estrategica-organi
+  [2155 (+8862)/sem limite] fila=840 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/secretaria-de-saude-promov
+  [2156 (+8862)/sem limite] fila=839 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/educacao-de-agudos-realiza
+  [2157 (+8862)/sem limite] fila=838 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/educacao-em-dialogo-munici
+  [2158 (+8862)/sem limite] fila=837 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/secretaria-de-educacao-pro
+  [2159 (+8862)/sem limite] fila=836 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias?start=140
+  [2160 (+8862)/sem limite] fila=846 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/prefeitura-de-agudos-do-su
+  [2161 (+8862)/sem limite] fila=845 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/prefeitura-de-agudos-do-su
+  [2162 (+8862)/sem limite] fila=844 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/secretaria-de-esportes-aco
+  [2163 (+8862)/sem limite] fila=843 | depth=7 | http://www.agudosdosul.pr.gov.br/comunicacao/noticias/projeto-missao-calebe-fort

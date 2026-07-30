@@ -7245,3 +7245,18 @@ Checkpoint carregado — retomando varredura.
   [3528 (+1067)/sem limite] fila=4697 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
   📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
   [3529 (+1067)/sem limite] fila=4696 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [3530 (+1067)/sem limite] fila=4695 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3531 (+1067)/sem limite] fila=4694 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3532 (+1067)/sem limite] fila=4693 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3533 (+1067)/sem limite] fila=4692 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3534 (+1067)/sem limite] fila=4691 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3535 (+1067)/sem limite] fila=4690 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3536 (+1067)/sem limite] fila=4689 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3537 (+1067)/sem limite] fila=4688 | depth=4 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD

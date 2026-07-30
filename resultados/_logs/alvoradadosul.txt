@@ -11566,3 +11566,54 @@ Nenhum checkpoint encontrado — iniciando do zero.
   [10788/sem limite] fila=16857 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
   [10789/sem limite] fila=16856 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
   [10790/sem limite] fila=16855 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10791/sem limite] fila=16854 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10792/sem limite] fila=16853 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10793/sem limite] fila=16852 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10794/sem limite] fila=16851 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10795/sem limite] fila=16850 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10796/sem limite] fila=16849 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10797/sem limite] fila=16859 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10798/sem limite] fila=16868 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10799/sem limite] fila=16877 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10800/sem limite] fila=16886 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/alvoradadosul/inventario_links.xlsx
+  445 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/alvoradadosul/inventario_externos.xlsx
+  6063 links externos registrados.
+  Checkpoint salvo (10800 páginas totais | 10800 nesta sessão).
+  [10801/sem limite] fila=16895 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10802/sem limite] fila=16904 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10803/sem limite] fila=16913 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10804/sem limite] fila=16922 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10805/sem limite] fila=16931 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10806/sem limite] fila=16947 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10807/sem limite] fila=16947 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10808/sem limite] fila=16947 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10809/sem limite] fila=16946 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10810/sem limite] fila=16945 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10811/sem limite] fila=16944 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10812/sem limite] fila=16943 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10813/sem limite] fila=16942 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10814/sem limite] fila=16941 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10815/sem limite] fila=16940 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10816/sem limite] fila=16939 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10817/sem limite] fila=16938 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10818/sem limite] fila=16948 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10819/sem limite] fila=16957 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10820/sem limite] fila=16966 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10821/sem limite] fila=16975 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10822/sem limite] fila=16984 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10823/sem limite] fila=16993 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10824/sem limite] fila=17002 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10825/sem limite] fila=17011 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10826/sem limite] fila=17020 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10827/sem limite] fila=17032 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10828/sem limite] fila=17036 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10829/sem limite] fila=17036 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10830/sem limite] fila=17035 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10831/sem limite] fila=17034 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10832/sem limite] fila=17033 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10833/sem limite] fila=17032 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10834/sem limite] fila=17031 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
+  [10835/sem limite] fila=17030 | depth=4 | https://www.alvoradadosul.pr.gov.br/?pag=T1RFPU9UVT1PVEk9T1RrPU9UUT1PR0U9T1RZPU9
