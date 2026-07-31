@@ -1,0 +1,208 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.vitorino.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.vitorino.pr.gov.br/
+  🤖 Usando Selenium para: https://www.vitorino.pr.gov.br/
+
+  Nenhum arquivo encontrado para vitorino.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Vitorino)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Vitorino (slug: vitorino)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/vitorino/index.cfm/
+              ✗ https://vitorino.pr.gov.br/
+              ✅ https://www.portalcr2.com.br/entidade/vitorino/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Vitorino
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 0 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.vitorino.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.vitorino.pr.gov.br/
+  🤖 Usando Selenium para: https://www.vitorino.pr.gov.br/
+
+  Nenhum arquivo encontrado para vitorino.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para vitorino.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Vitorino)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Vitorino (slug: vitorino)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/vitorino/index.cfm/
+              ✅ https://vitorino.pr.gov.br/
+              ✅ https://www.portalcr2.com.br/entidade/vitorino/
+              ✅ https://www.vitorino.pr.leg.br/transparencia/acesso-a-informacao/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Vitorino
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 1 erros já registrados.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 0 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.vitorino.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.vitorino.pr.gov.br/
+  🤖 Usando Selenium para: https://www.vitorino.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.vitorino.pr.gov.br/
+
+  Nenhum arquivo encontrado para vitorino.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 2
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+

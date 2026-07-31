@@ -1,0 +1,727 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | WENCESLAUBRAZ
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: WENCESLAUBRAZ
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.wenceslaubraz.pr.gov.br/
+  [2/sem limite] fila=43 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=115499dbbbma11
+  [3/sem limite] fila=56 | depth=1 | https://wenceslaubraz.pr.gov.br/
+  [4/sem limite] fila=55 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ncb0&id=1931
+  [5/sem limite] fila=54 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ncb0&id=1932
+  [6/sem limite] fila=53 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ncb0&id=1933
+  [7/sem limite] fila=52 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ncb0&id=1953
+  [8/sem limite] fila=51 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3782
+  [9/sem limite] fila=57 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3783
+  [10/sem limite] fila=63 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3784
+  [11/sem limite] fila=69 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3821
+  [12/sem limite] fila=70 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3822
+  [13/sem limite] fila=69 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3785
+  [14/sem limite] fila=75 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=4069
+  [15/sem limite] fila=77 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3786
+  [16/sem limite] fila=83 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3787
+  [17/sem limite] fila=89 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3788
+  [18/sem limite] fila=94 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3789
+  [19/sem limite] fila=100 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3790
+  [20/sem limite] fila=106 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=4217
+  [21/sem limite] fila=112 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3807
+  [22/sem limite] fila=118 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3831
+  [23/sem limite] fila=117 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3791
+  [24/sem limite] fila=116 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=3792
+  [25/sem limite] fila=122 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368svb0&id=4243
+  [26/sem limite] fila=128 | depth=1 | http://coronavirus.wenceslaubraz.pr.gov.br/
+  [27/sem limite] fila=150 | depth=1 | https://wenceslaubraz.pr.gov.br/index.php?sessao=p0
+  [28/sem limite] fila=149 | depth=1 | https://www.wenceslaubraz.pr.gov.br/index.php?sessao=b054603368sib0
+  [29/sem limite] fila=159 | depth=1 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368ixb0&id=3354
+  [30/sem limite] fila=158 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ixb0&id=3560
+  [31/sem limite] fila=157 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ixb0&id=3920
+  [32/sem limite] fila=156 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ixb0&id=4107
+  [33/sem limite] fila=155 | depth=1 | https://webmail.wenceslaubraz.pr.gov.br/
+  [34/sem limite] fila=189 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ixb0&id=4168
+  [35/sem limite] fila=188 | depth=1 | https://webgeo.wenceslaubraz.pr.gov.br/
+  🤖 Usando Selenium para: https://webgeo.wenceslaubraz.pr.gov.br/
+  [36/sem limite] fila=187 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368ixb0&id=3354
+  [37/sem limite] fila=186 | depth=1 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3821
+  [38/sem limite] fila=185 | depth=1 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3822
+  [39/sem limite] fila=184 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481732
+  [40/sem limite] fila=183 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481731
+  [41/sem limite] fila=182 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481691
+  [42/sem limite] fila=181 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481675
+  [43/sem limite] fila=180 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481674
+  [44/sem limite] fila=179 | depth=1 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481671
+  [45/sem limite] fila=178 | depth=1 | https://wenceslaubraz.pr.gov.br//index?sessao=b054603368n5b0
+  [46/sem limite] fila=235 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3782
+  [47/sem limite] fila=234 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3783
+  [48/sem limite] fila=233 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3784
+  [49/sem limite] fila=232 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3785
+  [50/sem limite] fila=231 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=4069
+  [51/sem limite] fila=230 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3786
+  [52/sem limite] fila=229 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3787
+  [53/sem limite] fila=228 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3788
+  [54/sem limite] fila=227 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3789
+  [55/sem limite] fila=226 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3790
+  [56/sem limite] fila=225 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3807
+  [57/sem limite] fila=224 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3831
+  [58/sem limite] fila=223 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3791
+  [59/sem limite] fila=222 | depth=2 | https://wenceslaubraz.pr.gov.br/index.php?sessao=b054603368svb0&id=3792
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+
+============================================================
+  TCC - Pipeline de Dados Publicos | WENCESLAUBRAZ
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+
+============================================================
+  Crawler iniciado: WENCESLAUBRAZ
+  Páginas já visitadas (checkpoint): 59
+  URLs na fila: 222
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+59)/sem limite] fila=221 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445096&id_s
+  [2 (+59)/sem limite] fila=220 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441736&id_s
+  [3 (+59)/sem limite] fila=219 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1438305&id_s
+  [4 (+59)/sem limite] fila=218 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1438091&id_s
+  [5 (+59)/sem limite] fila=217 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1436634&id_s
+  [6 (+59)/sem limite] fila=216 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1434605&id_s
+  [7 (+59)/sem limite] fila=215 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [8 (+59)/sem limite] fila=269 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481274&id_s
+  [9 (+59)/sem limite] fila=268 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479987&id_s
+  [10 (+59)/sem limite] fila=267 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479299&id_s
+  [11 (+59)/sem limite] fila=266 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479170&id_s
+  [12 (+59)/sem limite] fila=265 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478739&id_s
+  [13 (+59)/sem limite] fila=264 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478489&id_s
+  [14 (+59)/sem limite] fila=263 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [15 (+59)/sem limite] fila=320 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481303&id_s
+  [16 (+59)/sem limite] fila=319 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481257&id_s
+  [17 (+59)/sem limite] fila=318 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481252&id_s
+  [18 (+59)/sem limite] fila=317 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481050&id_s
+  [19 (+59)/sem limite] fila=316 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480925&id_s
+  [20 (+59)/sem limite] fila=315 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480744&id_s
+  [21 (+59)/sem limite] fila=314 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [22 (+59)/sem limite] fila=371 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1437410&id_s
+  [23 (+59)/sem limite] fila=370 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [24 (+59)/sem limite] fila=423 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481304&id_s
+  [25 (+59)/sem limite] fila=422 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480926&id_s
+  [26 (+59)/sem limite] fila=421 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480500&id_s
+  [27 (+59)/sem limite] fila=420 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480149&id_s
+  [28 (+59)/sem limite] fila=419 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479647&id_s
+  [29 (+59)/sem limite] fila=418 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478668&id_s
+  [30 (+59)/sem limite] fila=417 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [31 (+59)/sem limite] fila=474 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471097&id_s
+  [32 (+59)/sem limite] fila=473 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469795&id_s
+  [33 (+59)/sem limite] fila=472 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [34 (+59)/sem limite] fila=525 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481731&id_s
+  [35 (+59)/sem limite] fila=524 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481674&id_s
+  [36 (+59)/sem limite] fila=523 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481634&id_s
+  [37 (+59)/sem limite] fila=522 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481601&id_s
+  [38 (+59)/sem limite] fila=521 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481597&id_s
+  [39 (+59)/sem limite] fila=520 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481304&id_s
+  [40 (+59)/sem limite] fila=519 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [41 (+59)/sem limite] fila=576 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481547&id_s
+  [42 (+59)/sem limite] fila=575 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481251&id_s
+  [43 (+59)/sem limite] fila=574 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481092&id_s
+  [44 (+59)/sem limite] fila=573 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480777&id_s
+  [45 (+59)/sem limite] fila=572 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480774&id_s
+  [46 (+59)/sem limite] fila=571 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480773&id_s
+  [47 (+59)/sem limite] fila=570 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [48 (+59)/sem limite] fila=627 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476353&id_s
+  [49 (+59)/sem limite] fila=626 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471927&id_s
+  [50 (+59)/sem limite] fila=625 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466894&id_s
+  [51 (+59)/sem limite] fila=624 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1438700&id_s
+  [52 (+59)/sem limite] fila=623 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1433600&id_s
+  [53 (+59)/sem limite] fila=622 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [54 (+59)/sem limite] fila=675 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481603&id_s
+  [55 (+59)/sem limite] fila=674 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480493&id_s
+  [56 (+59)/sem limite] fila=673 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480272&id_s
+  [57 (+59)/sem limite] fila=672 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479438&id_s
+  [58 (+59)/sem limite] fila=671 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479437&id_s
+  [59 (+59)/sem limite] fila=670 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476960&id_s
+  [60 (+59)/sem limite] fila=669 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [61 (+59)/sem limite] fila=726 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481544&id_s
+  [62 (+59)/sem limite] fila=725 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481314&id_s
+  [63 (+59)/sem limite] fila=724 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481254&id_s
+  [64 (+59)/sem limite] fila=723 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481172&id_s
+  [65 (+59)/sem limite] fila=722 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480954&id_s
+  [66 (+59)/sem limite] fila=721 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480040&id_s
+  [67 (+59)/sem limite] fila=720 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [68 (+59)/sem limite] fila=777 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481691&id_s
+  [69 (+59)/sem limite] fila=776 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480409&id_s
+  [70 (+59)/sem limite] fila=775 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479170&id_s
+  [71 (+59)/sem limite] fila=774 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478739&id_s
+  [72 (+59)/sem limite] fila=773 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478070&id_s
+  [73 (+59)/sem limite] fila=772 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478069&id_s
+  [74 (+59)/sem limite] fila=771 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [75 (+59)/sem limite] fila=828 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481601&id_s
+  [76 (+59)/sem limite] fila=827 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481256&id_s
+  [77 (+59)/sem limite] fila=826 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480184&id_s
+  [78 (+59)/sem limite] fila=825 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480150&id_s
+  [79 (+59)/sem limite] fila=824 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479990&id_s
+  [80 (+59)/sem limite] fila=823 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479989&id_s
+  [81 (+59)/sem limite] fila=822 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [82 (+59)/sem limite] fila=879 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481732&id_s
+  [83 (+59)/sem limite] fila=878 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481675&id_s
+  [84 (+59)/sem limite] fila=877 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481602&id_s
+  [85 (+59)/sem limite] fila=876 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481548&id_s
+  [86 (+59)/sem limite] fila=875 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481542&id_s
+  [87 (+59)/sem limite] fila=874 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481255&id_s
+  [88 (+59)/sem limite] fila=873 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [89 (+59)/sem limite] fila=930 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481653&id_s
+  [90 (+59)/sem limite] fila=929 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481193&id_s
+  [91 (+59)/sem limite] fila=928 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480151&id_s
+  [92 (+59)/sem limite] fila=927 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479766&id_s
+  [93 (+59)/sem limite] fila=926 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479254&id_s
+  [94 (+59)/sem limite] fila=925 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479171&id_s
+  [95 (+59)/sem limite] fila=924 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [96 (+59)/sem limite] fila=979 | depth=2 | http://www.wenceslaubraz.pr.gov.br
+  [97 (+59)/sem limite] fila=978 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/vlibras
+  [98 (+59)/sem limite] fila=977 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/
+  [99 (+59)/sem limite] fila=976 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias
+  [100 (+59)/sem limite] fila=986 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/artigos
+  [101 (+59)/sem limite] fila=985 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/contato
+  [102 (+59)/sem limite] fila=984 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/legislacao
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  📄 [200] .pdf -> https://coronavirus.wenceslaubraz.pr.gov.br/sistema/arquivos/122/08102
+  [103 (+59)/sem limite] fila=983 | depth=2 | http://coronavirus.wenceslaubraz.pr.gov.br/vacina_aquisicao
+  [104 (+59)/sem limite] fila=982 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/despesas
+  [105 (+59)/sem limite] fila=981 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/admissoes_pessoal
+  [106 (+59)/sem limite] fila=980 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/plano_de_acao
+  [107 (+59)/sem limite] fila=979 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/programas_sociais
+  [108 (+59)/sem limite] fila=978 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/vacina_aquisicao
+  [109 (+59)/sem limite] fila=977 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/vacina_insumo
+  [110 (+59)/sem limite] fila=976 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/sobra_vacina
+  [111 (+59)/sem limite] fila=975 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/vacina_educacao
+  [112 (+59)/sem limite] fila=974 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/2034
+  [113 (+59)/sem limite] fila=973 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/2033
+  [114 (+59)/sem limite] fila=972 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/2032
+  [115 (+59)/sem limite] fila=971 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/2026
+  [116 (+59)/sem limite] fila=970 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/1857
+  [117 (+59)/sem limite] fila=969 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/1856
+  [118 (+59)/sem limite] fila=968 | depth=2 | https://coronavirus.wenceslaubraz.pr.gov.br/noticias/1855
+  [119 (+59)/sem limite] fila=967 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=279
+  [120 (+59)/sem limite] fila=966 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=280
+  [121 (+59)/sem limite] fila=965 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=286
+  [122 (+59)/sem limite] fila=964 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=281
+  [123 (+59)/sem limite] fila=963 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=282
+  [124 (+59)/sem limite] fila=962 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=283
+  [125 (+59)/sem limite] fila=961 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=284
+  [126 (+59)/sem limite] fila=960 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=285
+  [127 (+59)/sem limite] fila=969 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=287
+  [128 (+59)/sem limite] fila=968 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=288
+  [129 (+59)/sem limite] fila=967 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=si&id=289
+  [130 (+59)/sem limite] fila=966 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ar
+  [131 (+59)/sem limite] fila=965 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=cs
+  [132 (+59)/sem limite] fila=964 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=da
+  [133 (+59)/sem limite] fila=963 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=de
+  [134 (+59)/sem limite] fila=962 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=el
+  [135 (+59)/sem limite] fila=961 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=en
+  [136 (+59)/sem limite] fila=960 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=es
+  [137 (+59)/sem limite] fila=959 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=es_419
+  [138 (+59)/sem limite] fila=958 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=es_es
+  [139 (+59)/sem limite] fila=957 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=fi
+  [140 (+59)/sem limite] fila=956 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=fil
+  [141 (+59)/sem limite] fila=955 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=fr
+  [142 (+59)/sem limite] fila=954 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=he
+  [143 (+59)/sem limite] fila=953 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=hu
+  [144 (+59)/sem limite] fila=952 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=i_en
+  [145 (+59)/sem limite] fila=951 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=id
+  [146 (+59)/sem limite] fila=950 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=it
+  [147 (+59)/sem limite] fila=949 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ja
+  [148 (+59)/sem limite] fila=948 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ko
+  [149 (+59)/sem limite] fila=947 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ms
+  [150 (+59)/sem limite] fila=946 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=nb
+  [151 (+59)/sem limite] fila=945 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=nl
+  [152 (+59)/sem limite] fila=944 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=pl
+  [153 (+59)/sem limite] fila=943 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=pt
+  [154 (+59)/sem limite] fila=942 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=pt_br
+  [155 (+59)/sem limite] fila=941 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ro
+  [156 (+59)/sem limite] fila=940 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=ru
+  [157 (+59)/sem limite] fila=939 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=sv
+  [158 (+59)/sem limite] fila=938 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=th
+  [159 (+59)/sem limite] fila=937 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=tr
+  [160 (+59)/sem limite] fila=936 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=uk
+  [161 (+59)/sem limite] fila=935 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=vi
+  [162 (+59)/sem limite] fila=934 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=zh
+  [163 (+59)/sem limite] fila=933 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/?locale=zh_tw
+  [164 (+59)/sem limite] fila=932 | depth=2 | https://webmail.wenceslaubraz.pr.gov.br/resetpass?start=1
+  [165 (+59)/sem limite] fila=931 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481650
+  [166 (+59)/sem limite] fila=930 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481634
+  [167 (+59)/sem limite] fila=929 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481601
+  [168 (+59)/sem limite] fila=928 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481603
+  [169 (+59)/sem limite] fila=927 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=1
+  [170 (+59)/sem limite] fila=926 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=2
+  [171 (+59)/sem limite] fila=935 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=3
+  [172 (+59)/sem limite] fila=944 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=4
+  [173 (+59)/sem limite] fila=953 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=5
+  [174 (+59)/sem limite] fila=962 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=6
+  [175 (+59)/sem limite] fila=971 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=7
+  [176 (+59)/sem limite] fila=980 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=8
+  [177 (+59)/sem limite] fila=989 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=9
+  [178 (+59)/sem limite] fila=998 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=10
+  [179 (+59)/sem limite] fila=1007 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=11
+  [180 (+59)/sem limite] fila=1016 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=12
+  [181 (+59)/sem limite] fila=1025 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=13
+  [182 (+59)/sem limite] fila=1034 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=14
+  [183 (+59)/sem limite] fila=1043 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=15
+  [184 (+59)/sem limite] fila=1052 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=16
+  [185 (+59)/sem limite] fila=1061 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=17
+  [186 (+59)/sem limite] fila=1070 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=18
+  [187 (+59)/sem limite] fila=1079 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=19
+  [188 (+59)/sem limite] fila=1088 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=20
+  [189 (+59)/sem limite] fila=1097 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=21
+  [190 (+59)/sem limite] fila=1106 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=22
+  [191 (+59)/sem limite] fila=1115 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=23
+  [192 (+59)/sem limite] fila=1124 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=24
+  [193 (+59)/sem limite] fila=1133 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=25
+  [194 (+59)/sem limite] fila=1142 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=26
+  [195 (+59)/sem limite] fila=1151 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=27
+  [196 (+59)/sem limite] fila=1160 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=28
+  [197 (+59)/sem limite] fila=1169 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=29
+  [198 (+59)/sem limite] fila=1178 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=30
+  [199 (+59)/sem limite] fila=1187 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=31
+  [200 (+59)/sem limite] fila=1196 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=32
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_links.xlsx
+  10 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_externos.xlsx
+  358 links externos registrados.
+  Checkpoint salvo (259 páginas totais | 200 nesta sessão).
+  [201 (+59)/sem limite] fila=1205 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=33
+  [202 (+59)/sem limite] fila=1214 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=34
+  [203 (+59)/sem limite] fila=1223 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=35
+  [204 (+59)/sem limite] fila=1232 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=36
+  [205 (+59)/sem limite] fila=1241 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=37
+  [206 (+59)/sem limite] fila=1250 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=38
+  [207 (+59)/sem limite] fila=1259 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=39
+  [208 (+59)/sem limite] fila=1268 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=40
+  [209 (+59)/sem limite] fila=1277 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=41
+  [210 (+59)/sem limite] fila=1286 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=42
+  [211 (+59)/sem limite] fila=1295 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=43
+  [212 (+59)/sem limite] fila=1304 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=44
+  [213 (+59)/sem limite] fila=1313 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=45
+  [214 (+59)/sem limite] fila=1322 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=46
+  [215 (+59)/sem limite] fila=1331 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=47
+  [216 (+59)/sem limite] fila=1340 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=48
+  [217 (+59)/sem limite] fila=1349 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=49
+  [218 (+59)/sem limite] fila=1358 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=50
+  [219 (+59)/sem limite] fila=1367 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=51
+  [220 (+59)/sem limite] fila=1376 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=52
+  [221 (+59)/sem limite] fila=1385 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=53
+  [222 (+59)/sem limite] fila=1394 | depth=2 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=54
+  [223 (+59)/sem limite] fila=1396 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1431169&id_s
+  [224 (+59)/sem limite] fila=1395 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [225 (+59)/sem limite] fila=1394 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [226 (+59)/sem limite] fila=1393 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [227 (+59)/sem limite] fila=1392 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [228 (+59)/sem limite] fila=1391 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [229 (+59)/sem limite] fila=1390 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [230 (+59)/sem limite] fila=1389 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [231 (+59)/sem limite] fila=1388 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [232 (+59)/sem limite] fila=1387 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [233 (+59)/sem limite] fila=1386 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [234 (+59)/sem limite] fila=1385 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [235 (+59)/sem limite] fila=1384 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [236 (+59)/sem limite] fila=1383 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [237 (+59)/sem limite] fila=1382 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [238 (+59)/sem limite] fila=1381 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [239 (+59)/sem limite] fila=1380 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [240 (+59)/sem limite] fila=1379 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [241 (+59)/sem limite] fila=1378 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [242 (+59)/sem limite] fila=1377 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [243 (+59)/sem limite] fila=1376 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [244 (+59)/sem limite] fila=1375 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [245 (+59)/sem limite] fila=1374 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [246 (+59)/sem limite] fila=1373 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [247 (+59)/sem limite] fila=1372 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [248 (+59)/sem limite] fila=1371 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [249 (+59)/sem limite] fila=1370 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [250 (+59)/sem limite] fila=1369 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [251 (+59)/sem limite] fila=1368 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [252 (+59)/sem limite] fila=1367 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [253 (+59)/sem limite] fila=1366 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [254 (+59)/sem limite] fila=1365 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [255 (+59)/sem limite] fila=1364 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [256 (+59)/sem limite] fila=1363 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [257 (+59)/sem limite] fila=1362 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [258 (+59)/sem limite] fila=1361 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [259 (+59)/sem limite] fila=1360 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [260 (+59)/sem limite] fila=1359 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [261 (+59)/sem limite] fila=1358 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [262 (+59)/sem limite] fila=1357 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [263 (+59)/sem limite] fila=1356 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [264 (+59)/sem limite] fila=1355 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [265 (+59)/sem limite] fila=1354 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [266 (+59)/sem limite] fila=1353 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [267 (+59)/sem limite] fila=1352 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [268 (+59)/sem limite] fila=1351 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [269 (+59)/sem limite] fila=1350 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [270 (+59)/sem limite] fila=1349 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [271 (+59)/sem limite] fila=1348 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [272 (+59)/sem limite] fila=1347 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [273 (+59)/sem limite] fila=1346 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [274 (+59)/sem limite] fila=1345 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [275 (+59)/sem limite] fila=1344 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [276 (+59)/sem limite] fila=1343 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [277 (+59)/sem limite] fila=1342 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [278 (+59)/sem limite] fila=1341 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478070&id_s
+  [279 (+59)/sem limite] fila=1340 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477851&id_s
+  [280 (+59)/sem limite] fila=1339 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477806&id_s
+  [281 (+59)/sem limite] fila=1338 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477675&id_s
+  [282 (+59)/sem limite] fila=1337 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [283 (+59)/sem limite] fila=1336 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [284 (+59)/sem limite] fila=1345 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [285 (+59)/sem limite] fila=1354 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [286 (+59)/sem limite] fila=1363 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [287 (+59)/sem limite] fila=1372 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [288 (+59)/sem limite] fila=1381 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [289 (+59)/sem limite] fila=1382 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [290 (+59)/sem limite] fila=1381 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [291 (+59)/sem limite] fila=1380 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [292 (+59)/sem limite] fila=1379 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [293 (+59)/sem limite] fila=1378 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [294 (+59)/sem limite] fila=1377 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [295 (+59)/sem limite] fila=1376 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [296 (+59)/sem limite] fila=1375 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [297 (+59)/sem limite] fila=1374 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [298 (+59)/sem limite] fila=1373 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [299 (+59)/sem limite] fila=1372 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [300 (+59)/sem limite] fila=1371 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [301 (+59)/sem limite] fila=1370 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [302 (+59)/sem limite] fila=1369 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [303 (+59)/sem limite] fila=1368 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [304 (+59)/sem limite] fila=1367 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [305 (+59)/sem limite] fila=1366 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [306 (+59)/sem limite] fila=1365 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [307 (+59)/sem limite] fila=1364 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [308 (+59)/sem limite] fila=1363 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [309 (+59)/sem limite] fila=1362 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [310 (+59)/sem limite] fila=1361 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [311 (+59)/sem limite] fila=1360 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [312 (+59)/sem limite] fila=1359 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [313 (+59)/sem limite] fila=1358 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [314 (+59)/sem limite] fila=1357 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [315 (+59)/sem limite] fila=1356 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [316 (+59)/sem limite] fila=1355 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [317 (+59)/sem limite] fila=1354 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [318 (+59)/sem limite] fila=1353 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [319 (+59)/sem limite] fila=1352 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [320 (+59)/sem limite] fila=1351 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [321 (+59)/sem limite] fila=1350 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [322 (+59)/sem limite] fila=1349 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [323 (+59)/sem limite] fila=1348 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [324 (+59)/sem limite] fila=1347 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [325 (+59)/sem limite] fila=1346 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [326 (+59)/sem limite] fila=1345 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [327 (+59)/sem limite] fila=1344 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [328 (+59)/sem limite] fila=1343 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [329 (+59)/sem limite] fila=1342 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [330 (+59)/sem limite] fila=1341 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [331 (+59)/sem limite] fila=1340 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [332 (+59)/sem limite] fila=1339 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [333 (+59)/sem limite] fila=1338 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [334 (+59)/sem limite] fila=1337 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [335 (+59)/sem limite] fila=1336 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [336 (+59)/sem limite] fila=1335 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480244&id_s
+  [337 (+59)/sem limite] fila=1334 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479927&id_s
+  [338 (+59)/sem limite] fila=1333 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479809&id_s
+  [339 (+59)/sem limite] fila=1332 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479808&id_s
+  [340 (+59)/sem limite] fila=1331 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [341 (+59)/sem limite] fila=1330 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [342 (+59)/sem limite] fila=1339 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [343 (+59)/sem limite] fila=1348 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [344 (+59)/sem limite] fila=1354 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [345 (+59)/sem limite] fila=1353 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [346 (+59)/sem limite] fila=1352 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [347 (+59)/sem limite] fila=1351 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [348 (+59)/sem limite] fila=1350 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [349 (+59)/sem limite] fila=1349 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [350 (+59)/sem limite] fila=1348 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [351 (+59)/sem limite] fila=1347 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [352 (+59)/sem limite] fila=1346 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [353 (+59)/sem limite] fila=1345 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [354 (+59)/sem limite] fila=1344 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [355 (+59)/sem limite] fila=1343 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [356 (+59)/sem limite] fila=1342 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [357 (+59)/sem limite] fila=1341 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [358 (+59)/sem limite] fila=1340 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [359 (+59)/sem limite] fila=1339 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [360 (+59)/sem limite] fila=1338 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [361 (+59)/sem limite] fila=1337 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [362 (+59)/sem limite] fila=1336 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [363 (+59)/sem limite] fila=1335 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [364 (+59)/sem limite] fila=1334 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [365 (+59)/sem limite] fila=1333 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [366 (+59)/sem limite] fila=1332 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [367 (+59)/sem limite] fila=1331 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [368 (+59)/sem limite] fila=1330 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [369 (+59)/sem limite] fila=1329 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [370 (+59)/sem limite] fila=1328 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [371 (+59)/sem limite] fila=1327 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [372 (+59)/sem limite] fila=1326 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [373 (+59)/sem limite] fila=1325 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [374 (+59)/sem limite] fila=1324 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [375 (+59)/sem limite] fila=1323 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [376 (+59)/sem limite] fila=1322 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [377 (+59)/sem limite] fila=1321 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [378 (+59)/sem limite] fila=1320 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [379 (+59)/sem limite] fila=1319 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [380 (+59)/sem limite] fila=1318 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [381 (+59)/sem limite] fila=1317 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [382 (+59)/sem limite] fila=1316 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [383 (+59)/sem limite] fila=1315 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [384 (+59)/sem limite] fila=1314 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [385 (+59)/sem limite] fila=1313 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [386 (+59)/sem limite] fila=1312 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [387 (+59)/sem limite] fila=1311 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [388 (+59)/sem limite] fila=1310 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [389 (+59)/sem limite] fila=1309 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [390 (+59)/sem limite] fila=1308 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [391 (+59)/sem limite] fila=1307 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [392 (+59)/sem limite] fila=1306 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [393 (+59)/sem limite] fila=1305 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [394 (+59)/sem limite] fila=1304 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [395 (+59)/sem limite] fila=1303 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [396 (+59)/sem limite] fila=1302 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [397 (+59)/sem limite] fila=1301 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [398 (+59)/sem limite] fila=1300 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [399 (+59)/sem limite] fila=1299 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [400 (+59)/sem limite] fila=1298 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_links.xlsx
+  10 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_externos.xlsx
+  378 links externos registrados.
+  Checkpoint salvo (459 páginas totais | 400 nesta sessão).
+  [401 (+59)/sem limite] fila=1297 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [402 (+59)/sem limite] fila=1296 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [403 (+59)/sem limite] fila=1295 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [404 (+59)/sem limite] fila=1294 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [405 (+59)/sem limite] fila=1293 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [406 (+59)/sem limite] fila=1292 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [407 (+59)/sem limite] fila=1291 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [408 (+59)/sem limite] fila=1290 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [409 (+59)/sem limite] fila=1289 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [410 (+59)/sem limite] fila=1288 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [411 (+59)/sem limite] fila=1287 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [412 (+59)/sem limite] fila=1286 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [413 (+59)/sem limite] fila=1285 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [414 (+59)/sem limite] fila=1284 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [415 (+59)/sem limite] fila=1283 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [416 (+59)/sem limite] fila=1282 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [417 (+59)/sem limite] fila=1281 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [418 (+59)/sem limite] fila=1280 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [419 (+59)/sem limite] fila=1279 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [420 (+59)/sem limite] fila=1278 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [421 (+59)/sem limite] fila=1277 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [422 (+59)/sem limite] fila=1276 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [423 (+59)/sem limite] fila=1275 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [424 (+59)/sem limite] fila=1274 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [425 (+59)/sem limite] fila=1273 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [426 (+59)/sem limite] fila=1272 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [427 (+59)/sem limite] fila=1271 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [428 (+59)/sem limite] fila=1270 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [429 (+59)/sem limite] fila=1269 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [430 (+59)/sem limite] fila=1268 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [431 (+59)/sem limite] fila=1267 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [432 (+59)/sem limite] fila=1266 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [433 (+59)/sem limite] fila=1265 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [434 (+59)/sem limite] fila=1264 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [435 (+59)/sem limite] fila=1263 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [436 (+59)/sem limite] fila=1262 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [437 (+59)/sem limite] fila=1261 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [438 (+59)/sem limite] fila=1260 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [439 (+59)/sem limite] fila=1259 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [440 (+59)/sem limite] fila=1258 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [441 (+59)/sem limite] fila=1257 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [442 (+59)/sem limite] fila=1256 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [443 (+59)/sem limite] fila=1255 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [444 (+59)/sem limite] fila=1254 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [445 (+59)/sem limite] fila=1253 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [446 (+59)/sem limite] fila=1252 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [447 (+59)/sem limite] fila=1251 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [448 (+59)/sem limite] fila=1250 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1478173&id_s
+  [449 (+59)/sem limite] fila=1249 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477533&id_s
+  [450 (+59)/sem limite] fila=1248 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476710&id_s
+  [451 (+59)/sem limite] fila=1247 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476703&id_s
+  [452 (+59)/sem limite] fila=1246 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [453 (+59)/sem limite] fila=1245 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [454 (+59)/sem limite] fila=1254 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [455 (+59)/sem limite] fila=1263 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [456 (+59)/sem limite] fila=1269 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [457 (+59)/sem limite] fila=1268 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [458 (+59)/sem limite] fila=1267 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [459 (+59)/sem limite] fila=1266 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [460 (+59)/sem limite] fila=1265 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [461 (+59)/sem limite] fila=1264 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [462 (+59)/sem limite] fila=1263 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [463 (+59)/sem limite] fila=1262 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [464 (+59)/sem limite] fila=1261 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [465 (+59)/sem limite] fila=1260 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [466 (+59)/sem limite] fila=1259 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [467 (+59)/sem limite] fila=1258 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [468 (+59)/sem limite] fila=1257 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [469 (+59)/sem limite] fila=1256 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [470 (+59)/sem limite] fila=1255 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [471 (+59)/sem limite] fila=1254 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [472 (+59)/sem limite] fila=1253 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [473 (+59)/sem limite] fila=1252 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [474 (+59)/sem limite] fila=1251 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [475 (+59)/sem limite] fila=1250 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [476 (+59)/sem limite] fila=1249 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [477 (+59)/sem limite] fila=1248 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [478 (+59)/sem limite] fila=1247 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [479 (+59)/sem limite] fila=1246 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [480 (+59)/sem limite] fila=1245 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [481 (+59)/sem limite] fila=1244 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [482 (+59)/sem limite] fila=1243 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [483 (+59)/sem limite] fila=1242 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [484 (+59)/sem limite] fila=1241 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [485 (+59)/sem limite] fila=1240 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [486 (+59)/sem limite] fila=1239 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [487 (+59)/sem limite] fila=1238 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [488 (+59)/sem limite] fila=1237 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [489 (+59)/sem limite] fila=1236 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [490 (+59)/sem limite] fila=1235 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [491 (+59)/sem limite] fila=1234 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [492 (+59)/sem limite] fila=1233 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [493 (+59)/sem limite] fila=1232 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [494 (+59)/sem limite] fila=1231 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [495 (+59)/sem limite] fila=1230 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [496 (+59)/sem limite] fila=1229 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [497 (+59)/sem limite] fila=1228 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [498 (+59)/sem limite] fila=1227 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [499 (+59)/sem limite] fila=1226 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [500 (+59)/sem limite] fila=1225 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [501 (+59)/sem limite] fila=1224 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [502 (+59)/sem limite] fila=1223 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [503 (+59)/sem limite] fila=1222 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [504 (+59)/sem limite] fila=1221 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [505 (+59)/sem limite] fila=1220 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [506 (+59)/sem limite] fila=1219 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [507 (+59)/sem limite] fila=1218 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [508 (+59)/sem limite] fila=1217 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [509 (+59)/sem limite] fila=1216 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [510 (+59)/sem limite] fila=1215 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [511 (+59)/sem limite] fila=1214 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [512 (+59)/sem limite] fila=1213 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [513 (+59)/sem limite] fila=1212 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [514 (+59)/sem limite] fila=1211 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [515 (+59)/sem limite] fila=1210 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [516 (+59)/sem limite] fila=1209 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [517 (+59)/sem limite] fila=1208 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [518 (+59)/sem limite] fila=1207 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [519 (+59)/sem limite] fila=1206 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [520 (+59)/sem limite] fila=1205 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [521 (+59)/sem limite] fila=1204 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [522 (+59)/sem limite] fila=1203 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [523 (+59)/sem limite] fila=1202 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [524 (+59)/sem limite] fila=1201 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [525 (+59)/sem limite] fila=1200 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [526 (+59)/sem limite] fila=1199 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [527 (+59)/sem limite] fila=1198 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [528 (+59)/sem limite] fila=1197 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [529 (+59)/sem limite] fila=1196 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [530 (+59)/sem limite] fila=1195 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [531 (+59)/sem limite] fila=1194 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [532 (+59)/sem limite] fila=1193 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [533 (+59)/sem limite] fila=1192 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [534 (+59)/sem limite] fila=1191 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [535 (+59)/sem limite] fila=1190 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [536 (+59)/sem limite] fila=1189 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [537 (+59)/sem limite] fila=1188 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [538 (+59)/sem limite] fila=1187 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [539 (+59)/sem limite] fila=1186 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [540 (+59)/sem limite] fila=1185 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [541 (+59)/sem limite] fila=1184 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [542 (+59)/sem limite] fila=1183 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [543 (+59)/sem limite] fila=1182 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [544 (+59)/sem limite] fila=1181 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [545 (+59)/sem limite] fila=1180 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [546 (+59)/sem limite] fila=1179 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [547 (+59)/sem limite] fila=1178 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [548 (+59)/sem limite] fila=1177 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [549 (+59)/sem limite] fila=1176 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [550 (+59)/sem limite] fila=1175 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [551 (+59)/sem limite] fila=1174 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [552 (+59)/sem limite] fila=1173 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [553 (+59)/sem limite] fila=1172 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [554 (+59)/sem limite] fila=1171 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [555 (+59)/sem limite] fila=1170 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [556 (+59)/sem limite] fila=1169 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [557 (+59)/sem limite] fila=1168 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [558 (+59)/sem limite] fila=1167 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [559 (+59)/sem limite] fila=1166 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=4
+  [560 (+59)/sem limite] fila=1165 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481253&id_s
+  [561 (+59)/sem limite] fila=1164 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481049&id_s
+  [562 (+59)/sem limite] fila=1163 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480409&id_s
+  [563 (+59)/sem limite] fila=1162 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480408&id_s
+  [564 (+59)/sem limite] fila=1161 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [565 (+59)/sem limite] fila=1160 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [566 (+59)/sem limite] fila=1169 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [567 (+59)/sem limite] fila=1178 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [568 (+59)/sem limite] fila=1187 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [569 (+59)/sem limite] fila=1196 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [570 (+59)/sem limite] fila=1201 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [571 (+59)/sem limite] fila=1200 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [572 (+59)/sem limite] fila=1199 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [573 (+59)/sem limite] fila=1198 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [574 (+59)/sem limite] fila=1197 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [575 (+59)/sem limite] fila=1196 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [576 (+59)/sem limite] fila=1195 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [577 (+59)/sem limite] fila=1194 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [578 (+59)/sem limite] fila=1193 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [579 (+59)/sem limite] fila=1192 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [580 (+59)/sem limite] fila=1191 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [581 (+59)/sem limite] fila=1190 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [582 (+59)/sem limite] fila=1189 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [583 (+59)/sem limite] fila=1188 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [584 (+59)/sem limite] fila=1187 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [585 (+59)/sem limite] fila=1186 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [586 (+59)/sem limite] fila=1185 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [587 (+59)/sem limite] fila=1184 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [588 (+59)/sem limite] fila=1183 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [589 (+59)/sem limite] fila=1182 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [590 (+59)/sem limite] fila=1181 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [591 (+59)/sem limite] fila=1180 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [592 (+59)/sem limite] fila=1179 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [593 (+59)/sem limite] fila=1178 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [594 (+59)/sem limite] fila=1177 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [595 (+59)/sem limite] fila=1176 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [596 (+59)/sem limite] fila=1175 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [597 (+59)/sem limite] fila=1174 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [598 (+59)/sem limite] fila=1173 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [599 (+59)/sem limite] fila=1172 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [600 (+59)/sem limite] fila=1171 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_links.xlsx
+  10 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_externos.xlsx
+  394 links externos registrados.
+  Checkpoint salvo (659 páginas totais | 600 nesta sessão).
+  [601 (+59)/sem limite] fila=1170 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [602 (+59)/sem limite] fila=1169 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3
+  [603 (+59)/sem limite] fila=1168 | depth=3 | https://wenceslaubraz.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3

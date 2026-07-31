@@ -6,3 +6,8 @@ Problemas encontrados & Atividades:
 - Algumas cidades usam atende.net, e que o crawler não conseguia ler, alterado para usar selenium neses casos de páginas sem links carregados.
 - o crawler encontrou algus links que são de download automático, ele faz o download direto
 - Corrigi o crawler para melhor identificar links que não fazem parte do domínio, mas são similares, ex.: "araruna.pr.gov.br" e "cmararuna.pr.gov.br"
+
+- [Lembrete] Considerar modificar a busca por portais da transparência para incluir os links encontrados e não apenas os que tenham sido encontrados no inventário de externos.
+- [Solução] Usar a busca de portais da transparência com ajuste manual para as cidades que não conseguiu aplicar o crawler (0 ou 1 páginas, e/ou 0 arquivos).
+
+- [Lembrete] Identificar todas as cidades com uma semente (site da prefeitura), e cidades com mais de uma semente (cidades com a busca ajustada), número de cidades que não encontrou resultados (necessita de reprocessamento com busca e ajuste manual). Descrever quantas cidades ele falhou em buscar atomatizadamente e avaliar possibilidade de adição pela busca na web diretamente.

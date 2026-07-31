@@ -1066,3 +1066,32 @@ Inventário parcial carregado: 408 arquivos já registrados.
   [10 (+400)/sem limite] fila=1017 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
  ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+  [11 (+400)/sem limite] fila=1016 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+  [12 (+400)/sem limite] fila=1015 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+  [13 (+400)/sem limite] fila=1014 | depth=2 | https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+  [14 (+400)/sem limite] fila=1013 | depth=2 | https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processo
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+  [15 (+400)/sem limite] fila=1012 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+  [16 (+400)/sem limite] fila=1011 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+  [17 (+400)/sem limite] fila=1010 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/

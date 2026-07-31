@@ -166,6 +166,7 @@ def carregar_metricas_filtradas(cidade: str, usar_oficial: bool) -> dict | None:
         return None
 
     dominios = CIDADES[cidade]["dominios"]
+    sementes = CIDADES[cidade].get("sementes", [])
 
     completa = _cidade_completa(dir_c)
     if completa:
@@ -233,6 +234,7 @@ def carregar_metricas_filtradas(cidade: str, usar_oficial: bool) -> dict | None:
         "progresso": progresso,
         "total_urls_validas": total_urls_validas,
         "completa": completa,
+        "sementes": len(sementes),
     }
 
 
@@ -485,9 +487,10 @@ if modo == "Resultados":
         "maior_nivel": "Maior Nível",
         "fora_dominios": "Fora Domínios",
         "progresso_pct": "Progresso",
+        "sementes": "Sementes",
     })
     df_tabela = df_tabela[[
-        "Cidade", "Status", "Progresso", "Páginas", "Fila", "Arquivos",
+        "Cidade", "Status", "Progresso", "Sementes", "Páginas", "Fila", "Arquivos",
         "Externos", "Erros", "Maior Nível", "Fora Domínios",
     ]]
 
