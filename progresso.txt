@@ -1,4 +1,8 @@
-Problemas encontrados:
+Problemas encontrados & Atividades:
+- Adicionei as urls para todas as 399 cidades do paraná no arquivo de configuração "cidades.json" (a Adriana tinha feito apenas para curitiba, maringá e londrina)
+- Adicionei um dashboard para visualizar o progresso do crawler com streamlit (ver no README.md - checkppoint)
+- Eu atualizei o crawler e para permitir rodar novamente com o parâmetro --reprocessar-erros. A ideia é poder rodar quando houver algum problema de rede e ele não conseguir coletar os links da cidade, então os links que deram erro voltam para a fila de processamento.
 - Descrobrir cidades, não encontrou links válidos para algumas prefeituras (não lembro quais). Inicialmente, encontrou endereços para camaras municipais em vez da prefeitura (83, precisou ser alterado manualmente com palavra camara e +83 com prefixo cm). 
 - Algumas cidades usam atende.net, e que o crawler não conseguia ler, alterado para usar selenium neses casos de páginas sem links carregados.
 - o crawler encontrou algus links que são de download automático, ele faz o download direto
+- Corrigi o crawler para melhor identificar links que não fazem parte do domínio, mas são similares, ex.: "araruna.pr.gov.br" e "cmararuna.pr.gov.br"

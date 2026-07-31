@@ -122,7 +122,10 @@ def is_valid_domain(url: str, dominios: list[str]) -> bool:
     """
     try:
         netloc = urlparse(url).netloc.lower()
-        return any(netloc.endswith(dominio.lower()) for dominio in dominios)
+        return any(
+            netloc == dominio.lower() or netloc.endswith("." + dominio.lower())
+            for dominio in dominios
+        )
     except Exception:
         return False
 

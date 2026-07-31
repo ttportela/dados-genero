@@ -1032,3 +1032,37 @@ Inventário parcial carregado: 408 arquivos já registrados.
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
   [2 (+400)/sem limite] fila=1025 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+  [3 (+400)/sem limite] fila=1024 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+  [4 (+400)/sem limite] fila=1023 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+  [5 (+400)/sem limite] fila=1022 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+  [6 (+400)/sem limite] fila=1021 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+  [7 (+400)/sem limite] fila=1020 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+  [8 (+400)/sem limite] fila=1019 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+  [9 (+400)/sem limite] fila=1018 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+  [10 (+400)/sem limite] fila=1017 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/

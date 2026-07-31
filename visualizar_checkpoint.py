@@ -16,12 +16,22 @@
 
 import json
 from pathlib import Path
+from urllib.parse import urlparse
 
 import pandas as pd
 import streamlit as st
 from streamlit_autorefresh import st_autorefresh
 
 from src.config import CIDADES, DIR_RESULTADOS, MAX_DEPTH, SUFIXO_PASTA
+
+
+def _is_valid_domain(netloc: str, dominios: list[str]) -> bool:
+    """Verifica se o netloc pertence a um dos domínios válidos (respeita limites de rótulo)."""
+    netloc = netloc.lower()
+    return any(
+        netloc == d.lower() or netloc.endswith("." + d.lower())
+        for d in dominios
+    )
 
 
 # =============================================================================
@@ -144,6 +154,89 @@ def carregar_metricas_cidade(cidade: str, usar_oficial: bool) -> dict | None:
 
 
 # =============================================================================
+# MÉTRICAS FILTRADAS POR DOMÍNIO (modo Resultados)
+# =============================================================================
+
+def carregar_metricas_filtradas(cidade: str, usar_oficial: bool) -> dict | None:
+    """Carrega métricas de uma cidade filtrando apenas URLs de domínios permitidos."""
+    pasta = cidade + (SUFIXO_PASTA if usar_oficial else "")
+    dir_c = DIR_RESULTADOS / pasta
+
+    if not dir_c.exists():
+        return None
+
+    dominios = CIDADES[cidade]["dominios"]
+
+    completa = _cidade_completa(dir_c)
+    if completa:
+        visited = carregar_visited(str(dir_c / "checkpoint_visited.json"))
+        queue = carregar_queue(str(dir_c / "checkpoint_queue.json"))
+        df_err = carregar_excel(str(dir_c / "erros_varredura.xlsx"))
+        df_inv = carregar_excel(str(dir_c / "inventario_links.xlsx"))
+        df_ext = carregar_excel(str(dir_c / "inventario_externos.xlsx"))
+    else:
+        visited = _carregar_visited_raw(str(dir_c / "checkpoint_visited.json"))
+        queue = _carregar_queue_raw(str(dir_c / "checkpoint_queue.json"))
+        df_err = _carregar_excel_raw(str(dir_c / "erros_varredura.xlsx"))
+        df_inv = _carregar_excel_raw(str(dir_c / "inventario_links.xlsx"))
+        df_ext = _carregar_excel_raw(str(dir_c / "inventario_externos.xlsx"))
+
+    # Filtra visited por domínio
+    visited_validos = 0
+    visited_fora = 0
+    for url in visited:
+        netloc = urlparse(url).netloc.lower()
+        if _is_valid_domain(netloc, dominios):
+            visited_validos += 1
+        else:
+            visited_fora += 1
+
+    # Filtra queue por domínio e calcula maior nível
+    queue_validos = 0
+    max_depth = 0
+    for item in queue:
+        url = item.get("url", "")
+        depth = item.get("depth", 0)
+        if depth > max_depth:
+            max_depth = depth
+        netloc = urlparse(url).netloc.lower()
+        if _is_valid_domain(netloc, dominios):
+            queue_validos += 1
+
+    # Filtra inventário por domínio
+    arquivos_validos = 0
+    if df_inv is not None and len(df_inv) > 0 and "url_encontrada" in df_inv.columns:
+        for url in df_inv["url_encontrada"]:
+            netloc = urlparse(str(url)).netloc.lower()
+            if _is_valid_domain(netloc, dominios):
+                arquivos_validos += 1
+
+    total_erros = len(df_err) if df_err is not None else 0
+    total_ext = len(df_ext) if df_ext is not None else 0
+
+    # Maior nível: da fila, ou do inventário se fila vazia
+    if max_depth == 0 and df_inv is not None and len(df_inv) > 0 and "profundidade" in df_inv.columns:
+        max_depth = int(df_inv["profundidade"].max())
+
+    total_urls_validas = visited_validos + queue_validos
+    progresso = (visited_validos / total_urls_validas) if total_urls_validas > 0 else 0.0
+
+    return {
+        "cidade": cidade,
+        "paginas_visitadas": visited_validos,
+        "urls_na_fila": queue_validos,
+        "arquivos": arquivos_validos,
+        "erros": total_erros,
+        "externos": total_ext,
+        "maior_nivel": max_depth,
+        "fora_dominios": visited_fora,
+        "progresso": progresso,
+        "total_urls_validas": total_urls_validas,
+        "completa": completa,
+    }
+
+
+# =============================================================================
 # SIDEBAR — MODO DE VISUALIZAÇÃO
 # =============================================================================
 
@@ -162,7 +255,7 @@ st.sidebar.title("Configuração")
 
 modo = st.sidebar.radio(
     "Modo de visualização",
-    options=["Dashboard", "Cidade individual"],
+    options=["Dashboard", "Resultados", "Cidade individual"],
     index=0,
 )
 
@@ -313,6 +406,140 @@ if modo == "Dashboard":
             st.progress(prog, text=f"{prog:.1%}")
         else:
             st.progress(0, text="Sem dados")
+
+    st.stop()
+
+
+# =============================================================================
+# MODO RESULTADOS — MÉTRICAS FILTRADAS POR DOMÍNIO
+# =============================================================================
+
+if modo == "Resultados":
+    st.title("📊 Resultados — Métricas por Domínios Permitidos")
+    st.caption("Apenas URLs de domínios permitidos são contabilizadas em Páginas, Fila e Arquivos.")
+
+    with st.spinner("Carregando métricas filtradas de todas as cidades..."):
+        metricas = []
+        for cidade in CIDADES:
+            m = carregar_metricas_filtradas(cidade, usar_oficial)
+            if m is not None:
+                metricas.append(m)
+
+    if not metricas:
+        st.info("Nenhuma cidade com dados encontrada.")
+        st.stop()
+
+    df_res = pd.DataFrame(metricas)
+    cidades_com_dados = len(df_res[df_res["paginas_visitadas"] > 0])
+
+    # Métricas globais
+    col_g1, col_g2, col_g3, col_g4, col_g5 = st.columns(5)
+    col_g1.metric("Cidades com Dados", f"{cidades_com_dados}")
+    col_g2.metric("Páginas Válidas", f"{df_res['paginas_visitadas'].sum():,}")
+    col_g3.metric("Arquivos Válidos", f"{df_res['arquivos'].sum():,}")
+    col_g4.metric("Fora dos Domínios", f"{df_res['fora_dominios'].sum():,}")
+    col_g5.metric("Erros", f"{df_res['erros'].sum():,}")
+
+    st.divider()
+
+    # Filtros
+    col_f1, col_f2 = st.columns(2)
+    with col_f1:
+        busca_res = st.text_input("Buscar cidade", key="busca_res")
+    with col_f2:
+        filtro_status_res = st.selectbox(
+            "Filtrar por status",
+            options=["Todas", "Com dados", "Não processadas"],
+            key="filtro_status_res",
+        )
+
+    df_res_f = df_res.copy()
+    if busca_res:
+        df_res_f = df_res_f[
+            df_res_f["cidade"].str.contains(busca_res, case=False, na=False)
+        ]
+    if filtro_status_res == "Com dados":
+        df_res_f = df_res_f[df_res_f["paginas_visitadas"] > 0]
+    elif filtro_status_res == "Não processadas":
+        df_res_f = df_res_f[df_res_f["paginas_visitadas"] == 0]
+
+    st.subheader(f"Métricas por Cidade ({len(df_res_f)} municípios)")
+
+    # Tabela
+    df_tabela = df_res_f.copy()
+    df_tabela["progresso_pct"] = df_tabela["progresso"].apply(
+        lambda x: f"{x:.1%}" if x > 0 else "—"
+    )
+    df_tabela["status"] = df_tabela.apply(
+        lambda row: "✅ Concluída" if row["completa"] else "⚠️ Processando" if row["paginas_visitadas"] > 0 else "⏳ Pendente",
+        axis=1,
+    )
+    df_tabela = df_tabela.rename(columns={
+        "cidade": "Cidade",
+        "status": "Status",
+        "paginas_visitadas": "Páginas",
+        "urls_na_fila": "Fila",
+        "arquivos": "Arquivos",
+        "externos": "Externos",
+        "erros": "Erros",
+        "maior_nivel": "Maior Nível",
+        "fora_dominios": "Fora Domínios",
+        "progresso_pct": "Progresso",
+    })
+    df_tabela = df_tabela[[
+        "Cidade", "Status", "Progresso", "Páginas", "Fila", "Arquivos",
+        "Externos", "Erros", "Maior Nível", "Fora Domínios",
+    ]]
+
+    st.dataframe(
+        df_tabela,
+        use_container_width=True,
+        height=min(600, len(df_tabela) * 35 + 40),
+        hide_index=True,
+    )
+
+    st.divider()
+
+    # Gráficos
+    df_graf = df_res_f[df_res_f["paginas_visitadas"] > 0].copy()
+
+    col_graf1, col_graf2 = st.columns(2)
+    with col_graf1:
+        st.subheader("Top 15 Cidades por Páginas Visitadas (domínios válidos)")
+        top_pag = df_graf.nlargest(15, "paginas_visitadas")
+        if len(top_pag) > 0:
+            st.bar_chart(top_pag.set_index("cidade")["paginas_visitadas"], use_container_width=True)
+        else:
+            st.info("Sem dados para exibir.")
+
+    with col_graf2:
+        st.subheader("Top 15 Cidades por Arquivos (domínios válidos)")
+        top_arq = df_graf.nlargest(15, "arquivos")
+        if len(top_arq) > 0:
+            st.bar_chart(top_arq.set_index("cidade")["arquivos"], use_container_width=True)
+        else:
+            st.info("Sem dados para exibir.")
+
+    col_graf3, col_graf4 = st.columns(2)
+    with col_graf3:
+        st.subheader("Top 15 Cidades — Links Fora dos Domínios Permitidos")
+        top_fora = df_graf.nlargest(15, "fora_dominios")
+        if len(top_fora) > 0:
+            st.bar_chart(top_fora.set_index("cidade")["fora_dominios"], use_container_width=True)
+        else:
+            st.info("Sem dados para exibir.")
+
+    with col_graf4:
+        st.subheader("Distribuição de Conclusão")
+        df_concl = df_res_f[df_res_f["total_urls_validas"] > 0].copy()
+        if len(df_concl) > 0:
+            bins = [0, 0.25, 0.50, 0.75, 0.999, 1.0]
+            labels = ["0–25%", "25–50%", "50–75%", "75–99%", "100%"]
+            df_concl["faixa"] = pd.cut(df_concl["progresso"], bins=bins, labels=labels, include_lowest=True)
+            dist = df_concl["faixa"].value_counts().reindex(labels, fill_value=0)
+            st.bar_chart(dist, use_container_width=True)
+        else:
+            st.info("Sem dados para exibir.")
 
     st.stop()
 
