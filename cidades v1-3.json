@@ -1,0 +1,41 @@
+{
+  "_comentario": "Configuração das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/domínios.",
+  "_portais_verificados": "20/04/2025",
+
+  "curitiba": {
+    "sementes": [
+      "https://www.curitiba.pr.gov.br/",
+      "https://www.transparencia.curitiba.pr.gov.br/",
+      "https://dadosabertos.curitiba.pr.gov.br/"
+    ],
+    "dominios": [
+      "curitiba.pr.gov.br"
+    ]
+  },
+
+  "londrina": {
+    "sementes": [
+      "https://portal.londrina.pr.gov.br/",
+      "https://portal.londrina.pr.gov.br/transparencia",
+      "https://portal-prefeitura-londrina.equiplano.cloud/inicio"
+    ],
+    "dominios": [
+      "londrina.pr.gov.br",
+      "portal-prefeitura-londrina.equiplano.cloud"
+    ],
+    "dominios_excluidos": [
+      "pref.londrina.pr.gov.br"
+    ]
+  },
+
+  "maringa": {
+    "sementes": [
+      "https://www.maringa.pr.gov.br/",
+      "https://maringa.oxy.elotech.com.br/portaltransparencia/1/"
+    ],
+    "dominios": [
+      "maringa.pr.gov.br",
+      "maringa.oxy.elotech.com.br"
+    ]
+  }
+}

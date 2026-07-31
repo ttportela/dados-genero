@@ -69395,3 +69395,376 @@ Traceback (most recent call last):
   File "/Users/tarlisportela/.pyenv/versions/3.14.3/lib/python3.14/contextlib.py", line 148, in __exit__
   File "/Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/venv/lib/python3.14/site-packages/et_xmlfile/incremental_tree.py", line 878, in _get_writer
 OSError: [Errno 28] No space left on device
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ANDIRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 26878 arquivos já registrados.
+  Links externos parciais carregados: 6741 links já registrados.
+  Log de erros parcial carregado: 9 erros já registrados.
+
+============================================================
+  Crawler iniciado: ANDIRA
+  Páginas já visitadas (checkpoint): 40000
+  URLs na fila: 29535
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+40000)/sem limite] fila=29534 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [2 (+40000)/sem limite] fila=29533 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [3 (+40000)/sem limite] fila=29532 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [4 (+40000)/sem limite] fila=29531 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [5 (+40000)/sem limite] fila=29531 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [6 (+40000)/sem limite] fila=29530 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [7 (+40000)/sem limite] fila=29529 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [8 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [9 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [10 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [11 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [12 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/relatorio
+  [13 (+40000)/sem limite] fila=29528 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/centros-m
+  [14 (+40000)/sem limite] fila=29527 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/centros-m
+  [15 (+40000)/sem limite] fila=29526 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/conselho-
+  [16 (+40000)/sem limite] fila=29525 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/conselho-
+  [17 (+40000)/sem limite] fila=29524 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [18 (+40000)/sem limite] fila=29523 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [19 (+40000)/sem limite] fila=29522 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [20 (+40000)/sem limite] fila=29521 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [21 (+40000)/sem limite] fila=29520 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [22 (+40000)/sem limite] fila=29519 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [23 (+40000)/sem limite] fila=29518 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [24 (+40000)/sem limite] fila=29517 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [25 (+40000)/sem limite] fila=29516 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [26 (+40000)/sem limite] fila=29515 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [27 (+40000)/sem limite] fila=29514 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/escola-mu
+  [28 (+40000)/sem limite] fila=29513 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/fundeb/fo
+  [29 (+40000)/sem limite] fila=29512 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/motorista
+  [30 (+40000)/sem limite] fila=29511 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/numero-de
+  [31 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/nutricion
+  [32 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/nutricion
+  [33 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/plano-de-
+  [34 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/040-secretaria-de-educacao/page/leis-e-de
+  [35 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/ele
+  [36 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/ele
+  [37 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/ele
+  [38 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/age
+  [39 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/Con
+  [40 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/Con
+  [41 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/bol
+  [42 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/bol
+  [43 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/con
+  [44 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [45 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [46 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [47 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [48 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [49 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [50 (+40000)/sem limite] fila=29511 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [51 (+40000)/sem limite] fila=29516 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [52 (+40000)/sem limite] fila=29515 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [53 (+40000)/sem limite] fila=29514 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [54 (+40000)/sem limite] fila=29513 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [55 (+40000)/sem limite] fila=29512 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [56 (+40000)/sem limite] fila=29511 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [57 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [58 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [59 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [60 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [61 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [62 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [63 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [64 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [65 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/rel
+  [66 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/ata
+  [67 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/ata
+  [68 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [69 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [70 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [71 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [72 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [73 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [74 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [75 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [76 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [77 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/050-sec-de-cultura-e-comunicacao/page/lei
+  [78 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/eleicoes-
+  [79 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/eleicoes-
+  [80 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/eleicoes-
+  [81 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/agenda/ye
+  [82 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/Conselho 
+  [83 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/Conselho+
+  [84 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/bolsa-fam
+  [85 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/bolsa-fam
+  [86 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/conselho-
+  [87 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [88 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [89 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [90 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [91 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [92 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [93 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [94 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [95 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [96 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [97 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [98 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [99 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [100 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [101 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [102 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [103 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [104 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [105 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [106 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [107 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [108 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/060-sec-de-esporte-e-lazer/page/relatorio
+  [109 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [110 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [111 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [112 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [113 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [114 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [115 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [116 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [117 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [118 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [119 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [120 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [121 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [122 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [123 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [124 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [125 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [126 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [127 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [128 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [129 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [130 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [131 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [132 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [133 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [134 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [135 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [136 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [137 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [138 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [139 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/090-secretaria-de-desenvolvimento-economi
+  [140 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [141 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [142 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [143 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [144 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [145 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [146 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [147 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [148 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [149 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [150 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [151 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [152 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [153 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [154 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [155 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [156 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [157 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [158 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [159 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [160 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [161 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [162 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [163 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [164 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [165 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [166 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [167 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [168 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [169 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [170 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/100-secretaria-de-viacao-e-servicos-publi
+  [171 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [172 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [173 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [174 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [175 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [176 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [177 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [178 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [179 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [180 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [181 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [182 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [183 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [184 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [185 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [186 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [187 (+40000)/sem limite] fila=29510 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [188 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [189 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [190 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [191 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [192 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [193 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [194 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [195 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [196 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [197 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [198 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [199 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [200 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/andira/inventario_links.xlsx
+  26878 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/andira/erros_varredura.xlsx
+  9 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/andira/inventario_externos.xlsx
+  6741 links externos registrados.
+  Checkpoint salvo (40200 páginas totais | 200 nesta sessão).
+  [201 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [202 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/110-secretaria-de-obras-e-urbanismo/page/
+  [203 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [204 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [205 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [206 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [207 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [208 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [209 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [210 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [211 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [212 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [213 (+40000)/sem limite] fila=29494 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [214 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [215 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [216 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [217 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [218 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [219 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [220 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [221 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [222 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [223 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [224 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [225 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [226 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [227 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [228 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [229 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [230 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [231 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [232 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [233 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/120-secretaria-de-agricultura-e-meio-ambi
+  [234 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [235 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [236 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [237 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [238 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [239 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [240 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [241 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [242 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [243 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [244 (+40000)/sem limite] fila=29494 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [245 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [246 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [247 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [248 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [249 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [250 (+40000)/sem limite] fila=29509 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [251 (+40000)/sem limite] fila=29508 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [252 (+40000)/sem limite] fila=29507 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [253 (+40000)/sem limite] fila=29506 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [254 (+40000)/sem limite] fila=29505 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [255 (+40000)/sem limite] fila=29504 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [256 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [257 (+40000)/sem limite] fila=29503 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [258 (+40000)/sem limite] fila=29502 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [259 (+40000)/sem limite] fila=29501 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [260 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [261 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [262 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [263 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [264 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/department/comtur-conselho-municipal-de-turismo/page
+  [265 (+40000)/sem limite] fila=29500 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/10223
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/10223_fc456c
+  [266 (+40000)/sem limite] fila=29499 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/10177
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/10177_b9753b
+  [267 (+40000)/sem limite] fila=29498 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/10142
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/10142_697f4d
+  [268 (+40000)/sem limite] fila=29497 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/10138
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/10138_395193
+  [269 (+40000)/sem limite] fila=29496 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/10088
+  [270 (+40000)/sem limite] fila=29495 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/9776
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/9776_d5431e9
+  [271 (+40000)/sem limite] fila=29494 | depth=6 | http://www.andira.pr.gov.br/governo/publicacoes/page/1/group/ata-do-cmdca
+  [272 (+40000)/sem limite] fila=29493 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/19139
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/7/uploads/documents/19139_5bcb50
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/19139_8a705d
+  [273 (+40000)/sem limite] fila=29492 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/18646
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18646_4201fd
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18646_78361f
+  [274 (+40000)/sem limite] fila=29491 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/18500
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18500_46c44a
+  [275 (+40000)/sem limite] fila=29490 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/18253
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18253_b058c6
+  [276 (+40000)/sem limite] fila=29489 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/18153
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18153_25f87f
+  [277 (+40000)/sem limite] fila=29488 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/18127
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/18127_e9af56
+  [278 (+40000)/sem limite] fila=29487 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/17948
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17948_c386b6
+  [279 (+40000)/sem limite] fila=29486 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/17803
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17803_61ff7c
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17803_b8e0e0
+  [280 (+40000)/sem limite] fila=29485 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/17475
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17475_22088c
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17475_350fa1
+  [281 (+40000)/sem limite] fila=29484 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/17237
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17237_b8e416
+  [282 (+40000)/sem limite] fila=29483 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/17215
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17215_e55206
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/17215_389e24
+  [283 (+40000)/sem limite] fila=29482 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/16576
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/16576_76fda8
+  [284 (+40000)/sem limite] fila=29481 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15954
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15954_2c0540
+  [285 (+40000)/sem limite] fila=29480 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15835
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15835_76dde0
+  [286 (+40000)/sem limite] fila=29479 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15611
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15611_6d0492
+  [287 (+40000)/sem limite] fila=29478 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15610
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15610_9e07cf
+  [288 (+40000)/sem limite] fila=29477 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15609
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15609_2aa665
+  [289 (+40000)/sem limite] fila=29476 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15596
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15596_774c01
+  [290 (+40000)/sem limite] fila=29475 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15262
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15262_fbe9a5
+  [291 (+40000)/sem limite] fila=29474 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/15158
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/7/uploads/documents/15158_3c8244
+  [292 (+40000)/sem limite] fila=29473 | depth=6 | http://www.andira.pr.gov.br/governo/publicacoes/page/1/group/ata-da-cmdca
+  [293 (+40000)/sem limite] fila=29472 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/14850
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/14850_20d9b5
+  [294 (+40000)/sem limite] fila=29471 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/14717
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/14717_12317a
+  [295 (+40000)/sem limite] fila=29470 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/14716
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/14716_795a32
+  [296 (+40000)/sem limite] fila=29469 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/14666
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/14666_b68487
+  [297 (+40000)/sem limite] fila=29468 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/14404
+  📄 [200] .pdf -> http://www.andira.pr.gov.br/instances/6/uploads/documents/14404_5d6420
+  [298 (+40000)/sem limite] fila=29467 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13814
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13814_abc222
+  [299 (+40000)/sem limite] fila=29466 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13813
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13813_a9f557
+  [300 (+40000)/sem limite] fila=29465 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13513
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13513_13c8c9
+  [301 (+40000)/sem limite] fila=29464 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13499
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13499_4c4a6f
+  [302 (+40000)/sem limite] fila=29463 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13498
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13498_8e285c
+  [303 (+40000)/sem limite] fila=29462 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13450
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13450_6d8949
+  [304 (+40000)/sem limite] fila=29461 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13251
+  📄 [200] .docx -> http://www.andira.pr.gov.br/instances/6/uploads/documents/13251_ba9aa8
+  [305 (+40000)/sem limite] fila=29460 | depth=6 | http://www.andira.pr.gov.br/governo/publicacao/id/13250

@@ -994,3 +994,41 @@ Nenhum checkpoint encontrado — iniciando do zero.
   [419/sem limite] fila=1008 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
  ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+  [420/sem limite] fila=1007 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Arapoti)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Arapoti (slug: arapoti)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | ARAPOTI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 408 arquivos já registrados.
+  Links externos parciais carregados: 169 links já registrados.
+  Log de erros parcial carregado: 52 erros já registrados.
+
+============================================================
+  Crawler iniciado: ARAPOTI
+  Páginas já visitadas (checkpoint): 400
+  URLs na fila: 1027
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+400)/sem limite] fila=1026 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+  [2 (+400)/sem limite] fila=1025 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p

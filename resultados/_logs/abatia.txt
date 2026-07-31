@@ -60611,3 +60611,225 @@ Checkpoint carregado — retomando varredura.
   [34983 (+1067)/sem limite] fila=112376 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
   📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
   [34984 (+1067)/sem limite] fila=112375 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ABATIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 22303 arquivos já registrados.
+  Links externos parciais carregados: 1226 links já registrados.
+  Log de erros parcial carregado: 531 erros já registrados.
+  Reprocessar erros: 144 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 387 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ABATIA
+  Páginas já visitadas (checkpoint): 35723
+  URLs na fila: 111983
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+35723)/sem limite] fila=111982 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [2 (+35723)/sem limite] fila=111981 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [3 (+35723)/sem limite] fila=111980 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [4 (+35723)/sem limite] fila=111979 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [5 (+35723)/sem limite] fila=111978 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [6 (+35723)/sem limite] fila=111977 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=49AC66421195B275F24B693B99C6B2F8?d-5470-p=1&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [7 (+35723)/sem limite] fila=111976 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [8 (+35723)/sem limite] fila=111975 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [9 (+35723)/sem limite] fila=111974 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [10 (+35723)/sem limite] fila=111973 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [11 (+35723)/sem limite] fila=111972 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [12 (+35723)/sem limite] fila=111986 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [13 (+35723)/sem limite] fila=112000 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [14 (+35723)/sem limite] fila=112014 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [15 (+35723)/sem limite] fila=112028 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [16 (+35723)/sem limite] fila=112027 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [17 (+35723)/sem limite] fila=112026 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [18 (+35723)/sem limite] fila=112025 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [19 (+35723)/sem limite] fila=112024 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [20 (+35723)/sem limite] fila=112023 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [21 (+35723)/sem limite] fila=112022 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=B1152F8BAE7A0E59C641F45038113F06?d-5470-p=3&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [22 (+35723)/sem limite] fila=112021 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [23 (+35723)/sem limite] fila=112020 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [24 (+35723)/sem limite] fila=112019 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [25 (+35723)/sem limite] fila=112018 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [26 (+35723)/sem limite] fila=112017 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [27 (+35723)/sem limite] fila=112031 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [28 (+35723)/sem limite] fila=112045 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [29 (+35723)/sem limite] fila=112059 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [30 (+35723)/sem limite] fila=112073 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [31 (+35723)/sem limite] fila=112072 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [32 (+35723)/sem limite] fila=112071 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [33 (+35723)/sem limite] fila=112070 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [34 (+35723)/sem limite] fila=112069 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [35 (+35723)/sem limite] fila=112068 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [36 (+35723)/sem limite] fila=112067 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=4AE1E617AB8B6F04D15CEFAD6BA845D8?d-5470-p=2&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [37 (+35723)/sem limite] fila=112066 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [38 (+35723)/sem limite] fila=112065 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [39 (+35723)/sem limite] fila=112064 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [40 (+35723)/sem limite] fila=112063 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [41 (+35723)/sem limite] fila=112062 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [42 (+35723)/sem limite] fila=112076 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [43 (+35723)/sem limite] fila=112090 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [44 (+35723)/sem limite] fila=112104 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [45 (+35723)/sem limite] fila=112118 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [46 (+35723)/sem limite] fila=112117 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [47 (+35723)/sem limite] fila=112116 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [48 (+35723)/sem limite] fila=112115 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [49 (+35723)/sem limite] fila=112114 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [50 (+35723)/sem limite] fila=112113 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [51 (+35723)/sem limite] fila=112112 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=7FDCA41A0EEB7263D94A4EE2330E5408?d-5470-p=5&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [52 (+35723)/sem limite] fila=112111 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [53 (+35723)/sem limite] fila=112110 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [54 (+35723)/sem limite] fila=112109 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [55 (+35723)/sem limite] fila=112108 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [56 (+35723)/sem limite] fila=112107 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [57 (+35723)/sem limite] fila=112121 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [58 (+35723)/sem limite] fila=112135 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [59 (+35723)/sem limite] fila=112149 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [60 (+35723)/sem limite] fila=112163 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [61 (+35723)/sem limite] fila=112162 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [62 (+35723)/sem limite] fila=112161 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [63 (+35723)/sem limite] fila=112160 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [64 (+35723)/sem limite] fila=112159 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [65 (+35723)/sem limite] fila=112158 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [66 (+35723)/sem limite] fila=112157 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=BB7960F08F7835625EBF75B125902EF4?d-5470-p=1&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [67 (+35723)/sem limite] fila=112156 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [68 (+35723)/sem limite] fila=112155 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [69 (+35723)/sem limite] fila=112154 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [70 (+35723)/sem limite] fila=112153 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [71 (+35723)/sem limite] fila=112152 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [72 (+35723)/sem limite] fila=112166 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [73 (+35723)/sem limite] fila=112180 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [74 (+35723)/sem limite] fila=112194 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [75 (+35723)/sem limite] fila=112208 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [76 (+35723)/sem limite] fila=112207 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [77 (+35723)/sem limite] fila=112206 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [78 (+35723)/sem limite] fila=112205 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [79 (+35723)/sem limite] fila=112204 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [80 (+35723)/sem limite] fila=112203 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [81 (+35723)/sem limite] fila=112202 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=64DA36CF1022A4958FCB27DD349BCE95?d-5470-p=4&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [82 (+35723)/sem limite] fila=112201 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [83 (+35723)/sem limite] fila=112200 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [84 (+35723)/sem limite] fila=112199 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [85 (+35723)/sem limite] fila=112198 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [86 (+35723)/sem limite] fila=112197 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [87 (+35723)/sem limite] fila=112211 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [88 (+35723)/sem limite] fila=112225 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [89 (+35723)/sem limite] fila=112239 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [90 (+35723)/sem limite] fila=112253 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [91 (+35723)/sem limite] fila=112252 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [92 (+35723)/sem limite] fila=112251 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [93 (+35723)/sem limite] fila=112250 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [94 (+35723)/sem limite] fila=112249 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [95 (+35723)/sem limite] fila=112248 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [96 (+35723)/sem limite] fila=112247 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=A0F64BC04EC0FDDC98BFA184802F556A?d-5470-p=2&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249
+  📄 [200] .txt -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [97 (+35723)/sem limite] fila=112246 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [98 (+35723)/sem limite] fila=112245 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [99 (+35723)/sem limite] fila=112244 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [100 (+35723)/sem limite] fila=112243 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [101 (+35723)/sem limite] fila=112242 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [102 (+35723)/sem limite] fila=112256 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [103 (+35723)/sem limite] fila=112270 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [104 (+35723)/sem limite] fila=112284 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  [105 (+35723)/sem limite] fila=112298 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [106 (+35723)/sem limite] fila=112297 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [107 (+35723)/sem limite] fila=112296 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .pdf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [108 (+35723)/sem limite] fila=112295 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [109 (+35723)/sem limite] fila=112294 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .xls -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [110 (+35723)/sem limite] fila=112293 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  📄 [200] .rtf -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
+  [111 (+35723)/sem limite] fila=112292 | depth=6 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+  🤖 Usando Selenium para: https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=5E7EC0F47C1C1006A0EA6905CA028611?d-5470-p=3&6578706f7274=1&formulario.exercicio=2023&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=249

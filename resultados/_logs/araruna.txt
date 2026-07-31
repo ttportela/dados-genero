@@ -32099,3 +32099,424 @@ Metadata cannot be written in cache (/Users/tarlisportela/.cache/selenium): No s
   [60 (+26282)/sem limite] fila=20174 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
   [61 (+26282)/sem limite] fila=20173 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
 Traceback (most recent call last):
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ARARUNA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1368 arquivos já registrados.
+  Links externos parciais carregados: 7001 links já registrados.
+  Log de erros parcial carregado: 119 erros já registrados.
+
+============================================================
+  Crawler iniciado: ARARUNA
+  Páginas já visitadas (checkpoint): 26400
+  URLs na fila: 20091
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+26400)/sem limite] fila=20090 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5142&tipo=5
+  [2 (+26400)/sem limite] fila=20089 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5138&tipo=5
+  [3 (+26400)/sem limite] fila=20088 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5137&tipo=5
+  [4 (+26400)/sem limite] fila=20087 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5134&tipo=5
+  [5 (+26400)/sem limite] fila=20086 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5133&tipo=5
+  [6 (+26400)/sem limite] fila=20085 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=5132&tipo=5
+  [7 (+26400)/sem limite] fila=20084 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [8 (+26400)/sem limite] fila=20083 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=311&tipo=5
+  [9 (+26400)/sem limite] fila=20082 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=308&tipo=5
+  [10 (+26400)/sem limite] fila=20081 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=305&tipo=5
+  [11 (+26400)/sem limite] fila=20080 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=304&tipo=5
+  [12 (+26400)/sem limite] fila=20079 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=303&tipo=5
+  [13 (+26400)/sem limite] fila=20078 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=302&tipo=5
+  [14 (+26400)/sem limite] fila=20077 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=301&tipo=5
+  [15 (+26400)/sem limite] fila=20076 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [16 (+26400)/sem limite] fila=20075 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=287&tipo=5
+  [17 (+26400)/sem limite] fila=20074 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=286&tipo=5
+  [18 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=285&tipo=5
+  [19 (+26400)/sem limite] fila=20072 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=281&tipo=5
+  [20 (+26400)/sem limite] fila=20071 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [21 (+26400)/sem limite] fila=20070 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [22 (+26400)/sem limite] fila=20069 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [23 (+26400)/sem limite] fila=20068 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RFPU9UVT1PVEk9T0dZPU9HRT1PV0k9T1RZPQ
+  [24 (+26400)/sem limite] fila=20067 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [25 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [26 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=1&
+  [27 (+26400)/sem limite] fila=20067 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [28 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [29 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=2&
+  [30 (+26400)/sem limite] fila=20067 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [31 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [32 (+26400)/sem limite] fila=20065 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [33 (+26400)/sem limite] fila=20064 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [34 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [35 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [36 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [37 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [38 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [39 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [40 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [41 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [42 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [43 (+26400)/sem limite] fila=20073 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [44 (+26400)/sem limite] fila=20072 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [45 (+26400)/sem limite] fila=20071 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [46 (+26400)/sem limite] fila=20070 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [47 (+26400)/sem limite] fila=20069 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [48 (+26400)/sem limite] fila=20068 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [49 (+26400)/sem limite] fila=20067 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [50 (+26400)/sem limite] fila=20066 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [51 (+26400)/sem limite] fila=20065 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [52 (+26400)/sem limite] fila=20064 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [53 (+26400)/sem limite] fila=20063 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [54 (+26400)/sem limite] fila=20062 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [55 (+26400)/sem limite] fila=20061 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [56 (+26400)/sem limite] fila=20060 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [57 (+26400)/sem limite] fila=20059 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [58 (+26400)/sem limite] fila=20058 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [59 (+26400)/sem limite] fila=20057 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [60 (+26400)/sem limite] fila=20056 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [61 (+26400)/sem limite] fila=20055 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [62 (+26400)/sem limite] fila=20054 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [63 (+26400)/sem limite] fila=20053 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [64 (+26400)/sem limite] fila=20052 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [65 (+26400)/sem limite] fila=20051 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [66 (+26400)/sem limite] fila=20050 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [67 (+26400)/sem limite] fila=20049 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [68 (+26400)/sem limite] fila=20048 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [69 (+26400)/sem limite] fila=20047 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [70 (+26400)/sem limite] fila=20046 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [71 (+26400)/sem limite] fila=20045 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [72 (+26400)/sem limite] fila=20044 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=3&
+  [73 (+26400)/sem limite] fila=20043 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [74 (+26400)/sem limite] fila=20042 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [75 (+26400)/sem limite] fila=20041 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=5&
+  [76 (+26400)/sem limite] fila=20042 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [77 (+26400)/sem limite] fila=20041 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=5&
+  [78 (+26400)/sem limite] fila=20041 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [79 (+26400)/sem limite] fila=20040 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [80 (+26400)/sem limite] fila=20039 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=6&
+  [81 (+26400)/sem limite] fila=20040 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=6&
+  [82 (+26400)/sem limite] fila=20040 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [83 (+26400)/sem limite] fila=20039 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T1RVPU9HTT1PVE09T1RRPU5tRT1PVFE9T0dNPU
+  [84 (+26400)/sem limite] fila=20038 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=8&
+  [85 (+26400)/sem limite] fila=20039 | depth=6 | http://cmararuna.pr.gov.br/index2.php?pag=T0RZPU9UQT1PRGc9T1RNPU9Eaz1PRGc9&tp=8&
+  [86 (+26400)/sem limite] fila=20038 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=946&tipo=2
+  [87 (+26400)/sem limite] fila=20037 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=944&tipo=2
+  [88 (+26400)/sem limite] fila=20036 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=943&tipo=2
+  [89 (+26400)/sem limite] fila=20035 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=942&tipo=2
+  [90 (+26400)/sem limite] fila=20034 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=940&tipo=2
+  [91 (+26400)/sem limite] fila=20033 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=939&tipo=2
+  [92 (+26400)/sem limite] fila=20032 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=935&tipo=2
+  [93 (+26400)/sem limite] fila=20031 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=934&tipo=2
+  [94 (+26400)/sem limite] fila=20030 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=933&tipo=2
+  [95 (+26400)/sem limite] fila=20029 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=932&tipo=2
+  [96 (+26400)/sem limite] fila=20028 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=931&tipo=2
+  [97 (+26400)/sem limite] fila=20027 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=930&tipo=2
+  [98 (+26400)/sem limite] fila=20026 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=928&tipo=2
+  [99 (+26400)/sem limite] fila=20025 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=927&tipo=2
+  [100 (+26400)/sem limite] fila=20024 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=926&tipo=2
+  [101 (+26400)/sem limite] fila=20023 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=925&tipo=2
+  [102 (+26400)/sem limite] fila=20022 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=922&tipo=2
+  [103 (+26400)/sem limite] fila=20021 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=920&tipo=2
+  [104 (+26400)/sem limite] fila=20020 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=919&tipo=2
+  [105 (+26400)/sem limite] fila=20019 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=917&tipo=2
+  [106 (+26400)/sem limite] fila=20018 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=912&tipo=2
+  [107 (+26400)/sem limite] fila=20017 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=910&tipo=2
+  [108 (+26400)/sem limite] fila=20016 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=909&tipo=2
+  [109 (+26400)/sem limite] fila=20015 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=907&tipo=2
+  [110 (+26400)/sem limite] fila=20014 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=906&tipo=2
+  [111 (+26400)/sem limite] fila=20013 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=905&tipo=2
+  [112 (+26400)/sem limite] fila=20012 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=904&tipo=2
+  [113 (+26400)/sem limite] fila=20011 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=901&tipo=2
+  [114 (+26400)/sem limite] fila=20010 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=900&tipo=2
+  [115 (+26400)/sem limite] fila=20009 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=899&tipo=2
+  [116 (+26400)/sem limite] fila=20008 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=898&tipo=2
+  [117 (+26400)/sem limite] fila=20007 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=897&tipo=2
+  [118 (+26400)/sem limite] fila=20006 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=896&tipo=2
+  [119 (+26400)/sem limite] fila=20005 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=895&tipo=2
+  [120 (+26400)/sem limite] fila=20004 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=894&tipo=2
+  [121 (+26400)/sem limite] fila=20003 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=893&tipo=2
+  [122 (+26400)/sem limite] fila=20002 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=892&tipo=2
+  [123 (+26400)/sem limite] fila=20001 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=891&tipo=2
+  [124 (+26400)/sem limite] fila=20000 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=890&tipo=2
+  [125 (+26400)/sem limite] fila=19999 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=889&tipo=2
+  [126 (+26400)/sem limite] fila=19998 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=888&tipo=2
+  [127 (+26400)/sem limite] fila=19997 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=887&tipo=2
+  [128 (+26400)/sem limite] fila=19996 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=875&tipo=2
+  [129 (+26400)/sem limite] fila=19995 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=874&tipo=2
+  [130 (+26400)/sem limite] fila=19994 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=873&tipo=2
+  [131 (+26400)/sem limite] fila=19993 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=872&tipo=2
+  [132 (+26400)/sem limite] fila=19992 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=871&tipo=2
+  [133 (+26400)/sem limite] fila=19991 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=869&tipo=2
+  [134 (+26400)/sem limite] fila=19990 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=868&tipo=2
+  [135 (+26400)/sem limite] fila=19989 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=867&tipo=2
+  [136 (+26400)/sem limite] fila=19988 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=864&tipo=2
+  [137 (+26400)/sem limite] fila=19987 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=863&tipo=2
+  [138 (+26400)/sem limite] fila=19986 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=860&tipo=2
+  [139 (+26400)/sem limite] fila=19985 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=857&tipo=2
+  [140 (+26400)/sem limite] fila=19984 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=856&tipo=2
+  [141 (+26400)/sem limite] fila=19983 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=855&tipo=2
+  [142 (+26400)/sem limite] fila=19982 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=854&tipo=2
+  [143 (+26400)/sem limite] fila=19981 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=853&tipo=2
+  [144 (+26400)/sem limite] fila=19980 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=852&tipo=2
+  [145 (+26400)/sem limite] fila=19979 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=851&tipo=2
+  [146 (+26400)/sem limite] fila=19978 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=850&tipo=2
+  [147 (+26400)/sem limite] fila=19977 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=848&tipo=2
+  [148 (+26400)/sem limite] fila=19976 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=847&tipo=2
+  [149 (+26400)/sem limite] fila=19975 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=846&tipo=2
+  [150 (+26400)/sem limite] fila=19974 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=845&tipo=2
+  [151 (+26400)/sem limite] fila=19973 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=844&tipo=2
+  [152 (+26400)/sem limite] fila=19972 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=843&tipo=2
+  [153 (+26400)/sem limite] fila=19971 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=842&tipo=2
+  [154 (+26400)/sem limite] fila=19970 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=840&tipo=2
+  [155 (+26400)/sem limite] fila=19969 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=839&tipo=2
+  [156 (+26400)/sem limite] fila=19968 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=838&tipo=2
+  [157 (+26400)/sem limite] fila=19967 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=837&tipo=2
+  [158 (+26400)/sem limite] fila=19966 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=836&tipo=2
+  [159 (+26400)/sem limite] fila=19965 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=828&tipo=2
+  [160 (+26400)/sem limite] fila=19964 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=819&tipo=2
+  [161 (+26400)/sem limite] fila=19963 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=818&tipo=2
+  [162 (+26400)/sem limite] fila=19962 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=808&tipo=2
+  [163 (+26400)/sem limite] fila=19961 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=801&tipo=2
+  [164 (+26400)/sem limite] fila=19960 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=800&tipo=2
+  [165 (+26400)/sem limite] fila=19959 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=794&tipo=2
+  [166 (+26400)/sem limite] fila=19958 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=773&tipo=2
+  [167 (+26400)/sem limite] fila=19957 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=753&tipo=2
+  [168 (+26400)/sem limite] fila=19956 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=752&tipo=2
+  [169 (+26400)/sem limite] fila=19955 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=751&tipo=2
+  [170 (+26400)/sem limite] fila=19954 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=750&tipo=2
+  [171 (+26400)/sem limite] fila=19953 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=749&tipo=2
+  [172 (+26400)/sem limite] fila=19952 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=748&tipo=2
+  [173 (+26400)/sem limite] fila=19951 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=747&tipo=2
+  [174 (+26400)/sem limite] fila=19950 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=746&tipo=2
+  [175 (+26400)/sem limite] fila=19949 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=745&tipo=2
+  [176 (+26400)/sem limite] fila=19948 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=744&tipo=2
+  [177 (+26400)/sem limite] fila=19947 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=743&tipo=2
+  [178 (+26400)/sem limite] fila=19946 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=742&tipo=2
+  [179 (+26400)/sem limite] fila=19945 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=741&tipo=2
+  [180 (+26400)/sem limite] fila=19944 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=740&tipo=2
+  [181 (+26400)/sem limite] fila=19943 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=739&tipo=2
+  [182 (+26400)/sem limite] fila=19942 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=738&tipo=2
+  [183 (+26400)/sem limite] fila=19941 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=737&tipo=2
+  [184 (+26400)/sem limite] fila=19940 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=736&tipo=2
+  [185 (+26400)/sem limite] fila=19939 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=735&tipo=2
+  [186 (+26400)/sem limite] fila=19938 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=734&tipo=2
+  [187 (+26400)/sem limite] fila=19937 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=732&tipo=2
+  [188 (+26400)/sem limite] fila=19936 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=731&tipo=2
+  [189 (+26400)/sem limite] fila=19935 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=733&tipo=2
+  [190 (+26400)/sem limite] fila=19934 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=730&tipo=2
+  [191 (+26400)/sem limite] fila=19933 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=729&tipo=2
+  [192 (+26400)/sem limite] fila=19932 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=728&tipo=2
+  [193 (+26400)/sem limite] fila=19931 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=727&tipo=2
+  [194 (+26400)/sem limite] fila=19930 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=726&tipo=2
+  [195 (+26400)/sem limite] fila=19929 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=725&tipo=2
+  [196 (+26400)/sem limite] fila=19928 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=724&tipo=2
+  [197 (+26400)/sem limite] fila=19927 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=723&tipo=2
+  [198 (+26400)/sem limite] fila=19926 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=722&tipo=2
+  [199 (+26400)/sem limite] fila=19925 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=721&tipo=2
+  [200 (+26400)/sem limite] fila=19924 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=720&tipo=2
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/araruna/inventario_links.xlsx
+  1368 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/araruna/erros_varredura.xlsx
+  119 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/araruna/inventario_externos.xlsx
+  7001 links externos registrados.
+  Checkpoint salvo (26600 páginas totais | 200 nesta sessão).
+  [201 (+26400)/sem limite] fila=19923 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=718&tipo=2
+  [202 (+26400)/sem limite] fila=19922 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=719&tipo=2
+  [203 (+26400)/sem limite] fila=19921 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=717&tipo=2
+  [204 (+26400)/sem limite] fila=19920 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=703&tipo=2
+  [205 (+26400)/sem limite] fila=19919 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=702&tipo=2
+  [206 (+26400)/sem limite] fila=19918 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=701&tipo=2
+  [207 (+26400)/sem limite] fila=19917 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=700&tipo=2
+  [208 (+26400)/sem limite] fila=19916 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=699&tipo=2
+  [209 (+26400)/sem limite] fila=19915 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=698&tipo=2
+  [210 (+26400)/sem limite] fila=19914 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=697&tipo=2
+  [211 (+26400)/sem limite] fila=19913 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=696&tipo=2
+  [212 (+26400)/sem limite] fila=19912 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=695&tipo=2
+  [213 (+26400)/sem limite] fila=19911 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=694&tipo=2
+  [214 (+26400)/sem limite] fila=19910 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=693&tipo=2
+  [215 (+26400)/sem limite] fila=19909 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=692&tipo=2
+  [216 (+26400)/sem limite] fila=19908 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=691&tipo=2
+  [217 (+26400)/sem limite] fila=19907 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=690&tipo=2
+  [218 (+26400)/sem limite] fila=19906 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=689&tipo=2
+  [219 (+26400)/sem limite] fila=19905 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=688&tipo=2
+  [220 (+26400)/sem limite] fila=19904 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=687&tipo=2
+  [221 (+26400)/sem limite] fila=19903 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=686&tipo=2
+  [222 (+26400)/sem limite] fila=19902 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=685&tipo=2
+  [223 (+26400)/sem limite] fila=19901 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=684&tipo=2
+  [224 (+26400)/sem limite] fila=19900 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=683&tipo=2
+  [225 (+26400)/sem limite] fila=19899 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=715&tipo=2
+  [226 (+26400)/sem limite] fila=19898 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=682&tipo=2
+  [227 (+26400)/sem limite] fila=19897 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=681&tipo=2
+  [228 (+26400)/sem limite] fila=19896 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=680&tipo=2
+  [229 (+26400)/sem limite] fila=19895 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=679&tipo=2
+  [230 (+26400)/sem limite] fila=19894 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=678&tipo=2
+  [231 (+26400)/sem limite] fila=19893 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
+  🤖 Usando Selenium para: http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1RBPU9XST1OMkk9T1RBPU9UYz1PR1U9WVRFPU9XVT1ZVEU9T1dFPVlUQT1PRGs9WVRJPVlUaz1PVFk9T1dFPU9UZz1ZVGc9&idprojeto=677&tipo=2
+  [232 (+26400)/sem limite] fila=19892 | depth=6 | http://cmararuna.pr.gov.br/indexAjax.php?pag=T0dFPU9UQT1PVE09T1RjPU9HVT1PVFE9T1R
