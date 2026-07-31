@@ -45,3 +45,6 @@ duckduckgo_search>=6.2.0
 # googlesearch-python: fallback de busca quando DuckDuckGo está rate-limited
 googlesearch-python>=1.2.3
 
+# streamlit-autorefresh: auto-rerun do dashboard a cada N segundos
+streamlit-autorefresh>=1.0.1
+

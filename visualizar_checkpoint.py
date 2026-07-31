@@ -19,6 +19,7 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 
 from src.config import CIDADES, DIR_RESULTADOS, MAX_DEPTH, SUFIXO_PASTA
 
@@ -27,11 +28,10 @@ from src.config import CIDADES, DIR_RESULTADOS, MAX_DEPTH, SUFIXO_PASTA
 # CARREGAMENTO DE DADOS (com cache)
 # =============================================================================
 
-@st.cache_data(show_spinner=False)
-def carregar_visited(caminho_str: str) -> list[str]:
+# --- Funções base (sem cache) ---
+
+def _carregar_visited_raw(caminho_str: str) -> list[str]:
     """Carrega o checkpoint de URLs visitadas."""
-    from pathlib import Path
-
     caminho = Path(caminho_str)
     if not caminho.exists():
         return []
@@ -39,11 +39,8 @@ def carregar_visited(caminho_str: str) -> list[str]:
         return json.load(f)
 
 
-@st.cache_data(show_spinner=False)
-def carregar_queue(caminho_str: str) -> list[dict]:
+def _carregar_queue_raw(caminho_str: str) -> list[dict]:
     """Carrega o checkpoint de URLs na fila (lista de {url, depth})."""
-    from pathlib import Path
-
     caminho = Path(caminho_str)
     if not caminho.exists():
         return []
@@ -51,11 +48,8 @@ def carregar_queue(caminho_str: str) -> list[dict]:
         return json.load(f)
 
 
-@st.cache_data(show_spinner=False)
-def carregar_excel(caminho_str: str) -> pd.DataFrame | None:
+def _carregar_excel_raw(caminho_str: str) -> pd.DataFrame | None:
     """Carrega um arquivo Excel (.xlsx) como DataFrame."""
-    from pathlib import Path
-
     caminho = Path(caminho_str)
     if not caminho.exists():
         return None
@@ -65,24 +59,62 @@ def carregar_excel(caminho_str: str) -> pd.DataFrame | None:
         return None
 
 
+# --- Wrappers com cache (apenas para cidades 100% completas) ---
+
+@st.cache_data(show_spinner=False)
+def carregar_visited(caminho_str: str) -> list[str]:
+    return _carregar_visited_raw(caminho_str)
+
+
+@st.cache_data(show_spinner=False)
+def carregar_queue(caminho_str: str) -> list[dict]:
+    return _carregar_queue_raw(caminho_str)
+
+
+@st.cache_data(show_spinner=False)
+def carregar_excel(caminho_str: str) -> pd.DataFrame | None:
+    return _carregar_excel_raw(caminho_str)
+
+
+def _cidade_completa(dir_cidade: Path) -> bool:
+    """Verifica se a cidade terminou (fila vazia ou inexistente)."""
+    caminho_queue = dir_cidade / "checkpoint_queue.json"
+    if not caminho_queue.exists():
+        return True
+    queue = _carregar_queue_raw(str(caminho_queue))
+    return len(queue) == 0
+
+
 # =============================================================================
 # FUNÇÃO: CARREGAR MÉTRICAS DE UMA CIDADE
 # =============================================================================
 
-@st.cache_data(show_spinner=False)
 def carregar_metricas_cidade(cidade: str, usar_oficial: bool) -> dict | None:
-    """Carrega métricas resumidas de uma cidade para o dashboard."""
+    """Carrega métricas resumidas de uma cidade para o dashboard.
+
+    Cidades 100% completas (fila vazia) usam cache permanente.
+    Cidades em execução recarregam dados sem cache a cada chamada.
+    """
     pasta = cidade + (SUFIXO_PASTA if usar_oficial else "")
     dir_c = DIR_RESULTADOS / pasta
 
     if not dir_c.exists():
         return None
 
-    visited = carregar_visited(str(dir_c / "checkpoint_visited.json"))
-    queue = carregar_queue(str(dir_c / "checkpoint_queue.json"))
-    df_err = carregar_excel(str(dir_c / "erros_varredura.xlsx"))
-    df_inv = carregar_excel(str(dir_c / "inventario_links.xlsx"))
-    df_ext = carregar_excel(str(dir_c / "inventario_externos.xlsx"))
+    # Cidades completas → cache; em execução → sem cache (dados frescos)
+    completa = _cidade_completa(dir_c)
+    if completa:
+        visited = carregar_visited(str(dir_c / "checkpoint_visited.json"))
+        queue = carregar_queue(str(dir_c / "checkpoint_queue.json"))
+        df_err = carregar_excel(str(dir_c / "erros_varredura.xlsx"))
+        df_inv = carregar_excel(str(dir_c / "inventario_links.xlsx"))
+        df_ext = carregar_excel(str(dir_c / "inventario_externos.xlsx"))
+    else:
+        visited = _carregar_visited_raw(str(dir_c / "checkpoint_visited.json"))
+        queue = _carregar_queue_raw(str(dir_c / "checkpoint_queue.json"))
+        df_err = _carregar_excel_raw(str(dir_c / "erros_varredura.xlsx"))
+        df_inv = _carregar_excel_raw(str(dir_c / "inventario_links.xlsx"))
+        df_ext = _carregar_excel_raw(str(dir_c / "inventario_externos.xlsx"))
 
     total_vis = len(visited)
     total_q = len(queue)
@@ -107,6 +139,7 @@ def carregar_metricas_cidade(cidade: str, usar_oficial: bool) -> dict | None:
         "ultimo_nivel_arquivos": ultimo_nivel,
         "progresso": progresso,
         "total_urls": total_urls,
+        "completa": completa,
     }
 
 
@@ -120,6 +153,11 @@ st.set_page_config(
     layout="wide",
 )
 
+# Auto-rerun a cada 10 segundos (pode ser desativado na sidebar)
+auto_rerun = st.sidebar.checkbox("Atualizar a cada 1 min", value=True)
+if auto_rerun:
+    st_autorefresh(interval=60_000, key="autorefresh")
+
 st.sidebar.title("Configuração")
 
 modo = st.sidebar.radio(
@@ -130,7 +168,7 @@ modo = st.sidebar.radio(
 
 usar_oficial = st.sidebar.checkbox(
     f"Usar pasta '{SUFIXO_PASTA}' (dados oficiais)",
-    value=True,
+    value=False,
     help=f"Se marcado, lê de 'CIDADE{SUFIXO_PASTA}'. Caso contrário, lê de 'CIDADE'.",
 )
 
@@ -160,6 +198,7 @@ if modo == "Dashboard":
                     "ultimo_nivel_arquivos": 0,
                     "progresso": 0.0,
                     "total_urls": 0,
+                    "completa": False,
                 })
 
     df_dash = pd.DataFrame(metricas)
@@ -205,9 +244,13 @@ if modo == "Dashboard":
     df_tabela["progresso_pct"] = df_tabela["progresso"].apply(
         lambda x: f"{x:.1%}" if x > 0 else "—"
     )
-    df_tabela["status"] = df_tabela["paginas_visitadas"].apply(
-        lambda x: "✅ Processada" if x > 0 else "⏳ Pendente"
+    df_tabela["status"] = df_tabela.apply(
+        lambda row: "✅ Processada" if row["completa"] else "⚠️ Processando..." if row["paginas_visitadas"] > 0 else "⏳ Pendente",
+        axis=1,
     )
+    # df_tabela["status"] = df_tabela["paginas_visitadas"].apply(
+    #    lambda x: "✅ Processada" if x > 0 else "⏳ Pendente"
+    #)
     df_tabela = df_tabela.rename(columns={
         "cidade": "Cidade",
         "paginas_visitadas": "Páginas",
@@ -320,11 +363,20 @@ if not dir_cidade.exists():
     st.stop()
 
 with st.spinner("Carregando dados do checkpoint..."):
-    visited_list = carregar_visited(str(caminho_visited))
-    queue_list = carregar_queue(str(caminho_queue))
-    df_erros = carregar_excel(str(caminho_erros))
-    df_inventario = carregar_excel(str(caminho_inventario))
-    df_externos = carregar_excel(str(caminho_externos))
+    # Cidade completa → cache; em execução → sem cache (dados frescos)
+    completa = _cidade_completa(dir_cidade)
+    if completa:
+        visited_list = carregar_visited(str(caminho_visited))
+        queue_list = carregar_queue(str(caminho_queue))
+        df_erros = carregar_excel(str(caminho_erros))
+        df_inventario = carregar_excel(str(caminho_inventario))
+        df_externos = carregar_excel(str(caminho_externos))
+    else:
+        visited_list = _carregar_visited_raw(str(caminho_visited))
+        queue_list = _carregar_queue_raw(str(caminho_queue))
+        df_erros = _carregar_excel_raw(str(caminho_erros))
+        df_inventario = _carregar_excel_raw(str(caminho_inventario))
+        df_externos = _carregar_excel_raw(str(caminho_externos))
 
 total_visited = len(visited_list)
 total_queue = len(queue_list)
