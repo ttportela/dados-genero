@@ -1,0 +1,362 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ARAPONGAS
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: ARAPONGAS
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.arapongas.pr.gov.br/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/
+  [2/sem limite] fila=47 | depth=1 | https://webmail.arapongas.pr.gov.br/
+  🤖 Usando Selenium para: https://webmail.arapongas.pr.gov.br/
+  [3/sem limite] fila=47 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia
+  [4/sem limite] fila=46 | depth=1 | https://www.arapongas.pr.gov.br/transparencia
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/transparencia → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/transparencia
+  [5/sem limite] fila=45 | depth=1 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso/detalhar/1 → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso/detalhar/1
+  [6/sem limite] fila=45 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/
+  [7/sem limite] fila=44 | depth=1 | https://www.arapongas.pr.gov.br/subportal/cidade
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cidade → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cidade
+  [8/sem limite] fila=44 | depth=1 | https://www.arapongas.pr.gov.br/subportal/concursos
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/concursos → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/concursos
+  [9/sem limite] fila=43 | depth=1 | https://www.arapongas.pr.gov.br/subportal/legislacao
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/legislacao → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/legislacao
+  [10/sem limite] fila=42 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/pagina/lei-geral-de-protecao-de-dados-lg
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/pagina/lei-geral-de-protecao-de-dados-lgpd → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/pagina/lei-geral-de-protecao-de-dados-lgpd
+  [11/sem limite] fila=42 | depth=1 | https://www.arapongas.pr.gov.br/subportal/ouvidoria
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/ouvidoria → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/ouvidoria
+  [12/sem limite] fila=41 | depth=1 | https://www.arapongas.pr.gov.br/subportal/secretarias
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/secretarias → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/secretarias
+  [13/sem limite] fila=40 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/pagina/utilidades
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/pagina/utilidades → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/pagina/utilidades
+  [14/sem limite] fila=39 | depth=1 | https://www.arapongas.pr.gov.br/subportal/cidade-digital
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cidade-digital → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cidade-digital
+  [15/sem limite] fila=38 | depth=1 | https://www.arapongas.pr.gov.br/subportal/desenvolve-arapongas
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/desenvolve-arapongas → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/desenvolve-arapongas
+  [16/sem limite] fila=37 | depth=1 | https://www.arapongas.pr.gov.br/subportal/protocolo-online
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/protocolo-online → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/protocolo-online
+  [17/sem limite] fila=36 | depth=1 | https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-externo
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-externo → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-externo
+  [18/sem limite] fila=35 | depth=1 | https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-interno
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-interno → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/manuais-e-documentos-interno
+  [19/sem limite] fila=34 | depth=1 | https://www.arapongas.pr.gov.br/subportal/licitacao
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/licitacao → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/licitacao
+  [20/sem limite] fila=33 | depth=1 | https://www.arapongas.pr.gov.br/subportal/processo-seletivo-simplificado-2024
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/processo-seletivo-simplificado-2024 → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/processo-seletivo-simplificado-2024
+  [21/sem limite] fila=32 | depth=1 | https://www.arapongas.pr.gov.br/subportal/procon
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/procon → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/procon
+  [22/sem limite] fila=31 | depth=1 | https://www.arapongas.pr.gov.br/subportal/ippasa
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/ippasa → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/ippasa
+  [23/sem limite] fila=30 | depth=1 | https://www.arapongas.pr.gov.br/subportal/requerimentos
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/requerimentos → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/requerimentos
+  [24/sem limite] fila=29 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/obras-e-desenvolviment
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/obras-e-desenvolvimento-urbano → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/obras-e-desenvolvimento-urbano
+  [25/sem limite] fila=29 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/educacao
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/educacao → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/educacao
+  [26/sem limite] fila=28 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/saude
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/saude → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/saude
+  [27/sem limite] fila=27 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/semude
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/semude → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/semude
+  [28/sem limite] fila=26 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esportes
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esportes → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esportes
+  [29/sem limite] fila=25 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/seguranca
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/seguranca → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/seguranca
+  [30/sem limite] fila=24 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/planejamento-e-orcamen
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/planejamento-e-orcamento → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/planejamento-e-orcamento
+  [31/sem limite] fila=23 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/utilidade-publica
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/utilidade-publica → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/utilidade-publica
+  [32/sem limite] fila=22 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esporte
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esporte → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/esporte
+  [33/sem limite] fila=21 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/assistencia-social
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/assistencia-social → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/assistencia-social
+  [34/sem limite] fila=20 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/governo
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/governo → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/governo
+  [35/sem limite] fila=19 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/administracao
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/administracao → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/administracao
+  [36/sem limite] fila=18 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/cultura-lazer-e-evento
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/cultura-lazer-e-eventos → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/cultura-lazer-e-eventos
+  [37/sem limite] fila=17 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/procon
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/procon → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/procon
+  [38/sem limite] fila=16 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/pagina/emissao-de-guias
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/pagina/emissao-de-guias → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/pagina/emissao-de-guias
+  [39/sem limite] fila=15 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/1
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/1 → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/1
+  [40/sem limite] fila=15 | depth=1 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/d
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/detalhar/1 → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/detalhar/1
+  [41/sem limite] fila=15 | depth=1 | https://www.arapongas.pr.gov.br/coronavirus-agenda_vacinacao.php
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/coronavirus-agenda_vacinacao.php → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/coronavirus-agenda_vacinacao.php
+  [42/sem limite] fila=14 | depth=1 | https://www.arapongas.pr.gov.br/cidadao/acesso-informacao
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/acesso-informacao → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/acesso-informacao
+  [43/sem limite] fila=13 | depth=1 | https://www.arapongas.pr.gov.br/social
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/social → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/social
+  [44/sem limite] fila=12 | depth=1 | https://www.arapongas.pr.gov.br/vigilancia
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/vigilancia → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/vigilancia
+  [45/sem limite] fila=11 | depth=1 | https://biblioteca.arapongas.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://biblioteca.arapongas.pr.gov.br/
+  🤖 Usando Selenium para: https://biblioteca.arapongas.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://biblioteca.arapongas.pr.gov.br/
+  [46/sem limite] fila=10 | depth=1 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/carta-de-servicos
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/carta-de-servicos → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/carta-de-servicos
+  [47/sem limite] fila=10 | depth=1 | https://www.arapongas.pr.gov.br/saude
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/saude → https://arapongas.atende.net/subportal/saude
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/saude
+  [48/sem limite] fila=14 | depth=1 | https://geo.arapongas.pr.gov.br/login
+  🤖 Usando Selenium para: https://geo.arapongas.pr.gov.br/login
+  [49/sem limite] fila=13 | depth=1 | https://www.arapongas.pr.gov.br/cultura/indicadores
+  [50/sem limite] fila=19 | depth=2 | https://www.arapongas.pr.gov.br
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br
+  [51/sem limite] fila=18 | depth=2 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso/detalhar/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso/detalhar/
+  [52/sem limite] fila=17 | depth=2 | https://www.arapongas.pr.gov.br/subportal/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/
+  [53/sem limite] fila=16 | depth=2 | https://www.arapongas.pr.gov.br/cidadao/pagina/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/pagina/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/pagina/
+  [54/sem limite] fila=15 | depth=2 | https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/noticia/categoria/
+  [55/sem limite] fila=14 | depth=2 | https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cidadao/acesso/tipo/1/redirect/
+  [56/sem limite] fila=13 | depth=2 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/d
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/detalhar/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/detalhar/
+  [57/sem limite] fila=12 | depth=2 | https://www.arapongas.pr.gov.br/autoatendimento/servicos/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/autoatendimento/servicos/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/autoatendimento/servicos/
+  [58/sem limite] fila=11 | depth=2 | https://www.arapongas.pr.gov.br/subportal/saude
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude
+  [59/sem limite] fila=10 | depth=2 | https://www.arapongas.pr.gov.br/subportal/saude/noticia
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude/noticia → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude/noticia
+  [60/sem limite] fila=10 | depth=2 | https://www.arapongas.pr.gov.br/subportal/saude/agenda
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude/agenda → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude/agenda
+  [61/sem limite] fila=9 | depth=2 | https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/saude
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/saude → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/saude
+  [62/sem limite] fila=9 | depth=2 | https://www.arapongas.pr.gov.br/saude/servicos
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/saude/servicos → https://arapongas.atende.net/subportal/saude
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/saude/servicos
+  [63/sem limite] fila=9 | depth=2 | https://www.arapongas.pr.gov.br/cultura/index
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/index → https://arapongas.atende.net/subportal/cultura
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/index
+  [64/sem limite] fila=14 | depth=2 | https://www.arapongas.pr.gov.br/cultura/eventos
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/eventos → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/eventos
+  [65/sem limite] fila=13 | depth=2 | https://www.arapongas.pr.gov.br/cultura/noticias
+  [66/sem limite] fila=12 | depth=2 | https://www.arapongas.pr.gov.br/cultura/espacos
+  [67/sem limite] fila=21 | depth=2 | https://www.arapongas.pr.gov.br/cultura/secretaria
+  [68/sem limite] fila=20 | depth=2 | https://www.arapongas.pr.gov.br/cultura/contato
+  [69/sem limite] fila=19 | depth=2 | https://www.arapongas.pr.gov.br/wb/site/cultura
+  [70/sem limite] fila=21 | depth=3 | https://www.arapongas.pr.gov.br/subportal/saude/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude/
+  [71/sem limite] fila=20 | depth=3 | https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/saude/noticia/categoria/
+  [72/sem limite] fila=19 | depth=3 | https://www.arapongas.pr.gov.br/saude/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/saude/ → https://arapongas.atende.net/subportal/saude
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/saude/
+  [73/sem limite] fila=18 | depth=3 | https://www.arapongas.pr.gov.br/subportal/cultura
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura
+  [74/sem limite] fila=17 | depth=3 | https://www.arapongas.pr.gov.br/subportal/cultura/noticia
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura/noticia → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura/noticia
+  [75/sem limite] fila=17 | depth=3 | https://www.arapongas.pr.gov.br/subportal/cultura/agenda
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura/agenda → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura/agenda
+  [76/sem limite] fila=16 | depth=3 | https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/cultura
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/cultura → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/cultura
+  [77/sem limite] fila=16 | depth=3 | https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+ ❌ TIMEOUT_OU_CONEXAO: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+  🤖 Usando Selenium para: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+  [78/sem limite] fila=15 | depth=3 | https://www.arapongas.pr.gov.br/cultura/
+  [79/sem limite] fila=18 | depth=3 | https://www.arapongas.pr.gov.br/cultura/1_dpto_anfiteatro-oduvaldo-vianna-filho-
+  [80/sem limite] fila=17 | depth=3 | https://www.arapongas.pr.gov.br/cultura/7_dpto_arteara-artesanatos
+  [81/sem limite] fila=16 | depth=3 | https://www.arapongas.pr.gov.br/cultura/5_dpto_biblioteca-publica-municipal-mach
+  [82/sem limite] fila=15 | depth=3 | https://www.arapongas.pr.gov.br/cultura/8_dpto_centro-de-artes-e-esportes-unific
+  [83/sem limite] fila=14 | depth=3 | https://www.arapongas.pr.gov.br/cultura/3_dpto_cine-teatro-maua
+  [84/sem limite] fila=13 | depth=3 | https://www.arapongas.pr.gov.br/cultura/10_dpto_espaco-municipal-de-artes
+  [85/sem limite] fila=12 | depth=3 | https://www.arapongas.pr.gov.br/cultura/6_dpto_feira-da-lua
+  [86/sem limite] fila=11 | depth=3 | https://www.arapongas.pr.gov.br/cultura/9_dpto_galpao-cultural
+  [87/sem limite] fila=10 | depth=3 | https://www.arapongas.pr.gov.br/cultura/4_dpto_museu-de-arte-e-historia-de-arapo
+  [88/sem limite] fila=9 | depth=3 | https://www.arapongas.pr.gov.br/cultura/2_dpto_usina-do-conhecimento
+  [89/sem limite] fila=8 | depth=3 | https://www.arapongas.pr.gov.br/wb/site/cultura/espaco
+  [90/sem limite] fila=8 | depth=3 | https://www.arapongas.pr.gov.br/wb/site/cultura/indicador
+  [91/sem limite] fila=7 | depth=3 | https://www.arapongas.pr.gov.br/wb/site/cultura/consulta
+  [92/sem limite] fila=6 | depth=4 | https://www.arapongas.pr.gov.br/subportal/cultura/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura/
+  [93/sem limite] fila=5 | depth=4 | https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/ → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/subportal/cultura/noticia/categoria/
+  [94/sem limite] fila=4 | depth=4 | https://www.arapongas.pr.gov.br/cultura/731_evento_feira-da-lua
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/731_evento_feira-da-lua → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/731_evento_feira-da-lua
+  [95/sem limite] fila=3 | depth=4 | https://www.arapongas.pr.gov.br/cultura/730_evento_feira-da-lua
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/730_evento_feira-da-lua → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/730_evento_feira-da-lua
+  [96/sem limite] fila=2 | depth=4 | https://www.arapongas.pr.gov.br/cultura/727_evento_feira-de-brecho-artesanato-e-
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/727_evento_feira-de-brecho-artesanato-e-antiguidade → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/727_evento_feira-de-brecho-artesanato-e-antiguidade
+  [97/sem limite] fila=1 | depth=4 | https://www.arapongas.pr.gov.br/cultura/729_evento_feira-da-lua
+Redirecionamento externo ignorado: https://www.arapongas.pr.gov.br/cultura/729_evento_feira-da-lua → https://arapongas.atende.net
+  🤖 Usando Selenium para: https://www.arapongas.pr.gov.br/cultura/729_evento_feira-da-lua
+  [98/sem limite] fila=0 | depth=4 | https://www.arapongas.pr.gov.br/wb/site/cultura/index
+
+  Nenhum arquivo encontrado para arapongas.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapongas/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapongas/inventario_externos.xlsx
+  233 links externos registrados.
+
+  Varredura encerrada: ARAPONGAS
+  Páginas nesta sessão: 98
+  Páginas totais (acumulado): 98
+  Arquivos no inventário: 0
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/arapongas/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Arapongas)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Arapongas (slug: arapongas)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://arapongas.atende.net/
+              ✅ https://camaraarapongas.atende.net/transparencia/
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/arapongas/index.cfm/
+            + ✅ https://www.arapongas.pr.gov.br/diario/
+              ✗ https://www.cmarapongas.pr.gov.br/transparencia/front-page/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ARAPONGAS
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 233 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+  Reprocessar erros: 2 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 2 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: ARAPONGAS
+  Páginas já visitadas (checkpoint): 96
+  URLs na fila: 2
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+96)/sem limite] fila=1 | depth=1 | https://biblioteca.arapongas.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://biblioteca.arapongas.pr.gov.br/
+  🤖 Usando Selenium para: https://biblioteca.arapongas.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://biblioteca.arapongas.pr.gov.br/
+  [2 (+96)/sem limite] fila=0 | depth=3 | https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+ ❌ TIMEOUT_OU_CONEXAO: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+  🤖 Usando Selenium para: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://biblioteca.arapongas.pr.gov.br/Biblivre6/
+
+  Nenhum arquivo encontrado para arapongas.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapongas/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapongas/inventario_externos.xlsx
+  233 links externos registrados.
+
+  Varredura encerrada: ARAPONGAS
+  Páginas nesta sessão: 2
+  Páginas totais (acumulado): 98
+  Arquivos no inventário: 0
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/arapongas/
+============================================================
+

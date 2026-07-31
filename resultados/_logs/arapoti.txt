@@ -1,0 +1,996 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ARAPOTI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: ARAPOTI
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.arapoti.pr.gov.br/
+  📄 [200] .doc -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Fic
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/MAN
+  📄 [200] .xlsx -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/req
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Map
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Edu
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/27-
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/APR
+  📄 [200] .xls -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/CIA
+  📄 [200] .doc -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/man
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/LIC
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Map
+  [2/sem limite] fila=116 | depth=1 | https://www.arapoti.pr.gov.br/mapa-site/
+  [3/sem limite] fila=115 | depth=1 | https://www.arapoti.pr.gov.br/agendamento
+  [4/sem limite] fila=114 | depth=1 | https://www.arapoti.pr.gov.br/carta-servico/categoria
+  [5/sem limite] fila=114 | depth=1 | https://www.arapoti.pr.gov.br/concurso
+  [6/sem limite] fila=122 | depth=1 | https://www.arapoti.pr.gov.br/auxilio-brasil
+  [7/sem limite] fila=121 | depth=1 | https://www.arapoti.pr.gov.br/ouvidoria
+  [8/sem limite] fila=122 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/perguntas-frequentes
+  [9/sem limite] fila=121 | depth=1 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao
+  [10/sem limite] fila=127 | depth=1 | https://www.arapoti.pr.gov.br/sus
+  [11/sem limite] fila=126 | depth=1 | https://www.arapoti.pr.gov.br/ata-abertura
+  [12/sem limite] fila=125 | depth=1 | https://www.arapoti.pr.gov.br/ata-registro-preco
+  [13/sem limite] fila=124 | depth=1 | https://www.arapoti.pr.gov.br/contrato
+  [14/sem limite] fila=123 | depth=1 | https://www.arapoti.pr.gov.br/legislacao
+  [15/sem limite] fila=152 | depth=1 | https://www.arapoti.pr.gov.br/rg0nvqVl
+  [16/sem limite] fila=151 | depth=1 | https://www.arapoti.pr.gov.br/webmail
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/webmail
+  [17/sem limite] fila=150 | depth=1 | https://www.arapoti.pr.gov.br/cidade
+  [18/sem limite] fila=149 | depth=1 | https://www.arapoti.pr.gov.br/cidade/hino
+  [19/sem limite] fila=148 | depth=1 | https://www.arapoti.pr.gov.br/guia-da-cidade
+  [20/sem limite] fila=148 | depth=1 | https://www.arapoti.pr.gov.br/cidade/simbolo
+  [21/sem limite] fila=147 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos
+  [22/sem limite] fila=152 | depth=1 | https://www.arapoti.pr.gov.br/web-radio
+  [23/sem limite] fila=151 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura
+  [24/sem limite] fila=150 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/departamento
+  [25/sem limite] fila=156 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/organograma
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/admin/globalarq/municipio/organograma/d8
+  [26/sem limite] fila=155 | depth=1 | https://www.arapoti.pr.gov.br/estrutura
+  [27/sem limite] fila=155 | depth=1 | https://www.arapoti.pr.gov.br/galeria-videos
+  [28/sem limite] fila=154 | depth=1 | https://www.arapoti.pr.gov.br/comissao
+  [29/sem limite] fila=164 | depth=1 | https://www.arapoti.pr.gov.br/audiencia-publica
+  [30/sem limite] fila=165 | depth=1 | https://www.arapoti.pr.gov.br/evento
+  [31/sem limite] fila=164 | depth=1 | https://www.arapoti.pr.gov.br/glossario
+  [32/sem limite] fila=163 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/telefones
+  [33/sem limite] fila=162 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/links-uteis
+  [34/sem limite] fila=161 | depth=1 | https://www.arapoti.pr.gov.br/expediente
+  [35/sem limite] fila=160 | depth=1 | https://www.arapoti.pr.gov.br/empresa
+  [36/sem limite] fila=159 | depth=1 | https://www.arapoti.pr.gov.br/pagina/23/pgrs-plano-de-gerenciamento-de-residuos-
+  [37/sem limite] fila=158 | depth=1 | https://www.arapoti.pr.gov.br/contratacao
+  [38/sem limite] fila=158 | depth=1 | https://diariooficial.arapoti.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: https://diariooficial.arapoti.pr.gov.br/
+  🤖 Usando Selenium para: https://diariooficial.arapoti.pr.gov.br/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://diariooficial.arapoti.pr.gov.br/
+  [39/sem limite] fila=157 | depth=1 | https://www.arapoti.pr.gov.br/pagina/17/servico-de-inspecao-municipal/
+  [40/sem limite] fila=157 | depth=1 | https://www.arapoti.pr.gov.br/noticia/categoria
+  [41/sem limite] fila=184 | depth=1 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/sub-pagina/56/
+  [42/sem limite] fila=193 | depth=1 | https://www.arapoti.pr.gov.br/pagina/18/prestacao-de-contas-publicas
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PCA
+  📄 [200] .pdf -> https://www.cmarapoti.pr.gov.br/assinatura/assinado/2025/12/2512091130
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/par
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/362
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/par
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/par
+  [43/sem limite] fila=194 | depth=1 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social
+  [44/sem limite] fila=227 | depth=1 | https://www.arapoti.pr.gov.br/pagina/22/defesa-civil
+  [45/sem limite] fila=227 | depth=1 | https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-lazer
+  [46/sem limite] fila=229 | depth=1 | https://www.arapoti.pr.gov.br/pagina/25/vigilancia-sanitaria
+  [47/sem limite] fila=229 | depth=1 | https://www.arapoti.pr.gov.br/pagina/21/secretaria-da-fazenda/
+  [48/sem limite] fila=232 | depth=1 | https://www.arapoti.pr.gov.br/pagina/19/valores-diarias
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Dec
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/DEC
+  [49/sem limite] fila=232 | depth=1 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno
+  [50/sem limite] fila=260 | depth=1 | https://www.arapoti.pr.gov.br/pagina/20/isencoes-iptu
+  [51/sem limite] fila=259 | depth=1 | https://www.arapoti.pr.gov.br/conta-publica
+  [52/sem limite] fila=258 | depth=1 | https://www.arapoti.pr.gov.br/itr
+  [53/sem limite] fila=259 | depth=1 | https://www.arapoti.pr.gov.br/consulta-protocolo
+  [54/sem limite] fila=258 | depth=1 | https://www.arapoti.pr.gov.br/terceiro-setor
+  [55/sem limite] fila=263 | depth=1 | https://www.arapoti.pr.gov.br/unidade-fiscal
+  [56/sem limite] fila=262 | depth=1 | https://www.arapoti.pr.gov.br/fale-conosco
+  [57/sem limite] fila=261 | depth=1 | https://www.arapoti.pr.gov.br/poda-arvore
+  [58/sem limite] fila=262 | depth=1 | https://www.arapoti.pr.gov.br/troca-de-lampada
+  [59/sem limite] fila=261 | depth=1 | https://www.arapoti.pr.gov.br/denuncia-de-descarte
+  [60/sem limite] fila=260 | depth=1 | https://www.arapoti.pr.gov.br/covid
+  [61/sem limite] fila=264 | depth=1 | https://www.arapoti.pr.gov.br/cidadao
+  [62/sem limite] fila=263 | depth=1 | https://diario.arapoti.pr.gov.br/
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47390/13COT6zS21TiSVr
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47389/BVlhYSipfAgugLh
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47373/csKBWWGkz7APs8E
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47365/l3i-l1tGEFn9x6j
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47364/VoMilQxuWtZSjMS
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47363/AzRUYaQK_kz6XUf
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47352/IAv30UJ2s2wBGoS
+  [63/sem limite] fila=306 | depth=1 | https://www.arapoti.pr.gov.br/junta-militar
+  [64/sem limite] fila=305 | depth=1 | https://www.arapoti.pr.gov.br/meio-ambiente
+  [65/sem limite] fila=307 | depth=1 | https://www.arapoti.pr.gov.br/portal-educacao
+  [66/sem limite] fila=308 | depth=1 | https://www.arapoti.pr.gov.br/portal-educacao/vaga-creche/
+  [67/sem limite] fila=307 | depth=1 | https://www.arapoti.pr.gov.br/pagina/9/plano-diretor-completo/
+  [68/sem limite] fila=306 | depth=1 | https://www.arapoti.pr.gov.br/pagina/11/pesquisa-de-satisfacao
+  [69/sem limite] fila=305 | depth=1 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022
+  [70/sem limite] fila=310 | depth=1 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022
+  [71/sem limite] fila=341 | depth=1 | https://www.arapoti.pr.gov.br/licitacao
+  [72/sem limite] fila=341 | depth=1 | https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processo
+  [73/sem limite] fila=341 | depth=1 | https://www.arapoti.pr.gov.br/pagina/18/
+  [74/sem limite] fila=340 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5128/pconvenio-para-utilizacao-
+  [75/sem limite] fila=341 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5127/pestabelece-normas-e-fixa-
+  [76/sem limite] fila=342 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5125/paprova-o-paf-plano-anual-
+  [77/sem limite] fila=343 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5126/ppromove-a-consolidacao-da
+  [78/sem limite] fila=344 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5120/pestabelece-o-valor-da-ufm
+  [79/sem limite] fila=345 | depth=1 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5121/pestabelece-o-valor-do-cub
+  [80/sem limite] fila=346 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/30/p-styletext-alignjustifyabertu
+  [81/sem limite] fila=364 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/29/p-styletext-alignjustifyvagas-
+  [82/sem limite] fila=392 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/28/pconcurso-publico-n-0012026-so
+  [83/sem limite] fila=417 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/27/pabertura-de-processo-seletivo
+  [84/sem limite] fila=427 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/26/p-styletext-alignjustifya-aber
+  [85/sem limite] fila=503 | depth=1 | https://www.arapoti.pr.gov.br/concurso/detalhe/25/p-styletext-alignjustifya-aber
+  [86/sem limite] fila=525 | depth=1 | https://arapoti.pr.gov.br/comissao
+  📄 [200] .pdf -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Mapa-Ar
+  📄 [200] .xlsx -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/requeri
+  📄 [200] .pdf -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/27-04-2
+  📄 [200] .pdf -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/APRESEN
+  📄 [200] .xls -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/CIAT.xl
+  📄 [200] .doc -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/manual-
+  📄 [200] .doc -> https://arapoti.pr.gov.br/public/admin/globalarq/uploads/files/FichaEP
+  [87/sem limite] fila=584 | depth=1 | https://www.arapoti.pr.gov.br/pagina/7/subvencoes
+  [88/sem limite] fila=586 | depth=1 | https://www.arapoti.pr.gov.br/noticia/categoria/
+  [89/sem limite] fila=585 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6016/escola-recebe-programa-feira-verde/
+  [90/sem limite] fila=587 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6015/secretaria-reune-grupos-dos-cras-em-f
+  [91/sem limite] fila=592 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6014/municipio-destina-recursos-para-prote
+  [92/sem limite] fila=592 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6013/criancas-aprendem-sobre-sucessao-fami
+  [93/sem limite] fila=592 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6012/encerramento-do-gestar-bem-reune-futu
+  [94/sem limite] fila=592 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6011/transporte-escolar-recebe-novo-onibus
+  [95/sem limite] fila=592 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/
+  [96/sem limite] fila=595 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/-teatro-sia-santa-apresenta
+  [97/sem limite] fila=597 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [98/sem limite] fila=600 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/caravana-cultural-2023/
+  [99/sem limite] fila=602 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [100/sem limite] fila=605 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/
+  [101/sem limite] fila=608 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/38/festival-de-queimada-nas-es
+  [102/sem limite] fila=608 | depth=1 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/dia-do-circo-/
+  [103/sem limite] fila=610 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/55/controle-intern
+  [104/sem limite] fila=610 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/54/saude/
+  [105/sem limite] fila=610 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/53/planejamento/
+  [106/sem limite] fila=609 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/52/negocios-juridi
+  [107/sem limite] fila=608 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/51/meio-ambiente/
+  [108/sem limite] fila=607 | depth=1 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/50/infraestrutura/
+  [109/sem limite] fila=606 | depth=1 | https://www.arapoti.pr.gov.br/noticia/6016/escola-recebe-programa-feira-verde
+  [110/sem limite] fila=605 | depth=1 | https://www.arapoti.pr.gov.br/noticia/5999/junho-verde-mobiliza-escolas-por-sust
+  [111/sem limite] fila=605 | depth=1 | https://www.arapoti.pr.gov.br/noticia/5995/defesa-civil-intensifica-acoes-preven
+  [112/sem limite] fila=610 | depth=1 | https://www.arapoti.pr.gov.br/noticia/5992/meio-ambiente-mobiliza-escolas
+  [113/sem limite] fila=616 | depth=1 | https://www.arapoti.pr.gov.br/noticia/5983/semana-do-agronegocio
+  [114/sem limite] fila=616 | depth=1 | https://www.arapoti.pr.gov.br/webmail/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/webmail/
+  [115/sem limite] fila=615 | depth=1 | https://www.arapoti.pr.gov.br/fale-conosco/
+  [116/sem limite] fila=614 | depth=1 | https://www.arapoti.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+  [117/sem limite] fila=613 | depth=1 | https://www.arapoti.pr.gov.br/politicas-de-cookies/
+  [118/sem limite] fila=612 | depth=1 | https://www.arapoti.pr.gov.br/lgpd/
+  [119/sem limite] fila=612 | depth=2 | https://www.arapoti.pr.gov.br/carta-servico/categoria/
+  [120/sem limite] fila=611 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/24/processo-seletivo/
+  [121/sem limite] fila=623 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/25/concurso/
+  [122/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/28/processo-de-escolha-do-conse
+  [123/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/29/edital-de-chamamento-publico
+  [124/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/30/edital-de-chamamento-publico
+  [125/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/31/edital-de-chamamento-publico
+  [126/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/32/edital-de-chamamento-publico
+  [127/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/33/edital-de-chamamento-publico
+  [128/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/concurso/categoria/35/edital-de-chamamento-publico
+  [129/sem limite] fila=625 | depth=2 | https://www.arapoti.pr.gov.br/ouvidoria/chamado-anonimo/
+  [130/sem limite] fila=624 | depth=2 | https://www.arapoti.pr.gov.br/ouvidoria/change-email/
+  [131/sem limite] fila=623 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao/change-email/
+  [132/sem limite] fila=622 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [133/sem limite] fila=621 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [134/sem limite] fila=620 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [135/sem limite] fila=619 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [136/sem limite] fila=618 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [137/sem limite] fila=617 | depth=2 | https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-download/form
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/sic-servico-de-informacao-ao-cidadao-dow
+  [138/sem limite] fila=616 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/5/decretos-municipais/
+  [139/sem limite] fila=625 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/7/leis-ordinarias/
+  [140/sem limite] fila=631 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/9/portarias/
+  [141/sem limite] fila=639 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/14/lei-do-plano-plurianual-pp
+  [142/sem limite] fila=641 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/15/lei-de-diretrizes-orcament
+  [143/sem limite] fila=647 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/16/lei-orcamento-anual-loa/
+  [144/sem limite] fila=653 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/17/anteprojeto-de-lei-ordinar
+  [145/sem limite] fila=654 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/18/anteprojeto-de-lei-complem
+  [146/sem limite] fila=655 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/19/plano-diretor-20062016/
+  [147/sem limite] fila=656 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/categoria/20/legislacao-tributaria-muni
+  [148/sem limite] fila=677 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5128/pconvenio-para-utilizacao-
+  [149/sem limite] fila=676 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5127/pestabelece-normas-e-fixa-
+  [150/sem limite] fila=675 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5126/ppromove-a-consolidacao-da
+  [151/sem limite] fila=674 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5125/paprova-o-paf-plano-anual-
+  [152/sem limite] fila=673 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5121/pestabelece-o-valor-do-cub
+  [153/sem limite] fila=672 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5120/pestabelece-o-valor-da-ufm
+  [154/sem limite] fila=671 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5122/pdispoe-sobre-a-nomeacao-d
+  [155/sem limite] fila=672 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5123/preajusta-o-valor-da-contr
+  [156/sem limite] fila=673 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5124/pfixa-os-valores-da-presta
+  [157/sem limite] fila=674 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5119/pdispoe-sobre-o-programa-d
+  [158/sem limite] fila=675 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5118/pdispoe-sobre-a-regulament
+  [159/sem limite] fila=676 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5117/pconvenio-que-entre-si-cel
+  [160/sem limite] fila=677 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5116/pinstitui-o-programa-de-re
+  [161/sem limite] fila=678 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5115/pinstitui-a-nota-fiscal-de
+  [162/sem limite] fila=679 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5113/pestabelece-normas-e-fixa-
+  [163/sem limite] fila=680 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5112/ppromove-a-consolidacao-da
+  [164/sem limite] fila=681 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5111/paprova-o-paf-2025-plano-a
+  [165/sem limite] fila=682 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5110/paltera-a-tabela-de-precos
+  [166/sem limite] fila=683 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5109/pspan-stylecolorhsl0-0-0in
+  [167/sem limite] fila=684 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/detalhe/5105/pestabelece-o-valor-do-cub
+  [168/sem limite] fila=685 | depth=2 | https://www.arapoti.pr.gov.br/guia-da-cidade/cadastro-empresa/
+  [169/sem limite] fila=684 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/36/dia-mundial-da-agua/
+  [170/sem limite] fila=684 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/35/stand-up-babu-carreira-2-mu
+  [171/sem limite] fila=685 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/34/12-conferencia-municipal-de
+  [172/sem limite] fila=685 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/33/palestras-mulheres-em-trans
+  [173/sem limite] fila=687 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/page/2
+  [174/sem limite] fila=699 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/page/3
+  [175/sem limite] fila=703 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/48/educacao-cultur
+  [176/sem limite] fila=703 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/47/desenvolvimento
+  [177/sem limite] fila=704 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/46/assistencia-soc
+  [178/sem limite] fila=704 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/45/administracao/
+  [179/sem limite] fila=704 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/44/fazenda/
+  [180/sem limite] fila=703 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/43/agricultura/
+  [181/sem limite] fila=702 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/detalhe-departamento/42/gabinete-do-pre
+  [182/sem limite] fila=701 | depth=2 | https://www.arapoti.pr.gov.br/estrutura/estrutura-album/page/1/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/estrutura/estrutura-album/page/1/
+  [183/sem limite] fila=700 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/1/
+  [184/sem limite] fila=702 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/2/
+  [185/sem limite] fila=704 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/3/
+  [186/sem limite] fila=705 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/5/
+  [187/sem limite] fila=707 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/7/
+  [188/sem limite] fila=708 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/9/
+  [189/sem limite] fila=708 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/10/
+  [190/sem limite] fila=708 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/12/
+  [191/sem limite] fila=708 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/13/
+  [192/sem limite] fila=709 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/8/
+  [193/sem limite] fila=709 | depth=2 | https://www.arapoti.pr.gov.br/comissao/comissao/gerencia/11/
+  [194/sem limite] fila=710 | depth=2 | https://www.arapoti.pr.gov.br/audiencia-publica/detalhe/1/
+  [195/sem limite] fila=709 | depth=2 | https://www.arapoti.pr.gov.br/audiencia-publica/detalhe/2/
+  [196/sem limite] fila=708 | depth=2 | https://www.arapoti.pr.gov.br/contratacao/change-email/
+  [197/sem limite] fila=707 | depth=2 | https://www.arapoti.pr.gov.br/pagina/17/servico-de-inspecao-municipal/download/4
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/17/servico-de-inspecao-municipal/
+  [198/sem limite] fila=706 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/25/administracao/
+  [199/sem limite] fila=719 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/34/agricultura/
+  [200/sem limite] fila=732 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/29/apae/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_links.xlsx
+  47 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_externos.xlsx
+  64 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=734 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/15/assistencia-social/
+  [202/sem limite] fila=741 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/8/assuntos-juridicos/
+  [203/sem limite] fila=748 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/5/cultura/
+  [204/sem limite] fila=762 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/16/desenvolvimento-economico/
+  [205/sem limite] fila=776 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/26/desenvolvimento-urbano/
+  [206/sem limite] fila=780 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/7/educacao/
+  [207/sem limite] fila=787 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/24/esportes-e-recreacao/
+  [208/sem limite] fila=801 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/35/fazenda/
+  [209/sem limite] fila=809 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/9/fundo-social-de-solidariedade/
+  [210/sem limite] fila=821 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/33/gabinete-/
+  [211/sem limite] fila=829 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/11/meio-ambiente-e-agricultura/
+  [212/sem limite] fila=837 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/6/obras/
+  [213/sem limite] fila=851 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/28/pacaa/
+  [214/sem limite] fila=851 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/17/planejamento-e-financas/
+  [215/sem limite] fila=855 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/14/saude/
+  [216/sem limite] fila=860 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/20/servicos-urbanos/
+  [217/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6010/centro-de-especialidades-inicia-grupo
+  [218/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6009/programa-bons-olhos-entra-na-segunda-
+  [219/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6008/arapoti-garante-cessao-de-trechos-fer
+  [220/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6007/festas-juninas-reunem-familias-nas-es
+  [221/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6006/arapoti-realiza-conferencia-municipal
+  [222/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6005/escola-municipal-promove-projeto-de-s
+  [223/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/page/2
+  [224/sem limite] fila=862 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/page/3
+  [225/sem limite] fila=862 | depth=2 | https://www.arapoti.pr.gov.br/noticia/categoria/page/237
+  [226/sem limite] fila=872 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/
+  [227/sem limite] fila=871 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/12/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [228/sem limite] fila=870 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/11/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [229/sem limite] fila=869 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/10/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [230/sem limite] fila=868 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/9/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [231/sem limite] fila=867 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/1/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [232/sem limite] fila=866 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/8/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [233/sem limite] fila=865 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/6/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [234/sem limite] fila=864 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/4/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [235/sem limite] fila=863 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina/3/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/21/fazenda/56/download-sub-pagina
+  [236/sem limite] fila=862 | depth=2 | https://www.cmarapoti.pr.gov.br/proposicoes/Decretos-Legislativos/2025/1/0/24226
+  📄 [200] .pdf -> https://www.cmarapoti.pr.gov.br/assinatura/assinado/2025/11/2511181446
+  [237/sem limite] fila=886 | depth=2 | https://www.cmarapoti.pr.gov.br/proposicoes/Decretos-Legislativos/2025/1/0/24253
+  📄 [200] .pdf -> https://www.cmarapoti.pr.gov.br/assinatura/assinado/2025/11/2511251442
+  [238/sem limite] fila=889 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/73/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/73
+  [239/sem limite] fila=888 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/69/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/69
+  [240/sem limite] fila=887 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/26/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/26
+  [241/sem limite] fila=886 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/32/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/32
+  [242/sem limite] fila=885 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/30/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/30
+  [243/sem limite] fila=884 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/21/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/21
+  [244/sem limite] fila=883 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/71/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/71
+  [245/sem limite] fila=882 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/68/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/68
+  [246/sem limite] fila=881 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/67/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/67
+  [247/sem limite] fila=880 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/66/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/66
+  [248/sem limite] fila=879 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/64/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/64
+  [249/sem limite] fila=878 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/63/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/63
+  [250/sem limite] fila=877 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/62/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/62
+  [251/sem limite] fila=876 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/61/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/61
+  [252/sem limite] fila=875 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/60/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/60
+  [253/sem limite] fila=874 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/59/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/59
+  [254/sem limite] fila=873 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/34/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/34
+  [255/sem limite] fila=872 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/33/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/33
+  [256/sem limite] fila=871 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/27/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/27
+  [257/sem limite] fila=870 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/25/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/25
+  [258/sem limite] fila=869 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/13/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/13
+  [259/sem limite] fila=868 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/12/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/12
+  [260/sem limite] fila=867 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/11/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/11
+  [261/sem limite] fila=866 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/10/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/10
+  [262/sem limite] fila=865 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/9/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/9/
+  [263/sem limite] fila=864 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/100/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/10
+  [264/sem limite] fila=863 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/99/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/99
+  [265/sem limite] fila=862 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/70/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/70
+  [266/sem limite] fila=861 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/65/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/65
+  [267/sem limite] fila=860 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/31/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/31
+  [268/sem limite] fila=859 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/28/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/28
+  [269/sem limite] fila=858 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/8/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/8/
+  [270/sem limite] fila=857 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/7/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/7/
+  [271/sem limite] fila=856 | depth=2 | https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/5/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/12/assistencia-social/download/5/
+  [272/sem limite] fila=855 | depth=2 | https://www.arapoti.pr.gov.br/pagina/22/defesa-civil/download/72/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/22/defesa-civil/download/72/
+  [273/sem limite] fila=854 | depth=2 | https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-lazer/downloa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-laz
+  [274/sem limite] fila=853 | depth=2 | https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-lazer/downloa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-laz
+  [275/sem limite] fila=852 | depth=2 | https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-lazer/downloa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/16/educacao-cultura-esporte-e-laz
+  [276/sem limite] fila=851 | depth=2 | https://www.arapoti.pr.gov.br/pagina/25/vigilancia-sanitaria/sub-pagina/57/
+  [277/sem limite] fila=851 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/sub-pagina/55/
+  [278/sem limite] fila=850 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/sub-pagina/54/
+  [279/sem limite] fila=849 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/sub-pagina/53/
+  [280/sem limite] fila=848 | depth=2 | https://www.arapoti.pr.gov.br/pagina/21/fazenda/sub-pagina/52/
+  [281/sem limite] fila=847 | depth=2 | https://www.cmarapoti.pr.gov.br/proposicoes/pesquisa/0/1/0/2722
+  [282/sem limite] fila=850 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/93/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/93/
+  [283/sem limite] fila=849 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/92/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/92/
+  [284/sem limite] fila=848 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/91/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/91/
+  [285/sem limite] fila=847 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/89/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/89/
+  [286/sem limite] fila=846 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/82/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/82/
+  [287/sem limite] fila=845 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/81/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/81/
+  [288/sem limite] fila=844 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/76/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/76/
+  [289/sem limite] fila=843 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/75/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/75/
+  [290/sem limite] fila=842 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/74/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/74/
+  [291/sem limite] fila=841 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/78/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/78/
+  [292/sem limite] fila=840 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/77/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/77/
+  [293/sem limite] fila=839 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/101/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/101/
+  [294/sem limite] fila=838 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/95/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/95/
+  [295/sem limite] fila=837 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/88/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/88/
+  [296/sem limite] fila=836 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/87/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/87/
+  [297/sem limite] fila=835 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/86/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/86/
+  [298/sem limite] fila=834 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/44/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/44/
+  [299/sem limite] fila=833 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/43/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/43/
+  [300/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/40/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/40/
+  [301/sem limite] fila=831 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/39/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/39/
+  [302/sem limite] fila=830 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/38/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/38/
+  [303/sem limite] fila=829 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/36/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/36/
+  [304/sem limite] fila=828 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/35/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/35/
+  [305/sem limite] fila=827 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/98/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/98/
+  [306/sem limite] fila=826 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/97/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/97/
+  [307/sem limite] fila=825 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/96/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/96/
+  [308/sem limite] fila=824 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/85/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/85/
+  [309/sem limite] fila=823 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/84/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/84/
+  [310/sem limite] fila=822 | depth=2 | https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/83/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/pagina/13/controle-interno/download/83/
+  [311/sem limite] fila=821 | depth=2 | https://www.arapoti.pr.gov.br/itr/download/5/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/itr/download/5/
+  [312/sem limite] fila=820 | depth=2 | https://www.arapoti.pr.gov.br/itr/download/4/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/itr/download/4/
+  [313/sem limite] fila=819 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/3/
+  [314/sem limite] fila=824 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/5/
+  [315/sem limite] fila=826 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/6/
+  [316/sem limite] fila=828 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/1/
+  [317/sem limite] fila=829 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/4/
+  [318/sem limite] fila=831 | depth=2 | https://www.arapoti.pr.gov.br/terceiro-setor/entidade/gerencia/2/
+  [319/sem limite] fila=834 | depth=2 | https://www.arapoti.pr.gov.br/meio-ambiente/
+  [320/sem limite] fila=833 | depth=2 | https://www.arapoti.pr.gov.br/poda-arvore/formulario/1/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/poda-arvore/formulario/1/
+  [321/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5991/gestar-bem-reforca-cuidados-maternos/
+  [322/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5987/enfermeiras-levam-alerta-contra-o-tab
+  [323/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5989/projeto-gestar-bem-realiza-novo-encon
+  [324/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5985/arapoti-participa-de-seminario-sobre-
+  [325/sem limite] fila=832 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5977/arapoti-atinge-100-das-metas-do-provi
+  [326/sem limite] fila=832 | depth=2 | https://diario.arapoti.pr.gov.br/site
+  [327/sem limite] fila=831 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial
+  [328/sem limite] fila=866 | depth=2 | https://diario.arapoti.pr.gov.br/documentos
+ ❌ HTTP_404: https://diario.arapoti.pr.gov.br/documentos
+  🤖 Usando Selenium para: https://diario.arapoti.pr.gov.br/documentos
+  [329/sem limite] fila=865 | depth=2 | https://diario.arapoti.pr.gov.br/pagina/view/31
+  [330/sem limite] fila=864 | depth=2 | https://diario.arapoti.pr.gov.br/feriados
+  [331/sem limite] fila=863 | depth=2 | https://diario.arapoti.pr.gov.br/pagina/view/23
+ ❌ HTTP_404: https://diario.arapoti.pr.gov.br/pagina/view/23
+  🤖 Usando Selenium para: https://diario.arapoti.pr.gov.br/pagina/view/23
+  [332/sem limite] fila=862 | depth=2 | https://diario.arapoti.pr.gov.br/site/mapa-site
+  [333/sem limite] fila=861 | depth=2 | https://diario.arapoti.pr.gov.br/busca
+  [334/sem limite] fila=860 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20747
+  [335/sem limite] fila=875 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45785
+  [336/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45797
+  [337/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45853
+  [338/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45902
+  [339/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45903
+  [340/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45904
+  [341/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45906
+  [342/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45907
+  [343/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45908
+  [344/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45910
+  [345/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/documento/view/45911
+  [346/sem limite] fila=876 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20732
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47315/roQp35GaM3Q8fUH
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47313/B5LqrM24WKwbGlP
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47311/IYxJRN8TubppIk_
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47302/DCEBYTSgUZoaQTQ
+  [347/sem limite] fila=879 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20701
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47262/AykaQjtfmZlNo13
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47250/-hWYe4_gHhEHuNV
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47198/BiR47AaDNh_LH3M
+  [348/sem limite] fila=887 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20688
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47140/ZfR0KEclt_4rifI
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47113/_CLBfJe8ZSwN5qv
+  [349/sem limite] fila=888 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20670
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47090/Ghfl25pCsVYla-s
+  [350/sem limite] fila=887 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20642
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47042/P_7s5IOzOPxLD-w
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47029/Eas4vLUFO7LcnfJ
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47028/uH3-tXjB3zRvoBi
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47027/6mQtNiuE_L2aABL
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/47026/kOj70vjW5dbyXfU
+  [351/sem limite] fila=895 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20626
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/46989/TkIeB-tghCxoO_V
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/46988/suKpRYBpJsd88-V
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/46985/sliikttduOc0HCo
+  [352/sem limite] fila=901 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20610
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45210/LmpCPXmNtKFMiAt
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45193/d7M2LAEiJ64apkO
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45192/iyoo5rpFXyFNnoK
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45194/hEJR5wcwhkSx9H0
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45195/HdUmgjK-ijqO3zd
+  📄 [200] .pdf -> https://diario.arapoti.pr.gov.br/uploads/caderno/45197/SNBeANej05QKjAm
+  [353/sem limite] fila=912 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/view/20598
+  [354/sem limite] fila=911 | depth=2 | https://diario.arapoti.pr.gov.br/diario-oficial/index
+  [355/sem limite] fila=910 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [356/sem limite] fila=912 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [357/sem limite] fila=925 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [358/sem limite] fila=949 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [359/sem limite] fila=959 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [360/sem limite] fila=978 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [361/sem limite] fila=990 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [362/sem limite] fila=1002 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [363/sem limite] fila=1007 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [364/sem limite] fila=1011 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [365/sem limite] fila=1013 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [366/sem limite] fila=1013 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [367/sem limite] fila=1013 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [368/sem limite] fila=1013 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [369/sem limite] fila=1012 | depth=2 | https://diario.arapoti.pr.gov.br/documento?DocumentoSearch%5Bid_documento_catego
+  [370/sem limite] fila=1012 | depth=2 | https://www.arapoti.pr.gov.br/meio-ambiente/download/1/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/meio-ambiente/download/1/
+  [371/sem limite] fila=1011 | depth=2 | https://www.arapoti.pr.gov.br/meio-ambiente/download/2/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/meio-ambiente/download/2/
+  [372/sem limite] fila=1010 | depth=2 | https://www.arapoti.pr.gov.br/meio-ambiente/download/3/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/meio-ambiente/download/3/
+  [373/sem limite] fila=1009 | depth=2 | https://www.arapoti.pr.gov.br/portal-educacao/escola/
+  [374/sem limite] fila=1048 | depth=2 | https://www.arapoti.pr.gov.br/portal-educacao/menu-secretaria/
+  [375/sem limite] fila=1051 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/7/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/EDI
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/emi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Doc
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/exa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/edi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PEX
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/g3N
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/qEb
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/pk1
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/O1V
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/BNF
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/DWR
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/S59
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/8Ge
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/q2A
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/RKZ
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/M3S
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ikp
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/4qE
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/mnj
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/JrO
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/kLg
+  📄 [200] .docx -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/JfL
+  📄 [200] .docx -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/fTU
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/IUy
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Gmk
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/7E2
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/S1H
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/qgw
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/2ko
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/MHG
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/XHt
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/h75
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/FlZ
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/7d7
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/SHp
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/W8J
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/P92
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Buq
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/IUT
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/6pL
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PU8
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/5dF
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/jLj
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/d5x
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/u2y
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/0Qq
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/GX2
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/tF5
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/qH0
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Y3D
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/rmw
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/r9T
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/LZa
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Oyk
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/lyh
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/VRp
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/8Mx
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/K7i
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/WO7
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/VDP
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/EzF
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/CUr
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/U8p
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ffE
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/4zR
+  [376/sem limite] fila=1051 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/5/
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/RL8
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PFi
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/dto
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/9uc
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/iVD
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Asr
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/nE4
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/S4f
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/bGu
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/yct
+  📄 [200] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/oQN
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/A7R
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/pck
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/5Ac
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Bb9
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/wVe
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/T8s
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/xJ0
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/MSt
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/pIg
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/c3z
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/8kM
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/mGw
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/6Fu
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/LUI
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/KwK
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Jss
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Rxj
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/oTE
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/YYG
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/XSq
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/DIU
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/XWs
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/K3z
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ONe
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/mYG
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ZhO
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Mkz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/GDu
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/SR2
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/g63
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/W9y
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/14F
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/pBd
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/iqC
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Th0
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/KPz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Ve7
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/iIK
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/lEZ
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/FAX
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/jGQ
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/rta
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/lyb
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/DW8
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/P6u
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/t6D
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/5gT
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/3El
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/790
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/6gE
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/sEX
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Oob
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Xw4
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/GNC
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/nxy
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/WF9
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/upR
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/lUx
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/UM6
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/mYd
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/dwp
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/UJj
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/yaF
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/fMz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/cGd
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/YNa
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/53L
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/mDk
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Hf2
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/MYz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Umz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/OUx
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/luG
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/FYt
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/le1
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/V3V
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ocy
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/3Lq
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/9Hm
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/uW5
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Oql
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/jJf
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/QJP
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/dFz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/KXO
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/xjD
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/OjB
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/D9s
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Gc7
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/sao
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Wh2
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Cx5
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/hpd
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/zCB
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/66Q
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Rkj
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/JOA
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/jj5
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/gY4
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/bnI
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/DOV
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/k8e
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/tSG
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/oKO
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/wOu
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/urz
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/sUQ
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/fcC
+  ⚠️ [0] .docx -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/iwU
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/8Pi
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Q11
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/0NF
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/gmi
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/AaY
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/uNB
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/1J3
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/3br
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/3R8
+  ⚠️ [0] .docx -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/utn
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/NRP
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/eu6
+  ⚠️ [0] .doc -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/V6T
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/AXM
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/spX
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/q4C
+  ⚠️ [0] .zip -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/AzK
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Lcs
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/oJE
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/fC8
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/H5Z
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/eRY
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/JK4
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/cKH
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/PcU
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/jBG
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/g24
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Dqw
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/Vzq
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/s45
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/a2w
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/On0
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/ky2
+  ⚠️ [0] .pdf -> https://www.arapoti.pr.gov.br/public/admin/globalarq/uploads/files/zVy
+  [377/sem limite] fila=1050 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/4/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/4/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/4/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/4/
+  [378/sem limite] fila=1049 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/3/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/3/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/3/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/3/
+  [379/sem limite] fila=1048 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/2/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/2/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/2/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/2/
+  [380/sem limite] fila=1047 | depth=2 | https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/1/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/5/concursos-anteriores-a-2022/sub-pagina/1/
+  [381/sem limite] fila=1046 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/8/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/8/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/8/
+  [382/sem limite] fila=1045 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/9/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/9/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/9/
+  [383/sem limite] fila=1044 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/19/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/19/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/19/
+  [384/sem limite] fila=1043 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/20/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/20/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/20/
+  [385/sem limite] fila=1042 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/21/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/21/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/21/
+  [386/sem limite] fila=1041 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/22/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/22/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/22/
+  [387/sem limite] fila=1040 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/23/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/23/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/23/
+  [388/sem limite] fila=1039 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/24/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/24/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/24/
+  [389/sem limite] fila=1038 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/25/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/25/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/25/
+  [390/sem limite] fila=1037 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/26/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/26/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/26/
+  [391/sem limite] fila=1036 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/27/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/27/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/27/
+  [392/sem limite] fila=1035 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/28/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/28/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/28/
+  [393/sem limite] fila=1034 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/29/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/29/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/29/
+  [394/sem limite] fila=1033 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/30/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/30/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/30/
+  [395/sem limite] fila=1032 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/31/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/31/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/31/
+  [396/sem limite] fila=1031 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/32/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/32/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/32/
+  [397/sem limite] fila=1030 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/33/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/33/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/33/
+  [398/sem limite] fila=1029 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/34/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/34/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/34/
+  [399/sem limite] fila=1028 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/35/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/35/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/35/
+  [400/sem limite] fila=1027 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/36/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/36/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/36/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_links.xlsx
+  408 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/erros_varredura.xlsx
+  52 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_externos.xlsx
+  169 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=1026 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/37/
+  [402/sem limite] fila=1025 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/38/
+  [403/sem limite] fila=1024 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/39/
+  [404/sem limite] fila=1023 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/40/
+  [405/sem limite] fila=1022 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/41/
+  [406/sem limite] fila=1021 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/42/
+  [407/sem limite] fila=1020 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/43/
+  [408/sem limite] fila=1019 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/44/
+  [409/sem limite] fila=1018 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/45/
+  [410/sem limite] fila=1017 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/46/
+  [411/sem limite] fila=1016 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/47/
+  [412/sem limite] fila=1015 | depth=2 | https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-p
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/6/processo-seletivo-anteriores-a-2022/sub-pagina/48/
+  [413/sem limite] fila=1014 | depth=2 | https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/licitacao/documento-auxiliar-download/1/
+  [414/sem limite] fila=1013 | depth=2 | https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processo
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/14/documentos-regulamentadores-dos-processos-licitatorios-2025/sub-pagina/50/
+  [415/sem limite] fila=1012 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128/
+  [416/sem limite] fila=1011 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5128
+  [417/sem limite] fila=1010 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+  [418/sem limite] fila=1009 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+  [419/sem limite] fila=1008 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
