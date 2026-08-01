@@ -1408,3 +1408,5 @@ Inventário parcial carregado: 408 arquivos já registrados.
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/924/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/924/
   [96 (+400)/sem limite] fila=931 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/926/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/926/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/926/

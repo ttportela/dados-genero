@@ -5869,3 +5869,27 @@ Redirecionamento externo ignorado: https://www.xambre.pr.gov.br/servico/view/1/p
   Você tem 60 segundos para resolver manualmente no navegador.
   (Se não resolver, o crawler pula esta URL e continua.)
 
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/103/dispensa-de-licitacao-n-0042019
+  [1362/sem limite] fila=4257 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/103/dispensa-de-licitacao-n-0042019
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5296/KWZpikL2BiWHNPMb8S
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5297/Wkdzai1bofPAVz6vf5
+  [1363/sem limite] fila=4259 | depth=3 | https://www.xambre.pr.gov.br/model/view/102/dispensa-de-licitacao-n-0032019
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/102/dispensa-de-licitacao-n-0032019
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/102/dispensa-de-licitacao-n-0032019
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/102/dispensa-de-licitacao-n-0032019
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/102/dispensa-de-licitacao-n-0032019
+  [1364/sem limite] fila=4258 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/102/dispensa-de-licitacao-n-0032019
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5294/N6CF4gZSfj1WQq2ruH
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5295/GhqWuRYdxpRXkNaN09
+  [1365/sem limite] fila=4260 | depth=3 | https://www.xambre.pr.gov.br/model/view/99/dispensa-de-licitacao-n-0022019
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/99/dispensa-de-licitacao-n-0022019
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/99/dispensa-de-licitacao-n-0022019
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/99/dispensa-de-licitacao-n-0022019
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
