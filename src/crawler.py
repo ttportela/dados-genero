@@ -435,6 +435,19 @@ class CrawlerUrbano:
 
             html = driver.page_source
 
+            # Verifica status HTTP via Performance API (Selenium não expõe status code)
+            try:
+                status_code = driver.execute_script(
+                    "var nav = performance.getEntriesByType('navigation');"
+                    "return nav.length > 0 ? nav[0].responseStatus : 0;"
+                )
+            except Exception:
+                status_code = 0
+
+            if status_code >= 400 and status_code != 403:
+                self._registrar_erro(url, f"HTTP_{status_code}", status_code)
+                return []
+
             # Detecta se a URL retornou um arquivo (não HTML) via Content-Type
             content_type = ""
             try:

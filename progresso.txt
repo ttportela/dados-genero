@@ -6,6 +6,7 @@ Problemas encontrados & Atividades:
 - Algumas cidades usam atende.net, e que o crawler não conseguia ler, alterado para usar selenium neses casos de páginas sem links carregados.
 - o crawler encontrou algus links que são de download automático, ele faz o download direto
 - Corrigi o crawler para melhor identificar links que não fazem parte do domínio, mas são similares, ex.: "araruna.pr.gov.br" e "cmararuna.pr.gov.br"
+- Corrigi o fallback via Selenium: não havia verificação de status 404. Se o HTML da página de erro contivesse algum fingerprint de captcha, disparava o teste manual de captcha pro usuário, mesmo em páginas 404. Agora qualquer status HTTP >= 400 (exceto 403, que pode ser bloqueio bypassável pelo Selenium) é registrado como erro e retorna [] — sem chegar à detecção de captcha. Isso resolve o caso do 500 e de outros erros que tinham fingerprints de captcha no HTML da página de erro.
 
 - [Lembrete] Considerar modificar a busca por portais da transparência para incluir os links encontrados e não apenas os que tenham sido encontrados no inventário de externos.
 - [Solução] Usar a busca de portais da transparência com ajuste manual para as cidades que não conseguiu aplicar o crawler (0 ou 1 páginas, e/ou 0 arquivos).

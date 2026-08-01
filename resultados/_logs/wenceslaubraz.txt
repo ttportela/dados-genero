@@ -2241,3 +2241,47 @@ Inventário parcial carregado: 10 arquivos já registrados.
  Pipeline encerrado. Resultados em: resultados/wenceslaubraz/
 ============================================================
 
+
+============================================================
+  TCC - Pipeline de Dados Publicos | WENCESLAUBRAZ
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 10 arquivos já registrados.
+  Links externos parciais carregados: 3018 links já registrados.
+
+============================================================
+  Crawler iniciado: WENCESLAUBRAZ
+  Páginas já visitadas (checkpoint): 2055
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_links.xlsx
+  10 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/wenceslaubraz/inventario_externos.xlsx
+  3018 links externos registrados.
+
+  Varredura encerrada: WENCESLAUBRAZ
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 2055
+  Arquivos no inventário: 10
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/wenceslaubraz/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Wenceslau Braz)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Wenceslau Braz (slug: wenceslaubraz)...   → buscando no DuckDuckGo (apenas inventário)... 

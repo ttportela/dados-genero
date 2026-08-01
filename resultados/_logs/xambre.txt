@@ -5893,3 +5893,544 @@ Redirecionamento externo ignorado: https://www.xambre.pr.gov.br/servico/view/1/p
   Você tem 60 segundos para resolver manualmente no navegador.
   (Se não resolver, o crawler pula esta URL e continua.)
 
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/99/dispensa-de-licitacao-n-0022019
+  [1366/sem limite] fila=4259 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/99/dispensa-de-licitacao-n-0022019
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5285/qhPPu_7Ek15XQ6nRBV
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5286/-CbtsPHemQ9oaUFxls
+  [1367/sem limite] fila=4261 | depth=3 | https://www.xambre.pr.gov.br/model/view/98/dispensa-de-licitacao-n-0012019
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/98/dispensa-de-licitacao-n-0012019
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/98/dispensa-de-licitacao-n-0012019
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/98/dispensa-de-licitacao-n-0012019
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/98/dispensa-de-licitacao-n-0012019
+  [1368/sem limite] fila=4260 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/98/dispensa-de-licitacao-n-0012019
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5282/ZowfayXpQ5y5cX92Rp
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5283/xLg6DDzXTDyQj7VWXZ
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5284/Ho_xBKub-dxExdSc-c
+  [1369/sem limite] fila=4262 | depth=3 | https://www.xambre.pr.gov.br/model/view/97/dispensa-de-licitacao-n-0122018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/97/dispensa-de-licitacao-n-0122018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/97/dispensa-de-licitacao-n-0122018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/97/dispensa-de-licitacao-n-0122018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/97/dispensa-de-licitacao-n-0122018
+  [1370/sem limite] fila=4261 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/97/dispensa-de-licitacao-n-0122018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5281/l99OcKzxUrw4zk6pS-
+  [1371/sem limite] fila=4263 | depth=3 | https://www.xambre.pr.gov.br/model/view/96/dispensa-de-licitacao-n-0112018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/96/dispensa-de-licitacao-n-0112018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/96/dispensa-de-licitacao-n-0112018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/96/dispensa-de-licitacao-n-0112018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/96/dispensa-de-licitacao-n-0112018
+  [1372/sem limite] fila=4262 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/96/dispensa-de-licitacao-n-0112018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5279/mJqSgunHyksol6NV_g
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5280/fKWOrP7tYxy4eDgRyC
+  [1373/sem limite] fila=4264 | depth=3 | https://www.xambre.pr.gov.br/model/view/95/dispensa-de-licitacao-n-0102018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/95/dispensa-de-licitacao-n-0102018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/95/dispensa-de-licitacao-n-0102018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/95/dispensa-de-licitacao-n-0102018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/95/dispensa-de-licitacao-n-0102018
+  [1374/sem limite] fila=4263 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/95/dispensa-de-licitacao-n-0102018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5277/JpiTa8EZh7Nb7c9Stc
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5278/BMeA0-VIl8Rkr0vzox
+  [1375/sem limite] fila=4265 | depth=3 | https://www.xambre.pr.gov.br/model/view/94/dispensa-de-licitacao-n-0092018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/94/dispensa-de-licitacao-n-0092018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/94/dispensa-de-licitacao-n-0092018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/94/dispensa-de-licitacao-n-0092018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/94/dispensa-de-licitacao-n-0092018
+  [1376/sem limite] fila=4264 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/94/dispensa-de-licitacao-n-0092018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5275/xHwjD1Qksp_U5geqlr
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5276/AScIi9xLjqXL_Fz3G0
+  [1377/sem limite] fila=4266 | depth=3 | https://www.xambre.pr.gov.br/model/view/93/dispensa-de-licitacao-n-0082018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/93/dispensa-de-licitacao-n-0082018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/93/dispensa-de-licitacao-n-0082018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/93/dispensa-de-licitacao-n-0082018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.xambre.pr.gov.br/model/view/93/dispensa-de-licitacao-n-0082018
+  [1378/sem limite] fila=4265 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/93/dispensa-de-licitacao-n-0082018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5273/PFmjIyeJpUvbieV-Om
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5274/16Gt6yRKmeFMDnMvWg
+  [1379/sem limite] fila=4267 | depth=3 | https://www.xambre.pr.gov.br/model/view/92/dispensa-de-licitacao-n-0072018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/92/dispensa-de-licitacao-n-0072018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/92/dispensa-de-licitacao-n-0072018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/92/dispensa-de-licitacao-n-0072018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/92/dispensa-de-licitacao-n-0072018
+  [1380/sem limite] fila=4266 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/92/dispensa-de-licitacao-n-0072018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5271/tisLQF_2R3MziLPXtu
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5272/xRIYv4wfntfoJdI4Eb
+  [1381/sem limite] fila=4268 | depth=3 | https://www.xambre.pr.gov.br/model/view/91/dispensa-de-licitacao-n-0062018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/91/dispensa-de-licitacao-n-0062018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/91/dispensa-de-licitacao-n-0062018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/91/dispensa-de-licitacao-n-0062018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/91/dispensa-de-licitacao-n-0062018
+  [1382/sem limite] fila=4267 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/91/dispensa-de-licitacao-n-0062018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5269/YYcyPZQ-BqMyZAmGaJ
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5270/HIEgM8hrNLgLwpRnx6
+  [1383/sem limite] fila=4269 | depth=3 | https://www.xambre.pr.gov.br/model/view/90/dispensa-de-licitacao-n-0052018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/90/dispensa-de-licitacao-n-0052018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/90/dispensa-de-licitacao-n-0052018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/90/dispensa-de-licitacao-n-0052018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/90/dispensa-de-licitacao-n-0052018
+  [1384/sem limite] fila=4268 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/90/dispensa-de-licitacao-n-0052018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5267/La2YpJbiDo7-dNjbqh
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5268/LlJg77BVjQazJrPB_5
+  [1385/sem limite] fila=4270 | depth=3 | https://www.xambre.pr.gov.br/model/view/89/dispensa-de-licitacao-n-0042018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/89/dispensa-de-licitacao-n-0042018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/89/dispensa-de-licitacao-n-0042018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/89/dispensa-de-licitacao-n-0042018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/89/dispensa-de-licitacao-n-0042018
+  [1386/sem limite] fila=4269 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/89/dispensa-de-licitacao-n-0042018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5265/PxL2QV1ENOnzP0u3zZ
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5266/IzK0wtFzvkr6NyMW-A
+  [1387/sem limite] fila=4271 | depth=3 | https://www.xambre.pr.gov.br/model/view/87/dispensa-de-licitacao-n-0032018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/87/dispensa-de-licitacao-n-0032018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/87/dispensa-de-licitacao-n-0032018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/87/dispensa-de-licitacao-n-0032018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/87/dispensa-de-licitacao-n-0032018
+  [1388/sem limite] fila=4270 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/87/dispensa-de-licitacao-n-0032018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5261/IzJw5erqp8jySLBj5P
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5262/m-IezaRAnQho03uF5N
+  [1389/sem limite] fila=4272 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1390/sem limite] fila=4271 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1391/sem limite] fila=4270 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1392/sem limite] fila=4269 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1393/sem limite] fila=4268 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1394/sem limite] fila=4267 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1395/sem limite] fila=4266 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1396/sem limite] fila=4265 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1397/sem limite] fila=4264 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1398/sem limite] fila=4263 | depth=3 | https://www.xambre.pr.gov.br/model/view/88/dispensa-de-licitacao-n-0022018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/88/dispensa-de-licitacao-n-0022018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/88/dispensa-de-licitacao-n-0022018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/88/dispensa-de-licitacao-n-0022018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/88/dispensa-de-licitacao-n-0022018
+  [1399/sem limite] fila=4262 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/88/dispensa-de-licitacao-n-0022018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5263/2wFCindzCVY_HnFijO
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5264/Rd3hABfPYsIvkPEvDH
+  [1400/sem limite] fila=4264 | depth=3 | https://www.xambre.pr.gov.br/model/view/86/dispensa-de-licitacao-n-0012018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/86/dispensa-de-licitacao-n-0012018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/86/dispensa-de-licitacao-n-0012018
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/model/view/86/dispensa-de-licitacao-n-0012018
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/model/view/86/dispensa-de-licitacao-n-0012018
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_links.xlsx
+  2132 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/erros_varredura.xlsx
+  593 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_externos.xlsx
+  2181 links externos registrados.
+  Checkpoint salvo (1400 páginas totais | 1400 nesta sessão).
+  [1401/sem limite] fila=4263 | depth=3 | https://www.xambre.pr.gov.br/licitacao/view/86/dispensa-de-licitacao-n-0012018
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5259/ZwTi6VJElF3gm2RomG
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/5260/2tol0CPOxFm0QBpvKq
+  [1402/sem limite] fila=4265 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1403/sem limite] fila=4264 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1404/sem limite] fila=4263 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1405/sem limite] fila=4262 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1406/sem limite] fila=4261 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1407/sem limite] fila=4260 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1408/sem limite] fila=4259 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1409/sem limite] fila=4258 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1410/sem limite] fila=4257 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1411/sem limite] fila=4256 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1412/sem limite] fila=4255 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1413/sem limite] fila=4254 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1414/sem limite] fila=4253 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1415/sem limite] fila=4252 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1416/sem limite] fila=4251 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1417/sem limite] fila=4250 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1418/sem limite] fila=4249 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1419/sem limite] fila=4248 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [1420/sem limite] fila=4247 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=791
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=791
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=791
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=791
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=791
+  [1421/sem limite] fila=4246 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=791
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=791
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=791
+  [1422/sem limite] fila=4245 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=791
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=791
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=791
+  [1423/sem limite] fila=4244 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=790
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=790
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=790
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=790
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=790
+  [1424/sem limite] fila=4243 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=790
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=790
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=790
+  [1425/sem limite] fila=4242 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=790
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=790
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=790
+  [1426/sem limite] fila=4241 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=783
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=783
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=783
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=783
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=783
+  [1427/sem limite] fila=4240 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=783
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=783
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=783
+  [1428/sem limite] fila=4239 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=783
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=783
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=783
+  [1429/sem limite] fila=4238 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=789
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=789
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=789
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=789
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=789
+  [1430/sem limite] fila=4237 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=789
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=789
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=789
+  [1431/sem limite] fila=4236 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=789
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=789
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=789
+  [1432/sem limite] fila=4235 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=787
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=787
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=787
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=787
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | XAMBRE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 2142 arquivos já registrados.
+  Links externos parciais carregados: 2181 links já registrados.
+  Log de erros parcial carregado: 593 erros já registrados.
+
+============================================================
+  Crawler iniciado: XAMBRE
+  Páginas já visitadas (checkpoint): 1432
+  URLs na fila: 4235
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1432)/sem limite] fila=4234 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=787
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=787
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=787
+  [2 (+1432)/sem limite] fila=4233 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=787
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=787
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=787
+  [3 (+1432)/sem limite] fila=4232 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=777
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=777
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=777
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=777
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=777
+  [4 (+1432)/sem limite] fila=4231 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=777
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=777
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=777
+  [5 (+1432)/sem limite] fila=4230 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=777
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=777
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=777
+  [6 (+1432)/sem limite] fila=4229 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=760
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=760
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=760
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=760
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=760
+  [7 (+1432)/sem limite] fila=4228 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=760
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=760
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=760
+  [8 (+1432)/sem limite] fila=4227 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=760
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=760
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=760
+  [9 (+1432)/sem limite] fila=4226 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=743
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=743
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=743
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=743
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=743
+  [10 (+1432)/sem limite] fila=4225 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=743
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=743
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=743
+  [11 (+1432)/sem limite] fila=4224 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=743
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=743
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=743
+  [12 (+1432)/sem limite] fila=4223 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=733
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=733
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=733
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=733
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=733
+  [13 (+1432)/sem limite] fila=4222 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=733
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=733
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=733
+  [14 (+1432)/sem limite] fila=4221 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=733
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=733
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=733
+  [15 (+1432)/sem limite] fila=4220 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=558
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=558
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=558
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Xambrê)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Xambrê (slug: xambre)...   → buscando no DuckDuckGo (apenas inventário)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | XAMBRE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 2152 arquivos já registrados.
+  Links externos parciais carregados: 2181 links já registrados.
+  Log de erros parcial carregado: 593 erros já registrados.
+
+============================================================
+  Crawler iniciado: XAMBRE
+  Páginas já visitadas (checkpoint): 1447
+  URLs na fila: 4220
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1447)/sem limite] fila=4219 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=558
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=558
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=558
+  [2 (+1447)/sem limite] fila=4218 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=558
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=558
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=558
+  [3 (+1447)/sem limite] fila=4217 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=24
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=24
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=24
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=24
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=24
+  [4 (+1447)/sem limite] fila=4216 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=24
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=24
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=24
+  [5 (+1447)/sem limite] fila=4215 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=24
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=24
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=24
+  [6 (+1447)/sem limite] fila=4214 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=23
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=23
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=23
+
+ CAPTCHA detectado em: https://www.xambre.pr.gov.br/licitacao/impressao?id=23
+  Você tem 60 segundos para resolver manualmente no navegador.
+  (Se não resolver, o crawler pula esta URL e continua.)
+
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.xambre.pr.gov.br/licitacao/impressao?id=23
+  [7 (+1447)/sem limite] fila=4213 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=23
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=23
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=23
+  [8 (+1447)/sem limite] fila=4212 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=23
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Xambrê)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Xambrê (slug: xambre)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | XAMBRE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 2157 arquivos já registrados.
+  Links externos parciais carregados: 2181 links já registrados.
+  Log de erros parcial carregado: 593 erros já registrados.
+
+============================================================
+  Crawler iniciado: XAMBRE
+  Páginas já visitadas (checkpoint): 1455
+  URLs na fila: 4212
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1455)/sem limite] fila=4211 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=22
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=22
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=22
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=22
+  [2 (+1455)/sem limite] fila=4210 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=22
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=22
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=22
+  [3 (+1455)/sem limite] fila=4209 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=22
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=22
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=22
+  [4 (+1455)/sem limite] fila=4208 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=21
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=21
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=21
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=21
+  [5 (+1455)/sem limite] fila=4207 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=21
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=21
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=21
+  [6 (+1455)/sem limite] fila=4206 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=21
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=21
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=21
+  [7 (+1455)/sem limite] fila=4205 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=19
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=19
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=19
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=19
+  [8 (+1455)/sem limite] fila=4204 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=19
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=19
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=19
+  [9 (+1455)/sem limite] fila=4203 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=19
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=19
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=19
+  [10 (+1455)/sem limite] fila=4202 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=20
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=20
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=20
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=20
+  [11 (+1455)/sem limite] fila=4201 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=20
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=20
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=20
+  [12 (+1455)/sem limite] fila=4200 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=20
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=20
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=20
+  [13 (+1455)/sem limite] fila=4199 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=18
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=18
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=18
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=18
+  [14 (+1455)/sem limite] fila=4198 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=18
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=18
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=18
+  [15 (+1455)/sem limite] fila=4197 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=18
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=18
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=18
+  [16 (+1455)/sem limite] fila=4196 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=17
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=17
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=17
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=17
+  [17 (+1455)/sem limite] fila=4195 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=17
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=17
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=17
+  [18 (+1455)/sem limite] fila=4194 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=17
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=17
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=17
+  [19 (+1455)/sem limite] fila=4193 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=16
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=16
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=16
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=16
+  [20 (+1455)/sem limite] fila=4192 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=16
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=16
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=16
+  [21 (+1455)/sem limite] fila=4191 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=16
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=16
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=16
+  [22 (+1455)/sem limite] fila=4190 | depth=3 | https://www.xambre.pr.gov.br/licitacao/impressao?id=15
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=15
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=15
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=15
+  [23 (+1455)/sem limite] fila=4189 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=15
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=15
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=15
+  [24 (+1455)/sem limite] fila=4188 | depth=3 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=15
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=15
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=15
+  [25 (+1455)/sem limite] fila=4187 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [26 (+1455)/sem limite] fila=4186 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [27 (+1455)/sem limite] fila=4185 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [28 (+1455)/sem limite] fila=4184 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [29 (+1455)/sem limite] fila=4183 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [30 (+1455)/sem limite] fila=4182 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [31 (+1455)/sem limite] fila=4181 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [32 (+1455)/sem limite] fila=4180 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [33 (+1455)/sem limite] fila=4179 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [34 (+1455)/sem limite] fila=4178 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [35 (+1455)/sem limite] fila=4177 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [36 (+1455)/sem limite] fila=4176 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [37 (+1455)/sem limite] fila=4175 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [38 (+1455)/sem limite] fila=4174 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [39 (+1455)/sem limite] fila=4173 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [40 (+1455)/sem limite] fila=4172 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [41 (+1455)/sem limite] fila=4171 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [42 (+1455)/sem limite] fila=4170 | depth=3 | https://www.xambre.pr.gov.br/licitacao/index?LicitacaoSearch%5Bid_licitacao_cate
+  [43 (+1455)/sem limite] fila=4169 | depth=3 | https://www.xambre.pr.gov.br/model/view/14/concorrencia-publica-n-0012018
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/14/concorrencia-publica-n-0012018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/14/concorrencia-publica-n-0012018

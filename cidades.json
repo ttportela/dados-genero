@@ -3408,10 +3408,12 @@
   },
   "vitorino": {
     "sementes": [
-      "https://www.vitorino.pr.gov.br/"
+      "https://www.vitorino.pr.gov.br/",
+      "https://www.portalcr2.com.br/entidade/vitorino/"
     ],
     "dominios": [
       "vitorino.pr.gov.br",
+      "www.portalcr2.com.br",
       "www.vitorino.pr.gov.br"
     ]
   },

@@ -206,3 +206,484 @@ Checkpoint carregado — retomando varredura.
  Pipeline encerrado. Resultados em: resultados/vitorino/
 ============================================================
 
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 2 erros já registrados.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para vitorino.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 2
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Vitorino)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Vitorino (slug: vitorino)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/vitorino/index.cfm/
+              ✅ https://vitorino.pr.gov.br/
+              ✅ https://www.portalcr2.com.br/entidade/vitorino/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Log de erros parcial carregado: 2 erros já registrados.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 1 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.vitorino.pr.gov.br/
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/05/2ebd2f986c148730
+  [2/sem limite] fila=23 | depth=1 | https://www.vitorino.pr.gov.br/pagina-inicial
+  [3/sem limite] fila=22 | depth=1 | https://vitorino.pr.gov.br/category/noticias/
+  [4/sem limite] fila=30 | depth=1 | https://vitorino.pr.gov.br/o-municipio/
+  [5/sem limite] fila=32 | depth=1 | https://vitorino.pr.gov.br/o-municipio/historia/
+  [6/sem limite] fila=31 | depth=1 | https://vitorino.pr.gov.br/o-municipio/sobre-o-municipio/
+  [7/sem limite] fila=30 | depth=1 | https://vitorino.pr.gov.br/o-municipio/telefones-uteis/
+  [8/sem limite] fila=29 | depth=1 | https://vitorino.pr.gov.br/governo/
+  [9/sem limite] fila=29 | depth=1 | https://www.vitorino.pr.gov.br/mapa-do-site/
+  [10/sem limite] fila=28 | depth=1 | https://vitorino.pr.gov.br/
+  [11/sem limite] fila=28 | depth=1 | https://vitorino.pr.gov.br/sala-do-empreendedor/
+  [12/sem limite] fila=27 | depth=1 | https://vitorino.pr.gov.br/protocolo/
+  [13/sem limite] fila=26 | depth=1 | https://vitorino.pr.gov.br/encontro-reune-idosos-do-ativamente-60-para-tarde-sau
+  [14/sem limite] fila=25 | depth=1 | https://vitorino.pr.gov.br/conferencia-extraordinaria-do-complad-elege-novos-mem
+  [15/sem limite] fila=24 | depth=1 | https://www.vitorino.pr.gov.br/c/noticias/
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1 arquivos já registrados.
+  Log de erros parcial carregado: 2 erros já registrados.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 15
+  URLs na fila: 24
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+15)/sem limite] fila=23 | depth=1 | https://vitorino.pr.gov.br/12a-conferencia-municipal-de-saude-reune-comunidade-p
+  [2 (+15)/sem limite] fila=22 | depth=1 | https://vitorino.pr.gov.br/vitorino-abre-edital-de-leilao-publico-com-16-lotes-e
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/EDITAL-LEILAO-01
+  [3 (+15)/sem limite] fila=22 | depth=1 | https://vitorino.pr.gov.br/prefeitura-de-vitorino-divulga-resultado-final-do-con
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/Resultado-Final-
+  [4 (+15)/sem limite] fila=21 | depth=1 | https://vitorino.pr.gov.br/vias-urbanas-de-calcamento-recebem-asfalto-em-vitorin
+  [5 (+15)/sem limite] fila=20 | depth=1 | https://vitorino.pr.gov.br/vitorino-confirma-chegada-de-um-novo-pronto-atendimen
+  [6 (+15)/sem limite] fila=19 | depth=1 | https://vitorino.pr.gov.br/projeto-ninho-de-mae-traz-conscientizacao-pratica-sob
+  [7 (+15)/sem limite] fila=18 | depth=1 | https://vitorino.pr.gov.br/sede-administrativa-do-bairro-araucaria-park-e-inaugu
+  [8 (+15)/sem limite] fila=17 | depth=1 | https://vitorino.pr.gov.br/acoes-ludicas-do-maio-laranja-abordam-o-tema-abuso-se
+  [9 (+15)/sem limite] fila=16 | depth=1 | https://vitorino.pr.gov.br/plano-diretor/
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/plano-de-trabalh
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/PREFEITURA-MUNIC
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/Contrato-Unicent
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/ATA-1-16.04.2026
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/ATA-2-16.04.2026
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/07/2-ATA-02.2026-GT
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/07/3-ATA-03.2026-GT
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/07/4-ATA-04.2026-GT
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/07/5-ATA-05.2026-GT
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/comprovantes-de-
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/Fotos-primeira-a
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/06/LOGO-Plano-Diret
+  [10 (+15)/sem limite] fila=16 | depth=1 | https://www.vitorino.pr.gov.br/admin/
+  [11 (+15)/sem limite] fila=15 | depth=2 | https://vitorino.pr.gov.br/pagina-inicial
+  [12 (+15)/sem limite] fila=14 | depth=2 | https://vitorino.pr.gov.br/mapa-do-site/
+  [13 (+15)/sem limite] fila=13 | depth=2 | https://vitorino.pr.gov.br/author/luiz-felipe/
+  [14 (+15)/sem limite] fila=12 | depth=2 | https://vitorino.pr.gov.br/vitorino-recebe-projeto-do-centro-de-eventos-atraves-
+  [15 (+15)/sem limite] fila=11 | depth=2 | https://vitorino.pr.gov.br/author/cr2-admin3/
+  [16 (+15)/sem limite] fila=17 | depth=2 | https://vitorino.pr.gov.br/category/noticias/page/2/
+  [17 (+15)/sem limite] fila=21 | depth=2 | https://vitorino.pr.gov.br/category/noticias/page/3/
+  [18 (+15)/sem limite] fila=31 | depth=2 | https://vitorino.pr.gov.br/category/noticias/page/9/
+  [19 (+15)/sem limite] fila=34 | depth=2 | https://vitorino.pr.gov.br/admin/
+  [20 (+15)/sem limite] fila=33 | depth=2 | https://vitorino.pr.gov.br/historia
+  [21 (+15)/sem limite] fila=32 | depth=2 | https://vitorino.pr.gov.br/sobre-o-municipio
+  [22 (+15)/sem limite] fila=31 | depth=2 | https://vitorino.pr.gov.br/telefones-uteis
+  [23 (+15)/sem limite] fila=30 | depth=2 | https://vitorino.pr.gov.br/governo/prefeito/
+  [24 (+15)/sem limite] fila=29 | depth=2 | https://vitorino.pr.gov.br/c/noticias/
+ ❌ HTTP_404: https://vitorino.pr.gov.br/c/noticias/
+  🤖 Usando Selenium para: https://vitorino.pr.gov.br/c/noticias/
+  [25 (+15)/sem limite] fila=30 | depth=2 | https://vitorino.pr.gov.br/vitorino-abre-edital-de-leilao-publico-com-16-lotes-e
+  📄 [200] .jpg -> https://vitorino.pr.gov.br/vitorino-abre-edital-de-leilao-publico-com-
+  [26 (+15)/sem limite] fila=29 | depth=2 | https://vitorino.pr.gov.br/lancamento-da-revisao-do-plano-diretor-municipal-de-v
+  [27 (+15)/sem limite] fila=28 | depth=3 | https://vitorino.pr.gov.br/castrapet-passa-por-vitorino-e-realiza-101-castracoes
+  [28 (+15)/sem limite] fila=27 | depth=3 | https://vitorino.pr.gov.br/vitorino-deixa-de-ter-cep-generico-e-agora-cada-logra
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/05/2ebd2f986c148730
+  [29 (+15)/sem limite] fila=26 | depth=3 | https://vitorino.pr.gov.br/inscricao-para-castracao-de-caes-e-gatos-estao-aberta
+  [30 (+15)/sem limite] fila=25 | depth=3 | https://vitorino.pr.gov.br/funtef-pr-realiza-provas-do-concurso-publico-001-2026
+  [31 (+15)/sem limite] fila=24 | depth=3 | https://vitorino.pr.gov.br/author/cr2-admin3/page/2/
+  [32 (+15)/sem limite] fila=24 | depth=3 | https://vitorino.pr.gov.br/author/cr2-admin3/page/3/
+  [33 (+15)/sem limite] fila=30 | depth=3 | https://vitorino.pr.gov.br/author/cr2-admin3/page/8/
+  [34 (+15)/sem limite] fila=35 | depth=3 | https://vitorino.pr.gov.br/programa-de-acolhimento-familiar-completa-10-anos-em-
+  [35 (+15)/sem limite] fila=34 | depth=3 | https://vitorino.pr.gov.br/saude-na-escola-leva-prevencao-para-os-alunos-da-rede
+  [36 (+15)/sem limite] fila=33 | depth=3 | https://vitorino.pr.gov.br/pascoa-2026-atrai-familias-vitorinenses-para-espetacu
+  [37 (+15)/sem limite] fila=32 | depth=3 | https://vitorino.pr.gov.br/municipio-de-vitorino-e-sicredi-continuam-com-a-parce
+  [38 (+15)/sem limite] fila=31 | depth=3 | https://vitorino.pr.gov.br/category/noticias/page/4/
+  [39 (+15)/sem limite] fila=35 | depth=3 | https://vitorino.pr.gov.br/segunda-edicao-do-mulheres-que-inspiram-reune-centena
+  [40 (+15)/sem limite] fila=34 | depth=3 | https://vitorino.pr.gov.br/vitorino-apresenta-edital-de-doacao-com-encargos-de-t
+  [41 (+15)/sem limite] fila=33 | depth=3 | https://vitorino.pr.gov.br/programa-igualdade-vitorino-atendera-criancas-atipica
+  [42 (+15)/sem limite] fila=32 | depth=3 | https://vitorino.pr.gov.br/mais-de-5-milhoes-em-asfalto-para-a-comunidade-santo-
+  [43 (+15)/sem limite] fila=31 | depth=3 | https://vitorino.pr.gov.br/sala-do-empreendedor-de-vitorino-recebe-selo-ouro-de-
+  [44 (+15)/sem limite] fila=30 | depth=3 | https://vitorino.pr.gov.br/em-funcionamento-desde-dezembro-de-2025-subestacao-vi
+  [45 (+15)/sem limite] fila=29 | depth=3 | https://vitorino.pr.gov.br/alunos-de-vitorino-iniciam-ano-letivo-de-material-e-u
+  [46 (+15)/sem limite] fila=28 | depth=3 | https://vitorino.pr.gov.br/mutirao-de-combate-a-dengue-retira-de-lotes-e-ruas-30
+  [47 (+15)/sem limite] fila=27 | depth=3 | https://vitorino.pr.gov.br/vitorino-abre-edital-de-concurso-publico-01-2026-com-
+  [48 (+15)/sem limite] fila=26 | depth=3 | https://vitorino.pr.gov.br/a-partir-de-2026-103-servidores-publicos-de-vitorino-
+  [49 (+15)/sem limite] fila=25 | depth=3 | https://vitorino.pr.gov.br/category/noticias/page/5/
+  [50 (+15)/sem limite] fila=34 | depth=3 | https://vitorino.pr.gov.br/vitorino-lanca-sua-programacao-de-natal-de-2024/
+  [51 (+15)/sem limite] fila=33 | depth=3 | https://vitorino.pr.gov.br/vitorino-e-campeao-do-paranaense-de-taekwondo-2023/
+  [52 (+15)/sem limite] fila=32 | depth=3 | https://vitorino.pr.gov.br/category/noticias/page/8/
+  [53 (+15)/sem limite] fila=37 | depth=3 | https://vitorino.pr.gov.br/category/noticias/page/7/
+  [54 (+15)/sem limite] fila=46 | depth=3 | https://vitorino.pr.gov.br/lgpd
+  [55 (+15)/sem limite] fila=45 | depth=3 | https://vitorino.pr.gov.br
+  [56 (+15)/sem limite] fila=44 | depth=4 | https://vitorino.pr.gov.br/author/cr2-admin3/page/4/
+  [57 (+15)/sem limite] fila=43 | depth=4 | https://vitorino.pr.gov.br/administracao-publica-de-vitorino-faz-prestacao-de-co
+  [58 (+15)/sem limite] fila=42 | depth=4 | https://vitorino.pr.gov.br/a-taxa-de-coleta-de-lixo-ja-esta-disponivel-para-paga
+  [59 (+15)/sem limite] fila=41 | depth=4 | https://vitorino.pr.gov.br/prestadores-de-servicos-em-vitorino-agora-devem-emiti
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/05/Decreto-6068-202
+  [60 (+15)/sem limite] fila=40 | depth=4 | https://vitorino.pr.gov.br/praca-donna-roberta-no-araucaria-park-recebera-revita
+  [61 (+15)/sem limite] fila=39 | depth=4 | https://vitorino.pr.gov.br/confira-como-sera-o-atendimento-durante-as-festividad
+  [62 (+15)/sem limite] fila=38 | depth=4 | https://vitorino.pr.gov.br/vitorino-lanca-refis-com-ate-100-de-desconto-em-juros
+  [63 (+15)/sem limite] fila=37 | depth=4 | https://vitorino.pr.gov.br/author/cr2-admin3/page/5/
+  [64 (+15)/sem limite] fila=42 | depth=4 | https://vitorino.pr.gov.br/nova-procuradora-da-mulher-toma-posse-em-vitorino/
+  [65 (+15)/sem limite] fila=41 | depth=4 | https://vitorino.pr.gov.br/administracao-publica-de-vitorino-faz-prestacao-de-co
+  [66 (+15)/sem limite] fila=40 | depth=4 | https://vitorino.pr.gov.br/servidores-municipais-de-vitorino-recebem-reajuste-de
+  [67 (+15)/sem limite] fila=39 | depth=4 | https://vitorino.pr.gov.br/sicredi-e-prefeitura-de-vitorino-firmam-continuidade-
+  [68 (+15)/sem limite] fila=38 | depth=4 | https://vitorino.pr.gov.br/author/cr2-admin3/page/7/
+  [69 (+15)/sem limite] fila=37 | depth=4 | https://vitorino.pr.gov.br/author/cr2-admin3/page/6/
+  [70 (+15)/sem limite] fila=40 | depth=4 | https://vitorino.pr.gov.br/natal-encantado-de-vitorino-2025-tem-noite-de-abertur
+  [71 (+15)/sem limite] fila=39 | depth=4 | https://vitorino.pr.gov.br/rede-municipal-de-educacao-forma-mais-de-250-alunos-n
+  [72 (+15)/sem limite] fila=38 | depth=4 | https://vitorino.pr.gov.br/prato-tipico-solidario-serve-o-cordeio-ao-molho-vitor
+  [73 (+15)/sem limite] fila=37 | depth=4 | https://vitorino.pr.gov.br/quarta-edicao-do-cordeiro-ao-molho-vitorino-bate-reco
+  [74 (+15)/sem limite] fila=36 | depth=4 | https://vitorino.pr.gov.br/category/noticias/page/6/
+  [75 (+15)/sem limite] fila=35 | depth=4 | https://vitorino.pr.gov.br/vitorino-realiza-maior-renovacao-na-frota-municipal-t
+  [76 (+15)/sem limite] fila=34 | depth=4 | https://vitorino.pr.gov.br/primeiro-encontro-dos-compadres-marca-novembro-azul/
+  [77 (+15)/sem limite] fila=33 | depth=4 | https://vitorino.pr.gov.br/lancamento-do-programa-ativamente-60-e-a-evolucao-da-
+  [78 (+15)/sem limite] fila=32 | depth=4 | https://vitorino.pr.gov.br/vitorino-envia-a-rio-bonito-do-iguacu-donativos-arrec
+  [79 (+15)/sem limite] fila=31 | depth=4 | https://vitorino.pr.gov.br/com-quatro-casos-positivos-vitorino-acende-alerta-par
+  [80 (+15)/sem limite] fila=30 | depth=4 | https://vitorino.pr.gov.br/reuniao-com-a-policia-militar-objetiva-melhorar-segur
+  [81 (+15)/sem limite] fila=29 | depth=4 | https://vitorino.pr.gov.br/autorizado-r-6-milhoes-para-o-trecho-de-asfalto-que-l
+  [82 (+15)/sem limite] fila=28 | depth=4 | https://vitorino.pr.gov.br/primeiro-encontro-das-comadres-2025-marca-o-outubro-r
+  [83 (+15)/sem limite] fila=27 | depth=4 | https://vitorino.pr.gov.br/audiencia-publica-sobre-a-pavimentacao-asfaltica-na-c
+  [84 (+15)/sem limite] fila=26 | depth=4 | https://vitorino.pr.gov.br/projeto-de-lei-e-encaminhado-para-aumentar-progressao
+  [85 (+15)/sem limite] fila=25 | depth=4 | https://vitorino.pr.gov.br/7a-conferencia-municipal-da-cidade-aconteceu-no-arauc
+  [86 (+15)/sem limite] fila=24 | depth=4 | https://vitorino.pr.gov.br/confira-como-esta-a-obra-de-construcao-da-subestacao-
+  [87 (+15)/sem limite] fila=23 | depth=4 | https://vitorino.pr.gov.br/programacao-da-pascoa-2025-trouxe-muita-diversao-aos-
+  [88 (+15)/sem limite] fila=22 | depth=4 | https://vitorino.pr.gov.br/dia-de-mutirao-contra-a-dengue-em-vitorino-retira-50-
+  [89 (+15)/sem limite] fila=21 | depth=4 | https://vitorino.pr.gov.br/2a-conferencia-municipal-da-saude-do-trabalhador-e-da
+  [90 (+15)/sem limite] fila=20 | depth=4 | https://vitorino.pr.gov.br/1o-conferencia-extraordinaria-municipal-da-cidade-ele
+  [91 (+15)/sem limite] fila=19 | depth=4 | https://vitorino.pr.gov.br/rede-municipal-de-ensino-realiza-festa-julina-2025/
+  [92 (+15)/sem limite] fila=18 | depth=4 | https://vitorino.pr.gov.br/lancamento-do-programa-mesa-cheia-vitorino-entrega-30
+  [93 (+15)/sem limite] fila=17 | depth=4 | https://vitorino.pr.gov.br/vitorino-executa-r-20-milhoes-em-asfalto-que-atende-1
+  [94 (+15)/sem limite] fila=16 | depth=4 | https://vitorino.pr.gov.br/atraves-do-teatro-acao-do-maio-laranja-em-vitorino-pr
+  [95 (+15)/sem limite] fila=15 | depth=4 | https://vitorino.pr.gov.br/8a-conferencia-dos-direitos-da-pessoa-idosa-debateu-o
+  [96 (+15)/sem limite] fila=14 | depth=4 | https://vitorino.pr.gov.br/mes-da-mulher-e-comemorado-com-palestra-show-e-jantar
+  [97 (+15)/sem limite] fila=13 | depth=4 | https://vitorino.pr.gov.br/vitorino-apresenta-nova-secretaria-de-saude-simone-lo
+  [98 (+15)/sem limite] fila=12 | depth=4 | https://vitorino.pr.gov.br/prefeito-marciano-assina-termo-de-cooperacao-com-a-co
+  [99 (+15)/sem limite] fila=11 | depth=4 | https://vitorino.pr.gov.br/vitorino-recebe-equipamentos-de-prevencao-e-combate-a
+  [100 (+15)/sem limite] fila=10 | depth=4 | https://vitorino.pr.gov.br/7a-conferencia-municipal-da-cidade-aconteceu-no-arauc
+  [101 (+15)/sem limite] fila=9 | depth=5 | https://vitorino.pr.gov.br/vitorino-recebe-visita-de-diretoria-da-epr-iguacu/
+  [102 (+15)/sem limite] fila=8 | depth=5 | https://vitorino.pr.gov.br/praca-esportiva-arnoldo-antunes-barbosa-e-reinaugurad
+  [103 (+15)/sem limite] fila=7 | depth=5 | https://vitorino.pr.gov.br/prefeitura-de-vitorino-realiza-audiencia-publica-de-p
+  [104 (+15)/sem limite] fila=6 | depth=5 | https://vitorino.pr.gov.br/lancamento-banco-de-oportunidades-acevi-em-parceria-c
+  [105 (+15)/sem limite] fila=5 | depth=5 | https://vitorino.pr.gov.br/confira-como-foi-o-nosso-desfile-civico-2025/
+  [106 (+15)/sem limite] fila=4 | depth=5 | https://vitorino.pr.gov.br/vitorino-em-proporcao-e-o-municipio-que-mais-cresceu-
+  [107 (+15)/sem limite] fila=3 | depth=5 | https://vitorino.pr.gov.br/agricultura/
+  [108 (+15)/sem limite] fila=2 | depth=5 | https://vitorino.pr.gov.br/atualizamos-a-lei-que-estabelece-os-feriados-municipa
+  📄 [200] .pdf -> https://vitorino.pr.gov.br/wp-content/uploads/2026/05/7d1d8abeb2ef88ed
+  [109 (+15)/sem limite] fila=1 | depth=5 | https://vitorino.pr.gov.br/convite-para-audiencia-publica-sobre-ldo-e-loa-2025/
+  [110 (+15)/sem limite] fila=0 | depth=5 | https://vitorino.pr.gov.br/servidores-publicos-da-urgencia-e-emergencia-da-saude
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/inventario_links.xlsx
+  19 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  3 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/inventario_externos.xlsx
+  495 links externos registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 110
+  Páginas totais (acumulado): 125
+  Arquivos no inventário: 19
+  Erros registrados: 3
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Vitorino)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Vitorino (slug: vitorino)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/vitorino/index.cfm/
+              ✅ https://vitorino.pr.gov.br/
+           *  ✅ https://www.portalcr2.com.br/entidade/vitorino/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +1 domínio(s)]
+           → https://www.portalcr2.com.br/entidade/vitorino/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VITORINO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 19 arquivos já registrados.
+  Links externos parciais carregados: 495 links já registrados.
+  Log de erros parcial carregado: 3 erros já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 2 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: VITORINO
+  Páginas já visitadas (checkpoint): 124
+  URLs na fila: 2
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+124)/sem limite] fila=1 | depth=0 | https://www.portalcr2.com.br/entidade/vitorino/
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/entidade/vitorino/
+  [2 (+124)/sem limite] fila=66 | depth=0 | https://www.vitorino.pr.gov.br/
+  [3 (+124)/sem limite] fila=68 | depth=1 | https://www.portalcr2.com.br/estrutura-organizacional/estrutura-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/estrutura-organizacional/estrutura-vitorino
+  [4 (+124)/sem limite] fila=67 | depth=1 | https://www.portalcr2.com.br/agenda-externa/agenda-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/agenda-externa/agenda-vitorino
+  [5 (+124)/sem limite] fila=66 | depth=1 | https://www.portalcr2.com.br/perguntas-frequentes/perguntas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/perguntas-frequentes/perguntas-vitorino
+  [6 (+124)/sem limite] fila=65 | depth=1 | https://www.portalcr2.com.br/leis-e-atos/leis-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/leis-e-atos/leis-vitorino
+  [7 (+124)/sem limite] fila=64 | depth=1 | https://www.portalcr2.com.br/conselho-municipal/conselhomunicipal-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/conselho-municipal/conselhomunicipal-vitorino
+  [8 (+124)/sem limite] fila=63 | depth=1 | https://www.portalcr2.com.br/receitas/receitas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/receitas/receitas-vitorino
+  [9 (+124)/sem limite] fila=62 | depth=1 | https://www.portalcr2.com.br/renuncias/renuncias-receita-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/renuncias/renuncias-receita-vitorino
+  [10 (+124)/sem limite] fila=61 | depth=1 | https://www.portalcr2.com.br/divida-ativa/divida-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/divida-ativa/divida-vitorino
+  [11 (+124)/sem limite] fila=60 | depth=1 | https://www.portalcr2.com.br/programas/programas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/programas/programas-vitorino
+  [12 (+124)/sem limite] fila=59 | depth=1 | https://www.portalcr2.com.br/despesas/despesas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/despesas/despesas-vitorino
+  [13 (+124)/sem limite] fila=58 | depth=1 | https://www.portalcr2.com.br/gastos-cartao-de-credito/cartao-de-credito-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/gastos-cartao-de-credito/cartao-de-credito-vitorino
+  [14 (+124)/sem limite] fila=57 | depth=1 | https://www.portalcr2.com.br/notas-fiscais/notas-fiscais-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/notas-fiscais/notas-fiscais-vitorino
+  [15 (+124)/sem limite] fila=56 | depth=1 | https://www.portalcr2.com.br/emendas-parlamentares/emendas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/emendas-parlamentares/emendas-vitorino
+  [16 (+124)/sem limite] fila=55 | depth=1 | https://www.portalcr2.com.br/pagamentos/pagamentos-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/pagamentos/pagamentos-vitorino
+  [17 (+124)/sem limite] fila=54 | depth=1 | https://www.portalcr2.com.br/relacao-remuneracao/relacao-nominal-remuneracao-vit
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relacao-remuneracao/relacao-nominal-remuneracao-vitorino
+  [18 (+124)/sem limite] fila=53 | depth=1 | https://www.portalcr2.com.br/relacao-cargos-remuneracao/cargos-remuneracao-vitor
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relacao-cargos-remuneracao/cargos-remuneracao-vitorino
+  [19 (+124)/sem limite] fila=52 | depth=1 | https://www.portalcr2.com.br/relacao-estagiarios/estagiarios-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relacao-estagiarios/estagiarios-vitorino
+  [20 (+124)/sem limite] fila=51 | depth=1 | https://www.portalcr2.com.br/relacao_prestadores/servicos-terceirizados-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relacao_prestadores/servicos-terceirizados-vitorino
+  [21 (+124)/sem limite] fila=50 | depth=1 | https://www.portalcr2.com.br/concurso-processo-seletivo/concursos-e-pss-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/concurso-processo-seletivo/concursos-e-pss-vitorino
+  [22 (+124)/sem limite] fila=49 | depth=1 | https://www.portalcr2.com.br/diarias/diarias-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/diarias/diarias-vitorino
+  [23 (+124)/sem limite] fila=48 | depth=1 | https://www.portalcr2.com.br/valores_diarias/valores-diarias-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/valores_diarias/valores-diarias-vitorino
+  [24 (+124)/sem limite] fila=47 | depth=1 | https://www.portalcr2.com.br/centraldetransparencia/consulta-de-legislações-de-d
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/centraldetransparencia/consulta-de-legislações-de-diárias-1
+  [25 (+124)/sem limite] fila=46 | depth=1 | https://www.portalcr2.com.br/licitacoes/licitacoes-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/licitacoes/licitacoes-vitorino
+  [26 (+124)/sem limite] fila=45 | depth=1 | https://www.portalcr2.com.br/aviso-licitacao/aviso-licitacao-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/aviso-licitacao/aviso-licitacao-vitorino
+  [27 (+124)/sem limite] fila=44 | depth=1 | https://www.portalcr2.com.br/contratos/contratos-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/contratos/contratos-vitorino
+  [28 (+124)/sem limite] fila=43 | depth=1 | https://www.portalcr2.com.br/plano-de-contratacoes/contratacoes-anuais-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/plano-de-contratacoes/contratacoes-anuais-vitorino
+  [29 (+124)/sem limite] fila=42 | depth=1 | https://www.portalcr2.com.br/contratados-sancionados/contratados-sancionados-adm
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/contratados-sancionados/contratados-sancionados-administrativamente-vitorino
+  [30 (+124)/sem limite] fila=41 | depth=1 | https://www.portalcr2.com.br/cadastro-fornecedores/fornecedores-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/cadastro-fornecedores/fornecedores-vitorino
+  [31 (+124)/sem limite] fila=40 | depth=1 | https://www.portalcr2.com.br/convenio-tranf-voluntaria/transferencias-voluntaria
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/convenio-tranf-voluntaria/transferencias-voluntarias-vitorino
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.portalcr2.com.br/convenio-tranf-voluntaria/transferencias-voluntarias-vitorino
+  [32 (+124)/sem limite] fila=39 | depth=1 | https://www.portalcr2.com.br/obras/obras-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/obras/obras-vitorino
+  [33 (+124)/sem limite] fila=38 | depth=1 | https://www.portalcr2.com.br/obras-paralisadas/obras-paralisadas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/obras-paralisadas/obras-paralisadas-vitorino
+  [34 (+124)/sem limite] fila=37 | depth=1 | https://www.portalcr2.com.br/bens-moveis/bens-moveis-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/bens-moveis/bens-moveis-vitorino
+  [35 (+124)/sem limite] fila=36 | depth=1 | https://www.portalcr2.com.br/bens-imoveis/bens-imoveis-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/bens-imoveis/bens-imoveis-vitorino
+  [36 (+124)/sem limite] fila=35 | depth=1 | https://www.portalcr2.com.br/veiculos/veiculos-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/veiculos/veiculos-vitorino
+  [37 (+124)/sem limite] fila=34 | depth=1 | https://www.portalcr2.com.br/saude-planejamento/saude-planejamento-relatorio-vit
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/saude-planejamento/saude-planejamento-relatorio-vitorino
+  [38 (+124)/sem limite] fila=33 | depth=1 | https://www.portalcr2.com.br/servicos-de-saude/servicos-saude-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/servicos-de-saude/servicos-saude-vitorino
+  [39 (+124)/sem limite] fila=32 | depth=1 | https://www.portalcr2.com.br/lista-de-medicamentos-e-estoques-das-farmacias/list
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/lista-de-medicamentos-e-estoques-das-farmacias/lista-de-medicamentos-e-estoques-das-farmacias-vitorino
+  [40 (+124)/sem limite] fila=31 | depth=1 | https://www.portalcr2.com.br/como-obter-medicamentos/como-obter-medicamentos-vit
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/como-obter-medicamentos/como-obter-medicamentos-vitorino
+  [41 (+124)/sem limite] fila=30 | depth=1 | https://www.portalcr2.com.br/fila-de-espera-por-servicos-de-saude/fila-de-espera
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/fila-de-espera-por-servicos-de-saude/fila-de-espera-por-servicos-de-saude-vitorino
+  [42 (+124)/sem limite] fila=29 | depth=1 | https://www.portalcr2.com.br/centraldetransparencia/conselho-municipal-de-saúde-
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/centraldetransparencia/conselho-municipal-de-saúde-9
+  [43 (+124)/sem limite] fila=28 | depth=1 | https://www.portalcr2.com.br/educacao-planejamento/educacao-planejamento-relator
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/educacao-planejamento/educacao-planejamento-relatorio-vitorino
+  [44 (+124)/sem limite] fila=27 | depth=1 | https://www.portalcr2.com.br/educacao-lista-espera/lista-espera-creche-escola-vi
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/educacao-lista-espera/lista-espera-creche-escola-vitorino
+  [45 (+124)/sem limite] fila=26 | depth=1 | https://www.portalcr2.com.br/centraldetransparencia/conselho-municipal-de-educaç
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/centraldetransparencia/conselho-municipal-de-educação-4
+  [46 (+124)/sem limite] fila=25 | depth=1 | https://www.portalcr2.com.br/centraldetransparencia/demais-informações-de-educaç
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/centraldetransparencia/demais-informações-de-educação
+  [47 (+124)/sem limite] fila=24 | depth=1 | https://www.portalcr2.com.br/centraldetransparencia/conselho-de-assistente-socia
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/centraldetransparencia/conselho-de-assistente-social
+  [48 (+124)/sem limite] fila=23 | depth=1 | https://www.portalcr2.com.br/balancete-financeiro/balancete-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/balancete-financeiro/balancete-vitorino
+  [49 (+124)/sem limite] fila=22 | depth=1 | https://www.portalcr2.com.br/balanco-relatorio-anual/relatorios-anuais-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/balanco-relatorio-anual/relatorios-anuais-vitorino
+  [50 (+124)/sem limite] fila=21 | depth=1 | https://www.portalcr2.com.br/ldo-loa-ppa/ldo-loa-ppa-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/ldo-loa-ppa/ldo-loa-ppa-vitorino
+  [51 (+124)/sem limite] fila=20 | depth=1 | https://www.portalcr2.com.br/parecer-tribunal-contas/tribunal-de-contas-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/parecer-tribunal-contas/tribunal-de-contas-vitorino
+  [52 (+124)/sem limite] fila=19 | depth=1 | https://www.portalcr2.com.br/julgamento-de-contas/julgamento-executivo-legislati
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/julgamento-de-contas/julgamento-executivo-legislativo-vitorino
+  [53 (+124)/sem limite] fila=18 | depth=1 | https://www.portalcr2.com.br/relatorio-gestao-fiscal/rgf-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relatorio-gestao-fiscal/rgf-vitorino
+  [54 (+124)/sem limite] fila=17 | depth=1 | https://www.portalcr2.com.br/relatorio-resumido-rreo/rreo-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relatorio-resumido-rreo/rreo-vitorino
+  [55 (+124)/sem limite] fila=16 | depth=1 | https://www.portalcr2.com.br/planejamento-estrategico/planejamento-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/planejamento-estrategico/planejamento-vitorino
+  [56 (+124)/sem limite] fila=15 | depth=1 | https://www.portalcr2.com.br/ouvidoria/ouvidoria-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/ouvidoria/ouvidoria-vitorino
+  [57 (+124)/sem limite] fila=14 | depth=1 | https://www.portalcr2.com.br/sic/sic-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/sic/sic-vitorino
+  [58 (+124)/sem limite] fila=13 | depth=1 | https://www.portalcr2.com.br/consultar-manifestacao/consultar-manifestacao-vitor
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/consultar-manifestacao/consultar-manifestacao-vitorino
+  [59 (+124)/sem limite] fila=12 | depth=1 | https://www.portalcr2.com.br/manifestacoes-realizadas/manifestacoes-realizadas-v
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/manifestacoes-realizadas/manifestacoes-realizadas-vitorino
+  [60 (+124)/sem limite] fila=11 | depth=1 | https://www.portalcr2.com.br/relatorios-estatisticos/relatorios-estatisticos-vit
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/relatorios-estatisticos/relatorios-estatisticos-vitorino
+  [61 (+124)/sem limite] fila=10 | depth=1 | https://www.portalcr2.com.br/regulamentacao/regulamentacao-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/regulamentacao/regulamentacao-vitorino
+  [62 (+124)/sem limite] fila=9 | depth=1 | https://www.portalcr2.com.br/documentos-sigilosos/docs-informacoes-sigilosas-vit
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/documentos-sigilosos/docs-informacoes-sigilosas-vitorino
+  [63 (+124)/sem limite] fila=8 | depth=1 | https://www.portalcr2.com.br/lgpd/lgpd-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/lgpd/lgpd-vitorino
+  [64 (+124)/sem limite] fila=7 | depth=1 | https://www.portalcr2.com.br/dados-abertos/dados-abertos-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/dados-abertos/dados-abertos-vitorino
+  [65 (+124)/sem limite] fila=6 | depth=1 | https://www.portalcr2.com.br/carta-servico/carta-de-servico-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/carta-servico/carta-de-servico-vitorino
+  [66 (+124)/sem limite] fila=5 | depth=1 | https://www.portalcr2.com.br/pesquisa-de-satisfacao/pesquisa-satisfacao-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/pesquisa-de-satisfacao/pesquisa-satisfacao-vitorino
+  [67 (+124)/sem limite] fila=4 | depth=1 | https://www.portalcr2.com.br/servico-online/servico-online-vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/servico-online/servico-online-vitorino
+  [68 (+124)/sem limite] fila=4 | depth=1 | https://www.portalcr2.com.br/?view=login
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/?view=login
+  [69 (+124)/sem limite] fila=3 | depth=1 | https://www.portalcr2.com.br/detalhes-estrutura/vitorino-prefeito-municipal
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/detalhes-estrutura/vitorino-prefeito-municipal
+  [70 (+124)/sem limite] fila=2 | depth=1 | https://www.portalcr2.com.br/detalhes-estrutura/vitorino-vice-prefeito-
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/detalhes-estrutura/vitorino-vice-prefeito-
+  [71 (+124)/sem limite] fila=1 | depth=1 | https://www.portalcr2.com.br/entidade/vitorino
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/entidade/vitorino
+  [72 (+124)/sem limite] fila=0 | depth=2 | https://www.vitorino.pr.gov.br/Conteudo?data=234430cc83d7ba87d23f713568dabedd
+ ❌ HTTP_404: https://www.vitorino.pr.gov.br/Conteudo?data=234430cc83d7ba87d23f713568dabedd
+  🤖 Usando Selenium para: https://www.vitorino.pr.gov.br/Conteudo?data=234430cc83d7ba87d23f713568dabedd
+  [73 (+124)/sem limite] fila=0 | depth=3 | https://www.vitorino.pr.gov.br/lgpd
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/inventario_links.xlsx
+  19 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/vitorino/inventario_externos.xlsx
+  511 links externos registrados.
+
+  Varredura encerrada: VITORINO
+  Páginas nesta sessão: 73
+  Páginas totais (acumulado): 197
+  Arquivos no inventário: 19
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/vitorino/
+============================================================
+
