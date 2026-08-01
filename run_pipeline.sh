@@ -15,7 +15,7 @@ echo "=== Log: ${LOG} ==="
 
 echo ""
 echo "[1/5] Crawler (etapa 1, profundidade 10)..."
-python -u main.py "$CIDADE" --sem-limite --etapa 1 --max-profundidade 10 2>&1 | tee -a "$LOG"
+python -u main.py "$CIDADE" --sem-limite --etapa 1 --max-profundidade 10 --pular-captcha 2>&1 | tee -a "$LOG"
 
 echo ""
 echo "[2/5] Descobrir portais na web (apenas inventário)..."
@@ -23,7 +23,7 @@ python -u descobrir_cidades.py --estado "$ESTADO" --cidade "$CIDADE" --buscar-we
 
 echo ""
 echo "[3/5] Re-crawler com reprocessar erros e novas sementes..."
-python -u main.py "$CIDADE" --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros 2>&1 | tee -a "$LOG"
+python -u main.py "$CIDADE" --sem-limite --etapa 1 --max-profundidade 10 --reprocessar-erros --pular-captcha 2>&1 | tee -a "$LOG"
 
 # echo ""
 # echo "[4/5] Download dos arquivos (etapa 2)..."

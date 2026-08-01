@@ -78,6 +78,7 @@ class CrawlerUrbano:
         reprocessar_erros: bool = False,
         max_paginas: int | None = None,
         max_profundidade: int | None = None,
+        pular_captcha: bool = False,
     ):
         """
         Inicializa o crawler para uma cidade específica.
@@ -90,6 +91,8 @@ class CrawlerUrbano:
             re-enfileira as URLs com erros transitórios (TIMEOUT, HTTP_403,
             HTTP_500, CAPTCHA, SELENIUM_ERRO) para nova tentativa. Erros
             permanentes (HTTP_404, CAPTCHA_NAO_RESOLVIDO) são ignorados.
+          pular_captcha: se True, não abre janela para resolução manual de
+            CAPTCHA (Nível 3) — registra como CAPTCHA_NAO_RESOLVIDO e segue.
         """
         if nome_cidade not in CIDADES:
             raise ValueError(
@@ -100,6 +103,7 @@ class CrawlerUrbano:
         self.config_cidade = CIDADES[nome_cidade]
         self.dominios = self.config_cidade["dominios"]
         self.sementes = self.config_cidade["sementes"]
+        self.pular_captcha = pular_captcha
         # Subd. explicitamente bloqueados (ex: encurtadores mortos, sistemas desativados).
         # Definidos por cidade em config.py — vazio por padrão.
         self.dominios_excluidos = self.config_cidade.get("dominios_excluidos", [])
@@ -140,6 +144,7 @@ class CrawlerUrbano:
         self.arquivo_erros        = self.dir_cidade / "erros_varredura.xlsx"
         self.arquivo_ckpt_visited = self.dir_cidade / "checkpoint_visited.json"
         self.arquivo_ckpt_queue   = self.dir_cidade / "checkpoint_queue.json"
+        self.dir_downloads_selenium = self.dir_cidade / "downloads"
 
         # Listas de registros em memória (serão salvas em planilha ao final)
         self._registros_inventario: list[dict] = []
@@ -255,12 +260,23 @@ class CrawlerUrbano:
             self._recarregar_erros_para_fila()
 
     def _salvar_checkpoint(self):
-        """Persiste o estado atual (visited + queue) em disco."""
+        """Persiste o estado atual (visited + queue) em disco e limpa downloads do Selenium."""
         with open(self.arquivo_ckpt_visited, "w", encoding="utf-8") as f:
             json.dump(list(self.visited), f, ensure_ascii=False)
         with open(self.arquivo_ckpt_queue, "w", encoding="utf-8") as f:
             dados_queue = [{"url": url, "depth": depth} for url, depth in self.queue]
             json.dump(dados_queue, f, ensure_ascii=False)
+        self._limpar_downloads_selenium()
+
+    def _limpar_downloads_selenium(self):
+        """Remove todos os arquivos da pasta de downloads do Selenium."""
+        if not self.dir_downloads_selenium.exists():
+            return
+        for arquivo in self.dir_downloads_selenium.iterdir():
+            try:
+                arquivo.unlink()
+            except Exception:
+                pass
 
     # =========================================================================
     # DETECÇÃO DE CAPTCHA
@@ -428,6 +444,13 @@ class CrawlerUrbano:
             options.add_argument("--headless=new")  # sem abrir janela
             options.add_argument("--no-sandbox")
             options.add_argument("--disable-dev-shm-usage")
+            self.dir_downloads_selenium.mkdir(parents=True, exist_ok=True)
+            options.add_experimental_option("prefs", {
+                "download.default_directory": str(self.dir_downloads_selenium),
+                "download.prompt_for_download": False,
+                "download.directory_upgrade": True,
+                "safebrowsing.enabled": True,
+            })
 
             driver = webdriver.Chrome(options=options)
             driver.get(url)
@@ -475,6 +498,11 @@ class CrawlerUrbano:
 
             # Verifica CAPTCHA mesmo com Selenium
             if self._detectar_captcha(html):
+                if self.pular_captcha:
+                    print(f"  ⏭️  CAPTCHA detectado em: {url} — pulando (sem intervenção manual)")
+                    self._registrar_erro(url, "CAPTCHA_NAO_RESOLVIDO", 0)
+                    return []
+
                 # Nível 3: CAPTCHA duro — abre janela e aguarda intervenção humana
                 print(f"\n CAPTCHA detectado em: {url}")
                 print(f"  Você tem 60 segundos para resolver manualmente no navegador.")
@@ -483,6 +511,13 @@ class CrawlerUrbano:
                 # Reabre com janela visível para intervenção humana
                 driver.quit()
                 options_visivel = ChromeOptions()
+                self.dir_downloads_selenium.mkdir(parents=True, exist_ok=True)
+                options_visivel.add_experimental_option("prefs", {
+                    "download.default_directory": str(self.dir_downloads_selenium),
+                    "download.prompt_for_download": False,
+                    "download.directory_upgrade": True,
+                    "safebrowsing.enabled": True,
+                })
                 driver = webdriver.Chrome(options=options_visivel)
                 driver.get(url)
                 time.sleep(60)  # janela de 60s para resolução manual

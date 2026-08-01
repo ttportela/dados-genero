@@ -49,6 +49,7 @@ def etapa_crawler(
     reprocessar_erros: bool = False,
     max_paginas: int | None = None,
     max_profundidade: int | None = None,
+    pular_captcha: bool = False,
 ):
     from src.crawler import CrawlerUrbano
     crawler = CrawlerUrbano(
@@ -56,6 +57,7 @@ def etapa_crawler(
         reprocessar_erros=reprocessar_erros,
         max_paginas=max_paginas,
         max_profundidade=max_profundidade,
+        pular_captcha=pular_captcha,
     )
     crawler.iniciar_varredura(sem_limite=sem_limite)
 
@@ -139,6 +141,16 @@ def main():
             "Só funciona com a Etapa 1 (Crawler)."
         ),
     )
+    parser.add_argument(
+        "--pular-captcha",
+        action="store_true",
+        default=False,
+        help=(
+            "Pula a resolução manual de CAPTCHA (Nível 3) — registra como\n"
+            "CAPTCHA_NAO_RESOLVIDO e continua sem abrir janela do navegador.\n"
+            "Só funciona com a Etapa 1 (Crawler)."
+        ),
+    )
 
     args = parser.parse_args()
 
@@ -154,6 +166,7 @@ def main():
     reprocessar_erros = args.reprocessar_erros
     max_paginas = args.max_paginas
     max_profundidade = args.max_profundidade
+    pular_captcha = args.pular_captcha
 
     print(f"\n{'='*60}")
     print(f"  TCC - Pipeline de Dados Publicos | {cidade.upper()}")
@@ -162,13 +175,15 @@ def main():
     if args.etapa is None:
         print(" Modo: Pipeline completo (Etapas 1 -> 2 -> 3)\n")
         etapa_crawler(cidade, sem_limite=sem_limite, reprocessar_erros=reprocessar_erros,
-                      max_paginas=max_paginas, max_profundidade=max_profundidade)
+                      max_paginas=max_paginas, max_profundidade=max_profundidade,
+                      pular_captcha=pular_captcha)
         etapa_downloader(cidade)
         etapa_analisador(cidade)
     elif args.etapa == 1:
         print(" Modo: Somente Etapa 1 - Crawler\n")
         etapa_crawler(cidade, sem_limite=sem_limite, reprocessar_erros=reprocessar_erros,
-                      max_paginas=max_paginas, max_profundidade=max_profundidade)
+                      max_paginas=max_paginas, max_profundidade=max_profundidade,
+                      pular_captcha=pular_captcha)
     elif args.etapa == 2:
         print(" Modo: Somente Etapa 2 - Downloader\n")
         etapa_downloader(cidade)

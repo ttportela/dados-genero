@@ -401,7 +401,6 @@
 # ./run_pipeline.sh veracruzdooeste
 # ./run_pipeline.sh vere
 # ./run_pipeline.sh virmond
-
 # ./run_pipeline.sh vitorino
 # ./run_pipeline.sh wenceslaubraz
 # ./run_pipeline.sh xambre
