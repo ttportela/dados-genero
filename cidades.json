@@ -3342,9 +3342,11 @@
   },
   "wenceslaubraz": {
     "sementes": [
-      "https://www.wenceslaubraz.pr.gov.br/"
+      "https://www.wenceslaubraz.pr.gov.br/",
+      "https://transparencia.betha.cloud/"
     ],
     "dominios": [
+      "transparencia.betha.cloud",
       "wenceslaubraz.pr.gov.br",
       "www.wenceslaubraz.pr.gov.br"
     ]

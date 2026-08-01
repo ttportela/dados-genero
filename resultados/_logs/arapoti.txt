@@ -1095,3 +1095,316 @@ Inventário parcial carregado: 408 arquivos já registrados.
  ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127/
+  [18 (+400)/sem limite] fila=1009 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.arapoti.pr.gov.br/legislacao/download-lei/5127
+  [19 (+400)/sem limite] fila=1008 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125/
+  [20 (+400)/sem limite] fila=1007 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5125
+  [21 (+400)/sem limite] fila=1006 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5126/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126/
+  [22 (+400)/sem limite] fila=1005 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5126
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5126
+  [23 (+400)/sem limite] fila=1004 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5120/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120/
+  [24 (+400)/sem limite] fila=1003 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5120
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5120
+  [25 (+400)/sem limite] fila=1002 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5121/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121/
+  [26 (+400)/sem limite] fila=1001 | depth=2 | https://www.arapoti.pr.gov.br/legislacao/download-lei/5121
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/legislacao/download-lei/5121
+  [27 (+400)/sem limite] fila=1000 | depth=2 | https://www.arapoti.pr.gov.br/concurso/comprovante/30/processo-seletivo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/comprovante/30/processo-seletivo/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/comprovante/30/processo-seletivo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/comprovante/30/processo-seletivo/
+  [28 (+400)/sem limite] fila=999 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1000/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1000/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1000/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1000/
+  [29 (+400)/sem limite] fila=998 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/994/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/994/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/994/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/994/
+  [30 (+400)/sem limite] fila=997 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/991/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/991/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/991/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/991/
+  [31 (+400)/sem limite] fila=996 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/990/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/990/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/990/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/990/
+  [32 (+400)/sem limite] fila=995 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/988/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/988/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/988/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/988/
+  [33 (+400)/sem limite] fila=994 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/987/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/987/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/987/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/987/
+  [34 (+400)/sem limite] fila=993 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/986/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/986/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/986/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/986/
+  [35 (+400)/sem limite] fila=992 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/978/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/978/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/978/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/978/
+  [36 (+400)/sem limite] fila=991 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/979/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/979/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/979/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/979/
+  [37 (+400)/sem limite] fila=990 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/975/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/975/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/975/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/975/
+  [38 (+400)/sem limite] fila=989 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/973/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/973/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/973/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/973/
+  [39 (+400)/sem limite] fila=988 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/972/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/972/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/972/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/972/
+  [40 (+400)/sem limite] fila=987 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/971/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/971/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/971/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/971/
+  [41 (+400)/sem limite] fila=986 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/970/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/970/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/970/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/970/
+  [42 (+400)/sem limite] fila=985 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/961/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/961/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/961/
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.arapoti.pr.gov.br/concurso/download/961/
+  [43 (+400)/sem limite] fila=984 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/960/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/960/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/960/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/960/
+  [44 (+400)/sem limite] fila=983 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/956/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/956/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/956/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/956/
+  [45 (+400)/sem limite] fila=982 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/959/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/959/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/959/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/959/
+  [46 (+400)/sem limite] fila=981 | depth=2 | https://www.arapoti.pr.gov.br/concurso/comprovante/29/processo-seletivo/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/comprovante/29/processo-seletivo/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/comprovante/29/processo-seletivo/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/comprovante/29/processo-seletivo/
+  [47 (+400)/sem limite] fila=980 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1057/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1057/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1057/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1057/
+  [48 (+400)/sem limite] fila=979 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1055/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1055/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1055/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1055/
+  [49 (+400)/sem limite] fila=978 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1038/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1038/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1038/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1038/
+  [50 (+400)/sem limite] fila=977 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1037/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1037/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1037/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1037/
+  [51 (+400)/sem limite] fila=976 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1035/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1035/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1035/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1035/
+  [52 (+400)/sem limite] fila=975 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1034/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1034/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1034/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1034/
+  [53 (+400)/sem limite] fila=974 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1025/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1025/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1025/
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.arapoti.pr.gov.br/concurso/download/1025/
+  [54 (+400)/sem limite] fila=973 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1020/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1020/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1020/
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.arapoti.pr.gov.br/concurso/download/1020/
+  [55 (+400)/sem limite] fila=972 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1019/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1019/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1019/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1019/
+  [56 (+400)/sem limite] fila=971 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1018/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1018/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1018/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1018/
+  [57 (+400)/sem limite] fila=970 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1010/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1010/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1010/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1010/
+  [58 (+400)/sem limite] fila=969 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1009/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1009/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1009/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1009/
+  [59 (+400)/sem limite] fila=968 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/999/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/999/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/999/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/999/
+  [60 (+400)/sem limite] fila=967 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/976/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/976/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/976/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/976/
+  [61 (+400)/sem limite] fila=966 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/974/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/974/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/974/
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.arapoti.pr.gov.br/concurso/download/974/
+  [62 (+400)/sem limite] fila=965 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/968/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/968/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/968/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/968/
+  [63 (+400)/sem limite] fila=964 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/966/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/966/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/966/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/966/
+  [64 (+400)/sem limite] fila=963 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/965/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/965/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/965/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/965/
+  [65 (+400)/sem limite] fila=962 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/963/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/963/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/963/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/963/
+  [66 (+400)/sem limite] fila=961 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/954/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/954/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/954/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/954/
+  [67 (+400)/sem limite] fila=960 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/952/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/952/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/952/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/952/
+  [68 (+400)/sem limite] fila=959 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/951/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/951/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/951/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/951/
+  [69 (+400)/sem limite] fila=958 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/950/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/950/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/950/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/950/
+  [70 (+400)/sem limite] fila=957 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/949/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/949/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/949/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/949/
+  [71 (+400)/sem limite] fila=956 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/940/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/940/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/940/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/940/
+  [72 (+400)/sem limite] fila=955 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/938/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/938/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/938/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/938/
+  [73 (+400)/sem limite] fila=954 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/935/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/935/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/935/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/935/
+  [74 (+400)/sem limite] fila=953 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/933/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/933/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/933/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/933/
+  [75 (+400)/sem limite] fila=952 | depth=2 | https://www.arapoti.pr.gov.br/concurso/comprovante/28/concurso/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/comprovante/28/concurso/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/comprovante/28/concurso/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/comprovante/28/concurso/
+  [76 (+400)/sem limite] fila=951 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1054/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1054/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1054/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1054/
+  [77 (+400)/sem limite] fila=950 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1053/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1053/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1053/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1053/
+  [78 (+400)/sem limite] fila=949 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1052/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1052/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1052/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1052/
+  [79 (+400)/sem limite] fila=948 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1051/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1051/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1051/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1051/
+  [80 (+400)/sem limite] fila=947 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1046/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1046/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1046/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1046/
+  [81 (+400)/sem limite] fila=946 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1045/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1045/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1045/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1045/
+  [82 (+400)/sem limite] fila=945 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1044/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1044/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1044/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1044/
+  [83 (+400)/sem limite] fila=944 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1030/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1030/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1030/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1030/
+  [84 (+400)/sem limite] fila=943 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1029/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1029/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1029/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1029/
+  [85 (+400)/sem limite] fila=942 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1028/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1028/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1028/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1028/
+  [86 (+400)/sem limite] fila=941 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1027/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1027/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1027/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1027/
+  [87 (+400)/sem limite] fila=940 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1008/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1008/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1008/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1008/
+  [88 (+400)/sem limite] fila=939 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1007/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1007/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1007/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1007/
+  [89 (+400)/sem limite] fila=938 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/1003/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/1003/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/1003/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/1003/
+  [90 (+400)/sem limite] fila=937 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/981/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/981/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/981/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/981/
+  [91 (+400)/sem limite] fila=936 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/969/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/969/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/969/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/969/
+  [92 (+400)/sem limite] fila=935 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/958/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/958/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/958/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/958/
+  [93 (+400)/sem limite] fila=934 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/946/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/946/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/946/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/946/
+  [94 (+400)/sem limite] fila=933 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/928/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/928/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/928/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/928/
+  [95 (+400)/sem limite] fila=932 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/924/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/concurso/download/924/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/concurso/download/924/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/concurso/download/924/
+  [96 (+400)/sem limite] fila=931 | depth=2 | https://www.arapoti.pr.gov.br/concurso/download/926/

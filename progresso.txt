@@ -11,3 +11,6 @@ Problemas encontrados & Atividades:
 - [Solução] Usar a busca de portais da transparência com ajuste manual para as cidades que não conseguiu aplicar o crawler (0 ou 1 páginas, e/ou 0 arquivos).
 
 - [Lembrete] Identificar todas as cidades com uma semente (site da prefeitura), e cidades com mais de uma semente (cidades com a busca ajustada), número de cidades que não encontrou resultados (necessita de reprocessamento com busca e ajuste manual). Descrever quantas cidades ele falhou em buscar atomatizadamente e avaliar possibilidade de adição pela busca na web diretamente.
+
+Comentários:
+- xambre - tem muitos links que ele confunde com captcha, mas é uma página de erro 404.
