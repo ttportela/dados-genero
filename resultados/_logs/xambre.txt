@@ -143056,3 +143056,1011 @@ Inventário parcial carregado: 31006 arquivos já registrados.
   [660 (+30946)/sem limite] fila=10195 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626040
  ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626040
   🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626040
+  [661 (+30946)/sem limite] fila=10194 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626039
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626039
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626039
+  [662 (+30946)/sem limite] fila=10193 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626038
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626038
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626038
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626038
+  [663 (+30946)/sem limite] fila=10192 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626037
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626037
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626037
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626037
+  [664 (+30946)/sem limite] fila=10191 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626036
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626036
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626036
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626036
+  [665 (+30946)/sem limite] fila=10190 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626035
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626035
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626035
+  [666 (+30946)/sem limite] fila=10189 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626034
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626034
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626034
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626034
+  [667 (+30946)/sem limite] fila=10188 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626031
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626031
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626031
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626031
+  [668 (+30946)/sem limite] fila=10187 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626033
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626033
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626033
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626033
+  [669 (+30946)/sem limite] fila=10186 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626019
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626019
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626019
+  [670 (+30946)/sem limite] fila=10185 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626024
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626024
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626024
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626024
+  [671 (+30946)/sem limite] fila=10184 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626023
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626023
+  [672 (+30946)/sem limite] fila=10183 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626030
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626030
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626030
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626030
+  [673 (+30946)/sem limite] fila=10182 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626032
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626032
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626032
+  [674 (+30946)/sem limite] fila=10181 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626022
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626022
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626022
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626022
+  [675 (+30946)/sem limite] fila=10180 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626025
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626025
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626025
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626025
+  [676 (+30946)/sem limite] fila=10179 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626027
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626027
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626027
+  [677 (+30946)/sem limite] fila=10178 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626026
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626026
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626026
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626026
+  [678 (+30946)/sem limite] fila=10177 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626020
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626020
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626020
+  [679 (+30946)/sem limite] fila=10176 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626029
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626029
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626029
+  [680 (+30946)/sem limite] fila=10175 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626018
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626018
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626018
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626018
+  [681 (+30946)/sem limite] fila=10174 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626016
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626016
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626016
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626016
+  [682 (+30946)/sem limite] fila=10173 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626017
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626017
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626017
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626017
+  [683 (+30946)/sem limite] fila=10172 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626015
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626015
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626015
+  [684 (+30946)/sem limite] fila=10171 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626014
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626014
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626014
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626014
+  [685 (+30946)/sem limite] fila=10170 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626010
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626010
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626010
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626010
+  [686 (+30946)/sem limite] fila=10169 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626013
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626013
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626013
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626013
+  [687 (+30946)/sem limite] fila=10168 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626012
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626012
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626012
+  [688 (+30946)/sem limite] fila=10167 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626011
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626011
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626011
+  [689 (+30946)/sem limite] fila=10166 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626009
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626009
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626009
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626009
+  [690 (+30946)/sem limite] fila=10165 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626008
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626008
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626008
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626008
+  [691 (+30946)/sem limite] fila=10164 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626007
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626007
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626007
+  [692 (+30946)/sem limite] fila=10163 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626006
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626006
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626006
+  [693 (+30946)/sem limite] fila=10162 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626005
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626005
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626005
+  [694 (+30946)/sem limite] fila=10161 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626003
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626003
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626003
+  [695 (+30946)/sem limite] fila=10160 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626001
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626001
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626001
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626001
+  [696 (+30946)/sem limite] fila=10159 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626002
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626002
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626002
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626002
+  [697 (+30946)/sem limite] fila=10158 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626000
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626000
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626000
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626000
+  [698 (+30946)/sem limite] fila=10157 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625999
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625999
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625999
+  [699 (+30946)/sem limite] fila=10156 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625998
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625998
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625998
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625998
+  [700 (+30946)/sem limite] fila=10155 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625994
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625994
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625994
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625994
+  [701 (+30946)/sem limite] fila=10154 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625997
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625997
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625997
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625997
+  [702 (+30946)/sem limite] fila=10153 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625995
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625995
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625995
+  [703 (+30946)/sem limite] fila=10152 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2625995
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2625995
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2625995
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2625995
+  [704 (+30946)/sem limite] fila=10151 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625996
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625996
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625996
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625996
+  [705 (+30946)/sem limite] fila=10150 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625993
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625993
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625993
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625993
+  [706 (+30946)/sem limite] fila=10149 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625992
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625992
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625992
+  [707 (+30946)/sem limite] fila=10148 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2625992
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2625992
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2625992
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2625992
+  [708 (+30946)/sem limite] fila=10147 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625991
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625991
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625991
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625991
+  [709 (+30946)/sem limite] fila=10146 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625990
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625990
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625990
+  [710 (+30946)/sem limite] fila=10145 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625241
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625241
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625241
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625241
+  [711 (+30946)/sem limite] fila=10144 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625240
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625240
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625240
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625240
+  [712 (+30946)/sem limite] fila=10143 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2625238
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625238
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625238
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2625238
+  [713 (+30946)/sem limite] fila=10142 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2624546
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624546
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624546
+  [714 (+30946)/sem limite] fila=10141 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2624545
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624545
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624545
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624545
+  [715 (+30946)/sem limite] fila=10140 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2624544
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624544
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624544
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624544
+  [716 (+30946)/sem limite] fila=10139 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2624361
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624361
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624361
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624361
+  [717 (+30946)/sem limite] fila=10138 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2624246
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624246
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2624246
+  [718 (+30946)/sem limite] fila=10137 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2623822
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623822
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623822
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623822
+  [719 (+30946)/sem limite] fila=10136 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2623052
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623052
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623052
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2623052
+  [720 (+30946)/sem limite] fila=10135 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622724
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622724
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622724
+  [721 (+30946)/sem limite] fila=10134 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622726
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622726
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622726
+  [722 (+30946)/sem limite] fila=10133 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622761
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622761
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622761
+  [723 (+30946)/sem limite] fila=10132 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622760
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622760
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622760
+  [724 (+30946)/sem limite] fila=10131 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622762
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622762
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622762
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622762
+  [725 (+30946)/sem limite] fila=10130 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622771
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622771
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622771
+  [726 (+30946)/sem limite] fila=10129 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622347
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622347
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622347
+  [727 (+30946)/sem limite] fila=10128 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622343
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622343
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622343
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622343
+  [728 (+30946)/sem limite] fila=10127 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622038
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622038
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622038
+  [729 (+30946)/sem limite] fila=10126 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2622063
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622063
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622063
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2622063
+  [730 (+30946)/sem limite] fila=10125 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621984
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621984
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621984
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621984
+  [731 (+30946)/sem limite] fila=10124 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621795
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621795
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621795
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621795
+  [732 (+30946)/sem limite] fila=10123 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621796
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621796
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621796
+  [733 (+30946)/sem limite] fila=10122 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621799
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621799
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621799
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621799
+  [734 (+30946)/sem limite] fila=10121 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621797
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621797
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621797
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621797
+  [735 (+30946)/sem limite] fila=10120 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621798
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621798
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621798
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621798
+  [736 (+30946)/sem limite] fila=10119 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2621510
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621510
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2621510
+  [737 (+30946)/sem limite] fila=10118 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2615662
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615662
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615662
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615662
+  [738 (+30946)/sem limite] fila=10117 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2615354
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615354
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615354
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615354
+  [739 (+30946)/sem limite] fila=10116 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2615352
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615352
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615352
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2615352
+  [740 (+30946)/sem limite] fila=10115 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2614841
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614841
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614841
+  [741 (+30946)/sem limite] fila=10114 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2614839
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614839
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614839
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614839
+  [742 (+30946)/sem limite] fila=10113 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2614639
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614639
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614639
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614639
+  [743 (+30946)/sem limite] fila=10112 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2614638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614638
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614638
+  [744 (+30946)/sem limite] fila=10111 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2614565
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614565
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614565
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2614565
+  [745 (+30946)/sem limite] fila=10110 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2606938
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2606938
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2606938
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2606938
+  [746 (+30946)/sem limite] fila=10109 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2606938
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2606938
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2606938
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2606938
+  [747 (+30946)/sem limite] fila=10108 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605407
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605407
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605407
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605407
+  [748 (+30946)/sem limite] fila=10107 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2605407
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2605407
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2605407
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2605407
+  [749 (+30946)/sem limite] fila=10106 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605408
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605408
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605408
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605408
+  [750 (+30946)/sem limite] fila=10105 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605402
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605402
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605402
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605402
+  [751 (+30946)/sem limite] fila=10104 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605403
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605403
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605403
+  [752 (+30946)/sem limite] fila=10103 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605404
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605404
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605404
+  [753 (+30946)/sem limite] fila=10102 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605405
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605405
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605405
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605405
+  [754 (+30946)/sem limite] fila=10101 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605406
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605406
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605406
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605406
+  [755 (+30946)/sem limite] fila=10100 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2605307
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605307
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2605307
+  [756 (+30946)/sem limite] fila=10099 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2604690
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604690
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604690
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604690
+  [757 (+30946)/sem limite] fila=10098 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2604691
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604691
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604691
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604691
+  [758 (+30946)/sem limite] fila=10097 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2604698
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604698
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604698
+  [759 (+30946)/sem limite] fila=10096 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2604695
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604695
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604695
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2604695
+  [760 (+30946)/sem limite] fila=10095 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2599539
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2599539
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2599539
+  [761 (+30946)/sem limite] fila=10094 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2599540
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2599540
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2599540
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2599540
+  [762 (+30946)/sem limite] fila=10093 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2598638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598638
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598638
+  [763 (+30946)/sem limite] fila=10092 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2598638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2598638
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2598638
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2598638
+  [764 (+30946)/sem limite] fila=10091 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2598637
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598637
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598637
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2598637
+  [765 (+30946)/sem limite] fila=10090 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2597225
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2597225
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2597225
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2597225
+  [766 (+30946)/sem limite] fila=10089 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2596099
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2596099
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2596099
+  [767 (+30946)/sem limite] fila=10088 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2594349
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2594349
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2594349
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2594349
+  [768 (+30946)/sem limite] fila=10087 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2592872
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592872
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592872
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592872
+  [769 (+30946)/sem limite] fila=10086 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2592762
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592762
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592762
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592762
+  [770 (+30946)/sem limite] fila=10085 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2592752
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592752
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592752
+  [771 (+30946)/sem limite] fila=10084 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2592743
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592743
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592743
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2592743
+  [772 (+30946)/sem limite] fila=10083 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586865
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586865
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586865
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586865
+  [773 (+30946)/sem limite] fila=10082 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586896
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586896
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586896
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586896
+  [774 (+30946)/sem limite] fila=10081 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586864
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586864
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586864
+  [775 (+30946)/sem limite] fila=10080 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586351
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586351
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586351
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586351
+  [776 (+30946)/sem limite] fila=10079 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586152
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586152
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586152
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586152
+  [777 (+30946)/sem limite] fila=10078 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586153
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586153
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586153
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586153
+  [778 (+30946)/sem limite] fila=10077 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586154
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586154
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586154
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586154
+  [779 (+30946)/sem limite] fila=10076 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2586155
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586155
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2586155
+  [780 (+30946)/sem limite] fila=10075 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2585585
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2585585
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2585585
+  [781 (+30946)/sem limite] fila=10074 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2585734
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2585734
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2585734
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2585734
+  [782 (+30946)/sem limite] fila=10073 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580530
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580530
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580530
+  [783 (+30946)/sem limite] fila=10072 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580529
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580529
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580529
+  [784 (+30946)/sem limite] fila=10071 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580532
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580532
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580532
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580532
+  [785 (+30946)/sem limite] fila=10070 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580536
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580536
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580536
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580536
+  [786 (+30946)/sem limite] fila=10069 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580534
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580534
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580534
+  [787 (+30946)/sem limite] fila=10068 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580538
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580538
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580538
+  [788 (+30946)/sem limite] fila=10067 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2580538
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2580538
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2580538
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2580538
+  [789 (+30946)/sem limite] fila=10066 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580545
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580545
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580545
+  [790 (+30946)/sem limite] fila=10065 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580547
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580547
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580547
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580547
+  [791 (+30946)/sem limite] fila=10064 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580539
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580539
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580539
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580539
+  [792 (+30946)/sem limite] fila=10063 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580549
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580549
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580549
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580549
+  [793 (+30946)/sem limite] fila=10062 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2580541
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580541
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2580541
+  [794 (+30946)/sem limite] fila=10061 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2579942
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579942
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579942
+  [795 (+30946)/sem limite] fila=10060 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2579464
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579464
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579464
+  [796 (+30946)/sem limite] fila=10059 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2579466
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579466
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579466
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2579466
+  [797 (+30946)/sem limite] fila=10058 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578420
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578420
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578420
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578420
+  [798 (+30946)/sem limite] fila=10057 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578480
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578480
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578480
+  [799 (+30946)/sem limite] fila=10056 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578479
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578479
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578479
+  [800 (+30946)/sem limite] fila=10055 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578467
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578467
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578467
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578467
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_links.xlsx
+  31006 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/erros_varredura.xlsx
+  19940 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_externos.xlsx
+  24365 links externos registrados.
+  Checkpoint salvo (31746 páginas totais | 800 nesta sessão).
+  [801 (+30946)/sem limite] fila=10054 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578478
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578478
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578478
+  [802 (+30946)/sem limite] fila=10053 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2578458
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578458
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2578458
+  [803 (+30946)/sem limite] fila=10052 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2576753
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576753
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576753
+  [804 (+30946)/sem limite] fila=10051 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2576577
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576577
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576577
+  [805 (+30946)/sem limite] fila=10050 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2576580
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576580
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576580
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576580
+  [806 (+30946)/sem limite] fila=10049 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2576582
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576582
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2576582
+  [807 (+30946)/sem limite] fila=10048 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2574594
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574594
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574594
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574594
+  [808 (+30946)/sem limite] fila=10047 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2574593
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574593
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574593
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2574593
+  [809 (+30946)/sem limite] fila=10046 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2572829
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2572829
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2572829
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2572829
+  [810 (+30946)/sem limite] fila=10045 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2571114
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571114
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571114
+  [811 (+30946)/sem limite] fila=10044 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2571078
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571078
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571078
+  [812 (+30946)/sem limite] fila=10043 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2571171
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571171
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571171
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2571171
+  [813 (+30946)/sem limite] fila=10042 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2570292
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2570292
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2570292
+  [814 (+30946)/sem limite] fila=10041 | depth=5 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2570292
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2570292
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2570292
+  [815 (+30946)/sem limite] fila=10040 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2569646
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569646
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569646
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569646
+  [816 (+30946)/sem limite] fila=10039 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2569307
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569307
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569307
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569307
+  [817 (+30946)/sem limite] fila=10038 | depth=5 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2569312
+ ❌ HTTP_502: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569312
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2569312
+  [818 (+30946)/sem limite] fila=10037 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=133
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=133
+  [819 (+30946)/sem limite] fila=10036 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=133
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=133
+  [820 (+30946)/sem limite] fila=10035 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=133
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=133
+  [821 (+30946)/sem limite] fila=10034 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=132
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=132
+  [822 (+30946)/sem limite] fila=10033 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=132
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=132
+  [823 (+30946)/sem limite] fila=10032 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=132
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=132
+  [824 (+30946)/sem limite] fila=10031 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=131
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=131
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=131
+  [825 (+30946)/sem limite] fila=10030 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=131
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=131
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=131
+  [826 (+30946)/sem limite] fila=10029 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=131
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=131
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=131
+  [827 (+30946)/sem limite] fila=10028 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=130
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=130
+  [828 (+30946)/sem limite] fila=10027 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=130
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=130
+  [829 (+30946)/sem limite] fila=10026 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=130
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=130
+  [830 (+30946)/sem limite] fila=10025 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=129
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=129
+  [831 (+30946)/sem limite] fila=10024 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=129
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=129
+  [832 (+30946)/sem limite] fila=10023 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=129
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=129
+  [833 (+30946)/sem limite] fila=10022 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=128
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=128
+  [834 (+30946)/sem limite] fila=10021 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=128
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=128
+  [835 (+30946)/sem limite] fila=10020 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=128
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=128
+  [836 (+30946)/sem limite] fila=10019 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=127
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=127
+  [837 (+30946)/sem limite] fila=10018 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=127
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=127
+  [838 (+30946)/sem limite] fila=10017 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=127
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=127
+  [839 (+30946)/sem limite] fila=10016 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=126
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=126
+  [840 (+30946)/sem limite] fila=10015 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=126
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=126
+  [841 (+30946)/sem limite] fila=10014 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=126
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=126
+  [842 (+30946)/sem limite] fila=10013 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=124
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=124
+  [843 (+30946)/sem limite] fila=10012 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=124
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=124
+  [844 (+30946)/sem limite] fila=10011 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=124
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=124
+  [845 (+30946)/sem limite] fila=10010 | depth=5 | https://xambre.pr.gov.br/transparencia/impressao?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=125
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/impressao?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/impressao?id=125
+  [846 (+30946)/sem limite] fila=10009 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-txt?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-txt?id=125
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-txt?id=125
+  [847 (+30946)/sem limite] fila=10008 | depth=5 | https://xambre.pr.gov.br/transparencia/exportar-csv?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=125
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/transparencia/exportar-csv?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/transparencia/exportar-csv?id=125
+  [848 (+30946)/sem limite] fila=10007 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492143
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492143
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492143
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492143
+  [849 (+30946)/sem limite] fila=10006 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492144
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492144
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492144
+  [850 (+30946)/sem limite] fila=10005 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492145
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492145
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492145
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492145
+  [851 (+30946)/sem limite] fila=10004 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492146
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492146
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492146
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492146
+  [852 (+30946)/sem limite] fila=10003 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492147
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492147
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492147
+  [853 (+30946)/sem limite] fila=10002 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492037
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492037
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492037
+  [854 (+30946)/sem limite] fila=10001 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492038
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492038
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492038
+  [855 (+30946)/sem limite] fila=10000 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492039
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492039
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492039
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492039
+  [856 (+30946)/sem limite] fila=9999 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492040
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492040
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492040
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492040
+  [857 (+30946)/sem limite] fila=9998 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492041
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492041
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492041
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492041
+  [858 (+30946)/sem limite] fila=9997 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492042
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492042
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492042
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492042
+  [859 (+30946)/sem limite] fila=9996 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492150
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492150
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492150
+  [860 (+30946)/sem limite] fila=9995 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492158
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492158
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492158
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492158
+  [861 (+30946)/sem limite] fila=9994 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492033
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492033
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492033
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492033
+  [862 (+30946)/sem limite] fila=9993 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492034
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492034
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492034
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492034
+  [863 (+30946)/sem limite] fila=9992 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492035
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492035
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492035
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492035
+  [864 (+30946)/sem limite] fila=9991 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492036
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492036
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492036
+  [865 (+30946)/sem limite] fila=9990 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492159
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492159
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492159
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492159
+  [866 (+30946)/sem limite] fila=9989 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492165
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492165
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492165
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492165
+  [867 (+30946)/sem limite] fila=9988 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492167
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492167
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492167
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492167
+  [868 (+30946)/sem limite] fila=9987 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492168
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492168
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492168
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492168
+  [869 (+30946)/sem limite] fila=9986 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492043
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492043
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492043
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492043
+  [870 (+30946)/sem limite] fila=9985 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492044
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492044
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492044
+  [871 (+30946)/sem limite] fila=9984 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492045
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492045
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492045
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492045
+  [872 (+30946)/sem limite] fila=9983 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492046
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492046
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492046
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492046
+  [873 (+30946)/sem limite] fila=9982 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492047
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492047
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492047
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492047
+  [874 (+30946)/sem limite] fila=9981 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492048
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492048
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492048
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492048
+  [875 (+30946)/sem limite] fila=9980 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492049
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492049
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492049
+  [876 (+30946)/sem limite] fila=9979 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492050
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492050
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492050
+  [877 (+30946)/sem limite] fila=9978 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492058
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492058
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492058
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492058
+  [878 (+30946)/sem limite] fila=9977 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492059
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492059
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492059
+  [879 (+30946)/sem limite] fila=9976 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492060
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492060
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492060
+  [880 (+30946)/sem limite] fila=9975 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492061
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492061
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492061
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492061
+  [881 (+30946)/sem limite] fila=9974 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492062
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492062
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492062
+  [882 (+30946)/sem limite] fila=9973 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492063
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492063
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492063
+  [883 (+30946)/sem limite] fila=9972 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492064
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492064
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492064
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492064
+  [884 (+30946)/sem limite] fila=9971 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492065
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492065
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492065
+  [885 (+30946)/sem limite] fila=9970 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492066
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492066
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492066
+  [886 (+30946)/sem limite] fila=9969 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492067
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492067
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492067
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492067
+  [887 (+30946)/sem limite] fila=9968 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492068
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492068
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492068
+  [888 (+30946)/sem limite] fila=9967 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492069
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492069
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492069
+  [889 (+30946)/sem limite] fila=9966 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492070
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492070
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492070
+  [890 (+30946)/sem limite] fila=9965 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492071
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492071
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492071
+  [891 (+30946)/sem limite] fila=9964 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492072
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492072
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492072
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492072
+  [892 (+30946)/sem limite] fila=9963 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492073
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492073
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492073
+  [893 (+30946)/sem limite] fila=9962 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492074
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492074
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492074
+  [894 (+30946)/sem limite] fila=9961 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492075
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492075
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492075
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492075
+  [895 (+30946)/sem limite] fila=9960 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492076
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492076
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492076
+  [896 (+30946)/sem limite] fila=9959 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492077
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492077
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492077
+  [897 (+30946)/sem limite] fila=9958 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492078
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492078
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492078
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492078
+  [898 (+30946)/sem limite] fila=9957 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492079
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492079
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492079
+  [899 (+30946)/sem limite] fila=9956 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492104
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492104
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492104
+  [900 (+30946)/sem limite] fila=9955 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492105
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492105
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492105
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492105
+  [901 (+30946)/sem limite] fila=9954 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492106
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492106
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492106
+  [902 (+30946)/sem limite] fila=9953 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492107
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492107
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492107
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492107
+  [903 (+30946)/sem limite] fila=9952 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492108
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492108
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492108
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492108
+  [904 (+30946)/sem limite] fila=9951 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492109
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492109
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492109
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492109
+  [905 (+30946)/sem limite] fila=9950 | depth=5 | https://xambre.pr.gov.br/documento/exportar-txt?id=2492109
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/exportar-txt?id=2492109
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/exportar-txt?id=2492109
+  [906 (+30946)/sem limite] fila=9949 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492110
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492110
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492110
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492110
+  [907 (+30946)/sem limite] fila=9948 | depth=5 | https://xambre.pr.gov.br/documento/impressao?id=2492111
+ ❌ HTTP_502: https://xambre.pr.gov.br/documento/impressao?id=2492111
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/documento/impressao?id=2492111
+  [908 (+30946)/sem limite] fila=9947 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=145
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=145
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=145
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=145
+  [909 (+30946)/sem limite] fila=9946 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=143
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=143
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=143
+  [910 (+30946)/sem limite] fila=9945 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=144
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=144
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=144
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=144
+  [911 (+30946)/sem limite] fila=9944 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=142
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=142
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=142
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=142
+  [912 (+30946)/sem limite] fila=9943 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=141
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=141
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=141
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=141
+  [913 (+30946)/sem limite] fila=9942 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=140
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=140
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=140
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=140
+  [914 (+30946)/sem limite] fila=9941 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=139
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=139
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=139
+  [915 (+30946)/sem limite] fila=9940 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=137
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=137
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=137
+  [916 (+30946)/sem limite] fila=9939 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=136
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=136
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=136
+  [917 (+30946)/sem limite] fila=9938 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=138
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=138
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=138
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=138
+  [918 (+30946)/sem limite] fila=9937 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=135
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=135
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=135
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=135
+  [919 (+30946)/sem limite] fila=9936 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=133
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=133
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=133
+  [920 (+30946)/sem limite] fila=9935 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=134
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=134
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=134
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=134
+  [921 (+30946)/sem limite] fila=9934 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=132
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=132
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=132
+  [922 (+30946)/sem limite] fila=9933 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=131
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=131
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=131
+  [923 (+30946)/sem limite] fila=9932 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=130
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=130
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=130
+  [924 (+30946)/sem limite] fila=9931 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=85
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=85
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=85
+  [925 (+30946)/sem limite] fila=9930 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=127
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=127
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=127
+  [926 (+30946)/sem limite] fila=9929 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=129
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=129
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=129
+  [927 (+30946)/sem limite] fila=9928 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=128
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=128
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=128
+  [928 (+30946)/sem limite] fila=9927 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=126
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=126
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=126
+  [929 (+30946)/sem limite] fila=9926 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=125
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=125
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=125
+  [930 (+30946)/sem limite] fila=9925 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=124
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=124
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=124
+  [931 (+30946)/sem limite] fila=9924 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=123
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=123
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=123
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=123
+  [932 (+30946)/sem limite] fila=9923 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=122
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=122
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=122
+  [933 (+30946)/sem limite] fila=9922 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=121
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=121
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=121
+  [934 (+30946)/sem limite] fila=9921 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=120
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=120
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=120
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=120
+  [935 (+30946)/sem limite] fila=9920 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=119
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=119
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=119
+  [936 (+30946)/sem limite] fila=9919 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=118
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=118
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=118
+  [937 (+30946)/sem limite] fila=9918 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=117
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=117
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=117
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=117
+  [938 (+30946)/sem limite] fila=9917 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=116
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=116
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=116
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=116
+  [939 (+30946)/sem limite] fila=9916 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=115
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=115
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=115
+  [940 (+30946)/sem limite] fila=9915 | depth=5 | https://xambre.pr.gov.br/licitacao/impressao?id=114
+ ❌ HTTP_502: https://xambre.pr.gov.br/licitacao/impressao?id=114
+  🤖 Usando Selenium para: https://xambre.pr.gov.br/licitacao/impressao?id=114

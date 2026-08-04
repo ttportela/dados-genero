@@ -39627,3 +39627,77 @@ Inventário parcial carregado: 9346 arquivos já registrados.
   [42 (+23579)/sem limite] fila=147 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/3/
  ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/3/
   🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/3/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/3/
+  [43 (+23579)/sem limite] fila=146 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/5/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/5/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/5/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/5/
+  [44 (+23579)/sem limite] fila=145 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/7/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/7/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/7/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/7/
+  [45 (+23579)/sem limite] fila=144 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/9/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/9/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/9/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/9/
+  [46 (+23579)/sem limite] fila=143 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/10/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/10/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/10/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/10/
+  [47 (+23579)/sem limite] fila=142 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/12/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/12/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/12/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/12/
+  [48 (+23579)/sem limite] fila=141 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/13/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/13/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/13/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/13/
+  [49 (+23579)/sem limite] fila=140 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/8/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/8/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/8/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/8/
+  [50 (+23579)/sem limite] fila=139 | depth=2 | https://arapoti.pr.gov.br/comissao/comissao/gerencia/11/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/comissao/comissao/gerencia/11/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/comissao/comissao/gerencia/11/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/comissao/comissao/gerencia/11/
+  [51 (+23579)/sem limite] fila=138 | depth=2 | https://arapoti.pr.gov.br/fale-conosco/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/fale-conosco/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/fale-conosco/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/fale-conosco/
+  [52 (+23579)/sem limite] fila=137 | depth=2 | https://arapoti.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/termos-e-condicoes-gerais-de-uso/
+  [53 (+23579)/sem limite] fila=136 | depth=2 | https://arapoti.pr.gov.br/politicas-de-cookies/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/politicas-de-cookies/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/politicas-de-cookies/
+ ❌ SELENIUM_ERRO: WebDriverException: https://arapoti.pr.gov.br/politicas-de-cookies/
+  [54 (+23579)/sem limite] fila=135 | depth=2 | https://arapoti.pr.gov.br/lgpd/
+ ❌ TIMEOUT_OU_CONEXAO: https://arapoti.pr.gov.br/lgpd/
+  🤖 Usando Selenium para: https://arapoti.pr.gov.br/lgpd/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://arapoti.pr.gov.br/lgpd/
+  [55 (+23579)/sem limite] fila=134 | depth=2 | https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/3/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/3/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/3/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/3/
+  [56 (+23579)/sem limite] fila=133 | depth=2 | https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/2/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/2/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/2/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/2/
+  [57 (+23579)/sem limite] fila=132 | depth=2 | https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/1/
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/1/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/1/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/pagina/7/subvencoes/download/1/
+  [58 (+23579)/sem limite] fila=131 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6016/escola-recebe-programa-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/noticia/print-noticia/6016/escola-recebe-programa-feira-verde/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6016/escola-recebe-programa-feira-verde/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/noticia/print-noticia/6016/escola-recebe-programa-feira-verde/
+  [59 (+23579)/sem limite] fila=130 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5999/junho-verde-mobiliza-escolas-por-sust
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/noticia/5999/junho-verde-mobiliza-escolas-por-sustentabilidade/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/5999/junho-verde-mobiliza-escolas-por-sustentabilidade/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/noticia/5999/junho-verde-mobiliza-escolas-por-sustentabilidade/
+  [60 (+23579)/sem limite] fila=129 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-proteca
+ ❌ TIMEOUT_OU_CONEXAO: https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-protecao-municipal/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-protecao-municipal/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-protecao-municipal/
+  [61 (+23579)/sem limite] fila=128 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6015/secretaria-reune-grupos
