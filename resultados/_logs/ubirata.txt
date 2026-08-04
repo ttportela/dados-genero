@@ -1,0 +1,113 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UBIRATA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: UBIRATA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.ubirata.pr.gov.br/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/historia_memo
+  [2/sem limite] fila=32 | depth=1 | https://www.ubirata.pr.gov.br/acessibilidade
+  [3/sem limite] fila=31 | depth=1 | https://www.ubirata.pr.gov.br
+  [4/sem limite] fila=30 | depth=1 | https://www.ubirata.pr.gov.br/bandeira-e-brasao/
+  📄 [200] .rar -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/arquivos_core
+  [5/sem limite] fila=29 | depth=1 | https://www.ubirata.pr.gov.br/demografia-geografia/
+  [6/sem limite] fila=28 | depth=1 | https://www.ubirata.pr.gov.br/hino/
+  📄 [200] .rar -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/hino_de_ubira
+  [7/sem limite] fila=27 | depth=1 | https://www.ubirata.pr.gov.br/galeria-de-prefeitos/
+  [8/sem limite] fila=26 | depth=1 | https://www.ubirata.pr.gov.br/historia/
+  [9/sem limite] fila=25 | depth=1 | https://www.ubirata.pr.gov.br/logomarca-da-adm/
+  [10/sem limite] fila=24 | depth=1 | https://www.ubirata.pr.gov.br/gestao-atual/
+  [11/sem limite] fila=23 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/administracao/
+  [12/sem limite] fila=22 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/agricultura-pecuaria-e-abastecimento/
+  [13/sem limite] fila=22 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/assistencia-social/
+  [14/sem limite] fila=21 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/coordenacao-geral-do-governo/
+  [15/sem limite] fila=20 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/desenvolvimento-economico/
+  [16/sem limite] fila=19 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/educacao-e-cultura/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/INSTRUCAO-NOR
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/INSTRUCAO-NOR
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Anexo-Classif
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CLASSIFICACAO
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Instrucao-Nor
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Classificacao
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Decreto-112-2
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Decreto-no-13
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Homologacao-P
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Portaria-no-1
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Ato-no-1-2020
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Decreto-no-67
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Anexo-I-Decre
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Anexo-III-Dec
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Decreto-84-20
+  [17/sem limite] fila=18 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/esporte-e-lazer/
+  [18/sem limite] fila=17 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/financas-e-planejamento/
+  [19/sem limite] fila=16 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/gabinete-do-prefeito/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/RECOMENDACAO-
+  [20/sem limite] fila=15 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/obras/
+  [21/sem limite] fila=14 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/saude/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/7a-EDICAO-DO-
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/17o-BOLETIM-E
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/APRESENTACAO-
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/AVISO-DE-SUSP
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-27-co
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-28-co
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-37-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-38-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-51-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-52-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-53-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-54-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-55-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-66-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-67-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-85-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-87-20
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DECRETO-N°-39
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/Decreto-que-r
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DETERMINACAO-
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/DOCUMENTO-QUE
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/GUIA-DE-ISOLA
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/LEI-DE-LIMPEZ
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/OFICIO-No-261
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/PLANO-MUNICIP
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/RECOMENDACAO-
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/TODOS-OS-DECR
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/APRESENTACAO-
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/PLANO-MUNICIP
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/RESULTADOS-DA
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/PROTOCOLO-PAR
+  [22/sem limite] fila=13 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/servicos-urbanos/
+  [23/sem limite] fila=12 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/viacao-e-servicos-rurais/
+  [24/sem limite] fila=11 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/pavimentacao/
+  [25/sem limite] fila=10 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/procuradoria-geral/
+  [26/sem limite] fila=9 | depth=1 | https://www.ubirata.pr.gov.br/secretarias/controladoria-geral/
+  [27/sem limite] fila=8 | depth=1 | https://www.ubirata.pr.gov.br/emails-da-prefeitura/
+  [28/sem limite] fila=7 | depth=1 | https://www.ubirata.pr.gov.br/mapa-do-site/
+  [29/sem limite] fila=7 | depth=1 | https://www.ubirata.pr.gov.br/pesquisa-de-satisfacao-e/
+  [30/sem limite] fila=6 | depth=1 | https://www.ubirata.pr.gov.br/noticias

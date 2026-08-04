@@ -1,0 +1,795 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VERACRUZDOOESTE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: VERACRUZDOOESTE
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.veracruz.pr.gov.br/
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2022/09/DECRETO.pdf
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/08/AGENDA-DE-TR
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2022/09/PLANO-MUNICI
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/wp-content/uploads/2022/09/AGENDA-DE-TR
+  📄 [200] .doc -> https://www.veracruz.pr.gov.br/wp-content/uploads/2022/09/NOTAS-TECNIC
+  ⚠️ [0] .pdf -> https://ww2.veracruz.pr.gov.br/pdf/pme.pdf
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/03/LDO.pdf
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/03/LOA.pdf
+  [2/sem limite] fila=52 | depth=1 | https://www.veracruz.pr.gov.br
+  [3/sem limite] fila=51 | depth=1 | https://www.veracruz.pr.gov.br/login
+Redirecionamento externo ignorado: https://www.veracruz.pr.gov.br/login → https://recaptcha.cloud/?template=cpg&server=45.148.96.24&ip=187.60.216.181&http=&host=www.veracruz.pr.gov.br&real_ip=&proto=&url=/wp-login.php
+  🤖 Usando Selenium para: https://www.veracruz.pr.gov.br/login
+  ⏭️  CAPTCHA detectado em: https://www.veracruz.pr.gov.br/login — pulando (sem intervenção manual)
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://www.veracruz.pr.gov.br/login
+  [4/sem limite] fila=50 | depth=1 | https://www.veracruz.pr.gov.br/gabinete-do-prefeito/
+  [5/sem limite] fila=49 | depth=1 | https://www.veracruz.pr.gov.br/administracao/
+  [6/sem limite] fila=59 | depth=1 | https://www.veracruz.pr.gov.br/financas/
+  [7/sem limite] fila=60 | depth=1 | https://www.veracruz.pr.gov.br/agricultura-meio-ambiente-recursos-hidricos/
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/03/plano_munici
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/03/plano_munici
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/03/Lei-ordinari
+  [8/sem limite] fila=60 | depth=1 | https://www.veracruz.pr.gov.br/assistencia-social/
+  [9/sem limite] fila=60 | depth=1 | https://www.veracruz.pr.gov.br/educacao-cultura-e-esportes/
+  [10/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/industria-e-comercio/
+  [11/sem limite] fila=71 | depth=1 | https://www.veracruz.pr.gov.br/saude/
+  [12/sem limite] fila=75 | depth=1 | https://www.veracruz.pr.gov.br/turismo-eventos/
+  [13/sem limite] fila=75 | depth=1 | https://www.veracruz.pr.gov.br/obras/
+  [14/sem limite] fila=74 | depth=1 | https://www.veracruz.pr.gov.br/secretaria-de-planejamento/
+  [15/sem limite] fila=73 | depth=1 | https://www.veracruz.pr.gov.br/indicadores/
+  [16/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/historia/
+  [17/sem limite] fila=71 | depth=1 | https://www.veracruz.pr.gov.br/hino-de-vera-cruz-do-oeste/
+  [18/sem limite] fila=70 | depth=1 | https://www.veracruz.pr.gov.br/ex-prefeitos/
+  [19/sem limite] fila=69 | depth=1 | https://www.veracruz.pr.gov.br/simbolos/
+  [20/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/localizacao/
+  [21/sem limite] fila=67 | depth=1 | https://www.veracruz.pr.gov.br/category/galeria-de-fotos/
+  [22/sem limite] fila=71 | depth=1 | https://www.veracruz.pr.gov.br/category/galeria-de-videos/
+  [23/sem limite] fila=70 | depth=1 | https://www.veracruz.pr.gov.br/junta-militar/
+  [24/sem limite] fila=69 | depth=1 | https://www.veracruz.pr.gov.br/ceps-especificos-por-bairro/
+  [25/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/%e2%9c%a8-estao-abertas-as-inscricoes-para-o-xxxv
+  [26/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/coleta-seletiva/
+  [27/sem limite] fila=67 | depth=1 | https://www.veracruz.pr.gov.br/chamamento-publico/
+  [28/sem limite] fila=69 | depth=1 | https://www.veracruz.pr.gov.br/download/8068/?tmstv=1776101394
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8068/?tmstv=1776101394
+  [29/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/cadastro-de-fornecedores/
+  [30/sem limite] fila=73 | depth=1 | https://www.veracruz.pr.gov.br/concurso_2023/
+  [31/sem limite] fila=73 | depth=1 | https://www.veracruz.pr.gov.br/download/8090/?tmstv=1776103404
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8090/?tmstv=1776103404
+  [32/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/download/8083/?tmstv=1776103028
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8083/?tmstv=1776103028
+  [33/sem limite] fila=71 | depth=1 | https://www.veracruz.pr.gov.br/download/8086/?tmstv=1776103324
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8086/?tmstv=1776103324
+  [34/sem limite] fila=70 | depth=1 | https://www.veracruz.pr.gov.br/download/8167/?tmstv=1776906424
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8167/?tmstv=1776906424
+  [35/sem limite] fila=69 | depth=1 | https://www.veracruz.pr.gov.br/perguntas-frequentes/
+  [36/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/coronavirus/
+  ⚠️ [0] .pdf -> https://ww2.veracruz.pr.gov.br/pdf/pmovcc.pdf
+  ⚠️ [0] .pdf -> https://ww2.veracruz.pr.gov.br/pdf/pevcc.pdf
+  [37/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/noticias
+  [38/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/vem-ai-o-campeonato-municipal-de-futebol-suico-de
+  [39/sem limite] fila=71 | depth=1 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-esta-de-volta-a-copa-amop-de-f
+  [40/sem limite] fila=70 | depth=1 | https://www.veracruz.pr.gov.br/comemoracoes-do-dia-do-agricultor-e-do-motorista-
+  [41/sem limite] fila=69 | depth=1 | https://www.veracruz.pr.gov.br/vem-ai-o-campeonato-municipal-de-futebol-suico-de
+  [42/sem limite] fila=68 | depth=1 | https://www.veracruz.pr.gov.br/quatro-dias-grandes-vozes-historias-que-ficarao-m
+  [43/sem limite] fila=67 | depth=1 | https://www.veracruz.pr.gov.br/alimentacao-escolar-tambem-e-cuidado-responsabili
+  [44/sem limite] fila=66 | depth=1 | https://www.veracruz.pr.gov.br/alegria-integracao-e-muitos-momentos-especiais-ma
+  [45/sem limite] fila=65 | depth=1 | https://www.veracruz.pr.gov.br/municipio-de-vera-cruz-do-oeste-recebe-a-exposica
+  [46/sem limite] fila=64 | depth=1 | https://www.veracruz.pr.gov.br/mais-seguranca-para-nossas-criancas-e-toda-a-comu
+  [47/sem limite] fila=63 | depth=1 | https://www.veracruz.pr.gov.br/estao-abertas-as-matriculas-para-o-projeto-coral-
+  [48/sem limite] fila=62 | depth=1 | https://www.veracruz.pr.gov.br/a-frota-do-transporte-escolar-de-vera-cruz-do-oes
+  [49/sem limite] fila=61 | depth=1 | https://www.veracruz.pr.gov.br/o-municipio-de-vera-cruz-do-oeste-firmou-um-novo-
+  [50/sem limite] fila=60 | depth=1 | https://www.veracruz.pr.gov.br/projeto-maestro-da-bola/
+  [51/sem limite] fila=59 | depth=1 | https://www.veracruz.pr.gov.br/%f0%9f%8c%bd%f0%9f%9a%9c-vem-ai-a-festa-do-agricu
+  [52/sem limite] fila=58 | depth=1 | https://www.veracruz.pr.gov.br/campeonato-municipal-de-futebol-2026-e-encerrado-
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2026/07/ANAIS-DA-ACA
+  [53/sem limite] fila=57 | depth=1 | https://www.veracruz.pr.gov.br/page/2/
+  [54/sem limite] fila=72 | depth=1 | https://www.veracruz.pr.gov.br/acesso-a-informacao
+  ⚠️ [0] .docx -> https://ww2.veracruz.pr.gov.br/inf/phrqinf-v1.docx
+  ⚠️ [0] .docx -> https://ww2.veracruz.pr.gov.br/inf/jrqinf-v1.docx
+  ⚠️ [0] .pdf -> https://ww2.veracruz.pr.gov.br/pdf/estatistica_inf_access.pdf
+  [55/sem limite] fila=71 | depth=2 | https://www.veracruz.pr.gov.br/relatorio-do-sorteio-quintal-destaque-2024/
+  [56/sem limite] fila=71 | depth=2 | https://www.veracruz.pr.gov.br/creche-semente-do-amanha/
+  [57/sem limite] fila=70 | depth=2 | https://www.veracruz.pr.gov.br/xv-conferencia-municipal-da-assistencia-social/
+  [58/sem limite] fila=70 | depth=2 | https://www.veracruz.pr.gov.br/assistencia-recebe-donativo-de-leite/
+  [59/sem limite] fila=69 | depth=2 | https://www.veracruz.pr.gov.br/eleicao-conselho-tutelar/
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2023/07/PDF.js-viewe
+  [60/sem limite] fila=68 | depth=2 | https://www.veracruz.pr.gov.br/instituto-inocencia-apresenta-teatro-concluindo-a
+  [61/sem limite] fila=67 | depth=2 | https://www.veracruz.pr.gov.br/projeto-meu-campinho/
+  [62/sem limite] fila=68 | depth=2 | https://www.veracruz.pr.gov.br/formacao-para-operadores/
+  [63/sem limite] fila=67 | depth=2 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-promove-melhorias-nas-estradas
+  [64/sem limite] fila=69 | depth=2 | https://www.veracruz.pr.gov.br/municipio-de-vera-cruz-do-oeste-conclui-o-recape-
+  [65/sem limite] fila=68 | depth=2 | https://www.veracruz.pr.gov.br/secretaria-de-obras-segue-com-trabalho-de-manuten
+  [66/sem limite] fila=67 | depth=2 | https://www.veracruz.pr.gov.br/taxa-de-coleta-de-lixo/
+  [67/sem limite] fila=69 | depth=2 | https://www.veracruz.pr.gov.br/leilao-de-bens-inserviveis/
+  [68/sem limite] fila=69 | depth=2 | https://www.veracruz.pr.gov.br/sim-poa
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-001-LEITE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-002-MEL-P
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-003-PESCA
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-004-OVOS-
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-005-CARNE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-006-ABATE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/NT-007-ABATE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTUCAO-DE-
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INSTRUCAO-DE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/INTRUCAO-DE-
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/02/2641-lei-sim
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/02/2802-nomeaca
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/06/REGULAMENTO-
+  [69/sem limite] fila=71 | depth=2 | https://www.veracruz.pr.gov.br/assistencia_leisedecretos/
+  [70/sem limite] fila=88 | depth=2 | https://www.veracruz.pr.gov.br/documentos-2026/
+  [71/sem limite] fila=94 | depth=2 | https://www.veracruz.pr.gov.br/cronograma-pedagogico/
+  [72/sem limite] fila=101 | depth=2 | https://www.veracruz.pr.gov.br/lista-de-espera-cemei-3/
+  [73/sem limite] fila=102 | depth=2 | https://www.veracruz.pr.gov.br/fundeb/
+  [74/sem limite] fila=114 | depth=2 | https://www.veracruz.pr.gov.br/download/6917/?tmstv=1760447370
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6917/?tmstv=1760447370
+  [75/sem limite] fila=113 | depth=2 | https://www.veracruz.pr.gov.br/download/6633/?tmstv=1755110446
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6633/?tmstv=1755110446
+  [76/sem limite] fila=112 | depth=2 | https://www.veracruz.pr.gov.br/relatorioseducacao
+  [77/sem limite] fila=129 | depth=2 | https://www.veracruz.pr.gov.br/cme/
+  [78/sem limite] fila=130 | depth=2 | https://www.veracruz.pr.gov.br/download/8599/?tmstv=1781724561
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8599/?tmstv=1781724561
+  [79/sem limite] fila=129 | depth=2 | https://www.veracruz.pr.gov.br/cae/
+  [80/sem limite] fila=130 | depth=2 | https://www.veracruz.pr.gov.br/merenda-escolar/
+  [81/sem limite] fila=150 | depth=2 | https://www.veracruz.pr.gov.br/documentos-lei-paulo-gustavo/
+  [82/sem limite] fila=167 | depth=2 | https://www.veracruz.pr.gov.br/download/8662/?tmstv=1782599140
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8662/?tmstv=1782599140
+  [83/sem limite] fila=166 | depth=2 | https://www.veracruz.pr.gov.br/cms/
+  [84/sem limite] fila=166 | depth=2 | https://www.veracruz.pr.gov.br/pms-plano-municipal-de-saude/
+  [85/sem limite] fila=166 | depth=2 | https://www.veracruz.pr.gov.br/assistencia-farmaceutica/
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/MEDICAMENTOS
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/SALDO-DE-EST
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/PROTOCOLO-CE
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/POP-ATENDIME
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/04/saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/ESTOQUE-DE-T
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/SICLOM-HEPAT
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/JD-AMERICA-2
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/JD-BANDEIRAN
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/ESTOQUE-DO-C
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/UNIDADE-DE-S
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/FARMACIA-CEN
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/05/ESTOQUE-DO-G
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/06/Gsus-17.06.2
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/06/Hospitalar-1
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/06/Tabagismo-17
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/06/Saldo-de-est
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2025/06/Alimentacao-
+  [86/sem limite] fila=174 | depth=2 | https://www.veracruz.pr.gov.br/documentos-instrumentos-de-gestao-da-saude/
+  [87/sem limite] fila=182 | depth=2 | https://www.veracruz.pr.gov.br/documentos-protocolo-de-decreto-da-secretaria-de-
+  [88/sem limite] fila=196 | depth=2 | https://www.veracruz.pr.gov.br/turismo-e-eventos/
+  [89/sem limite] fila=196 | depth=2 | https://www.veracruz.pr.gov.br/primeira-noite-do-xxxvii-fervo/
+  [90/sem limite] fila=195 | depth=2 | https://www.veracruz.pr.gov.br/author/thiago/
+  [91/sem limite] fila=194 | depth=2 | https://www.veracruz.pr.gov.br/acao-do-dia-mundial-da-agua/
+  [92/sem limite] fila=193 | depth=2 | https://www.veracruz.pr.gov.br/3904-2/
+  [93/sem limite] fila=192 | depth=2 | https://www.veracruz.pr.gov.br/3813-2/
+  [94/sem limite] fila=191 | depth=2 | https://www.veracruz.pr.gov.br/download/8529/?tmstv=1785775079
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8529/?tmstv=1785775079
+  [95/sem limite] fila=190 | depth=2 | https://www.veracruz.pr.gov.br/download/3500/?tmstv=1785775080
+  📄 [200] .zip -> https://www.veracruz.pr.gov.br/download/3500/?tmstv=1785775080
+  [96/sem limite] fila=189 | depth=2 | https://www.veracruz.pr.gov.br/download/3001/?tmstv=1785775080
+  📄 [200] .zip -> https://www.veracruz.pr.gov.br/download/3001/?tmstv=1785775080
+  [97/sem limite] fila=188 | depth=2 | https://www.veracruz.pr.gov.br/download/2883/?tmstv=1785775080
+  📄 [200] .zip -> https://www.veracruz.pr.gov.br/download/2883/?tmstv=1785775080
+  [98/sem limite] fila=187 | depth=2 | https://www.veracruz.pr.gov.br/download/783/?tmstv=1785775081
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/783/?tmstv=1785775081
+  [99/sem limite] fila=186 | depth=2 | https://www.veracruz.pr.gov.br/download/781/?tmstv=1785775081
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/781/?tmstv=1785775081
+  [100/sem limite] fila=185 | depth=2 | https://www.veracruz.pr.gov.br/download/779/?tmstv=1785775081
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/779/?tmstv=1785775081
+  [101/sem limite] fila=184 | depth=2 | https://www.veracruz.pr.gov.br/download/777/?tmstv=1785775081
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/777/?tmstv=1785775081
+  [102/sem limite] fila=183 | depth=2 | http://www.veracruz.pr.gov.br
+  [103/sem limite] fila=182 | depth=2 | https://www.veracruz.pr.gov.br/download/829/?tmstv=1785775081
+  📄 [200] .zip -> https://www.veracruz.pr.gov.br/download/829/?tmstv=1785775081
+  [104/sem limite] fila=181 | depth=2 | https://www.veracruz.pr.gov.br/download/2765/?tmstv=1785775082
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2765/?tmstv=1785775082
+  [105/sem limite] fila=180 | depth=2 | https://www.veracruz.pr.gov.br/download/1049/?tmstv=1785775085
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1049/?tmstv=1785775085
+  [106/sem limite] fila=179 | depth=2 | https://www.veracruz.pr.gov.br/download/1147/?tmstv=1785775086
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1147/?tmstv=1785775086
+  [107/sem limite] fila=178 | depth=2 | https://www.veracruz.pr.gov.br/download/3743/?tmstv=1785775086
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3743/?tmstv=1785775086
+  [108/sem limite] fila=177 | depth=2 | https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=
+ ❌ TIMEOUT_OU_CONEXAO: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+  🤖 Usando Selenium para: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+ ❌ SELENIUM_ERRO: WebDriverException: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+  [109/sem limite] fila=176 | depth=2 | https://www.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=
+  [110/sem limite] fila=176 | depth=2 | https://www.veracruz.pr.gov.br/author/dirceu/
+  [111/sem limite] fila=175 | depth=2 | https://www.veracruz.pr.gov.br/vem-ai-o-xxxviii-fervo-2026-%e2%9c%a8%f0%9f%8e%a4
+  [112/sem limite] fila=174 | depth=2 | https://www.veracruz.pr.gov.br/o-domingo-21-foi-marcado-por-emocao-espirito-espo
+  [113/sem limite] fila=173 | depth=2 | https://www.veracruz.pr.gov.br/teatro-promove-conscientizacao-sobre-a-protecao-d
+  [114/sem limite] fila=172 | depth=2 | https://www.veracruz.pr.gov.br/as-obras-de-revitalizacao-dos-campos-de-futebol-s
+  [115/sem limite] fila=171 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%9a%a7%e2%9c%a8-as-obras-do-programa-asfalt
+  [116/sem limite] fila=170 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%8f%86-e-dia-de-decisao-no-campeonato-munic
+  [117/sem limite] fila=169 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%8e%a4%e2%9c%a8-vem-ai-o-xxxviii-fervo-2026
+  [118/sem limite] fila=168 | depth=2 | https://www.veracruz.pr.gov.br/praca-da-biblia/
+  [119/sem limite] fila=167 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%93%a2-aviso-de-licitacao/
+  [120/sem limite] fila=166 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%9a%a8-chuva-a-vista-fique-atento-%f0%9f%8c
+  [121/sem limite] fila=165 | depth=2 | https://www.veracruz.pr.gov.br/participe-da-trilha-mei-mundo-digital-e-aprenda-n
+  [122/sem limite] fila=164 | depth=2 | https://www.veracruz.pr.gov.br/a-administracao-municipal-em-parceria-com-a-adeha
+  [123/sem limite] fila=163 | depth=2 | https://www.veracruz.pr.gov.br/8545-2/
+  [124/sem limite] fila=162 | depth=2 | https://www.veracruz.pr.gov.br/%f0%9f%8c%b1%e2%99%bb%ef%b8%8f-atencao-produtores
+  [125/sem limite] fila=161 | depth=2 | https://www.veracruz.pr.gov.br/mais-valorizacao-e-melhores-condicoes-de-trabalho
+  [126/sem limite] fila=160 | depth=2 | https://www.veracruz.pr.gov.br/page/3/
+  [127/sem limite] fila=174 | depth=3 | https://www.veracruz.pr.gov.br/inauguracao-meu-campinho/
+  [128/sem limite] fila=173 | depth=3 | https://www.veracruz.pr.gov.br/author/shirlei-reis/
+  [129/sem limite] fila=172 | depth=3 | https://www.veracruz.pr.gov.br/vem-ai-dia-24-de-maio-ii-femev/
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2024/04/Regulamento-
+  [130/sem limite] fila=171 | depth=3 | https://www.veracruz.pr.gov.br/lei-paulo-gustavo-chamamento-publico/
+  [131/sem limite] fila=170 | depth=3 | https://www.veracruz.pr.gov.br/construcao-da-nova-estacao-de-tratamento-de-esgot
+  [132/sem limite] fila=169 | depth=3 | https://www.veracruz.pr.gov.br/edital-chamada-publica/
+  [133/sem limite] fila=168 | depth=3 | https://www.veracruz.pr.gov.br/nota-morte-de-peixes-no-lago-municipal-de-vera-cr
+  [134/sem limite] fila=167 | depth=3 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-avanca-na-valorizacao-dos-serv
+  [135/sem limite] fila=166 | depth=3 | https://www.veracruz.pr.gov.br/feliz-dia-do-trabalhador/
+  [136/sem limite] fila=165 | depth=3 | https://www.veracruz.pr.gov.br/prefeitura-de-vera-cruz-do-oeste-abre-concurso-pu
+  [137/sem limite] fila=164 | depth=3 | https://www.veracruz.pr.gov.br/download/1319/?tmstv=1785775105
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1319/?tmstv=1785775105
+  [138/sem limite] fila=163 | depth=3 | https://www.veracruz.pr.gov.br/download/8513/?tmstv=1781040258
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8513/?tmstv=1781040258
+  [139/sem limite] fila=162 | depth=3 | https://www.veracruz.pr.gov.br/download/8574/?tmstv=1781723961
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8574/?tmstv=1781723961
+  [140/sem limite] fila=161 | depth=3 | https://www.veracruz.pr.gov.br/download/4285/?tmstv=1750186346
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4285/?tmstv=1750186346
+  [141/sem limite] fila=160 | depth=3 | https://www.veracruz.pr.gov.br/download/2945/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2945/?tmstv=1785775109
+  [142/sem limite] fila=159 | depth=3 | https://www.veracruz.pr.gov.br/download/2973/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2973/?tmstv=1785775109
+  [143/sem limite] fila=158 | depth=3 | https://www.veracruz.pr.gov.br/download/2977/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2977/?tmstv=1785775109
+  [144/sem limite] fila=157 | depth=3 | https://www.veracruz.pr.gov.br/download/2980/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2980/?tmstv=1785775109
+  [145/sem limite] fila=156 | depth=3 | https://www.veracruz.pr.gov.br/download/2982/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2982/?tmstv=1785775109
+  [146/sem limite] fila=155 | depth=3 | https://www.veracruz.pr.gov.br/download/2985/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2985/?tmstv=1785775109
+  [147/sem limite] fila=154 | depth=3 | https://www.veracruz.pr.gov.br/download/2988/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2988/?tmstv=1785775109
+  [148/sem limite] fila=153 | depth=3 | https://www.veracruz.pr.gov.br/download/8457/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8457/?tmstv=1785775109
+  [149/sem limite] fila=152 | depth=3 | https://www.veracruz.pr.gov.br/download/8454/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8454/?tmstv=1785775109
+  [150/sem limite] fila=151 | depth=3 | https://www.veracruz.pr.gov.br/download/8451/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8451/?tmstv=1785775109
+  [151/sem limite] fila=150 | depth=3 | https://www.veracruz.pr.gov.br/download/8448/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8448/?tmstv=1785775109
+  [152/sem limite] fila=149 | depth=3 | https://www.veracruz.pr.gov.br/download/8445/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8445/?tmstv=1785775109
+  [153/sem limite] fila=148 | depth=3 | https://www.veracruz.pr.gov.br/download/8442/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8442/?tmstv=1785775109
+  [154/sem limite] fila=147 | depth=3 | https://www.veracruz.pr.gov.br/download/8439/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8439/?tmstv=1785775109
+  [155/sem limite] fila=146 | depth=3 | https://www.veracruz.pr.gov.br/download/8436/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8436/?tmstv=1785775109
+  [156/sem limite] fila=145 | depth=3 | https://www.veracruz.pr.gov.br/download/8433/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8433/?tmstv=1785775109
+  [157/sem limite] fila=144 | depth=3 | https://www.veracruz.pr.gov.br/download/8430/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8430/?tmstv=1785775109
+  [158/sem limite] fila=143 | depth=3 | https://www.veracruz.pr.gov.br/download/8427/?tmstv=1785775109
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8427/?tmstv=1785775109
+  [159/sem limite] fila=142 | depth=3 | https://www.veracruz.pr.gov.br/download/8325/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8325/?tmstv=1785775109
+  [160/sem limite] fila=141 | depth=3 | https://www.veracruz.pr.gov.br/download/8328/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8328/?tmstv=1785775109
+  [161/sem limite] fila=140 | depth=3 | https://www.veracruz.pr.gov.br/download/8333/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8333/?tmstv=1785775109
+  [162/sem limite] fila=139 | depth=3 | https://www.veracruz.pr.gov.br/download/8336/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8336/?tmstv=1785775109
+  [163/sem limite] fila=138 | depth=3 | https://www.veracruz.pr.gov.br/download/8342/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8342/?tmstv=1785775109
+  [164/sem limite] fila=137 | depth=3 | https://www.veracruz.pr.gov.br/download/8339/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8339/?tmstv=1785775109
+  [165/sem limite] fila=136 | depth=3 | https://www.veracruz.pr.gov.br/download/8346/?tmstv=1785775109
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8346/?tmstv=1785775109
+  [166/sem limite] fila=135 | depth=3 | https://www.veracruz.pr.gov.br/download/8266/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8266/?tmstv=1785775110
+  [167/sem limite] fila=134 | depth=3 | https://www.veracruz.pr.gov.br/download/8272/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8272/?tmstv=1785775110
+  [168/sem limite] fila=133 | depth=3 | https://www.veracruz.pr.gov.br/download/8275/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8275/?tmstv=1785775110
+  [169/sem limite] fila=132 | depth=3 | https://www.veracruz.pr.gov.br/download/8280/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8280/?tmstv=1785775110
+  [170/sem limite] fila=131 | depth=3 | https://www.veracruz.pr.gov.br/download/8583/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8583/?tmstv=1785775110
+  [171/sem limite] fila=130 | depth=3 | https://www.veracruz.pr.gov.br/download/8593/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8593/?tmstv=1785775110
+  [172/sem limite] fila=129 | depth=3 | https://www.veracruz.pr.gov.br/download/8587/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8587/?tmstv=1785775110
+  [173/sem limite] fila=128 | depth=3 | https://www.veracruz.pr.gov.br/download/8590/?tmstv=1785775110
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8590/?tmstv=1785775110
+  [174/sem limite] fila=127 | depth=3 | https://www.veracruz.pr.gov.br/download/8319/?tmstv=1785775111
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8319/?tmstv=1785775111
+  [175/sem limite] fila=126 | depth=3 | https://www.veracruz.pr.gov.br/download/8721/?tmstv=1785775111
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8721/?tmstv=1785775111
+  [176/sem limite] fila=125 | depth=3 | https://www.veracruz.pr.gov.br/download/1415/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1415/?tmstv=1785775111
+  [177/sem limite] fila=124 | depth=3 | https://www.veracruz.pr.gov.br/download/1419/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1419/?tmstv=1785775111
+  [178/sem limite] fila=123 | depth=3 | https://www.veracruz.pr.gov.br/download/1423/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1423/?tmstv=1785775111
+  [179/sem limite] fila=122 | depth=3 | https://www.veracruz.pr.gov.br/download/1429/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1429/?tmstv=1785775111
+  [180/sem limite] fila=121 | depth=3 | https://www.veracruz.pr.gov.br/download/1432/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1432/?tmstv=1785775111
+  [181/sem limite] fila=120 | depth=3 | https://www.veracruz.pr.gov.br/download/1436/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1436/?tmstv=1785775111
+  [182/sem limite] fila=119 | depth=3 | https://www.veracruz.pr.gov.br/download/1439/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1439/?tmstv=1785775111
+  [183/sem limite] fila=118 | depth=3 | https://www.veracruz.pr.gov.br/download/1443/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1443/?tmstv=1785775111
+  [184/sem limite] fila=117 | depth=3 | https://www.veracruz.pr.gov.br/download/1446/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1446/?tmstv=1785775111
+  [185/sem limite] fila=116 | depth=3 | https://www.veracruz.pr.gov.br/download/1452/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1452/?tmstv=1785775111
+  [186/sem limite] fila=115 | depth=3 | https://www.veracruz.pr.gov.br/download/1455/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1455/?tmstv=1785775111
+  [187/sem limite] fila=114 | depth=3 | https://www.veracruz.pr.gov.br/download/3266/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3266/?tmstv=1785775111
+  [188/sem limite] fila=113 | depth=3 | https://www.veracruz.pr.gov.br/download/1522/?tmstv=1785775111
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1522/?tmstv=1785775111
+  [189/sem limite] fila=112 | depth=3 | https://www.veracruz.pr.gov.br/download/6622/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6622/?tmstv=1785775113
+  [190/sem limite] fila=111 | depth=3 | https://www.veracruz.pr.gov.br/download/6625/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6625/?tmstv=1785775113
+  [191/sem limite] fila=110 | depth=3 | https://www.veracruz.pr.gov.br/download/6628/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6628/?tmstv=1785775113
+  [192/sem limite] fila=109 | depth=3 | https://www.veracruz.pr.gov.br/download/3560/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3560/?tmstv=1785775113
+  [193/sem limite] fila=108 | depth=3 | https://www.veracruz.pr.gov.br/download/3556/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3556/?tmstv=1785775113
+  [194/sem limite] fila=107 | depth=3 | https://www.veracruz.pr.gov.br/download/3552/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3552/?tmstv=1785775113
+  [195/sem limite] fila=106 | depth=3 | https://www.veracruz.pr.gov.br/download/3547/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3547/?tmstv=1785775113
+  [196/sem limite] fila=105 | depth=3 | https://www.veracruz.pr.gov.br/download/2857/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2857/?tmstv=1785775113
+  [197/sem limite] fila=104 | depth=3 | https://www.veracruz.pr.gov.br/download/3366/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3366/?tmstv=1785775113
+  [198/sem limite] fila=103 | depth=3 | https://www.veracruz.pr.gov.br/download/7053/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/7053/?tmstv=1785775113
+  [199/sem limite] fila=102 | depth=3 | https://www.veracruz.pr.gov.br/download/2860/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2860/?tmstv=1785775113
+  [200/sem limite] fila=101 | depth=3 | https://www.veracruz.pr.gov.br/download/2842/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2842/?tmstv=1785775113
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_links.xlsx
+  148 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/erros_varredura.xlsx
+  3 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_externos.xlsx
+  55 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=100 | depth=3 | https://www.veracruz.pr.gov.br/download/2877/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/2877/?tmstv=1785775113
+  [202/sem limite] fila=99 | depth=3 | https://www.veracruz.pr.gov.br/download/3023/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3023/?tmstv=1785775113
+  [203/sem limite] fila=98 | depth=3 | https://www.veracruz.pr.gov.br/download/3014/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3014/?tmstv=1785775113
+  [204/sem limite] fila=97 | depth=3 | https://www.veracruz.pr.gov.br/download/3019/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3019/?tmstv=1785775113
+  [205/sem limite] fila=96 | depth=3 | https://www.veracruz.pr.gov.br/download/3027/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3027/?tmstv=1785775113
+  [206/sem limite] fila=95 | depth=3 | https://www.veracruz.pr.gov.br/download/3332/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3332/?tmstv=1785775113
+  [207/sem limite] fila=94 | depth=3 | https://www.veracruz.pr.gov.br/download/3275/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3275/?tmstv=1785775113
+  [208/sem limite] fila=93 | depth=3 | https://www.veracruz.pr.gov.br/download/3278/?tmstv=1785775113
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3278/?tmstv=1785775113
+  [209/sem limite] fila=92 | depth=3 | https://www.veracruz.pr.gov.br/download/3288/?tmstv=1785775115
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3288/?tmstv=1785775115
+  [210/sem limite] fila=91 | depth=3 | https://www.veracruz.pr.gov.br/download/8423/?tmstv=1785775115
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8423/?tmstv=1785775115
+  [211/sem limite] fila=90 | depth=3 | https://www.veracruz.pr.gov.br/download/8618/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8618/?tmstv=1785775115
+  [212/sem limite] fila=89 | depth=3 | https://www.veracruz.pr.gov.br/download/8615/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8615/?tmstv=1785775115
+  [213/sem limite] fila=88 | depth=3 | https://www.veracruz.pr.gov.br/download/8612/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8612/?tmstv=1785775115
+  [214/sem limite] fila=87 | depth=3 | https://www.veracruz.pr.gov.br/download/8609/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8609/?tmstv=1785775115
+  [215/sem limite] fila=86 | depth=3 | https://www.veracruz.pr.gov.br/download/8418/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8418/?tmstv=1785775115
+  [216/sem limite] fila=85 | depth=3 | https://www.veracruz.pr.gov.br/download/8415/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8415/?tmstv=1785775115
+  [217/sem limite] fila=84 | depth=3 | https://www.veracruz.pr.gov.br/download/8412/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8412/?tmstv=1785775115
+  [218/sem limite] fila=83 | depth=3 | https://www.veracruz.pr.gov.br/download/8409/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8409/?tmstv=1785775115
+  [219/sem limite] fila=82 | depth=3 | https://www.veracruz.pr.gov.br/download/8400/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8400/?tmstv=1785775115
+  [220/sem limite] fila=81 | depth=3 | https://www.veracruz.pr.gov.br/download/8385/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8385/?tmstv=1785775115
+  [221/sem limite] fila=80 | depth=3 | https://www.veracruz.pr.gov.br/download/8382/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8382/?tmstv=1785775115
+  [222/sem limite] fila=79 | depth=3 | https://www.veracruz.pr.gov.br/download/8379/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8379/?tmstv=1785775115
+  [223/sem limite] fila=78 | depth=3 | https://www.veracruz.pr.gov.br/download/8376/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8376/?tmstv=1785775115
+  [224/sem limite] fila=77 | depth=3 | https://www.veracruz.pr.gov.br/download/8373/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8373/?tmstv=1785775115
+  [225/sem limite] fila=76 | depth=3 | https://www.veracruz.pr.gov.br/download/8370/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8370/?tmstv=1785775115
+  [226/sem limite] fila=75 | depth=3 | https://www.veracruz.pr.gov.br/download/8367/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8367/?tmstv=1785775115
+  [227/sem limite] fila=74 | depth=3 | https://www.veracruz.pr.gov.br/download/8364/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8364/?tmstv=1785775115
+  [228/sem limite] fila=73 | depth=3 | https://www.veracruz.pr.gov.br/download/8361/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8361/?tmstv=1785775115
+  [229/sem limite] fila=72 | depth=3 | https://www.veracruz.pr.gov.br/download/8358/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8358/?tmstv=1785775115
+  [230/sem limite] fila=71 | depth=3 | https://www.veracruz.pr.gov.br/download/8355/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8355/?tmstv=1785775115
+  [231/sem limite] fila=70 | depth=3 | https://www.veracruz.pr.gov.br/download/8352/?tmstv=1785775115
+  📄 [200] .docx -> https://www.veracruz.pr.gov.br/download/8352/?tmstv=1785775115
+  [232/sem limite] fila=69 | depth=3 | https://www.veracruz.pr.gov.br/download/3576/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3576/?tmstv=1785775116
+  [233/sem limite] fila=68 | depth=3 | https://www.veracruz.pr.gov.br/download/3581/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3581/?tmstv=1785775116
+  [234/sem limite] fila=67 | depth=3 | https://www.veracruz.pr.gov.br/download/3584/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3584/?tmstv=1785775116
+  [235/sem limite] fila=66 | depth=3 | https://www.veracruz.pr.gov.br/download/3587/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3587/?tmstv=1785775116
+  [236/sem limite] fila=65 | depth=3 | https://www.veracruz.pr.gov.br/download/3591/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3591/?tmstv=1785775116
+  [237/sem limite] fila=64 | depth=3 | https://www.veracruz.pr.gov.br/download/3597/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3597/?tmstv=1785775116
+  [238/sem limite] fila=63 | depth=3 | https://www.veracruz.pr.gov.br/download/3600/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3600/?tmstv=1785775116
+  [239/sem limite] fila=62 | depth=3 | https://www.veracruz.pr.gov.br/download/3603/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3603/?tmstv=1785775116
+  [240/sem limite] fila=61 | depth=3 | https://www.veracruz.pr.gov.br/download/3607/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3607/?tmstv=1785775116
+  [241/sem limite] fila=60 | depth=3 | https://www.veracruz.pr.gov.br/download/3610/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3610/?tmstv=1785775116
+  [242/sem limite] fila=59 | depth=3 | https://www.veracruz.pr.gov.br/download/3613/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3613/?tmstv=1785775116
+  [243/sem limite] fila=58 | depth=3 | https://www.veracruz.pr.gov.br/download/3616/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3616/?tmstv=1785775116
+  [244/sem limite] fila=57 | depth=3 | https://www.veracruz.pr.gov.br/download/3619/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3619/?tmstv=1785775116
+  [245/sem limite] fila=56 | depth=3 | https://www.veracruz.pr.gov.br/download/3622/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3622/?tmstv=1785775116
+  [246/sem limite] fila=55 | depth=3 | https://www.veracruz.pr.gov.br/download/3625/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3625/?tmstv=1785775116
+  [247/sem limite] fila=54 | depth=3 | https://www.veracruz.pr.gov.br/download/3629/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3629/?tmstv=1785775116
+  [248/sem limite] fila=53 | depth=3 | https://www.veracruz.pr.gov.br/download/3632/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3632/?tmstv=1785775116
+  [249/sem limite] fila=52 | depth=3 | https://www.veracruz.pr.gov.br/download/3635/?tmstv=1785775116
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3635/?tmstv=1785775116
+  [250/sem limite] fila=51 | depth=3 | https://www.veracruz.pr.gov.br/download/3305/?tmstv=1785775117
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3305/?tmstv=1785775117
+  [251/sem limite] fila=50 | depth=3 | https://www.veracruz.pr.gov.br/download/1620/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/1620/?tmstv=1785775118
+  [252/sem limite] fila=49 | depth=3 | https://www.veracruz.pr.gov.br/download/4538/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4538/?tmstv=1785775118
+  [253/sem limite] fila=48 | depth=3 | https://www.veracruz.pr.gov.br/download/4576/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4576/?tmstv=1785775118
+  [254/sem limite] fila=47 | depth=3 | https://www.veracruz.pr.gov.br/download/4583/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4583/?tmstv=1785775118
+  [255/sem limite] fila=46 | depth=3 | https://www.veracruz.pr.gov.br/download/4586/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4586/?tmstv=1785775118
+  [256/sem limite] fila=45 | depth=3 | https://www.veracruz.pr.gov.br/download/4590/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4590/?tmstv=1785775118
+  [257/sem limite] fila=44 | depth=3 | https://www.veracruz.pr.gov.br/download/4595/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4595/?tmstv=1785775118
+  [258/sem limite] fila=43 | depth=3 | https://www.veracruz.pr.gov.br/download/4599/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4599/?tmstv=1785775118
+  [259/sem limite] fila=42 | depth=3 | https://www.veracruz.pr.gov.br/download/4602/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4602/?tmstv=1785775118
+  [260/sem limite] fila=41 | depth=3 | https://www.veracruz.pr.gov.br/download/4646/?tmstv=1785775118
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4646/?tmstv=1785775118
+  [261/sem limite] fila=40 | depth=3 | https://www.veracruz.pr.gov.br/download/3671/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3671/?tmstv=1785775121
+  [262/sem limite] fila=39 | depth=3 | https://www.veracruz.pr.gov.br/download/3675/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3675/?tmstv=1785775121
+  [263/sem limite] fila=38 | depth=3 | https://www.veracruz.pr.gov.br/download/3678/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3678/?tmstv=1785775121
+  [264/sem limite] fila=37 | depth=3 | https://www.veracruz.pr.gov.br/download/3682/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3682/?tmstv=1785775121
+  [265/sem limite] fila=36 | depth=3 | https://www.veracruz.pr.gov.br/download/4070/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4070/?tmstv=1785775121
+  [266/sem limite] fila=35 | depth=3 | https://www.veracruz.pr.gov.br/download/4073/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4073/?tmstv=1785775121
+  [267/sem limite] fila=34 | depth=3 | https://www.veracruz.pr.gov.br/download/4076/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4076/?tmstv=1785775121
+  [268/sem limite] fila=33 | depth=3 | https://www.veracruz.pr.gov.br/download/4079/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4079/?tmstv=1785775121
+  [269/sem limite] fila=32 | depth=3 | https://www.veracruz.pr.gov.br/download/4082/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4082/?tmstv=1785775121
+  [270/sem limite] fila=31 | depth=3 | https://www.veracruz.pr.gov.br/download/3689/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3689/?tmstv=1785775121
+  [271/sem limite] fila=30 | depth=3 | https://www.veracruz.pr.gov.br/download/3692/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3692/?tmstv=1785775121
+  [272/sem limite] fila=29 | depth=3 | https://www.veracruz.pr.gov.br/download/3695/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3695/?tmstv=1785775121
+  [273/sem limite] fila=28 | depth=3 | https://www.veracruz.pr.gov.br/download/3698/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3698/?tmstv=1785775121
+  [274/sem limite] fila=27 | depth=3 | https://www.veracruz.pr.gov.br/download/3701/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3701/?tmstv=1785775121
+  [275/sem limite] fila=26 | depth=3 | https://www.veracruz.pr.gov.br/download/3704/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3704/?tmstv=1785775121
+  [276/sem limite] fila=25 | depth=3 | https://www.veracruz.pr.gov.br/download/3707/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3707/?tmstv=1785775121
+  [277/sem limite] fila=24 | depth=3 | https://www.veracruz.pr.gov.br/download/3710/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3710/?tmstv=1785775121
+  [278/sem limite] fila=23 | depth=3 | https://www.veracruz.pr.gov.br/download/3713/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3713/?tmstv=1785775121
+  [279/sem limite] fila=22 | depth=3 | https://www.veracruz.pr.gov.br/download/3726/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3726/?tmstv=1785775121
+  [280/sem limite] fila=21 | depth=3 | https://www.veracruz.pr.gov.br/download/3719/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3719/?tmstv=1785775121
+  [281/sem limite] fila=20 | depth=3 | https://www.veracruz.pr.gov.br/download/3722/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/3722/?tmstv=1785775121
+  [282/sem limite] fila=19 | depth=3 | https://www.veracruz.pr.gov.br/download/4086/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4086/?tmstv=1785775121
+  [283/sem limite] fila=18 | depth=3 | https://www.veracruz.pr.gov.br/download/4089/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4089/?tmstv=1785775121
+  [284/sem limite] fila=17 | depth=3 | https://www.veracruz.pr.gov.br/download/4092/?tmstv=1785775121
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/4092/?tmstv=1785775121
+  [285/sem limite] fila=16 | depth=3 | https://www.veracruz.pr.gov.br/download/8467/?tmstv=1785775122
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8467/?tmstv=1785775122
+  [286/sem limite] fila=15 | depth=3 | https://www.veracruz.pr.gov.br/page/2/?option=com_docman&task=doc_details&gid=14
+  [287/sem limite] fila=16 | depth=3 | https://www.veracruz.pr.gov.br/a-arte-tambem-e-uma-ferramenta-de-educacao-ambien
+  [288/sem limite] fila=15 | depth=3 | https://www.veracruz.pr.gov.br/dia-mundial-do-meio-ambiente-2/
+  [289/sem limite] fila=14 | depth=3 | https://www.veracruz.pr.gov.br/dia-mundial-do-meio-ambiente/
+  [290/sem limite] fila=13 | depth=3 | https://www.veracruz.pr.gov.br/xxi-fermop/
+  [291/sem limite] fila=12 | depth=3 | https://www.veracruz.pr.gov.br/i-encontro-de-mulheres-agricultoras-de-vera-cruz-
+  [292/sem limite] fila=11 | depth=3 | https://www.veracruz.pr.gov.br/comemoracao-do-dia-da-industria/
+  [293/sem limite] fila=10 | depth=3 | https://www.veracruz.pr.gov.br/dia-da-familia/
+  [294/sem limite] fila=9 | depth=3 | https://www.veracruz.pr.gov.br/processo-de-escolha-para-o-conselho-tutelar/
+  [295/sem limite] fila=8 | depth=3 | https://www.veracruz.pr.gov.br/mais-conforto-seguranca-e-qualidade-para-a-nossa-
+  [296/sem limite] fila=7 | depth=3 | https://www.veracruz.pr.gov.br/oficina-de-producao-de-sabao-com-oleo/
+  [297/sem limite] fila=6 | depth=3 | https://www.veracruz.pr.gov.br/maio-amarelo-no-transito-escolha-a-vida-%f0%9f%92
+  [298/sem limite] fila=5 | depth=3 | https://www.veracruz.pr.gov.br/dia-nacional-de-combate-ao-abuso-e-a-exploracao-s
+  [299/sem limite] fila=4 | depth=3 | https://www.veracruz.pr.gov.br/convite-especial-para-as-mulheres-do-campo/
+  [300/sem limite] fila=3 | depth=3 | https://www.veracruz.pr.gov.br/operacao-caminhos-seguros-em-vera-cruz-do-oeste/
+  [301/sem limite] fila=2 | depth=3 | https://www.veracruz.pr.gov.br/page/4/
+  [302/sem limite] fila=17 | depth=4 | https://www.veracruz.pr.gov.br/?option=com_docman&task=doc_details&gid=140&Itemi
+  [303/sem limite] fila=16 | depth=4 | https://www.veracruz.pr.gov.br/page/3/?option=com_docman&task=doc_details&gid=14
+  [304/sem limite] fila=16 | depth=4 | https://www.veracruz.pr.gov.br/corrida-rustica-do-trabalhador/
+  [305/sem limite] fila=15 | depth=4 | https://www.veracruz.pr.gov.br/vila-graciosa-e-parque-industrial-entra-na-fase-f
+  [306/sem limite] fila=15 | depth=4 | https://www.veracruz.pr.gov.br/producao-agricola-municipal-referente-ao-ano-base
+  [307/sem limite] fila=14 | depth=4 | https://www.veracruz.pr.gov.br/programa-de-coleta-seletiva/
+  [308/sem limite] fila=13 | depth=4 | https://www.veracruz.pr.gov.br/reforma-integral-dos-gavetarios-do-bloco-01-do-ce
+  [309/sem limite] fila=12 | depth=4 | https://www.veracruz.pr.gov.br/vem-ai-o-campeonato-municipal-de-futebol-categori
+  [310/sem limite] fila=11 | depth=4 | https://www.veracruz.pr.gov.br/%f0%9f%97%91%ef%b8%8f%f0%9f%8d%82-descarte-corret
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2026/04/COLETA-DE-RE
+  [311/sem limite] fila=10 | depth=4 | https://www.veracruz.pr.gov.br/%e2%99%bb%ef%b8%8f%f0%9f%8c%8e-faca-a-sua-parte-s
+  [312/sem limite] fila=9 | depth=4 | https://www.veracruz.pr.gov.br/%f0%9f%9a%a7%f0%9f%9b%8b%ef%b8%8f-atencao-para-a-
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2026/04/entulho.pdf
+  [313/sem limite] fila=8 | depth=4 | https://www.veracruz.pr.gov.br/%f0%9f%8c%bf%f0%9f%9a%9b-cuidar-da-cidade-e-um-tr
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/wp-content/uploads/2026/04/poda-de-arvo
+  [314/sem limite] fila=7 | depth=4 | https://www.veracruz.pr.gov.br/%f0%9f%92%a1-poste-apagado-a-gente-resolve/
+  [315/sem limite] fila=6 | depth=4 | https://www.veracruz.pr.gov.br/capacitacao-sobre-a-emissao-da-nota-fiscal-eletro
+  [316/sem limite] fila=5 | depth=4 | https://www.veracruz.pr.gov.br/vem-ai-a-20a-corrida-rustica-em-comemoracao-ao-di
+  [317/sem limite] fila=4 | depth=4 | https://www.veracruz.pr.gov.br/nosso-municipio-viveu-um-dia-incrivel-de-mobiliza
+  [318/sem limite] fila=3 | depth=4 | https://www.veracruz.pr.gov.br/reuniao-mobiliza-entidades-para-levantamento-de-p
+  [319/sem limite] fila=2 | depth=4 | https://www.veracruz.pr.gov.br/page/5/
+  [320/sem limite] fila=16 | depth=5 | https://www.veracruz.pr.gov.br/page/4/?option=com_docman&task=doc_details&gid=14
+  [321/sem limite] fila=16 | depth=5 | https://www.veracruz.pr.gov.br/download/8200/?tmstv=1785775246
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/8200/?tmstv=1785775246
+  [322/sem limite] fila=15 | depth=5 | https://www.veracruz.pr.gov.br/a-associacao-de-catadores-de-materiais-reciclavei
+  [323/sem limite] fila=14 | depth=5 | https://www.veracruz.pr.gov.br/mais-saude-autoestima-e-qualidade-de-vida-para-a-
+  [324/sem limite] fila=13 | depth=5 | https://www.veracruz.pr.gov.br/o-municipio-de-vera-cruz-do-oeste-esta-entre-os-c
+  [325/sem limite] fila=12 | depth=5 | https://www.veracruz.pr.gov.br/a-associacao-de-catadores-de-material-reciclavel-
+  [326/sem limite] fila=11 | depth=5 | https://www.veracruz.pr.gov.br/saude-bucal/
+  [327/sem limite] fila=10 | depth=5 | https://www.veracruz.pr.gov.br/dia-mundial-da-agua-2/
+  [328/sem limite] fila=9 | depth=5 | https://www.veracruz.pr.gov.br/atendimento-descentralizado-do-ministerio-publico
+  [329/sem limite] fila=8 | depth=5 | https://www.veracruz.pr.gov.br/uma-noite-especial-para-celebrar-as-mulheres/
+  [330/sem limite] fila=7 | depth=5 | https://www.veracruz.pr.gov.br/campanha-leao-solidario-2026/
+  [331/sem limite] fila=6 | depth=5 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-foi-sede-da-entrega-regionaliz
+  [332/sem limite] fila=5 | depth=5 | https://www.veracruz.pr.gov.br/o-detran-estara-em-recesso-ferias-no-periodo-de-%
+  [333/sem limite] fila=4 | depth=5 | https://www.veracruz.pr.gov.br/plano-municipal-de-arborizacao-urbana/
+  [334/sem limite] fila=3 | depth=5 | https://www.veracruz.pr.gov.br/quando-a-educacao-avanca-nao-e-so-o-predio-que-mu
+  [335/sem limite] fila=2 | depth=5 | https://www.veracruz.pr.gov.br/semana-pedagogica-2026/
+  [336/sem limite] fila=1 | depth=5 | https://www.veracruz.pr.gov.br/page/6/
+  [337/sem limite] fila=16 | depth=6 | https://www.veracruz.pr.gov.br/page/5/?option=com_docman&task=doc_details&gid=14
+  [338/sem limite] fila=16 | depth=6 | https://www.veracruz.pr.gov.br/emissao-da-carteira-de-identidade/
+  [339/sem limite] fila=15 | depth=6 | https://www.veracruz.pr.gov.br/a-ssinado-o-termo-de-colaboracao-no-001-2026/
+  [340/sem limite] fila=14 | depth=6 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-avanca-na-modernizacao-das-obr
+  [341/sem limite] fila=13 | depth=6 | https://www.veracruz.pr.gov.br/decreto-feriados/
+  [342/sem limite] fila=13 | depth=6 | https://www.veracruz.pr.gov.br/recesso-no-periodo-de-24-de-dezembro-de-2025-a-02
+  [343/sem limite] fila=12 | depth=6 | https://www.veracruz.pr.gov.br/dia-de-celebrar-nossos-pequenos-grandes-talentos/
+  [344/sem limite] fila=11 | depth=6 | https://www.veracruz.pr.gov.br/castrapet-parana/
+  [345/sem limite] fila=10 | depth=6 | https://www.veracruz.pr.gov.br/%f0%9f%8e%84-no-ultimo-domingo-14-o-municipio-de-
+  [346/sem limite] fila=9 | depth=6 | https://www.veracruz.pr.gov.br/programa-estadual-de-esterilizacao-gratuita-de-ca
+  [347/sem limite] fila=8 | depth=6 | https://www.veracruz.pr.gov.br/%f0%9f%8c%8e%e2%9c%a8-experiencia-inesquecivel-pa
+  [348/sem limite] fila=7 | depth=6 | https://www.veracruz.pr.gov.br/kits-do-programa-nascer-bem-parana/
+  [349/sem limite] fila=6 | depth=6 | https://www.veracruz.pr.gov.br/conscientizacao-sobre-a-saude-masculina/
+  [350/sem limite] fila=5 | depth=6 | https://www.veracruz.pr.gov.br/projeto-viaja-60-parana/
+  [351/sem limite] fila=4 | depth=6 | https://www.veracruz.pr.gov.br/mostra-pedagogica-da-cultura-afro-indigena-brasil
+  [352/sem limite] fila=3 | depth=6 | https://www.veracruz.pr.gov.br/segundo-dia-de-festa-43o-aniversario-de-vera-cruz
+  [353/sem limite] fila=2 | depth=6 | https://www.veracruz.pr.gov.br/page/7/
+  [354/sem limite] fila=17 | depth=7 | https://www.veracruz.pr.gov.br/page/6/?option=com_docman&task=doc_details&gid=14
+  [355/sem limite] fila=17 | depth=7 | https://www.veracruz.pr.gov.br/download/7829/?tmstv=1785775271
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/7829/?tmstv=1785775271
+  [356/sem limite] fila=16 | depth=7 | https://www.veracruz.pr.gov.br/%f0%9f%8e%89-primeiro-dia-de-festa-43o-aniversari
+  [357/sem limite] fila=15 | depth=7 | https://www.veracruz.pr.gov.br/%f0%9f%8e%89-vera-cruz-do-oeste-celebra-seus-43-a
+  [358/sem limite] fila=14 | depth=7 | https://www.veracruz.pr.gov.br/%f0%9f%93%85-programacao-oficial-43o-aniversario-
+  [359/sem limite] fila=13 | depth=7 | https://www.veracruz.pr.gov.br/%f0%9f%8c%a1%f0%9f%a6%9f-dia-d-de-combate-a-dengu
+  [360/sem limite] fila=12 | depth=7 | https://www.veracruz.pr.gov.br/mutirao-de-combate-a-dengue-ja-foi-concluido-em-t
+  [361/sem limite] fila=11 | depth=7 | https://www.veracruz.pr.gov.br/novembro-azul/
+  [362/sem limite] fila=10 | depth=7 | https://www.veracruz.pr.gov.br/equipe-de-combate-as-endemias-realizou-uma-acao-p
+  [363/sem limite] fila=9 | depth=7 | https://www.veracruz.pr.gov.br/uta-contra-a-dengue-e-de-todos-nos/
+  [364/sem limite] fila=8 | depth=7 | https://www.veracruz.pr.gov.br/outubro-rosa-quem-se-ama-se-cuida/
+  [365/sem limite] fila=7 | depth=7 | https://www.veracruz.pr.gov.br/almoco-do-servidor-publico/
+  [366/sem limite] fila=6 | depth=7 | https://www.veracruz.pr.gov.br/jardim-sensorial-prof-monica-aquino/
+  [367/sem limite] fila=5 | depth=7 | https://www.veracruz.pr.gov.br/campanha-leao-solidario-2025/
+  [368/sem limite] fila=4 | depth=7 | https://www.veracruz.pr.gov.br/estatuto-da-crianca-e-do-adolescente-eca/
+  [369/sem limite] fila=3 | depth=7 | https://www.veracruz.pr.gov.br/aaviso-de-chuvas-intensas-raios-e-vendaval-para-a
+  [370/sem limite] fila=2 | depth=7 | https://www.veracruz.pr.gov.br/6954-2/
+  [371/sem limite] fila=1 | depth=7 | https://www.veracruz.pr.gov.br/page/8/
+  [372/sem limite] fila=16 | depth=8 | https://www.veracruz.pr.gov.br/page/7/?option=com_docman&task=doc_details&gid=14
+  [373/sem limite] fila=16 | depth=8 | https://www.veracruz.pr.gov.br/curso-tecnicas-de-confeitaria-e-panificacao/
+  [374/sem limite] fila=15 | depth=8 | https://www.veracruz.pr.gov.br/procissao-e-festa-da-agua-da-madeira/
+  [375/sem limite] fila=14 | depth=8 | https://www.veracruz.pr.gov.br/coral-60-vozes-da-sabedoria-esta-com-inscricoes-a
+  [376/sem limite] fila=13 | depth=8 | https://www.veracruz.pr.gov.br/outubro-rosa-3/
+  [377/sem limite] fila=12 | depth=8 | https://www.veracruz.pr.gov.br/curso-tecnico-de-vendas/
+  [378/sem limite] fila=11 | depth=8 | https://www.veracruz.pr.gov.br/6903-2/
+  [379/sem limite] fila=10 | depth=8 | https://www.veracruz.pr.gov.br/%f0%9f%8e%aa-convite-especial-%f0%9f%8e%aa/
+  [380/sem limite] fila=9 | depth=8 | https://www.veracruz.pr.gov.br/um-espetaculo-de-musica-cultura-e-emocao/
+  [381/sem limite] fila=8 | depth=8 | https://www.veracruz.pr.gov.br/atencao-populacao-de-vera-cruz-do-oeste/
+  [382/sem limite] fila=8 | depth=8 | https://www.veracruz.pr.gov.br/no-dia-12-de-outubro-a-comunidade-da-agua-da-made
+  [383/sem limite] fila=7 | depth=8 | https://www.veracruz.pr.gov.br/qualificacao/
+  [384/sem limite] fila=6 | depth=8 | https://www.veracruz.pr.gov.br/curso-de-tecnicas-de-confeitaria-e-panificacao/
+  [385/sem limite] fila=5 | depth=8 | https://www.veracruz.pr.gov.br/dia-da-arvore/
+  [386/sem limite] fila=4 | depth=8 | https://www.veracruz.pr.gov.br/xiva-conferencia-municipal-de-saude/
+  [387/sem limite] fila=3 | depth=8 | https://www.veracruz.pr.gov.br/eleicao-suplementar-do-conselho-tutelar/
+  [388/sem limite] fila=2 | depth=8 | https://www.veracruz.pr.gov.br/page/9/
+  [389/sem limite] fila=17 | depth=9 | https://www.veracruz.pr.gov.br/page/8/?option=com_docman&task=doc_details&gid=14
+  [390/sem limite] fila=17 | depth=9 | https://www.veracruz.pr.gov.br/download/6886/?tmstv=1785775298
+  📄 [200] .pdf -> https://www.veracruz.pr.gov.br/download/6886/?tmstv=1785775298
+  [391/sem limite] fila=16 | depth=9 | https://www.veracruz.pr.gov.br/a-semana-da-patria-foi-celebrada-com-muito-orgulh
+  [392/sem limite] fila=15 | depth=9 | https://www.veracruz.pr.gov.br/setembro-amarelo-mes-de-prevencao-ao-suicidio/
+  [393/sem limite] fila=14 | depth=9 | https://www.veracruz.pr.gov.br/xix-mostra-de-circo-em-toledo/
+  [394/sem limite] fila=13 | depth=9 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-realizou-com-exito-o-tradicion
+  [395/sem limite] fila=12 | depth=9 | https://www.veracruz.pr.gov.br/fase-regional-dos-jogos-escolares-bom-de-bola-agi
+  [396/sem limite] fila=11 | depth=9 | https://www.veracruz.pr.gov.br/2a-fase-regional-dos-jogos-escolares-do-parana-bo
+  [397/sem limite] fila=10 | depth=9 | https://www.veracruz.pr.gov.br/fanfarra-municipal-de-vera-cruz-do-oeste/
+  [398/sem limite] fila=9 | depth=9 | https://www.veracruz.pr.gov.br/vera-cruz-do-oeste-sera-palco-da-2a-fase-regional
+  [399/sem limite] fila=8 | depth=9 | https://www.veracruz.pr.gov.br/treinamento-de-credenciamento-na-gestao-publica/
+  [400/sem limite] fila=7 | depth=9 | https://www.veracruz.pr.gov.br/porque-amamentar-vale-ouro/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_links.xlsx
+  239 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/erros_varredura.xlsx
+  3 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_externos.xlsx
+  59 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=6 | depth=9 | https://www.veracruz.pr.gov.br/agosto-lilas-2/
+  [402/sem limite] fila=5 | depth=9 | https://www.veracruz.pr.gov.br/entrega-dos-novos-sacos-de-rafia/
+  [403/sem limite] fila=4 | depth=9 | https://www.veracruz.pr.gov.br/eleicao-suplementar-para-o-conselho-tutelar/
+  [404/sem limite] fila=3 | depth=9 | https://www.veracruz.pr.gov.br/programa-educacional-de-resistencia-as-drogas-e-a
+  [405/sem limite] fila=2 | depth=9 | https://www.veracruz.pr.gov.br/curso-tecnico-em-vendas/
+  [406/sem limite] fila=1 | depth=9 | https://www.veracruz.pr.gov.br/page/10/
+  [407/sem limite] fila=15 | depth=10 | https://www.veracruz.pr.gov.br/page/9/?option=com_docman&task=doc_details&gid=14
+  [408/sem limite] fila=14 | depth=10 | https://www.veracruz.pr.gov.br/entrega-de-unidades-habitacionais-marca-nova-etap
+  [409/sem limite] fila=13 | depth=10 | https://www.veracruz.pr.gov.br/1o-workshop-de-combate-a-incendios-florestais/
+  [410/sem limite] fila=12 | depth=10 | https://www.veracruz.pr.gov.br/agosto-lilas/
+  [411/sem limite] fila=11 | depth=10 | https://www.veracruz.pr.gov.br/entrega-de-unidades-habitacionais-marca-nova-etap
+  [412/sem limite] fila=10 | depth=10 | https://www.veracruz.pr.gov.br/tem-eletronico-parado-ai-na-sua-casa/
+  [413/sem limite] fila=9 | depth=10 | https://www.veracruz.pr.gov.br/adote-um-canteiro/
+  [414/sem limite] fila=8 | depth=10 | https://www.veracruz.pr.gov.br/cronograma-da-coleta-seletiva-vera-cruz-do-oeste/
+  [415/sem limite] fila=7 | depth=10 | https://www.veracruz.pr.gov.br/6597-2/
+  [416/sem limite] fila=6 | depth=10 | https://www.veracruz.pr.gov.br/mes-de-conscientizacao-pelo-fim-da-violencia-cont
+  [417/sem limite] fila=5 | depth=10 | https://www.veracruz.pr.gov.br/6591-2/
+  [418/sem limite] fila=4 | depth=10 | https://www.veracruz.pr.gov.br/v-circuito-regional-de-futsal-em-etapas-2025/
+  [419/sem limite] fila=3 | depth=10 | https://www.veracruz.pr.gov.br/festa-do-agricultor-2025/
+  [420/sem limite] fila=2 | depth=10 | https://www.veracruz.pr.gov.br/projeto-saude-em-movimento-esta-de-volta-a-partir
+  [421/sem limite] fila=1 | depth=10 | https://www.veracruz.pr.gov.br/festa-julina-no-centro-de-convivencia/
+  [422/sem limite] fila=0 | depth=10 | https://www.veracruz.pr.gov.br/page/11/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_links.xlsx
+  239 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/erros_varredura.xlsx
+  3 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_externos.xlsx
+  59 links externos registrados.
+
+  Varredura encerrada: VERACRUZDOOESTE
+  Páginas nesta sessão: 422
+  Páginas totais (acumulado): 422
+  Arquivos no inventário: 239
+  Erros registrados: 3
+
+
+ Pipeline encerrado. Resultados em: resultados/veracruzdooeste/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Vera Cruz do Oeste)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Vera Cruz do Oeste (slug: veracruzdooeste)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/veracruzdooeste/?pagina=informacoes/
+              ✅ https://www.govserv.org/BR/Vera-Cruz-do-Oeste/104412021380704/Munic%C3%ADpio-de-Vera-Cruz-do-Oeste/
+              ✅ https://www.portaltransparencia.gov.br/localidades/4128559-vera-cruz-do-oeste?ano=2023/
+              ✅ https://www.veracruz.pr.gov.br/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Vera Cruz do Oeste
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VERACRUZDOOESTE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 239 arquivos já registrados.
+  Links externos parciais carregados: 59 links já registrados.
+  Log de erros parcial carregado: 3 erros já registrados.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 2 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: VERACRUZDOOESTE
+  Páginas já visitadas (checkpoint): 421
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+421)/sem limite] fila=0 | depth=2 | https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=
+ ❌ TIMEOUT_OU_CONEXAO: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+  🤖 Usando Selenium para: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+ ❌ SELENIUM_ERRO: WebDriverException: https://ww2.veracruz.pr.gov.br/index.php?option=com_docman&task=doc_details&gid=127&Itemid=1351
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_links.xlsx
+  239 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/veracruzdooeste/inventario_externos.xlsx
+  59 links externos registrados.
+
+  Varredura encerrada: VERACRUZDOOESTE
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 422
+  Arquivos no inventário: 239
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/veracruzdooeste/
+============================================================
+

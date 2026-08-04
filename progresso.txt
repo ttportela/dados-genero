@@ -16,3 +16,69 @@ Problemas encontrados & Atividades:
 
 Comentários:
 - xambre - tem muitos links que ele confunde com captcha, mas é uma página de erro 404.
+
+Descobrir Cidades - Modo 1:
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       399
+  Novas encontradas:   347
+    via página oficial: 0
+    via padrão de slug: 347
+  Sem portal:          52
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Almirante Tamandaré
+    - Arapoti
+    - Assaí
+    - Bela Vista do Paraíso
+    - Boa Ventura de São Roque
+    - Bom Sucesso
+    - Braganey
+    - Centenário do Sul
+    - Coronel Domingos Soares
+    - Cruz Machado
+    - Esperança Nova
+    - Flor da Serra do Sul
+    - Ibema
+    - Indianópolis
+    - Ipiranga
+    - Itaperuçu
+    - Lapa
+    - Laranjeiras do Sul
+    - Lidianópolis
+    - Mandaguaçu
+    - Marechal Cândido Rondon
+    - Munhoz de Melo
+    - Nova Aliança do Ivaí
+    - Nova Santa Bárbara
+    - Nova Prata do Iguaçu
+    - Palmas
+    - Paulo Frontin
+    - Piên
+    - Pinhalão
+    - Piraí do Sul
+    - Rio Bom
+    - Rio Bonito do Iguaçu
+    - Santa Izabel do Oeste
+    - Santa Tereza do Oeste
+    - Santa Terezinha de Itaipu
+    - Santo Antônio do Caiuá
+    - Santo Antônio do Paraíso
+    - Santo Antônio do Sudoeste
+    - São João do Triunfo
+    - São Jorge d'Oeste
+    - São Jorge do Ivaí
+    - São Jorge do Patrocínio
+    - São José das Palmeiras
+    - São José dos Pinhais
+    - São Miguel do Iguaçu
+    - São Sebastião da Amoreira
+    - Sapopema
+    - Serranópolis do Iguaçu
+    - Tamboara
+    - Três Barras do Paraná
+    - União da Vitória
+    - Vera Cruz do Oeste

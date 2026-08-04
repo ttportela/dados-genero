@@ -7,9 +7,21 @@
 # Script genérico para descobrir portais de prefeituras municipais:
 #   1. Consulta a API do IBGE para listar municípios de um estado
 #   2. Opcionalmente raspa uma página com links oficiais das prefeituras
-#   3. Usa padrão de slug (www.{cidade}.{uf}.gov.br) como fallback
+#   3. Usa padrão de slug (www.{cidade}.{uf}.gov.br ou {cidade}.atende.net) como fallback
 #   4. Testa portais de transparência e dados abertos
 #   5. Salva as URLs válidas em cidades.json
+#
+# Modos de uso:
+#   Mode 1 (padrão): python descobrir_cidades.py --estado pr
+#     Testa padrões de URL e verifica acessibilidade (sem busca na web).
+#
+#   Mode 2 (busca web): python descobrir_cidades.py --estado pr --cidade "curitiba" --buscar-web
+#     Busca "prefeitura {cidade}" e "portal da transparência {cidade}" na web.
+#     Adiciona o primeiro resultado de cada consulta como semente.
+#
+#   Mode 3 (busca web + inventário): python descobrir_cidades.py --estado pr --cidade "curitiba" --buscar-web --apenas-inventario
+#     Busca até 5 resultados de cada consulta, mas adiciona apenas URLs
+#     que também aparecem no inventario_externos da cidade.
 #
 # Como usar:
 #   python descobrir_cidades.py --estado pr
@@ -47,6 +59,7 @@ ARQUIVO_CIDADES = DIR_RAIZ / "cidades.json"
 
 # Padrões de URL para gerar candidatos (estado = sigla da UF, ex: pr, sp, rj)
 PADRAO_PREFEITURA = "https://www.{slug}.{estado}.gov.br/"
+PADRAO_ATENDE = "https://{slug}.atende.net/"
 PADRAO_TRANSPARENCIA = "https://www.transparencia.{slug}.{estado}.gov.br/"
 PADRAO_DADOS_ABERTOS = "https://dadosabertos.{slug}.{estado}.gov.br/"
 
@@ -347,14 +360,20 @@ def descobrir_portais_por_busca(
     """
     Busca portais da prefeitura e da transparência via DuckDuckGo.
 
+    Modos de operação:
+      - Sem apenas_inventario (Mode 2): busca "prefeitura {nome}" e
+        "portal da transparência {nome}", e adiciona apenas o PRIMEIRO
+        resultado válido de cada consulta como semente (se não estiver
+        já configurado).
+      - Com apenas_inventario (Mode 3): busca os 5 primeiros resultados
+        de cada consulta, mas adiciona como sementes apenas URLs que
+        também aparecem no inventario_externos da cidade.
+
     Deduplica por domínio (mantém apenas a URL mais curta de cada domínio).
     Exibe todos os links encontrados com marcadores:
       * = presente no inventario_externos da cidade
       + = já configurado em cidades.json
       ✅ = online  ✗ = offline
-
-    Se apenas_inventario=True, adiciona como sementes apenas URLs que
-    estão no inventario_externos da cidade (mas ainda exibe todas).
 
     Retorna (sementes, dominios) encontrados.
     """
@@ -383,10 +402,14 @@ def descobrir_portais_por_busca(
         f"portal da transparência {nome} {uf}",
     ]
 
-    # Coleta todos os candidatos brutos
+    # Coleta candidatos:
+    # - Mode 2 (sem apenas_inventario): apenas o 1º resultado válido por query
+    # - Mode 3 (com apenas_inventario): até 5 resultados válidos por query
+    max_por_query = 5 #if apenas_inventario else 1
     todos_candidatos: list[str] = []
     for query in queries:
         candidatos = buscar_duckduckgo(query, max_resultados=5)
+        adicionados = 0
         for url in candidatos:
             if url.startswith("http://"):
                 url = "https://" + url[7:]
@@ -394,6 +417,9 @@ def descobrir_portais_por_busca(
             if dominio in dominios_descartaveis:
                 continue
             todos_candidatos.append(url)
+            adicionados += 1
+            if adicionados >= max_por_query:
+                break
         time.sleep(5)
 
     # Deduplica por domínio: mantém apenas a URL mais curta de cada domínio
@@ -457,11 +483,19 @@ def gerar_urls_candidatas(slug: str, estado_sigla: str) -> list[tuple[str, str]]
     """
     Gera URLs candidatas para uma cidade.
     Retorna lista de tuplas (url, tipo) onde tipo descreve o portal.
+
+    Padrões testados:
+      - https://www.{slug}.{uf}.gov.br/        (prefeitura padrão)
+      - https://{slug}.atende.net/             (plataforma atende.net)
+      - https://www.transparencia.{slug}.{uf}.gov.br/  (portal da transparência)
+      - https://dadosabertos.{slug}.{uf}.gov.br/       (dados abertos)
+      - Subdomínios alternativos: portal, www2, www3
     """
     uf = estado_sigla.lower()
     candidatos = []
 
     candidatos.append((PADRAO_PREFEITURA.format(slug=slug, estado=uf), "prefeitura"))
+    candidatos.append((PADRAO_ATENDE.format(slug=slug), "atende"))
     candidatos.append((PADRAO_TRANSPARENCIA.format(slug=slug, estado=uf), "transparencia"))
     candidatos.append((PADRAO_DADOS_ABERTOS.format(slug=slug, estado=uf), "dados_abertos"))
 
@@ -513,13 +547,20 @@ def descobrir_portais(
     """
     Para um município, descobre os portais disponíveis.
 
-    Estratégia (em ordem de prioridade):
-      1. URL de página oficial (se fornecida via --pagina-prefeituras)
-      2. Padrão de slug + subdomínios alternativos — fallback
-      3. Portais de transparência e dados abertos (sempre testados)
-      4. Busca no DuckDuckGo (se buscar_web=True, ou como fallback final)
-         Se apenas_inventario=True, adiciona apenas URLs encontradas
-         no DuckDuckGo que também aparecem no inventario_externos da cidade.
+    Modos de operação:
+      Mode 1 (padrão, sem --buscar-web):
+        Testa padrões de URL: https://www.{slug}.{uf}.gov.br/,
+        https://{slug}.atende.net/, subdomínios alternativos,
+        transparência e dados abertos. Apenas verifica acessibilidade.
+
+      Mode 2 (--buscar-web, sem --apenas-inventario):
+        Busca "prefeitura {nome}" e "portal da transparência {nome}" na web.
+        Adiciona o primeiro resultado válido de cada consulta como semente,
+        se ainda não estiver na configuração.
+
+      Mode 3 (--buscar-web --apenas-inventario):
+        Busca até 5 resultados de cada consulta na web, mas adiciona como
+        sementes apenas URLs que também aparecem no inventario_externos da cidade.
 
     Retorna dict no formato do cidades.json ou None se nenhum portal responde.
     """
@@ -573,7 +614,7 @@ def descobrir_portais(
 
     # --- 4. Busca no DuckDuckGo ---
     # Sempre busca se buscar_web=True (complementar) ou se nada encontrado (fallback)
-    if buscar_web or not sementes:
+    if buscar_web: # or not sementes:
         if apenas_inventario:
             print("  → buscando no DuckDuckGo (apenas inventário)...", end=" ", flush=True)
         else:
@@ -683,22 +724,30 @@ def main():
         help="Timeout por URL em segundos (padrão: 10)",
     )
     parser.add_argument(
-        "--sobrescrever",
-        action="store_true",
-        default=False,
-        help="Sobrescreve cidades já existentes no cidades.json",
-    )
-    parser.add_argument(
         "--buscar-web",
         action="store_true",
         default=False,
-        help="Usa DuckDuckGo para buscar portais quando o padrão de slug falha (requer duckduckgo_search)",
+        help=(
+            "Busca 'prefeitura {cidade}' e 'portal da transparência {cidade}' na web.\n"
+            "Adiciona o primeiro resultado de cada consulta como semente (Mode 2),\n"
+            "ou até 5 resultados filtrados pelo inventário (Mode 3, com --apenas-inventario)."
+        ),
     )
     parser.add_argument(
         "--apenas-inventario",
         action="store_true",
         default=False,
-        help="Com --buscar-web: adiciona apenas URLs que aparecem no inventario_externos da cidade",
+        help=(
+            "Com --buscar-web: adiciona apenas URLs que aparecem no\n"
+            "inventario_externos da cidade (Mode 3). Busca até 5 resultados\n"
+            "por consulta em vez de apenas o primeiro."
+        ),
+    )
+    parser.add_argument(
+        "--sobrescrever",
+        action="store_true",
+        default=False,
+        help="Sobrescreve cidades já existentes no cidades.json",
     )
     parser.add_argument(
         "--cidade",
@@ -747,6 +796,7 @@ def main():
 
     # 4. Descobre portais para cada município
     novas_cidades = {}
+    nao_encontradas = {}
     cidades_sem_portal = []
     cidades_puladas = []
     cidades_da_pagina = 0
@@ -815,6 +865,11 @@ def main():
                     print(f"           → {s}")
         else:
             cidades_sem_portal.append(nome)
+            if not ja_configurada:
+                nao_encontradas[slug] = {
+                    "sementes": [],
+                    "dominios": [],
+                }
             print("❌ nenhum portal encontrado")
 
         time.sleep(0.5)
@@ -841,6 +896,7 @@ def main():
         print(f"\n  --dry-run: não salvando alterações.")
     elif novas_cidades:
         cidades_finais = dict(cidades_existentes)
+        cidades_finais.update(nao_encontradas)
         cidades_finais.update(novas_cidades)
 
         metadados = {

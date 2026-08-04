@@ -388,16 +388,18 @@
 # ./run_pipeline.sh tomazina
 # ./run_pipeline.sh tresbarrasdoparana
 # ./run_pipeline.sh tunasdoparana
+
 # ./run_pipeline.sh tuneirasdooeste
 # ./run_pipeline.sh tupassi
 # ./run_pipeline.sh turvo
+
 # ./run_pipeline.sh ubirata
 # ./run_pipeline.sh umuarama
 # ./run_pipeline.sh uniaodavitoria
+
 # ./run_pipeline.sh uniflor
 # ./run_pipeline.sh urai
 # ./run_pipeline.sh ventania
-
 # ./run_pipeline.sh veracruzdooeste
 # ./run_pipeline.sh vere
 # ./run_pipeline.sh virmond

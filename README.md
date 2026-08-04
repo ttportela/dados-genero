@@ -70,10 +70,15 @@ python main.py maringa --sem-limite --etapa 1 --max-profundidade 10 --reprocessa
 
 ### 4. Descobrir portais municipais (`descobrir_cidades.py`)
 
-Script automatizado que consulta o IBGE, testa URLs candidatas e popula o `cidades.json`:
+Script automatizado que consulta o IBGE, testa URLs candidatas e popula o `cidades.json`.
+Possui três modos de operação:
+
+**Modo 1 — Padrão (testa padrões de URL):**
+Testa `https://www.{slug}.{uf}.gov.br/`, `https://{slug}.atende.net/`,
+subdomínios alternativos (`portal`, `www2`, `www3`), portais de transparência
+e dados abertos. Apenas verifica acessibilidade via HEAD request.
 
 ```bash
-# Descobrir cidades do Paraná (apenas slug + testes HEAD)
 python descobrir_cidades.py --estado pr
 
 # Com scraping de página oficial de prefeituras (mais preciso)
@@ -90,6 +95,24 @@ python descobrir_cidades.py --estado pr --sobrescrever
 python descobrir_cidades.py --estado pr --timeout 15
 ```
 
+**Modo 2 — Busca na web (primeiro resultado):**
+Busca "prefeitura {cidade}" e "portal da transparência {cidade}" na web e
+adiciona o primeiro resultado válido de cada consulta como semente (se ainda
+não estiver configurado).
+
+```bash
+python descobrir_cidades.py --estado pr --cidade "curitiba" --buscar-web
+```
+
+**Modo 3 — Busca na web + inventário (até 5 resultados filtrados):**
+Busca até 5 resultados de cada consulta na web, mas adiciona como sementes
+apenas URLs que também aparecem no `inventario_externos` da cidade (gerado
+pelo crawler na Etapa 1).
+
+```bash
+python descobrir_cidades.py --estado pr --cidade "curitiba" --buscar-web --apenas-inventario
+```
+
 **Argumentos:**
 - `--estado` (obrigatório): Sigla do estado (ex: `pr`, `sp`, `rj`)
 - `--pagina-prefeituras`: URL opcional com links oficiais das prefeituras
@@ -97,6 +120,9 @@ python descobrir_cidades.py --estado pr --timeout 15
 - `--dry-run`: Lista resultados sem salvar no `cidades.json`
 - `--timeout <s>`: Timeout por requisição HEAD (padrão: 10)
 - `--sobrescrever`: Sobrescreve cidades já configuradas
+- `--buscar-web`: Ativa busca na web (Modo 2 ou 3)
+- `--apenas-inventario`: Com `--buscar-web`, filtra resultados pelo inventário de externos (Modo 3)
+- `--cidade <nome>`: Processa apenas uma cidade específica (ex: `curitiba`)
 
 ### 5. Visualizar progresso (`visualizar_checkpoint.py`)
 

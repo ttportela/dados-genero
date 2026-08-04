@@ -24,6 +24,7 @@ from streamlit_autorefresh import st_autorefresh
 
 from src.config import CIDADES, DIR_RESULTADOS, MAX_DEPTH, SUFIXO_PASTA
 
+INTERVAL=5
 
 def _is_valid_domain(netloc: str, dominios: list[str]) -> bool:
     """Verifica se o netloc pertence a um dos domínios válidos (respeita limites de rótulo)."""
@@ -249,9 +250,9 @@ st.set_page_config(
 )
 
 # Auto-rerun a cada 10 segundos (pode ser desativado na sidebar)
-auto_rerun = st.sidebar.checkbox("Atualizar a cada 1 min", value=True)
+auto_rerun = st.sidebar.checkbox(f"Atualizar a cada {INTERVAL} min", value=True)
 if auto_rerun:
-    st_autorefresh(interval=60_000, key="autorefresh")
+    st_autorefresh(interval=INTERVAL*60*1000, key="autorefresh")
 
 st.sidebar.title("Configuração")
 
@@ -485,13 +486,13 @@ if modo == "Resultados":
         "externos": "Externos",
         "erros": "Erros",
         "maior_nivel": "Maior Nível",
-        "fora_dominios": "Fora Domínios",
+        "fora_dominios": "Dif Domínio",
         "progresso_pct": "Progresso",
         "sementes": "Sementes",
     })
     df_tabela = df_tabela[[
         "Cidade", "Status", "Progresso", "Sementes", "Páginas", "Fila", "Arquivos",
-        "Externos", "Erros", "Maior Nível", "Fora Domínios",
+        "Externos", "Erros", "Maior Nível", "Dif Domínio",
     ]]
 
     st.dataframe(

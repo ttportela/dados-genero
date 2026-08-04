@@ -1,0 +1,109 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VIRMOND
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: VIRMOND
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.virmond.pr.gov.br/
+  [2/sem limite] fila=11 | depth=1 | https://www.virmond.pr.gov.br/index
+  [3/sem limite] fila=10 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=6c0e7927d4a71367dcb4b16ad3ebc5ab
+  [4/sem limite] fila=9 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=1edad42672713a0c04fd3ca694a37128
+  [5/sem limite] fila=8 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=8dc39a5adfa753172e0fc60b7f8c12b3
+  [6/sem limite] fila=7 | depth=1 | https://www.virmond.pr.gov.br/Servicos?r=esic
+  [7/sem limite] fila=7 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=dce96572ddc1ec6aa6fcc86aaaf938c1
+  [8/sem limite] fila=6 | depth=1 | http://webmail.virmond.pr.gov.br/
+  🤖 Usando Selenium para: http://webmail.virmond.pr.gov.br/
+  [9/sem limite] fila=5 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=bd8b9e3c9e4b0f8376cd299267164fe6
+  [10/sem limite] fila=4 | depth=1 | https://www.virmond.pr.gov.br/Contato
+  [11/sem limite] fila=3 | depth=1 | https://www.virmond.pr.gov.br/Conteudo?data=5ce8f0120086d279c13dac6fb7d7fd5b
+  [12/sem limite] fila=2 | depth=1 | https://www.virmond.pr.gov.br/Servicos?r=ouvidoria
+  [13/sem limite] fila=1 | depth=1 | https://www.virmond.pr.gov.br/Noticias
+  [14/sem limite] fila=0 | depth=2 | https://www.virmond.pr.gov.br/Servicos
+
+  Nenhum arquivo encontrado para virmond.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/virmond/inventario_externos.xlsx
+  32 links externos registrados.
+
+  Varredura encerrada: VIRMOND
+  Páginas nesta sessão: 14
+  Páginas totais (acumulado): 14
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/virmond/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Virmond)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Virmond (slug: virmond)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/virmond/index.cfm?pagina=panorama/
+              ✅ https://www.eprefeituras.com.br/portal/virmond/
+            + ✅ https://www.virmond.pr.gov.br/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | VIRMOND
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 32 links já registrados.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: VIRMOND
+  Páginas já visitadas (checkpoint): 14
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para virmond.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/virmond/inventario_externos.xlsx
+  32 links externos registrados.
+
+  Varredura encerrada: VIRMOND
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 14
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/virmond/
+============================================================
+

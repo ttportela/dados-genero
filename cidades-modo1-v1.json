@@ -1,15 +1,454 @@
 {
-  "_comentario": "Configuracao das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dominios.",
-  "_portais_verificados": "Descoberto automaticamente em 28/07/2026",
-  "abatia": {
+  "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
+  "_portais_verificados": "Descoberto automaticamente em 01/08/2026",
+  "almirantetamandare": {
     "sementes": [
-      "http://abatia.pr.gov.br/",
-      "https://abatia.metajuris.com.br/transparencia/"
+      "https://tamandare.pr.gov.br/"
     ],
     "dominios": [
-      "abatia.pr.gov.br",
-      "www.abatia.pr.gov.br",
-      "abatia.metajuris.com.br"
+      "tamandare.pr.gov.br"
+    ]
+  },
+  "arapoti": {
+    "sementes": [
+      "https://www.arapoti.pr.gov.br/"
+    ],
+    "dominios": [
+      "arapoti.pr.gov.br",
+      "www.arapoti.pr.gov.br"
+    ]
+  },
+  "assai": {
+    "sementes": [
+      "https://www.assai.pr.gov.br/"
+    ],
+    "dominios": [
+      "assai.pr.gov.br",
+      "www.assai.pr.gov.br"
+    ]
+  },
+  "belavistadoparaiso": {
+    "sementes": [
+      "https://www.pmbvista.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmbvista.pr.gov.br",
+      "www.pmbvista.pr.gov.br"
+    ]
+  },
+  "boaventuradesaoroque": {
+    "sementes": [
+      "https://www.boaventura.pr.gov.br/"
+    ],
+    "dominios": [
+      "boaventuradesaoroque.pr.gov.br",
+      "www.boaventura.pr.gov.br"
+    ]
+  },
+  "bomsucesso": {
+    "sementes": [
+      "https://www.bomsucesso.pr.gov.br/"
+    ],
+    "dominios": [
+      "bomsucesso.pr.gov.br"
+    ]
+  },
+  "braganey": {
+    "sementes": [
+      "https://www.pmbraganey.pr.gov.br/"
+    ],
+    "dominios": [
+      "braganey.pr.gov.br",
+      "www.pmbraganey.pr.gov.br"
+    ]
+  },
+  "centenariodosul": {
+    "sementes": [
+      "https://www.centenariodosul.pr.gov.br/"
+    ],
+    "dominios": [
+      "centenariodosul.pr.gov.br",
+      "www.centenariodosul.pr.gov.br"
+    ]
+  },
+  "coroneldomingossoares": {
+    "sementes": [
+      "https://www.pmcds.pr.gov.br/"
+    ],
+    "dominios": [
+      "coroneldomingossoares.pr.gov.br",
+      "www.pmcds.pr.gov.br"
+    ]
+  },
+  "cruzmachado": {
+    "sementes": [
+      "https://pmcm.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmcm.pr.gov.br"
+    ]
+  },
+  "esperancanova": {
+    "sementes": [
+      "https://www.esperancanova.pr.gov.br/"
+    ],
+    "dominios": [
+      "esperancanova.pr.gov.br",
+      "www.esperancanova.pr.gov.br"
+    ]
+  },
+  "flordaserradosul": {
+    "sementes": [
+      "https://www.fssul.pr.gov.br/"
+    ],
+    "dominios": [
+      "flordaserradosul.pr.gov.br",
+      "www.fssul.pr.gov.br"
+    ]
+  },
+  "ibema": {
+    "sementes": [
+      "https://www.pibema.pr.gov.br/"
+    ],
+    "dominios": [
+      "ibema.pr.gov.br",
+      "www.pibema.pr.gov.br"
+    ]
+  },
+  "indianopolis": {
+    "sementes": [
+      "https://www.indianopolis.pr.gov.br/"
+    ],
+    "dominios": [
+      "indianopolis.pr.gov.br",
+      "www.indianopolis.pr.gov.br"
+    ]
+  },
+  "ipiranga": {
+    "sementes": [
+      "https://ipiranga.pr.gov.br/"
+    ],
+    "dominios": [
+      "ipiranga.pr.gov.br"
+    ]
+  },
+  "itaperucu": {
+    "sementes": [
+      "https://www.itaperucu.pr.gov.br/"
+    ],
+    "dominios": [
+      "itaperucu.pr.gov.br",
+      "www.itaperucu.pr.gov.br"
+    ]
+  },
+  "lapa": {
+    "sementes": [
+      "https://lapa.atende.net/",
+      "https://www.lapa.pr.gov.br/"
+    ],
+    "dominios": [
+      "lapa.atende.net",
+      "www.lapa.pr.gov.br",
+      "lapa.pr.gov.br"
+    ]
+  },
+  "laranjeirasdosul": {
+    "sementes": [
+      "https://www.laranjeirasdosul.pr.gov.br/"
+    ],
+    "dominios": [
+      "laranjeirasdosul.pr.gov.br"
+    ]
+  },
+  "lidianopolis": {
+    "sementes": [
+      "https://www.lidianopolis.pr.gov.br/"
+    ],
+    "dominios": [
+      "lidianopolis.pr.gov.br",
+      "www.lidianopolis.pr.gov.br"
+    ]
+  },
+  "mandaguacu": {
+    "sementes": [
+      "https://www.mandaguacu.pr.gov.br/"
+    ],
+    "dominios": [
+      "mandaguacu.pr.gov.br",
+      "www.mandaguacu.pr.gov.br"
+    ]
+  },
+  "marechalcandidorondon": {
+    "sementes": [
+      "https://marechalcandidorondon.atende.net/"
+    ],
+    "dominios": [
+      "marechalcandidorondon.atende.net"
+    ]
+  },
+  "munhozdemelo": {
+    "sementes": [
+      "https://www.munhozdemello.pr.gov.br/"
+    ],
+    "dominios": [
+      "munhozdemello.pr.gov.br",
+      "www.munhozdemello.pr.gov.br"
+    ]
+  },
+  "novaaliancadoivai": {
+    "sementes": [
+      "https://www.novaalianca.pr.gov.br/"
+    ],
+    "dominios": [
+      "novaaliancadoivai.pr.gov.br",
+      "www.novaalianca.pr.gov.br"
+    ]
+  },
+  "novasantabarbara": {
+    "sementes": [
+      "https://www.nsb.pr.gov.br/"
+    ],
+    "dominios": [
+      "novasantabarbara.pr.gov.br",
+      "www.nsb.pr.gov.br"
+    ]
+  },
+  "novapratadoiguacu": {
+    "sementes": [
+      "https://www.npi.pr.gov.br/"
+    ],
+    "dominios": [
+      "npi.pr.gov.br"
+    ]
+  },
+  "palmas": {
+    "sementes": [
+      "https://pmp.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmp.pr.gov.br"
+    ]
+  },
+  "paulofrontin": {
+    "sementes": [
+      "https://www.paulofrontin.pr.gov.br/"
+    ],
+    "dominios": [
+      "paulofrontin.pr.gov.br",
+      "www.paulofrontin.pr.gov.br"
+    ]
+  },
+  "pien": {
+    "sementes": [
+      "https://www.pien.pr.gov.br/"
+    ],
+    "dominios": [
+      "pien.pr.gov.br",
+      "www.pien.pr.gov.br"
+    ]
+  },
+  "pinhalao": {
+    "sementes": [
+      "https://www.pinhalao.pr.gov.br/"
+    ],
+    "dominios": [
+      "pinhalao.pr.gov.br",
+      "www.pinhalao.pr.gov.br"
+    ]
+  },
+  "piraidosul": {
+    "sementes": [
+      "https://www.piraidosul.pr.gov.br/"
+    ],
+    "dominios": [
+      "piraidosul.pr.gov.br",
+      "www.piraidosul.pr.gov.br"
+    ]
+  },
+  "riobom": {
+    "sementes": [
+      "https://www.riobom.pr.gov.br/"
+    ],
+    "dominios": [
+      "riobom.pr.gov.br",
+      "www.riobom.pr.gov.br"
+    ]
+  },
+  "riobonitodoiguacu": {
+    "sementes": [
+      "https://www.riobonito.pr.gov.br/"
+    ],
+    "dominios": [
+      "riobonito.pr.gov.br"
+    ]
+  },
+  "santaizabeldooeste": {
+    "sementes": [
+      "https://www.prefeiturasio.pr.gov.br/"
+    ],
+    "dominios": [
+      "prefeiturasio.pr.gov.br"
+    ]
+  },
+  "santaterezadooeste": {
+    "sementes": [
+      "https://www.santatereza.pr.gov.br/site/"
+    ],
+    "dominios": [
+      "santaterezadooeste.pr.gov.br"
+    ]
+  },
+  "santaterezinhadeitaipu": {
+    "sementes": [
+      "https://www.stitaipu.pr.gov.br/"
+    ],
+    "dominios": [
+      "stitaipu.pr.gov.br"
+    ]
+  },
+  "santoantoniodocaiua": {
+    "sementes": [
+      "https://www.pmsac.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmsac.pr.gov.br"
+    ]
+  },
+  "santoantoniodoparaiso": {
+    "sementes": [
+      "https://www.pmsantoantoniodoparaiso.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmsantoantoniodoparaiso.pr.gov.br"
+    ]
+  },
+  "santoantoniodosudoeste": {
+    "sementes": [
+      "https://www.pmsas.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmsas.pr.gov.br"
+    ]
+  },
+  "saojoaodotriunfo": {
+    "sementes": [
+      "https://sjtriunfo.pr.gov.br/"
+    ],
+    "dominios": [
+      "sjtriunfo.pr.gov.br"
+    ]
+  },
+  "saojorgedoeste": {
+    "sementes": [
+      "https://pmsjorge.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmsjorge.pr.gov.br",
+      "www.pmsjorge.pr.gov.br"
+    ]
+  },
+  "saojorgedoivai": {
+    "sementes": [
+      "https://www.pmsjivai.pr.gov.br/"
+    ],
+    "dominios": [
+      "pmsjivai.pr.gov.br"
+    ]
+  },
+  "saojorgedopatrocinio": {
+    "sementes": [
+      "https://www.sjpatrocinio.pr.gov.br/"
+    ],
+    "dominios": [
+      "sjpatrocinio.pr.gov.br"
+    ]
+  },
+  "saojosedaspalmeiras": {
+    "sementes": [
+      "https://www.sjpalmeiras.pr.gov.br/"
+    ],
+    "dominios": [
+      "sjpalmeiras.pr.gov.br"
+    ]
+  },
+  "saojosedospinhais": {
+    "sementes": [
+      "https://www.sjp.pr.gov.br/"
+    ],
+    "dominios": [
+      "sjp.pr.gov.br"
+    ]
+  },
+  "saomigueldoiguacu": {
+    "sementes": [
+      "https://www.saomiguel.pr.gov.br/"
+    ],
+    "dominios": [
+      "saomiguel.pr.gov.br"
+    ]
+  },
+  "saosebastiaodaamoreira": {
+    "sementes": [
+      "https://www.amoreira.pr.gov.br/"
+    ],
+    "dominios": [
+      "amoreira.pr.gov.br"
+    ]
+  },
+  "sapopema": {
+    "sementes": [
+      "https://www.sapopema.pr.gov.br/"
+    ],
+    "dominios": [
+      "sapopema.pr.gov.br"
+    ]
+  },
+  "serranopolisdoiguacu": {
+    "sementes": [
+      "https://www.serranopolis.pr.gov.br/"
+    ],
+    "dominios": [
+      "serranopolis.pr.gov.br"
+    ]
+  },
+  "tamboara": {
+    "sementes": [
+      "https://www.tamboara.pr.gov.br/"
+    ],
+    "dominios": [
+      "tamboara.pr.gov.br"
+    ]
+  },
+  "tresbarrasdoparana": {
+    "sementes": [
+      "https://tresbarras.pr.gov.br/"
+    ],
+    "dominios": [
+      "tresbarras.pr.gov.br"
+    ]
+  },
+  "uniaodavitoria": {
+    "sementes": [
+      "https://uniaodavitoria.pr.gov.br/"
+    ],
+    "dominios": [
+      "uniaodavitoria.pr.gov.br"
+    ]
+  },
+  "veracruzdooeste": {
+    "sementes": [
+      "https://www.veracruz.pr.gov.br/"
+    ],
+    "dominios": [
+      "veracruz.pr.gov.br"
+    ]
+  },
+  "abatia": {
+    "sementes": [
+      "http://abatia.pr.gov.br/"
+    ],
+    "dominios": [
+      "abatia.pr.gov.br"
     ]
   },
   "adrianopolis": {
@@ -28,15 +467,6 @@
     "dominios": [
       "agudosdosul.pr.gov.br",
       "www.agudosdosul.pr.gov.br"
-    ]
-  },
-  "almirantetamandare": {
-    "sementes": [
-      "https://tamandare.pr.gov.br/"
-    ],
-    "dominios": [
-      "tamandare.pr.gov.br",
-      "www.tamandare.pr.gov.br"
     ]
   },
   "altamiradoparana": {
@@ -95,29 +525,30 @@
   },
   "ampere": {
     "sementes": [
-      "https://www.camaraampere.com.br/"
+      "https://www.ampere.pr.gov.br/"
     ],
     "dominios": [
       "ampere.pr.gov.br",
-      "www.camaraampere.com.br"
+      "www.ampere.pr.gov.br"
     ]
   },
   "anahy": {
     "sementes": [
-      "https://www.camaraanahy.pr.gov.br/"
+      "https://www.anahy.pr.gov.br/"
     ],
     "dominios": [
+      "anahy.atende.net",
       "anahy.pr.gov.br",
-      "www.camaraanahy.pr.gov.br"
+      "www.anahy.pr.gov.br"
     ]
   },
   "andira": {
     "sementes": [
-      "https://www.cmandira.pr.gov.br/"
+      "https://www.andira.pr.gov.br/"
     ],
     "dominios": [
       "andira.pr.gov.br",
-      "www.cmandira.pr.gov.br"
+      "www.andira.pr.gov.br"
     ]
   },
   "angulo": {
@@ -131,11 +562,11 @@
   },
   "antonina": {
     "sementes": [
-      "https://www.camaramunicipaldeantonina.pr.gov.br/"
+      "https://www.antonina.pr.gov.br/"
     ],
     "dominios": [
       "antonina.pr.gov.br",
-      "www.camaramunicipaldeantonina.pr.gov.br"
+      "www.antonina.pr.gov.br"
     ]
   },
   "antonioolinto": {
@@ -149,11 +580,12 @@
   },
   "apucarana": {
     "sementes": [
-      "https://www.cma.pr.gov.br/"
+      "https://www.apucarana.pr.gov.br/"
     ],
     "dominios": [
+      "apucarana.atende.net",
       "apucarana.pr.gov.br",
-      "www.cma.pr.gov.br"
+      "www.apucarana.pr.gov.br"
     ]
   },
   "arapongas": {
@@ -161,17 +593,9 @@
       "https://www.arapongas.pr.gov.br/"
     ],
     "dominios": [
+      "arapongas.atende.net",
       "arapongas.pr.gov.br",
       "www.arapongas.pr.gov.br"
-    ]
-  },
-  "arapoti": {
-    "sementes": [
-      "https://www.cmarapoti.pr.gov.br/"
-    ],
-    "dominios": [
-      "arapoti.pr.gov.br",
-      "www.cmarapoti.pr.gov.br"
     ]
   },
   "arapua": {
@@ -185,11 +609,11 @@
   },
   "araruna": {
     "sementes": [
-      "https://www.cmararuna.pr.gov.br/"
+      "https://www.araruna.pr.gov.br/"
     ],
     "dominios": [
       "araruna.pr.gov.br",
-      "www.cmararuna.pr.gov.br"
+      "www.araruna.pr.gov.br"
     ]
   },
   "araucaria": {
@@ -197,6 +621,7 @@
       "https://www.araucaria.pr.gov.br/"
     ],
     "dominios": [
+      "araucaria.atende.net",
       "araucaria.pr.gov.br",
       "www.araucaria.pr.gov.br"
     ]
@@ -210,22 +635,13 @@
       "www.ariranhadoivai.pr.gov.br"
     ]
   },
-  "assai": {
-    "sementes": [
-      "https://www.assai.pr.gov.br/"
-    ],
-    "dominios": [
-      "assai.pr.gov.br",
-      "www.assai.pr.gov.br"
-    ]
-  },
   "assischateaubriand": {
     "sementes": [
-      "https://www.camarassis.pr.gov.br/"
+      "https://www.assischateaubriand.pr.gov.br/"
     ],
     "dominios": [
       "assischateaubriand.pr.gov.br",
-      "www.camarassis.pr.gov.br"
+      "www.assischateaubriand.pr.gov.br"
     ]
   },
   "astorga": {
@@ -239,11 +655,11 @@
   },
   "atalaia": {
     "sementes": [
-      "https://www.camaraatalaia.pr.gov.br/"
+      "https://www.atalaia.pr.gov.br/"
     ],
     "dominios": [
       "atalaia.pr.gov.br",
-      "www.camaraatalaia.pr.gov.br"
+      "www.atalaia.pr.gov.br"
     ]
   },
   "balsanova": {
@@ -266,29 +682,29 @@
   },
   "barbosaferraz": {
     "sementes": [
-      "https://www.cmbf.pr.gov.br/"
+      "https://www.barbosaferraz.pr.gov.br/"
     ],
     "dominios": [
       "barbosaferraz.pr.gov.br",
-      "www.cmbf.pr.gov.br"
+      "www.barbosaferraz.pr.gov.br"
     ]
   },
   "barracao": {
     "sementes": [
-      "https://www.camarabarracao.pr.gov.br/"
+      "https://www.barracao.pr.gov.br/"
     ],
     "dominios": [
       "barracao.pr.gov.br",
-      "www.camarabarracao.pr.gov.br"
+      "www.barracao.pr.gov.br"
     ]
   },
   "barradojacare": {
     "sementes": [
-      "https://www.camarabarradojacare.pr.gov.br/"
+      "https://www.barradojacare.pr.gov.br/"
     ],
     "dominios": [
       "barradojacare.pr.gov.br",
-      "www.camarabarradojacare.pr.gov.br"
+      "www.barradojacare.pr.gov.br"
     ]
   },
   "belavistadacaroba": {
@@ -300,27 +716,20 @@
       "www.belavistadacaroba.pr.gov.br"
     ]
   },
-  "belavistadoparaiso": {
-    "sementes": [
-      "https://www.pmbvista.pr.gov.br/"
-    ],
-    "dominios": [
-      "pmbvista.pr.gov.br",
-      "www.pmbvista.pr.gov.br"
-    ]
-  },
   "bituruna": {
     "sementes": [
-      "https://www.bituruna.pr.gov.br/"
+      "https://www.bituruna.pr.gov.br/",
+      "https://portal.bituruna.pr.gov.br/"
     ],
     "dominios": [
       "bituruna.pr.gov.br",
+      "portal.bituruna.pr.gov.br",
       "www.bituruna.pr.gov.br"
     ]
   },
   "boaesperanca": {
     "sementes": [
-      "https://boaesperanca.pr.gov.br/"
+      "https://www.boaesperanca.pr.gov.br/"
     ],
     "dominios": [
       "boaesperanca.pr.gov.br",
@@ -332,17 +741,9 @@
       "https://www.boaesperancadoiguacu.pr.gov.br/"
     ],
     "dominios": [
+      "boaesperancadoiguacu.atende.net",
       "boaesperancadoiguacu.pr.gov.br",
       "www.boaesperancadoiguacu.pr.gov.br"
-    ]
-  },
-  "boaventuradesaoroque": {
-    "sementes": [
-      "https://www.boaventura.pr.gov.br/"
-    ],
-    "dominios": [
-      "boaventuradesaoroque.pr.gov.br",
-      "www.boaventura.pr.gov.br"
     ]
   },
   "boavistadaaparecida": {
@@ -372,15 +773,6 @@
       "www.bomjesusdosul.pr.gov.br"
     ]
   },
-  "bomsucesso": {
-    "sementes": [
-      "https://www.cmbomsucesso.pr.gov.br/"
-    ],
-    "dominios": [
-      "bomsucesso.pr.gov.br",
-      "www.cmbomsucesso.pr.gov.br"
-    ]
-  },
   "bomsucessodosul": {
     "sementes": [
       "https://www.bomsucessodosul.pr.gov.br/"
@@ -399,16 +791,7 @@
       "www.borrazopolis.pr.gov.br"
     ]
   },
-  "braganey": {
-    "sementes": [
-      "https://www.pmbraganey.pr.gov.br/"
-    ],
-    "dominios": [
-      "braganey.pr.gov.br",
-      "www.pmbraganey.pr.gov.br"
-    ]
-  },
-  "brasilandiaodosul": {
+  "brasilandiadosul": {
     "sementes": [
       "https://www.brasilandiadosul.pr.gov.br/"
     ],
@@ -455,11 +838,11 @@
   },
   "cambara": {
     "sementes": [
-      "https://www.camaracambara.pr.gov.br/"
+      "https://www.cambara.pr.gov.br/"
     ],
     "dominios": [
       "cambara.pr.gov.br",
-      "www.camaracambara.pr.gov.br"
+      "www.cambara.pr.gov.br"
     ]
   },
   "cambe": {
@@ -502,11 +885,13 @@
   },
   "campinagrandedosul": {
     "sementes": [
-      "https://www.camaracampina.pr.gov.br/"
+      "https://www.campinagrandedosul.pr.gov.br/",
+      "https://portal.campinagrandedosul.pr.gov.br/"
     ],
     "dominios": [
       "campinagrandedosul.pr.gov.br",
-      "www.camaracampina.pr.gov.br"
+      "portal.campinagrandedosul.pr.gov.br",
+      "www.campinagrandedosul.pr.gov.br"
     ]
   },
   "campobonito": {
@@ -529,13 +914,14 @@
   },
   "campolargo": {
     "sementes": [
-      "https://www.cmcampolargo.pr.gov.br/",
+      "https://www.campolargo.pr.gov.br/",
       "https://dadosabertos.campolargo.pr.gov.br/"
     ],
     "dominios": [
+      "campolargo.atende.net",
       "campolargo.pr.gov.br",
       "dadosabertos.campolargo.pr.gov.br",
-      "www.cmcampolargo.pr.gov.br"
+      "www.campolargo.pr.gov.br"
     ]
   },
   "campomagro": {
@@ -549,11 +935,12 @@
   },
   "campomourao": {
     "sementes": [
-      "https://www.cmcm.pr.gov.br/"
+      "https://www.campomourao.pr.gov.br/"
     ],
     "dominios": [
+      "campomourao.atende.net",
       "campomourao.pr.gov.br",
-      "www.cmcm.pr.gov.br"
+      "www.campomourao.pr.gov.br"
     ]
   },
   "candidodeabreu": {
@@ -567,19 +954,22 @@
   },
   "candoi": {
     "sementes": [
-      "https://www.candoi.pr.gov.br/"
+      "https://www.candoi.pr.gov.br/",
+      "https://portal.candoi.pr.gov.br/"
     ],
     "dominios": [
       "candoi.pr.gov.br",
+      "portal.candoi.pr.gov.br",
       "www.candoi.pr.gov.br"
     ]
   },
   "cantagalo": {
     "sementes": [
-      "https://cantagalo.pr.gov.br/"
+      "https://www.cantagalo.pr.gov.br/"
     ],
     "dominios": [
-      "cantagalo.pr.gov.br"
+      "cantagalo.pr.gov.br",
+      "www.cantagalo.pr.gov.br"
     ]
   },
   "capanema": {
@@ -591,7 +981,7 @@
       "www.capanema.pr.gov.br"
     ]
   },
-  "capitolaeonidasmarques": {
+  "capitaoleonidasmarques": {
     "sementes": [
       "https://www.capitaoleonidasmarques.pr.gov.br/"
     ],
@@ -602,11 +992,12 @@
   },
   "carambei": {
     "sementes": [
-      "https://www.camaracarambei.pr.gov.br/"
+      "https://www.carambei.pr.gov.br/"
     ],
     "dominios": [
+      "carambei.atende.net",
       "carambei.pr.gov.br",
-      "www.camaracarambei.pr.gov.br"
+      "www.carambei.pr.gov.br"
     ]
   },
   "carlopolis": {
@@ -620,11 +1011,12 @@
   },
   "cascavel": {
     "sementes": [
-      "https://www.camaracascavel.pr.gov.br/"
+      "https://www.cascavel.pr.gov.br/"
     ],
     "dominios": [
+      "cascavel.atende.net",
       "cascavel.pr.gov.br",
-      "www.camaracascavel.pr.gov.br"
+      "www.cascavel.pr.gov.br"
     ]
   },
   "castro": {
@@ -633,6 +1025,7 @@
       "https://portal.castro.pr.gov.br/"
     ],
     "dominios": [
+      "castro.atende.net",
       "castro.pr.gov.br",
       "portal.castro.pr.gov.br",
       "www.castro.pr.gov.br"
@@ -661,26 +1054,27 @@
       "https://www.ceuazul.pr.gov.br/"
     ],
     "dominios": [
+      "ceuazul.atende.net",
       "ceuazul.pr.gov.br",
       "www.ceuazul.pr.gov.br"
     ]
   },
   "chopinzinho": {
     "sementes": [
-      "https://camarachopinzinho.pr.gov.br/"
+      "https://www.chopinzinho.pr.gov.br/"
     ],
     "dominios": [
-      "camarachopinzinho.pr.gov.br",
-      "chopinzinho.pr.gov.br"
+      "chopinzinho.pr.gov.br",
+      "www.chopinzinho.pr.gov.br"
     ]
   },
   "cianorte": {
     "sementes": [
-      "https://www.camaracianorte.pr.gov.br/"
+      "https://www.cianorte.pr.gov.br/"
     ],
     "dominios": [
       "cianorte.pr.gov.br",
-      "www.camaracianorte.pr.gov.br"
+      "www.cianorte.pr.gov.br"
     ]
   },
   "cidadegaucha": {
@@ -697,26 +1091,30 @@
       "https://www.clevelandia.pr.gov.br/"
     ],
     "dominios": [
+      "clevelandia.atende.net",
       "clevelandia.pr.gov.br",
       "www.clevelandia.pr.gov.br"
     ]
   },
   "colombo": {
     "sementes": [
-      "https://www.camaracolombo.pr.gov.br/"
+      "https://www.colombo.pr.gov.br/",
+      "https://portal.colombo.pr.gov.br/"
     ],
     "dominios": [
+      "colombo.atende.net",
       "colombo.pr.gov.br",
-      "www.camaracolombo.pr.gov.br"
+      "portal.colombo.pr.gov.br",
+      "www.colombo.pr.gov.br"
     ]
   },
   "colorado": {
     "sementes": [
-      "https://www.cmcolorado.pr.gov.br/"
+      "https://www.colorado.pr.gov.br/"
     ],
     "dominios": [
       "colorado.pr.gov.br",
-      "www.cmcolorado.pr.gov.br"
+      "www.colorado.pr.gov.br"
     ]
   },
   "congonhinhas": {
@@ -739,7 +1137,7 @@
   },
   "contenda": {
     "sementes": [
-      "https://www.contenda.pr.gov.br/camara.asp/"
+      "https://www.contenda.pr.gov.br/"
     ],
     "dominios": [
       "contenda.pr.gov.br",
@@ -751,6 +1149,7 @@
       "https://www.corbelia.pr.gov.br/"
     ],
     "dominios": [
+      "corbelia.atende.net",
       "corbelia.pr.gov.br",
       "www.corbelia.pr.gov.br"
     ]
@@ -766,31 +1165,24 @@
       "www.transparencia.cornelioprocopio.pr.gov.br"
     ]
   },
-  "coroneldomingossoares": {
-    "sementes": [
-      "https://www.pmcds.pr.gov.br/"
-    ],
-    "dominios": [
-      "coroneldomingossoares.pr.gov.br",
-      "www.pmcds.pr.gov.br"
-    ]
-  },
   "coronelvivida": {
     "sementes": [
-      "https://www.camaracoronelvivida.pr.gov.br/"
+      "https://www.coronelvivida.pr.gov.br/",
+      "https://portal.coronelvivida.pr.gov.br/"
     ],
     "dominios": [
       "coronelvivida.pr.gov.br",
-      "www.camaracoronelvivida.pr.gov.br"
+      "portal.coronelvivida.pr.gov.br",
+      "www.coronelvivida.pr.gov.br"
     ]
   },
   "corumbataidosul": {
     "sementes": [
-      "https://www.cmcorumbatai.pr.gov.br/"
+      "https://www.corumbataidosul.pr.gov.br/"
     ],
     "dominios": [
       "corumbataidosul.pr.gov.br",
-      "www.cmcorumbatai.pr.gov.br"
+      "www.corumbataidosul.pr.gov.br"
     ]
   },
   "cruzeirodoiguacu": {
@@ -820,22 +1212,26 @@
       "www.cruzeirodosul.pr.gov.br"
     ]
   },
-  "cruzmachado": {
-    "sementes": [
-      "https://www.camaracruzmachado.pr.gov.br/"
-    ],
-    "dominios": [
-      "cruzmachado.pr.gov.br",
-      "www.camaracruzmachado.pr.gov.br"
-    ]
-  },
   "cruzmaltina": {
     "sementes": [
-      "https://www.cmcruzmaltina.pr.gov.br/"
+      "https://www.cruzmaltina.pr.gov.br/"
     ],
     "dominios": [
       "cruzmaltina.pr.gov.br",
-      "www.cmcruzmaltina.pr.gov.br"
+      "www.cruzmaltina.pr.gov.br"
+    ]
+  },
+  "curitiba": {
+    "sementes": [
+      "https://www.curitiba.pr.gov.br/",
+      "https://dadosabertos.curitiba.pr.gov.br/",
+      "https://www.transparencia.curitiba.pr.gov.br/"
+    ],
+    "dominios": [
+      "curitiba.pr.gov.br",
+      "dadosabertos.curitiba.pr.gov.br",
+      "www.curitiba.pr.gov.br",
+      "www.transparencia.curitiba.pr.gov.br"
     ]
   },
   "curiuva": {
@@ -876,11 +1272,12 @@
   },
   "doisvizinhos": {
     "sementes": [
-      "https://www.cmdv.pr.gov.br/"
+      "https://www.doisvizinhos.pr.gov.br/"
     ],
     "dominios": [
+      "doisvizinhos.atende.net",
       "doisvizinhos.pr.gov.br",
-      "www.cmdv.pr.gov.br"
+      "www.doisvizinhos.pr.gov.br"
     ]
   },
   "douradina": {
@@ -906,6 +1303,7 @@
       "https://www.eneasmarques.pr.gov.br/"
     ],
     "dominios": [
+      "eneasmarques.atende.net",
       "eneasmarques.pr.gov.br",
       "www.eneasmarques.pr.gov.br"
     ]
@@ -919,20 +1317,12 @@
       "www.engenheirobeltrao.pr.gov.br"
     ]
   },
-  "esperancanova": {
-    "sementes": [
-      "https://www.esperancanova.pr.gov.br/"
-    ],
-    "dominios": [
-      "esperancanova.pr.gov.br",
-      "www.esperancanova.pr.gov.br"
-    ]
-  },
   "entreriosdooeste": {
     "sementes": [
       "https://www.entreriosdooeste.pr.gov.br/"
     ],
     "dominios": [
+      "entreriosdooeste.atende.net",
       "entreriosdooeste.pr.gov.br",
       "www.entreriosdooeste.pr.gov.br"
     ]
@@ -948,20 +1338,20 @@
   },
   "farol": {
     "sementes": [
-      "https://www.camarafarol.pr.gov.br/"
+      "https://www.farol.pr.gov.br/"
     ],
     "dominios": [
       "farol.pr.gov.br",
-      "www.camarafarol.pr.gov.br"
+      "www.farol.pr.gov.br"
     ]
   },
   "faxinal": {
     "sementes": [
-      "https://www.camfaxinal.pr.gov.br/"
+      "https://www.faxinal.pr.gov.br/"
     ],
     "dominios": [
       "faxinal.pr.gov.br",
-      "www.camfaxinal.pr.gov.br"
+      "www.faxinal.pr.gov.br"
     ]
   },
   "fazendariogrande": {
@@ -1009,15 +1399,6 @@
       "www.florai.pr.gov.br"
     ]
   },
-  "flordaserradosul": {
-    "sementes": [
-      "https://www.fssul.pr.gov.br/"
-    ],
-    "dominios": [
-      "flordaserradosul.pr.gov.br",
-      "www.fssul.pr.gov.br"
-    ]
-  },
   "floresta": {
     "sementes": [
       "https://www.floresta.pr.gov.br/"
@@ -1029,10 +1410,12 @@
   },
   "florestopolis": {
     "sementes": [
-      "https://www.florestopolis.pr.gov.br/"
+      "https://www.florestopolis.pr.gov.br/",
+      "https://portal.florestopolis.pr.gov.br/"
     ],
     "dominios": [
       "florestopolis.pr.gov.br",
+      "portal.florestopolis.pr.gov.br",
       "www.florestopolis.pr.gov.br"
     ]
   },
@@ -1056,11 +1439,11 @@
   },
   "fozdoiguacu": {
     "sementes": [
-      "https://www.cmfi.pr.gov.br/"
+      "https://www.fozdoiguacu.pr.gov.br/"
     ],
     "dominios": [
       "fozdoiguacu.pr.gov.br",
-      "www.cmfi.pr.gov.br"
+      "www.fozdoiguacu.pr.gov.br"
     ]
   },
   "franciscoalves": {
@@ -1110,11 +1493,11 @@
   },
   "goioere": {
     "sementes": [
-      "https://www.cmgoioere.pr.gov.br/"
+      "https://www.goioere.pr.gov.br/"
     ],
     "dominios": [
       "goioere.pr.gov.br",
-      "www.cmgoioere.pr.gov.br"
+      "www.goioere.pr.gov.br"
     ]
   },
   "goioxim": {
@@ -1140,6 +1523,7 @@
       "https://www.guaira.pr.gov.br/"
     ],
     "dominios": [
+      "guaira.atende.net",
       "guaira.pr.gov.br",
       "www.guaira.pr.gov.br"
     ]
@@ -1194,6 +1578,7 @@
       "https://www.guaraniacu.pr.gov.br/"
     ],
     "dominios": [
+      "guaraniacu.atende.net",
       "guaraniacu.pr.gov.br",
       "www.guaraniacu.pr.gov.br"
     ]
@@ -1203,6 +1588,7 @@
       "https://www.guarapuava.pr.gov.br/"
     ],
     "dominios": [
+      "guarapuava.atende.net",
       "guarapuava.pr.gov.br",
       "www.guarapuava.pr.gov.br"
     ]
@@ -1218,11 +1604,13 @@
   },
   "guaratuba": {
     "sementes": [
-      "https://www.camaraguaratuba.pr.gov.br/"
+      "https://www.guaratuba.pr.gov.br/",
+      "https://portal.guaratuba.pr.gov.br/"
     ],
     "dominios": [
       "guaratuba.pr.gov.br",
-      "www.camaraguaratuba.pr.gov.br"
+      "portal.guaratuba.pr.gov.br",
+      "www.guaratuba.pr.gov.br"
     ]
   },
   "honorioserpa": {
@@ -1230,6 +1618,7 @@
       "https://www.honorioserpa.pr.gov.br/"
     ],
     "dominios": [
+      "honorioserpa.atende.net",
       "honorioserpa.pr.gov.br",
       "www.honorioserpa.pr.gov.br"
     ]
@@ -1245,22 +1634,13 @@
       "www.transparencia.ibaiti.pr.gov.br"
     ]
   },
-  "ibema": {
-    "sementes": [
-      "https://www.pibema.pr.gov.br/"
-    ],
-    "dominios": [
-      "ibema.pr.gov.br",
-      "www.pibema.pr.gov.br"
-    ]
-  },
   "ibipora": {
     "sementes": [
-      "https://www.cmibipora.pr.gov.br/"
+      "https://www.ibipora.pr.gov.br/"
     ],
     "dominios": [
       "ibipora.pr.gov.br",
-      "www.cmibipora.pr.gov.br"
+      "www.ibipora.pr.gov.br"
     ]
   },
   "icaraima": {
@@ -1274,11 +1654,11 @@
   },
   "iguaracu": {
     "sementes": [
-      "https://www.cmiguaracu.pr.gov.br/"
+      "https://www.iguaracu.pr.gov.br/"
     ],
     "dominios": [
       "iguaracu.pr.gov.br",
-      "www.cmiguaracu.pr.gov.br"
+      "www.iguaracu.pr.gov.br"
     ]
   },
   "iguatu": {
@@ -1310,11 +1690,15 @@
   },
   "inaciomartins": {
     "sementes": [
-      "https://www.inaciomartins.pr.gov.br/"
+      "https://www.inaciomartins.pr.gov.br/",
+      "https://portal.inaciomartins.pr.gov.br/",
+      "https://www.transparencia.inaciomartins.pr.gov.br/"
     ],
     "dominios": [
       "inaciomartins.pr.gov.br",
-      "www.inaciomartins.pr.gov.br"
+      "portal.inaciomartins.pr.gov.br",
+      "www.inaciomartins.pr.gov.br",
+      "www.transparencia.inaciomartins.pr.gov.br"
     ]
   },
   "inaja": {
@@ -1324,24 +1708,6 @@
     "dominios": [
       "inaja.pr.gov.br",
       "www.inaja.pr.gov.br"
-    ]
-  },
-  "indianopolis": {
-    "sementes": [
-      "https://www.indianopolis.pr.gov.br/"
-    ],
-    "dominios": [
-      "indianopolis.pr.gov.br",
-      "www.indianopolis.pr.gov.br"
-    ]
-  },
-  "ipiranga": {
-    "sementes": [
-      "https://www.camaraipiranga.pr.gov.br/"
-    ],
-    "dominios": [
-      "ipiranga.pr.gov.br",
-      "www.camaraipiranga.pr.gov.br"
     ]
   },
   "ipora": {
@@ -1400,10 +1766,12 @@
   },
   "itambaraca": {
     "sementes": [
-      "https://www.itambaraca.pr.gov.br/"
+      "https://www.itambaraca.pr.gov.br/",
+      "https://portal.itambaraca.pr.gov.br/"
     ],
     "dominios": [
       "itambaraca.pr.gov.br",
+      "portal.itambaraca.pr.gov.br",
       "www.itambaraca.pr.gov.br"
     ]
   },
@@ -1423,15 +1791,6 @@
     "dominios": [
       "itapejaradoeste.pr.gov.br",
       "www.itapejaradoeste.pr.gov.br"
-    ]
-  },
-  "itaperucu": {
-    "sementes": [
-      "https://www.itaperucu.pr.gov.br/"
-    ],
-    "dominios": [
-      "itaperucu.pr.gov.br",
-      "www.itaperucu.pr.gov.br"
     ]
   },
   "itaunadosul": {
@@ -1508,11 +1867,13 @@
   },
   "jaguariaiva": {
     "sementes": [
-      "https://cmjaguariaiva.pr.gov.br/"
+      "https://www.jaguariaiva.pr.gov.br/",
+      "https://portal.jaguariaiva.pr.gov.br/"
     ],
     "dominios": [
-      "cmjaguariaiva.pr.gov.br",
-      "jaguariaiva.pr.gov.br"
+      "jaguariaiva.pr.gov.br",
+      "portal.jaguariaiva.pr.gov.br",
+      "www.jaguariaiva.pr.gov.br"
     ]
   },
   "jandaiadosul": {
@@ -1529,6 +1890,7 @@
       "https://www.janiopolis.pr.gov.br/"
     ],
     "dominios": [
+      "janiopolis.atende.net",
       "janiopolis.pr.gov.br",
       "www.janiopolis.pr.gov.br"
     ]
@@ -1544,11 +1906,11 @@
   },
   "japura": {
     "sementes": [
-      "https://www.camarajapura.pr.gov.br/"
+      "https://www.japura.pr.gov.br/"
     ],
     "dominios": [
       "japura.pr.gov.br",
-      "www.camarajapura.pr.gov.br"
+      "www.japura.pr.gov.br"
     ]
   },
   "jardimalegre": {
@@ -1580,11 +1942,11 @@
   },
   "jesuitas": {
     "sementes": [
-      "https://www.cmjesuitas.pr.gov.br/"
+      "https://www.jesuitas.pr.gov.br/"
     ],
     "dominios": [
       "jesuitas.pr.gov.br",
-      "www.cmjesuitas.pr.gov.br"
+      "www.jesuitas.pr.gov.br"
     ]
   },
   "joaquimtavora": {
@@ -1592,6 +1954,7 @@
       "https://www.joaquimtavora.pr.gov.br/"
     ],
     "dominios": [
+      "joaquimtavora.atende.net",
       "joaquimtavora.pr.gov.br",
       "www.joaquimtavora.pr.gov.br"
     ]
@@ -1610,6 +1973,7 @@
       "https://www.juranda.pr.gov.br/"
     ],
     "dominios": [
+      "juranda.atende.net",
       "juranda.pr.gov.br",
       "www.juranda.pr.gov.br"
     ]
@@ -1625,29 +1989,20 @@
   },
   "kalore": {
     "sementes": [
-      "https://www.cmkalore.pr.gov.br/"
+      "https://www.kalore.pr.gov.br/"
     ],
     "dominios": [
       "kalore.pr.gov.br",
-      "www.cmkalore.pr.gov.br"
+      "www.kalore.pr.gov.br"
     ]
   },
   "laranjal": {
     "sementes": [
-      "https://www.camaralaranjal.pr.gov.br/"
+      "https://www.laranjal.pr.gov.br/"
     ],
     "dominios": [
       "laranjal.pr.gov.br",
-      "www.camaralaranjal.pr.gov.br"
-    ]
-  },
-  "laranjeirasdosul": {
-    "sementes": [
-      "https://www.cmls.pr.gov.br/"
-    ],
-    "dominios": [
-      "laranjeirasdosul.pr.gov.br",
-      "www.cmls.pr.gov.br"
+      "www.laranjal.pr.gov.br"
     ]
   },
   "leopolis": {
@@ -1686,13 +2041,28 @@
       "www.lobato.pr.gov.br"
     ]
   },
+  "londrina": {
+    "sementes": [
+      "https://www.londrina.pr.gov.br/",
+      "https://portal.londrina.pr.gov.br/",
+      "https://www2.londrina.pr.gov.br/",
+      "https://www3.londrina.pr.gov.br/"
+    ],
+    "dominios": [
+      "londrina.pr.gov.br",
+      "portal.londrina.pr.gov.br",
+      "www.londrina.pr.gov.br",
+      "www2.londrina.pr.gov.br",
+      "www3.londrina.pr.gov.br"
+    ]
+  },
   "luiziana": {
     "sementes": [
-      "https://www.camaraluiziana.pr.gov.br/"
+      "https://www.luiziana.pr.gov.br/"
     ],
     "dominios": [
       "luiziana.pr.gov.br",
-      "www.camaraluiziana.pr.gov.br"
+      "www.luiziana.pr.gov.br"
     ]
   },
   "lunardelli": {
@@ -1724,29 +2094,21 @@
   },
   "mambore": {
     "sementes": [
-      "https://www.cmmambore.pr.gov.br/"
+      "https://www.mambore.pr.gov.br/"
     ],
     "dominios": [
+      "mambore.atende.net",
       "mambore.pr.gov.br",
-      "www.cmmambore.pr.gov.br"
-    ]
-  },
-  "mandaguacu": {
-    "sementes": [
-      "https://www.mandaguacu.pr.gov.br/"
-    ],
-    "dominios": [
-      "mandaguacu.pr.gov.br",
-      "www.mandaguacu.pr.gov.br"
+      "www.mambore.pr.gov.br"
     ]
   },
   "mandaguari": {
     "sementes": [
-      "https://www.camaramandaguari.pr.gov.br/"
+      "https://www.mandaguari.pr.gov.br/"
     ],
     "dominios": [
       "mandaguari.pr.gov.br",
-      "www.camaramandaguari.pr.gov.br"
+      "www.mandaguari.pr.gov.br"
     ]
   },
   "mandirituba": {
@@ -1760,28 +2122,31 @@
   },
   "manfrinopolis": {
     "sementes": [
-      "https://manfrinopolis.pr.gov.br/"
+      "https://www.manfrinopolis.pr.gov.br/"
     ],
     "dominios": [
-      "manfrinopolis.pr.gov.br"
+      "manfrinopolis.pr.gov.br",
+      "www.manfrinopolis.pr.gov.br"
     ]
   },
   "mangueirinha": {
     "sementes": [
-      "https://www.mangueirinha.pr.leg.br/"
+      "https://www.mangueirinha.pr.gov.br/",
+      "https://portal.mangueirinha.pr.gov.br/"
     ],
     "dominios": [
       "mangueirinha.pr.gov.br",
-      "www.mangueirinha.pr.leg.br"
+      "portal.mangueirinha.pr.gov.br",
+      "www.mangueirinha.pr.gov.br"
     ]
   },
   "manoelribas": {
     "sementes": [
-      "https://www.cmmanoelribas.pr.gov.br/"
+      "https://www.manoelribas.pr.gov.br/"
     ],
     "dominios": [
       "manoelribas.pr.gov.br",
-      "www.cmmanoelribas.pr.gov.br"
+      "www.manoelribas.pr.gov.br"
     ]
   },
   "mariahelena": {
@@ -1795,11 +2160,11 @@
   },
   "marialva": {
     "sementes": [
-      "https://www.camaramarialva.pr.gov.br/"
+      "https://www.marialva.pr.gov.br/"
     ],
     "dominios": [
       "marialva.pr.gov.br",
-      "www.camaramarialva.pr.gov.br"
+      "www.marialva.pr.gov.br"
     ]
   },
   "marilandiadosul": {
@@ -1822,20 +2187,20 @@
   },
   "mariluz": {
     "sementes": [
-      "https://www.cmmariluz.pr.gov.br/"
+      "https://www.mariluz.pr.gov.br/"
     ],
     "dominios": [
       "mariluz.pr.gov.br",
-      "www.cmmariluz.pr.gov.br"
+      "www.mariluz.pr.gov.br"
     ]
   },
   "maringa": {
     "sementes": [
-      "https://www.cmm.pr.gov.br/"
+      "https://www.maringa.pr.gov.br/"
     ],
     "dominios": [
       "maringa.pr.gov.br",
-      "www.cmm.pr.gov.br"
+      "www.maringa.pr.gov.br"
     ]
   },
   "mariopolis": {
@@ -1852,6 +2217,7 @@
       "https://www.maripa.pr.gov.br/"
     ],
     "dominios": [
+      "maripa.atende.net",
       "maripa.pr.gov.br",
       "www.maripa.pr.gov.br"
     ]
@@ -1861,26 +2227,31 @@
       "https://www.marmeleiro.pr.gov.br/"
     ],
     "dominios": [
+      "marmeleiro.atende.net",
       "marmeleiro.pr.gov.br",
       "www.marmeleiro.pr.gov.br"
     ]
   },
   "marquinho": {
     "sementes": [
-      "https://www.marquinho.pr.gov.br/"
+      "https://www.marquinho.pr.gov.br/",
+      "https://portal.marquinho.pr.gov.br/",
+      "https://www2.marquinho.pr.gov.br/"
     ],
     "dominios": [
       "marquinho.pr.gov.br",
-      "www.marquinho.pr.gov.br"
+      "portal.marquinho.pr.gov.br",
+      "www.marquinho.pr.gov.br",
+      "www2.marquinho.pr.gov.br"
     ]
   },
   "marumbi": {
     "sementes": [
-      "https://www.cmmarumbi.pr.gov.br/"
+      "https://www.marumbi.pr.gov.br/"
     ],
     "dominios": [
       "marumbi.pr.gov.br",
-      "www.cmmarumbi.pr.gov.br"
+      "www.marumbi.pr.gov.br"
     ]
   },
   "matelandia": {
@@ -1897,6 +2268,7 @@
       "https://www.matinhos.pr.gov.br/"
     ],
     "dominios": [
+      "matinhos.atende.net",
       "matinhos.pr.gov.br",
       "www.matinhos.pr.gov.br"
     ]
@@ -1935,6 +2307,7 @@
       "https://www.mercedes.pr.gov.br/"
     ],
     "dominios": [
+      "mercedes.atende.net",
       "mercedes.pr.gov.br",
       "www.mercedes.pr.gov.br"
     ]
@@ -1993,15 +2366,6 @@
       "www.nossasenhoradasgracas.pr.gov.br"
     ]
   },
-  "novaaliancadoivai": {
-    "sementes": [
-      "https://www.novaalianca.pr.gov.br/"
-    ],
-    "dominios": [
-      "novaaliancadoivai.pr.gov.br",
-      "www.novaalianca.pr.gov.br"
-    ]
-  },
   "novaamericadacolina": {
     "sementes": [
       "https://www.novaamericadacolina.pr.gov.br/"
@@ -2013,11 +2377,11 @@
   },
   "novaaurora": {
     "sementes": [
-      "https://www.camaranovaaurora.pr.gov.br/"
+      "https://www.novaaurora.pr.gov.br/"
     ],
     "dominios": [
       "novaaurora.pr.gov.br",
-      "www.camaranovaaurora.pr.gov.br"
+      "www.novaaurora.pr.gov.br"
     ]
   },
   "novacantu": {
@@ -2047,12 +2411,32 @@
       "www.novaesperancadosudoeste.pr.gov.br"
     ]
   },
+  "novafatima": {
+    "sementes": [
+      "https://www.novafatima.pr.gov.br/"
+    ],
+    "dominios": [
+      "novafatima.pr.gov.br",
+      "www.novafatima.pr.gov.br"
+    ]
+  },
+  "novalaranjeiras": {
+    "sementes": [
+      "https://www.novalaranjeiras.pr.gov.br/"
+    ],
+    "dominios": [
+      "novalaranjeiras.pr.gov.br",
+      "www.novalaranjeiras.pr.gov.br"
+    ]
+  },
   "novalondrina": {
     "sementes": [
-      "https://www.novalondrina.pr.gov.br/"
+      "https://www.novalondrina.pr.gov.br/",
+      "https://portal.novalondrina.pr.gov.br/"
     ],
     "dominios": [
       "novalondrina.pr.gov.br",
+      "portal.novalondrina.pr.gov.br",
       "www.novalondrina.pr.gov.br"
     ]
   },
@@ -2065,22 +2449,14 @@
       "www.novaolimpia.pr.gov.br"
     ]
   },
-  "novasantabarbara": {
+  "novasantarosa": {
     "sementes": [
-      "https://www.nsb.pr.gov.br/"
+      "https://www.novasantarosa.pr.gov.br/"
     ],
     "dominios": [
-      "novasantabarbara.pr.gov.br",
-      "www.nsb.pr.gov.br"
-    ]
-  },
-  "novapratadoiguacu": {
-    "sementes": [
-      "https://www.camara.npi.pr.gov.br/"
-    ],
-    "dominios": [
-      "novapratadoiguacu.pr.gov.br",
-      "www.camara.npi.pr.gov.br"
+      "novasantarosa.atende.net",
+      "novasantarosa.pr.gov.br",
+      "www.novasantarosa.pr.gov.br"
     ]
   },
   "novatebas": {
@@ -2094,11 +2470,11 @@
   },
   "novoitacolomi": {
     "sementes": [
-      "https://www.cmnovoitacolomi.pr.gov.br/"
+      "https://www.novoitacolomi.pr.gov.br/"
     ],
     "dominios": [
       "novoitacolomi.pr.gov.br",
-      "www.cmnovoitacolomi.pr.gov.br"
+      "www.novoitacolomi.pr.gov.br"
     ]
   },
   "ortigueira": {
@@ -2123,11 +2499,12 @@
   },
   "ouroverdedooeste": {
     "sementes": [
-      "https://www.camaraouroverdedooeste.pr.gov.br/"
+      "https://www.ouroverdedooeste.pr.gov.br/"
     ],
     "dominios": [
+      "ouroverdedooeste.atende.net",
       "ouroverdedooeste.pr.gov.br",
-      "www.camaraouroverdedooeste.pr.gov.br"
+      "www.ouroverdedooeste.pr.gov.br"
     ]
   },
   "paicandu": {
@@ -2137,15 +2514,6 @@
     "dominios": [
       "paicandu.pr.gov.br",
       "www.paicandu.pr.gov.br"
-    ]
-  },
-  "palmas": {
-    "sementes": [
-      "https://www.camarapalmas.pr.gov.br/"
-    ],
-    "dominios": [
-      "palmas.pr.gov.br",
-      "www.camarapalmas.pr.gov.br"
     ]
   },
   "palmeira": {
@@ -2159,16 +2527,16 @@
   },
   "palmital": {
     "sementes": [
-      "https://www.camarapalmital.pr.gov.br/"
+      "https://www.palmital.pr.gov.br/"
     ],
     "dominios": [
       "palmital.pr.gov.br",
-      "www.camarapalmital.pr.gov.br"
+      "www.palmital.pr.gov.br"
     ]
   },
   "palotina": {
     "sementes": [
-      "https://www.palotina.pr.gov.br/site/camara/site/"
+      "https://www.palotina.pr.gov.br/"
     ],
     "dominios": [
       "palotina.pr.gov.br",
@@ -2180,6 +2548,7 @@
       "https://www.paraisodonorte.pr.gov.br/"
     ],
     "dominios": [
+      "paraisodonorte.atende.net",
       "paraisodonorte.pr.gov.br",
       "www.paraisodonorte.pr.gov.br"
     ]
@@ -2195,11 +2564,14 @@
   },
   "paranagua": {
     "sementes": [
-      "https://www.paranagua.pr.leg.br/"
+      "https://www.paranagua.pr.gov.br/",
+      "https://www2.paranagua.pr.gov.br/"
     ],
     "dominios": [
+      "paranagua.atende.net",
       "paranagua.pr.gov.br",
-      "www.paranagua.pr.leg.br"
+      "www.paranagua.pr.gov.br",
+      "www2.paranagua.pr.gov.br"
     ]
   },
   "paranapoema": {
@@ -2213,11 +2585,14 @@
   },
   "paranavai": {
     "sementes": [
-      "https://www.cmparanavai.pr.gov.br/"
+      "https://www.paranavai.pr.gov.br/",
+      "https://portal.paranavai.pr.gov.br/"
     ],
     "dominios": [
+      "paranavai.atende.net",
       "paranavai.pr.gov.br",
-      "www.cmparanavai.pr.gov.br"
+      "portal.paranavai.pr.gov.br",
+      "www.paranavai.pr.gov.br"
     ]
   },
   "patobragado": {
@@ -2225,6 +2600,7 @@
       "https://www.patobragado.pr.gov.br/"
     ],
     "dominios": [
+      "patobragado.atende.net",
       "patobragado.pr.gov.br",
       "www.patobragado.pr.gov.br"
     ]
@@ -2245,15 +2621,6 @@
     "dominios": [
       "paulafreitas.pr.gov.br",
       "www.paulafreitas.pr.gov.br"
-    ]
-  },
-  "paulofrontin": {
-    "sementes": [
-      "https://www.paulofrontin.pr.gov.br/"
-    ],
-    "dominios": [
-      "paulofrontin.pr.gov.br",
-      "www.paulofrontin.pr.gov.br"
     ]
   },
   "peabiru": {
@@ -2294,20 +2661,12 @@
   },
   "pinhais": {
     "sementes": [
-      "https://www.cmp.pr.gov.br/"
+      "https://www.pinhais.pr.gov.br/"
     ],
     "dominios": [
+      "pinhais.atende.net",
       "pinhais.pr.gov.br",
-      "www.cmp.pr.gov.br"
-    ]
-  },
-  "pinhalao": {
-    "sementes": [
-      "https://www.pinhalao.pr.gov.br/"
-    ],
-    "dominios": [
-      "pinhalao.pr.gov.br",
-      "www.pinhalao.pr.gov.br"
+      "www.pinhais.pr.gov.br"
     ]
   },
   "pinhaldesaobento": {
@@ -2321,39 +2680,34 @@
   },
   "pinhao": {
     "sementes": [
-      "https://www.camarapinhao.pr.gov.br/"
+      "https://www.pinhao.pr.gov.br/",
+      "https://portal.pinhao.pr.gov.br/"
     ],
     "dominios": [
       "pinhao.pr.gov.br",
-      "www.camarapinhao.pr.gov.br"
-    ]
-  },
-  "piraidosul": {
-    "sementes": [
-      "https://www.piraidosul.pr.gov.br/"
-    ],
-    "dominios": [
-      "piraidosul.pr.gov.br",
-      "www.piraidosul.pr.gov.br"
+      "portal.pinhao.pr.gov.br",
+      "www.pinhao.pr.gov.br"
     ]
   },
   "piraquara": {
     "sementes": [
-      "https://www.camarapiraquara.pr.gov.br/"
+      "https://www.piraquara.pr.gov.br/"
     ],
     "dominios": [
       "piraquara.pr.gov.br",
-      "www.camarapiraquara.pr.gov.br"
+      "www.piraquara.pr.gov.br"
     ]
   },
   "pitanga": {
     "sementes": [
-      "https://www.camarapitanga.pr.gov.br/",
+      "https://www.pitanga.pr.gov.br/",
+      "https://portal.pitanga.pr.gov.br/",
       "https://www.transparencia.pitanga.pr.gov.br/"
     ],
     "dominios": [
       "pitanga.pr.gov.br",
-      "www.camarapitanga.pr.gov.br",
+      "portal.pitanga.pr.gov.br",
+      "www.pitanga.pr.gov.br",
       "www.transparencia.pitanga.pr.gov.br"
     ]
   },
@@ -2377,11 +2731,11 @@
   },
   "planalto": {
     "sementes": [
-      "https://www.cmvp.pr.gov.br/"
+      "https://www.planalto.pr.gov.br/"
     ],
     "dominios": [
       "planalto.pr.gov.br",
-      "www.cmvp.pr.gov.br"
+      "www.planalto.pr.gov.br"
     ]
   },
   "pontagrossa": {
@@ -2404,20 +2758,20 @@
   },
   "porecatu": {
     "sementes": [
-      "https://www.cmporecatu.pr.gov.br/"
+      "https://www.porecatu.pr.gov.br/"
     ],
     "dominios": [
       "porecatu.pr.gov.br",
-      "www.cmporecatu.pr.gov.br"
+      "www.porecatu.pr.gov.br"
     ]
   },
   "portoamazonas": {
     "sementes": [
-      "https://www.cmportoamazonas.pr.gov.br/"
+      "https://www.portoamazonas.pr.gov.br/"
     ],
     "dominios": [
       "portoamazonas.pr.gov.br",
-      "www.cmportoamazonas.pr.gov.br"
+      "www.portoamazonas.pr.gov.br"
     ]
   },
   "portobarreiro": {
@@ -2467,10 +2821,11 @@
   },
   "presidentecastelobranco": {
     "sementes": [
-      "https://presidentecastelobranco.pr.gov.br/"
+      "https://www.presidentecastelobranco.pr.gov.br/"
     ],
     "dominios": [
-      "presidentecastelobranco.pr.gov.br"
+      "presidentecastelobranco.pr.gov.br",
+      "www.presidentecastelobranco.pr.gov.br"
     ]
   },
   "primeirodemaio": {
@@ -2484,11 +2839,11 @@
   },
   "prudentopolis": {
     "sementes": [
-      "https://www.cmprudentopolis.pr.gov.br/"
+      "https://www.prudentopolis.pr.gov.br/"
     ],
     "dominios": [
       "prudentopolis.pr.gov.br",
-      "www.cmprudentopolis.pr.gov.br"
+      "www.prudentopolis.pr.gov.br"
     ]
   },
   "quartocentenario": {
@@ -2511,11 +2866,11 @@
   },
   "quatrobarras": {
     "sementes": [
-      "https://www.camaraquatrobarras.pr.gov.br/"
+      "https://www.quatrobarras.pr.gov.br/"
     ],
     "dominios": [
       "quatrobarras.pr.gov.br",
-      "www.camaraquatrobarras.pr.gov.br"
+      "www.quatrobarras.pr.gov.br"
     ]
   },
   "quatropontes": {
@@ -2574,9 +2929,11 @@
   },
   "ranchoalegre": {
     "sementes": [
-      "https://www.ranchoalegre.pr.gov.br/"
+      "https://www.ranchoalegre.pr.gov.br/",
+      "https://portal.ranchoalegre.pr.gov.br/"
     ],
     "dominios": [
+      "portal.ranchoalegre.pr.gov.br",
       "ranchoalegre.pr.gov.br",
       "www.ranchoalegre.pr.gov.br"
     ]
@@ -2631,6 +2988,7 @@
       "https://www.reservadoiguacu.pr.gov.br/"
     ],
     "dominios": [
+      "reservadoiguacu.atende.net",
       "reservadoiguacu.pr.gov.br",
       "www.reservadoiguacu.pr.gov.br"
     ]
@@ -2662,24 +3020,6 @@
       "www.rioazul.pr.gov.br"
     ]
   },
-  "riobom": {
-    "sementes": [
-      "https://www.riobom.pr.gov.br/"
-    ],
-    "dominios": [
-      "riobom.pr.gov.br",
-      "www.riobom.pr.gov.br"
-    ]
-  },
-  "riobonitodoiguacu": {
-    "sementes": [
-      "https://www.riobonito.pr.gov.br/"
-    ],
-    "dominios": [
-      "riobonitodoiguacu.pr.gov.br",
-      "www.riobonito.pr.gov.br"
-    ]
-  },
   "riobrancodoivai": {
     "sementes": [
       "https://www.riobrancodoivai.pr.gov.br/"
@@ -2694,6 +3034,7 @@
       "https://www.riobrancodosul.pr.gov.br/"
     ],
     "dominios": [
+      "riobrancodosul.atende.net",
       "riobrancodosul.pr.gov.br",
       "www.riobrancodosul.pr.gov.br"
     ]
@@ -2703,6 +3044,7 @@
       "https://www.rionegro.pr.gov.br/"
     ],
     "dominios": [
+      "rionegro.atende.net",
       "rionegro.pr.gov.br",
       "www.rionegro.pr.gov.br"
     ]
@@ -2772,11 +3114,11 @@
   },
   "saltodolontra": {
     "sementes": [
-      "https://www.camarasaltodolontra.pr.gov.br/"
+      "https://www.saltodolontra.pr.gov.br/"
     ],
     "dominios": [
       "saltodolontra.pr.gov.br",
-      "www.camarasaltodolontra.pr.gov.br"
+      "www.saltodolontra.pr.gov.br"
     ]
   },
   "santaamelia": {
@@ -2817,19 +3159,21 @@
   },
   "santahelena": {
     "sementes": [
-      "https://www.camarasantahelena.pr.gov.br/"
+      "https://www.santahelena.pr.gov.br/"
     ],
     "dominios": [
+      "santahelena.atende.net",
       "santahelena.pr.gov.br",
-      "www.camarasantahelena.pr.gov.br"
+      "www.santahelena.pr.gov.br"
     ]
   },
   "santaines": {
     "sementes": [
-      "https://santaines.pr.gov.br/"
+      "https://www.santaines.pr.gov.br/"
     ],
     "dominios": [
-      "santaines.pr.gov.br"
+      "santaines.pr.gov.br",
+      "www.santaines.pr.gov.br"
     ]
   },
   "santaisabeldoivai": {
@@ -2839,15 +3183,6 @@
     "dominios": [
       "santaisabeldoivai.pr.gov.br",
       "www.santaisabeldoivai.pr.gov.br"
-    ]
-  },
-  "santaizabeldooeste": {
-    "sementes": [
-      "https://www.prefeiturasio.pr.gov.br/"
-    ],
-    "dominios": [
-      "santaizabeldooeste.pr.gov.br",
-      "www.prefeiturasio.pr.gov.br"
     ]
   },
   "santalucia": {
@@ -2870,11 +3205,12 @@
   },
   "santamariana": {
     "sementes": [
-      "https://www.camarasm.pr.gov.br/"
+      "https://www.santamariana.pr.gov.br/"
     ],
     "dominios": [
+      "santamariana.atende.net",
       "santamariana.pr.gov.br",
-      "www.camarasm.pr.gov.br"
+      "www.santamariana.pr.gov.br"
     ]
   },
   "santamonica": {
@@ -2895,58 +3231,14 @@
       "www.santanadoitarare.pr.gov.br"
     ]
   },
-  "santaterezadooeste": {
-    "sementes": [
-      "https://www.camarasantatereza.com.br/"
-    ],
-    "dominios": [
-      "santaterezadooeste.pr.gov.br",
-      "www.camarasantatereza.com.br"
-    ]
-  },
-  "santaterezinhadeitaipu": {
-    "sementes": [
-      "https://www.stitaipu.pr.gov.br/"
-    ],
-    "dominios": [
-      "santaterezinhadeitaipu.pr.gov.br",
-      "www.stitaipu.pr.gov.br"
-    ]
-  },
   "santoantoniodaplatina": {
     "sementes": [
       "https://www.santoantoniodaplatina.pr.gov.br/"
     ],
     "dominios": [
+      "santoantoniodaplatina.atende.net",
       "santoantoniodaplatina.pr.gov.br",
       "www.santoantoniodaplatina.pr.gov.br"
-    ]
-  },
-  "santoantoniodocaiua": {
-    "sementes": [
-      "https://www.pmsac.pr.gov.br/"
-    ],
-    "dominios": [
-      "santoantoniodocaiua.pr.gov.br",
-      "www.pmsac.pr.gov.br"
-    ]
-  },
-  "santoantoniodoparaiso": {
-    "sementes": [
-      "https://www.santoantoniodoparaiso.pr.leg.br/"
-    ],
-    "dominios": [
-      "santoantoniodoparaiso.pr.gov.br",
-      "www.santoantoniodoparaiso.pr.leg.br"
-    ]
-  },
-  "santoantoniodosudoeste": {
-    "sementes": [
-      "https://www.pmsas.pr.gov.br/"
-    ],
-    "dominios": [
-      "santoantoniodosudoeste.pr.gov.br",
-      "www.pmsas.pr.gov.br"
     ]
   },
   "santoinacio": {
@@ -2987,11 +3279,11 @@
   },
   "saojoaodocaiua": {
     "sementes": [
-      "https://www.cmsaojoaodocaiua.pr.gov.br/"
+      "https://www.saojoaodocaiua.pr.gov.br/"
     ],
     "dominios": [
       "saojoaodocaiua.pr.gov.br",
-      "www.cmsaojoaodocaiua.pr.gov.br"
+      "www.saojoaodocaiua.pr.gov.br"
     ]
   },
   "saojoaodoivai": {
@@ -3003,33 +3295,6 @@
       "www.saojoaodoivai.pr.gov.br"
     ]
   },
-  "saojoaodotriunfo": {
-    "sementes": [
-      "https://www.cmsaojoaodotriunfo.pr.gov.br/"
-    ],
-    "dominios": [
-      "saojoaodotriunfo.pr.gov.br",
-      "www.cmsaojoaodotriunfo.pr.gov.br"
-    ]
-  },
-  "saojorgedoivai": {
-    "sementes": [
-      "https://www.pmsjivai.pr.gov.br/"
-    ],
-    "dominios": [
-      "saojorgedoivai.pr.gov.br",
-      "www.pmsjivai.pr.gov.br"
-    ]
-  },
-  "saojorgedopatrocinio": {
-    "sementes": [
-      "https://www.sjpatrocinio.pr.gov.br/"
-    ],
-    "dominios": [
-      "saojorgedopatrocinio.pr.gov.br",
-      "www.sjpatrocinio.pr.gov.br"
-    ]
-  },
   "saojosedaboavista": {
     "sementes": [
       "https://www.saojosedaboavista.pr.gov.br/"
@@ -3037,15 +3302,6 @@
     "dominios": [
       "saojosedaboavista.pr.gov.br",
       "www.saojosedaboavista.pr.gov.br"
-    ]
-  },
-  "saojosedaspalmeiras": {
-    "sementes": [
-      "https://www.sjpalmeiras.pr.gov.br/"
-    ],
-    "dominios": [
-      "saojosedaspalmeiras.pr.gov.br",
-      "www.sjpalmeiras.pr.gov.br"
     ]
   },
   "saomanoeldoparana": {
@@ -3066,15 +3322,6 @@
       "www.saomateusdosul.pr.gov.br"
     ]
   },
-  "saomigueldoiguacu": {
-    "sementes": [
-      "https://www.saomiguel.pr.gov.br/"
-    ],
-    "dominios": [
-      "saomigueldoiguacu.pr.gov.br",
-      "www.saomiguel.pr.gov.br"
-    ]
-  },
   "saopedrodoiguacu": {
     "sementes": [
       "https://www.saopedrodoiguacu.pr.gov.br/"
@@ -3086,11 +3333,11 @@
   },
   "saopedrodoivai": {
     "sementes": [
-      "https://www.cmsaopedrodoivai.pr.gov.br/"
+      "https://www.saopedrodoivai.pr.gov.br/"
     ],
     "dominios": [
       "saopedrodoivai.pr.gov.br",
-      "www.cmsaopedrodoivai.pr.gov.br"
+      "www.saopedrodoivai.pr.gov.br"
     ]
   },
   "saopedrodoparana": {
@@ -3102,15 +3349,6 @@
       "www.saopedrodoparana.pr.gov.br"
     ]
   },
-  "saosebastiaodaamoreira": {
-    "sementes": [
-      "https://www.camarassamoreira.pr.gov.br/"
-    ],
-    "dominios": [
-      "saosebastiaodaamoreira.pr.gov.br",
-      "www.camarassamoreira.pr.gov.br"
-    ]
-  },
   "saotome": {
     "sementes": [
       "https://www.saotome.pr.gov.br/"
@@ -3120,22 +3358,13 @@
       "www.saotome.pr.gov.br"
     ]
   },
-  "sapopema": {
-    "sementes": [
-      "https://www.sapopema.pr.gov.br/"
-    ],
-    "dominios": [
-      "sapopema.pr.gov.br",
-      "www.sapopema.pr.gov.br"
-    ]
-  },
   "sarandi": {
     "sementes": [
-      "https://www.cms.pr.gov.br/"
+      "https://www.sarandi.pr.gov.br/"
     ],
     "dominios": [
       "sarandi.pr.gov.br",
-      "www.cms.pr.gov.br"
+      "www.sarandi.pr.gov.br"
     ]
   },
   "saudadedoiguacu": {
@@ -3156,40 +3385,31 @@
       "www.senges.pr.gov.br"
     ]
   },
-  "serranopolisdoiguacu": {
-    "sementes": [
-      "https://www.serranopolis.pr.gov.br/"
-    ],
-    "dominios": [
-      "serranopolisdoiguacu.pr.gov.br",
-      "www.serranopolis.pr.gov.br"
-    ]
-  },
   "sertaneja": {
     "sementes": [
-      "https://www.cmsertaneja.pr.gov.br/"
+      "https://www.sertaneja.pr.gov.br/"
     ],
     "dominios": [
       "sertaneja.pr.gov.br",
-      "www.cmsertaneja.pr.gov.br"
+      "www.sertaneja.pr.gov.br"
     ]
   },
   "sertanopolis": {
     "sementes": [
-      "https://www.camarasertanopolis.pr.gov.br/"
+      "https://www.sertanopolis.pr.gov.br/"
     ],
     "dominios": [
       "sertanopolis.pr.gov.br",
-      "www.camarasertanopolis.pr.gov.br"
+      "www.sertanopolis.pr.gov.br"
     ]
   },
   "siqueiracampos": {
     "sementes": [
-      "https://www.camarasiqueiracampos.pr.gov.br/"
+      "https://www.siqueiracampos.pr.gov.br/"
     ],
     "dominios": [
       "siqueiracampos.pr.gov.br",
-      "www.camarasiqueiracampos.pr.gov.br"
+      "www.siqueiracampos.pr.gov.br"
     ]
   },
   "sulina": {
@@ -3203,29 +3423,20 @@
   },
   "tamarana": {
     "sementes": [
-      "https://www.cmtamarana.pr.gov.br/"
+      "https://www.tamarana.pr.gov.br/"
     ],
     "dominios": [
       "tamarana.pr.gov.br",
-      "www.cmtamarana.pr.gov.br"
-    ]
-  },
-  "tamboara": {
-    "sementes": [
-      "https://www.tamboara.pr.gov.br/"
-    ],
-    "dominios": [
-      "tamboara.pr.gov.br",
-      "www.tamboara.pr.gov.br"
+      "www.tamarana.pr.gov.br"
     ]
   },
   "tapejara": {
     "sementes": [
-      "https://www.cmtapejara.pr.gov.br/"
+      "https://www.tapejara.pr.gov.br/"
     ],
     "dominios": [
       "tapejara.pr.gov.br",
-      "www.cmtapejara.pr.gov.br"
+      "www.tapejara.pr.gov.br"
     ]
   },
   "tapira": {
@@ -3248,11 +3459,12 @@
   },
   "telemacoborba": {
     "sementes": [
-      "https://www.cmtb.pr.gov.br/"
+      "https://www.telemacoborba.pr.gov.br/"
     ],
     "dominios": [
+      "telemacoborba.atende.net",
       "telemacoborba.pr.gov.br",
-      "www.cmtb.pr.gov.br"
+      "www.telemacoborba.pr.gov.br"
     ]
   },
   "terraboa": {
@@ -3278,17 +3490,18 @@
       "https://www.terraroxa.pr.gov.br/"
     ],
     "dominios": [
+      "terraroxa.atende.net",
       "terraroxa.pr.gov.br",
       "www.terraroxa.pr.gov.br"
     ]
   },
   "tibagi": {
     "sementes": [
-      "https://www.camaratibagi.pr.gov.br/"
+      "https://www.tibagi.pr.gov.br/"
     ],
     "dominios": [
       "tibagi.pr.gov.br",
-      "www.camaratibagi.pr.gov.br"
+      "www.tibagi.pr.gov.br"
     ]
   },
   "tijucasdosul": {
@@ -3302,11 +3515,11 @@
   },
   "toledo": {
     "sementes": [
-      "https://www.cmt.pr.gov.br/"
+      "https://www.toledo.pr.gov.br/"
     ],
     "dominios": [
       "toledo.pr.gov.br",
-      "www.cmt.pr.gov.br"
+      "www.toledo.pr.gov.br"
     ]
   },
   "tomazina": {
@@ -3316,15 +3529,6 @@
     "dominios": [
       "tomazina.pr.gov.br",
       "www.tomazina.pr.gov.br"
-    ]
-  },
-  "tresbarrasdoparana": {
-    "sementes": [
-      "https://tresbarras.pr.gov.br/"
-    ],
-    "dominios": [
-      "tresbarras.pr.gov.br",
-      "tresbarrasdoparana.pr.gov.br"
     ]
   },
   "tunasdoparana": {
@@ -3338,9 +3542,11 @@
   },
   "tuneirasdooeste": {
     "sementes": [
-      "https://www.tuneirasdooeste.pr.gov.br/"
+      "https://www.tuneirasdooeste.pr.gov.br/",
+      "https://portal.tuneirasdooeste.pr.gov.br/"
     ],
     "dominios": [
+      "portal.tuneirasdooeste.pr.gov.br",
       "tuneirasdooeste.pr.gov.br",
       "www.tuneirasdooeste.pr.gov.br"
     ]
@@ -3350,6 +3556,7 @@
       "https://www.tupassi.pr.gov.br/"
     ],
     "dominios": [
+      "tupassi.atende.net",
       "tupassi.pr.gov.br",
       "www.tupassi.pr.gov.br"
     ]
@@ -3374,11 +3581,11 @@
   },
   "umuarama": {
     "sementes": [
-      "https://www.cmu.pr.gov.br/"
+      "https://www.umuarama.pr.gov.br/"
     ],
     "dominios": [
       "umuarama.pr.gov.br",
-      "www.cmu.pr.gov.br"
+      "www.umuarama.pr.gov.br"
     ]
   },
   "uniflor": {
@@ -3417,15 +3624,6 @@
       "www.ventania.pr.gov.br"
     ]
   },
-  "veracruzdooeste": {
-    "sementes": [
-      "https://www.veracruz.pr.gov.br/"
-    ],
-    "dominios": [
-      "veracruzdooeste.pr.gov.br",
-      "www.veracruz.pr.gov.br"
-    ]
-  },
   "vere": {
     "sementes": [
       "https://www.vere.pr.gov.br/"
@@ -3437,7 +3635,7 @@
   },
   "altoparaiso": {
     "sementes": [
-      "https://www.altoparaiso.pr.gov.br/camaramunicipal.php/"
+      "https://www.altoparaiso.pr.gov.br/"
     ],
     "dominios": [
       "altoparaiso.pr.gov.br",
@@ -3478,150 +3676,6 @@
     "dominios": [
       "www.xambre.pr.gov.br",
       "xambre.pr.gov.br"
-    ]
-  },
-  "centenariodosul": {
-    "sementes": [
-      "https://www.centenariodosul.pr.gov.br/"
-    ],
-    "dominios": [
-      "centenariodosul.pr.gov.br",
-      "www.centenariodosul.pr.gov.br"
-    ]
-  },
-  "lapa": {
-    "sementes": [
-      "https://lapa.atende.net/",
-      "https://www.lapa.pr.gov.br/"
-    ],
-    "dominios": [
-      "lapa.atende.net",
-      "www.lapa.pr.gov.br",
-      "lapa.pr.gov.br"
-    ]
-  },
-  "lidianopolis": {
-    "sementes": [
-      "https://www.lidianopolis.pr.gov.br/"
-    ],
-    "dominios": [
-      "lidianopolis.pr.gov.br",
-      "www.lidianopolis.pr.gov.br"
-    ]
-  },
-  "marechalcandidorondon": {
-    "sementes": [
-      "https://marechalcandidorondon.atende.net/"
-    ],
-    "dominios": [
-      "marechalcandidorondon.atende.net"
-    ]
-  },
-  "munhozdemelo": {
-    "sementes": [
-      "https://www.munhozdemello.pr.gov.br/"
-    ],
-    "dominios": [
-      "munhozdemello.pr.gov.br",
-      "www.munhozdemello.pr.gov.br"
-    ]
-  },
-  "novafatima": {
-    "sementes": [
-      "https://www.novafatima.pr.gov.br/"
-    ],
-    "dominios": [
-      "novafatima.pr.gov.br",
-      "www.novafatima.pr.gov.br"
-    ]
-  },
-  "novalaranjeiras": {
-    "sementes": [
-      "https://www.novalaranjeiras.pr.gov.br/"
-    ],
-    "dominios": [
-      "novalaranjeiras.pr.gov.br",
-      "www.novalaranjeiras.pr.gov.br"
-    ]
-  },
-  "novasantarosa": {
-    "sementes": [
-      "https://novasantarosa.pr.gov.br/"
-    ],
-    "dominios": [
-      "novasantarosa.pr.gov.br",
-      "www.novasantarosa.pr.gov.br"
-    ]
-  },
-  "pien": {
-    "sementes": [
-      "https://www.pien.pr.gov.br/"
-    ],
-    "dominios": [
-      "pien.pr.gov.br",
-      "www.pien.pr.gov.br"
-    ]
-  },
-  "saojorgedoeste": {
-    "sementes": [
-      "https://pmsjorge.pr.gov.br/"
-    ],
-    "dominios": [
-      "pmsjorge.pr.gov.br",
-      "www.pmsjorge.pr.gov.br"
-    ]
-  },
-  "saojosedospinhais": {
-    "sementes": [
-      "https://www.sjp.pr.gov.br/"
-    ],
-    "dominios": [
-      "sjp.pr.gov.br",
-      "www.sjp.pr.gov.br"
-    ]
-  },
-  "uniaodavitoria": {
-    "sementes": [
-      "https://uniaodavitoria.pr.gov.br/"
-    ],
-    "dominios": [
-      "uniaodavitoria.pr.gov.br",
-      "www.uniaodavitoria.pr.gov.br"
-    ]
-  },
-  "curitiba": {
-    "sementes": [
-      "https://www.curitiba.pr.gov.br/",
-      "https://www.transparencia.curitiba.pr.gov.br/",
-      "https://dadosabertos.curitiba.pr.gov.br/"
-    ],
-    "dominios": [
-      "curitiba.pr.gov.br"
-    ],
-    "pausa_entre_requests": true
-  },
-  "londrina": {
-    "sementes": [
-      "https://portal.londrina.pr.gov.br/",
-      "https://portal.londrina.pr.gov.br/transparencia",
-      "https://portal-prefeitura-londrina.equiplano.cloud/inicio"
-    ],
-    "dominios": [
-      "londrina.pr.gov.br",
-      "portal-prefeitura-londrina.equiplano.cloud"
-    ],
-    "dominios_excluidos": [
-      "pref.londrina.pr.gov.br"
-    ]
-  },
-  "maringa": {
-    "sementes": [
-      "https://www.maringa.pr.gov.br/",
-      "https://maringa.oxy.elotech.com.br/portaltransparencia/1/"
-    ],
-    "dominios": [
-      "maringa.pr.gov.br",
-      "maringa.oxy.elotech.com.br"
     ]
   }
 }
