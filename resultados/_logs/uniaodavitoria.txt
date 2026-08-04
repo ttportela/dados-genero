@@ -1,0 +1,1991 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UNIAODAVITORIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: UNIAODAVITORIA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://uniaodavitoria.pr.gov.br/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/TABELA-ALI
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  [2/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/agenda-cultural/
+  [3/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/atos-oficiais/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/LEI-ORGANI
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/CL-10_2012
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Codigo-Tri
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Decreto-No
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Lei-5029.p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/16_2014.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/18_2014.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/22-2016.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/23_2017.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/24_2017.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/25_2017.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/27_2018.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/28_2019.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/30_2019.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/33_2020.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/34_2021.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Estatuto-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/2202_95.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Lei-3058_2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/3645_08.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/3785_09.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/3789_09.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/4471_14.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/4874_20.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/4956_21.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/pdm-uniao-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/03_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/05_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/06_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/07_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/08_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/09_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/10_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/11_12.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/prancha-57
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/35_2021.pd
+  [4/sem limite] fila=110 | depth=1 | https://uniaodavitoria.pr.gov.br/brasao-municipal/
+  [5/sem limite] fila=109 | depth=1 | https://uniaodavitoria.pr.gov.br/cadastro/
+  [6/sem limite] fila=108 | depth=1 | https://uniaodavitoria.pr.gov.br/caminhoes/
+  [7/sem limite] fila=107 | depth=1 | https://uniaodavitoria.pr.gov.br/carta-de-servicos/
+  [8/sem limite] fila=106 | depth=1 | https://uniaodavitoria.pr.gov.br/cheia-iguacu-2023/
+  [9/sem limite] fila=105 | depth=1 | https://uniaodavitoria.pr.gov.br/concursos-pss/
+  [10/sem limite] fila=120 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciaas/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Prefeitura
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Prefeitura
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Prefeitura
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Prefeitura
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Prefeitura
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Edital-Ass
+  [11/sem limite] fila=119 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciadacriancaedoadolescente/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/EDITAL-DE-
+  [12/sem limite] fila=118 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciadasaude/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/06/decreto-27
+  [13/sem limite] fila=117 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciadascidades/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/RELATORIO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/REGIMENTO-
+  [14/sem limite] fila=116 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciadasmulheres/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/DECRETO-26
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Concluida-
+  [15/sem limite] fila=115 | depth=1 | https://uniaodavitoria.pr.gov.br/conferenciadoidoso/
+  [16/sem limite] fila=114 | depth=1 | https://uniaodavitoria.pr.gov.br/conferencias-municipais/
+  [17/sem limite] fila=113 | depth=1 | https://uniaodavitoria.pr.gov.br/defesacivil/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/PLANO-DE-C
+  [18/sem limite] fila=112 | depth=1 | https://uniaodavitoria.pr.gov.br/diario-oficial/
+  [19/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/diretoria-da-mulher/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Cartilha-N
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Cartilha-p
+  [20/sem limite] fila=110 | depth=1 | https://uniaodavitoria.pr.gov.br/empreendedor-digital/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI01-Aber
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI02-Dire
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI03-DASN
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI04-Comp
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI05-Orie
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI06-Alte
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI07-Cont
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/MEI09-Prod
+  [21/sem limite] fila=109 | depth=1 | https://uniaodavitoria.pr.gov.br/exposicoes/
+  [22/sem limite] fila=108 | depth=1 | https://uniaodavitoria.pr.gov.br/fale-com-a-prefeitura/
+  [23/sem limite] fila=107 | depth=1 | https://uniaodavitoria.pr.gov.br/fiscalizacao-eletronica/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ART.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PORTARIA-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-BENTO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-BENT
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/BENTO-MUNH
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-BENTO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-BENT
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/BENTO-MUNH
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-DOM-P
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-DOM-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/DOM-PEDRO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/08/CERT-MAREC
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/08/LAUDO-MARE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/08/MARECHAL-D
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-MAREC
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-MARE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/MARECHAL-D
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-PONTE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-PONT
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PONTE-JOSE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PROFESSORA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-PROF
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-CARLO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-CARL
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CARLOS-CAV
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-CARLO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-CARL
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CARLOS-CAV
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-MANOE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-MANO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/MANOEL-RIB
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-PROFE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-PROF
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PROFESSORA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-PROFE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-PROF
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PROFESSORA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-CARLO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-CARL
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CARLOS-CAV
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-COSTA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-COST
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/COSTA-CARV
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CERT-MANOE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/LAUDO-MANO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/MANOEL-RIB
+  [24/sem limite] fila=106 | depth=1 | https://uniaodavitoria.pr.gov.br/fiscalizacao-eletronica-2/
+  [25/sem limite] fila=105 | depth=1 | https://uniaodavitoria.pr.gov.br/gabinete/
+  [26/sem limite] fila=104 | depth=1 | https://uniaodavitoria.pr.gov.br/galerias/
+  [27/sem limite] fila=104 | depth=1 | https://uniaodavitoria.pr.gov.br/governo-digital/
+  [28/sem limite] fila=103 | depth=1 | https://uniaodavitoria.pr.gov.br/hino-municipal/
+  [29/sem limite] fila=102 | depth=1 | https://uniaodavitoria.pr.gov.br/historia-do-municipio/
+  [30/sem limite] fila=101 | depth=1 | https://uniaodavitoria.pr.gov.br/home/
+  [31/sem limite] fila=100 | depth=1 | https://uniaodavitoria.pr.gov.br/junta-militar/
+  [32/sem limite] fila=99 | depth=1 | https://uniaodavitoria.pr.gov.br/leilaopublico/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/ETP-Estudo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Termo-de-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/FOTOS-BENS
+  [33/sem limite] fila=98 | depth=1 | https://uniaodavitoria.pr.gov.br/lgpd/
+  [34/sem limite] fila=97 | depth=1 | https://uniaodavitoria.pr.gov.br/licitacoes/
+  [35/sem limite] fila=96 | depth=1 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/
+  [36/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/licitacoes/dispensas/
+  [37/sem limite] fila=116 | depth=1 | https://uniaodavitoria.pr.gov.br/link-da-bio/
+  [38/sem limite] fila=116 | depth=1 | https://uniaodavitoria.pr.gov.br/localizacao/
+  [39/sem limite] fila=115 | depth=1 | https://uniaodavitoria.pr.gov.br/manutencao/
+  [40/sem limite] fila=114 | depth=1 | https://uniaodavitoria.pr.gov.br/mapa-do-site/
+  [41/sem limite] fila=113 | depth=1 | https://uniaodavitoria.pr.gov.br/noticias/
+  [42/sem limite] fila=145 | depth=1 | https://uniaodavitoria.pr.gov.br/revisao-do-plano-diretor/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/lei-comp-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/lei-comp-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/lei-comp-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/lei-comp-4
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/lei-comp-4
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Zoneamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Modelo-Con
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/000-INSTIT
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/00-Aprova-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/01-Minuta-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/02-Minuta_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/03-Minuta-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/04-Minuta_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/05-Minuta-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/08/06-Minuta-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-01-AP
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-02-CP
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-03-CO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-04-Zo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-05-Zo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Mapa-06-PE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Zoneamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Tabela-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Tabela-Ocu
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.2_Metodo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.3_Planej
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.17-Sinte
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.13-Inser
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.10-Mobil
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.4_Areas-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.5_Uso-e-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.6-Capaci
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.7_Uso-e-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.8_Expans
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.9_Condic
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.11-Condi
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.14-Patri
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.15_Capac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.16_Estru
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.18_Objet
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.12-Aglom
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.19-Reord
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.20-Propo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.21-Instr
+  [43/sem limite] fila=144 | depth=1 | https://uniaodavitoria.pr.gov.br/organograma/
+  [44/sem limite] fila=143 | depth=1 | https://uniaodavitoria.pr.gov.br/perguntas-frequentes/
+  [45/sem limite] fila=142 | depth=1 | https://uniaodavitoria.pr.gov.br/periodo-eleitoral/
+  [46/sem limite] fila=141 | depth=1 | https://uniaodavitoria.pr.gov.br/ppaparticipativo/
+  [47/sem limite] fila=140 | depth=1 | https://uniaodavitoria.pr.gov.br/pmsb/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Produto-06
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-04
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-04
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/produto_4_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-03
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-03
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-03
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/PRODUTO-02
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Produto-1-
+  [48/sem limite] fila=139 | depth=1 | https://uniaodavitoria.pr.gov.br/pmsb/apresentacoes-e-videos-pmsb-e-pmgirs/
+  [49/sem limite] fila=138 | depth=1 | https://uniaodavitoria.pr.gov.br/pmsb/documentos-pmsb-e-pmgirs/
+  [50/sem limite] fila=137 | depth=1 | https://uniaodavitoria.pr.gov.br/pmsb/envie-sua-duvida-pmsb-e-pmgirs/
+  [51/sem limite] fila=136 | depth=1 | https://uniaodavitoria.pr.gov.br/pmsb/equipes-de-trabalho-pmsb-e-pmgirs/
+  [52/sem limite] fila=135 | depth=1 | https://uniaodavitoria.pr.gov.br/acoespreventivas/
+  [53/sem limite] fila=134 | depth=1 | https://uniaodavitoria.pr.gov.br/politica-de-privacidade/
+  [54/sem limite] fila=133 | depth=1 | https://uniaodavitoria.pr.gov.br/prefeitura/
+  [55/sem limite] fila=132 | depth=1 | https://uniaodavitoria.pr.gov.br/principal/
+  [56/sem limite] fila=131 | depth=1 | https://uniaodavitoria.pr.gov.br/procon/
+  [57/sem limite] fila=130 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/
+  [58/sem limite] fila=129 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/acessibilidade-e-inclusao-social/
+  [59/sem limite] fila=128 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/administracao/
+  [60/sem limite] fila=127 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/agricultura/
+  [61/sem limite] fila=126 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/agricultura/servico-de-inspecao-mun
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/Documento-
+  [62/sem limite] fila=125 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/assistencia-social/
+  [63/sem limite] fila=124 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/ciahab/
+  [64/sem limite] fila=123 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/cultura/
+  [65/sem limite] fila=122 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/desenvolvimento-economico-turismo-e
+  [66/sem limite] fila=123 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/06/Relacao-de
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/DECRETO.pd
+  [67/sem limite] fila=122 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/cacs-fundeb/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/01/Lei-Munici
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/01/Decreto-64
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/01/Ata-num.4-
+  [68/sem limite] fila=121 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/curriculo/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/PPC-Educac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/PPC.final_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/Proposta-P
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/PPC_Comput
+  [69/sem limite] fila=120 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/educacao-infantil/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/VAGAS-OFER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Lei-4837_2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/PLANO-DE-E
+  [70/sem limite] fila=119 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/fila-unica-cmeis/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/12/Lista-unic
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/12/Lista-unic
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/12/Lista-Unic
+  [71/sem limite] fila=118 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/merenda-escolar/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Cardapio-M
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Cardapio-M
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Cardapio-M
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/Planilha-s
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/Planilha-s
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/12/Cardapio-m
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Cardapio-M
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/10/Cardapio-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/Cardapio-m
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/Merenda-Es
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Merenda-es
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/06/Merenda-Es
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Cardapio-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/cardapio-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/cardapio-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/cardapio-E
+  [72/sem limite] fila=117 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/normativaseresolucoes/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/NORMATIVA_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/INSTRUCAO_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/Resolucao-
+  [73/sem limite] fila=116 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/plano-municipal/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Prorrogaca
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PME-2015-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Relatorio-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Relatorio-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Relatoria-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PME-Relato
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PME-Relato
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/338591236_
+  [74/sem limite] fila=115 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/educacao/pmpi/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PMPI-2025.
+  [75/sem limite] fila=114 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/esportes/
+  [76/sem limite] fila=113 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/financas/
+  [77/sem limite] fila=112 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/gabinete/
+  [78/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/governo/
+  [79/sem limite] fila=110 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/meio-ambiente/
+  [80/sem limite] fila=109 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/meio-ambiente/coletadolixo/
+  [81/sem limite] fila=108 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/meio-ambiente/defesa-animal/
+  [82/sem limite] fila=107 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/obras/
+  [83/sem limite] fila=106 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/ouvidoria-2/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Plano-de-T
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Plano-de-T
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/relatorio-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Relatorio-
+  [84/sem limite] fila=105 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/ouvidoria-2/ouvidoria/
+  [85/sem limite] fila=104 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/ouvidoria-2/relatorios-ouvidoria/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Relarorio-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/3o-quad.-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/2o-quad.-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/1o-quad.20
+  [86/sem limite] fila=103 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/planejamento/
+  [87/sem limite] fila=102 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/saude/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Uniao-da-V
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/01/PMS-final-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Plano-Muni
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/encaminham
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/pas-2027.p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/01/PAS-2026-f
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/PAS-2025-p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PAS-2024-1
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PAS-2023-p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PAS-2022.p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/normativa_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/GERENCIAME
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/04/POP-Enferm
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/REGIMENTO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Protocolo-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Protocolo-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Protocolo-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Protocolo-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/acolhiment
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/nova-estra
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-001-AS
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-002-AQ
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-003-AQ
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-004-DI
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-027-ME
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-031-SA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-032-RE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/POP-SALA-D
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Relatorio-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/RDQA-1-Qua
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/2-RDQA-fin
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/3_rdaq_-fi
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/RAG-2022-f
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/1_rdaq_-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/2_-RDQA-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/03/3-quadrime
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/RAG-2023-f
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/2-RDQA-202
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/1-RDQA-202
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/3-RDQA-202
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/RAG-Relato
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/1o-RDQA-fi
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/2_rdaq_-pa
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/3-RDQA-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/06/RAG-2025-F
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/06/1-RDQA-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/nota-orien
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Nota-Orien
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/PLANEJAMEN
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/06/Regulacao-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/10/Cartilha-E
+  [88/sem limite] fila=101 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/saude/farmacias/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/REMUME-UVA
+  [89/sem limite] fila=100 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/uvtran/
+  [90/sem limite] fila=99 | depth=1 | https://uniaodavitoria.pr.gov.br/secretarias/uvtran/app-carteira-digital/
+  [91/sem limite] fila=98 | depth=1 | https://uniaodavitoria.pr.gov.br/telefones-uteis/
+  [92/sem limite] fila=97 | depth=1 | https://uniaodavitoria.pr.gov.br/transparencia/
+  [93/sem limite] fila=96 | depth=1 | https://uniaodavitoria.pr.gov.br/vagas-de-emprego/
+  [94/sem limite] fila=95 | depth=1 | https://uniaodavitoria.pr.gov.br/atos-oficiais
+  [95/sem limite] fila=94 | depth=1 | http://webmail.uniaodavitoria.pr.gov.br/
+  🤖 Usando Selenium para: http://webmail.uniaodavitoria.pr.gov.br/
+  [96/sem limite] fila=93 | depth=1 | https://uniaodavitoria.pr.gov.br/concurso-pss/portaria-21-2024-edital-01-2024-ps
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/errata-da-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/portaria-e
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/PORT-95.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/port-63-ho
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Portaria-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  [97/sem limite] fila=92 | depth=1 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-assistencia-social/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/FICHA-DE-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/CURRICULUM
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/AUTODECLAR
+  [98/sem limite] fila=91 | depth=1 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-contratacao-de-estagiarios-edi
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/ERRATA-da-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  [99/sem limite] fila=90 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-amplia-protecao-
+  [100/sem limite] fila=95 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/banda-municipal-de-uniao-da-vitor
+  [101/sem limite] fila=99 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebera-o-castr
+  [102/sem limite] fila=103 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-la
+  [103/sem limite] fila=106 | depth=1 | https://uniaodavitoria.pr.gov.br/author/pmuva/
+  [104/sem limite] fila=107 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-conquista-nota-a
+  [105/sem limite] fila=111 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-participa-de-enc
+  [106/sem limite] fila=114 | depth=1 | https://uniaodavitoria.pr.gov.br/sem-categoria/proerd-forma-380-alunos-em-uniao-
+  [107/sem limite] fila=118 | depth=1 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/aniversario-136-anos-uniao-da-
+  [108/sem limite] fila=117 | depth=1 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/noite-das-artes-escolas-e-cmei
+  [109/sem limite] fila=116 | depth=1 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/formatura-proerd-27-de-novembr
+  [110/sem limite] fila=115 | depth=1 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/concerto-musical-pequenos-arte
+  [111/sem limite] fila=114 | depth=1 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/comemoracao-135-anos-de-uniao-
+  [112/sem limite] fila=113 | depth=1 | https://uniaodavitoria.pr.gov.br/departamentos/procon/
+  [113/sem limite] fila=112 | depth=1 | https://uniaodavitoria.pr.gov.br/carta-de-servicos
+  [114/sem limite] fila=111 | depth=2 | https://uniaodavitoria.pr.gov.br
+  [115/sem limite] fila=110 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-estagio-02-2026/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/07/Documento-
+  [116/sem limite] fila=109 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-estagio-01-2026/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Pref.Uniao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/02/Documento-
+  [117/sem limite] fila=108 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/edital-de-concurso-publico-no-001-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-N
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-1
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA15
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-1
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-0
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/portaria-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-0
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/PORTARIA-0
+  [118/sem limite] fila=107 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-estagio-edital-no02-2025/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  [119/sem limite] fila=106 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/processo-seletivo-simplificado-202
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  [120/sem limite] fila=105 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/bolsa-de-estudos-2025/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/port-883-h
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Ficha-UGV.
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Ficha-Uniu
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  [121/sem limite] fila=104 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/edital-no01-2025-portaria-no-159-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/01/Documento-
+  [122/sem limite] fila=103 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/5593/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/ANEXO-I.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/ANEXO-II.p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/05/ANEXO-III.
+  [123/sem limite] fila=102 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/edital-no-001-2021-portaria-1604-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/04/Documento-
+  [124/sem limite] fila=101 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/portaria-125-2024-edital-02-2024-c
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/03/FICHA-INSC
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/03/FICHA-INSC
+  [125/sem limite] fila=100 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/pss-educacao-edital-001-2024-auxil
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Edital-res
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/ANEXO-I.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/ANEXO-II.p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/ANEXO-III.
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/ANEXO-IV.p
+  [126/sem limite] fila=99 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/bolsas-de-estudo-2024/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/01/Documento-
+  [127/sem limite] fila=98 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/processo-seletivo-simplificado-est
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  [128/sem limite] fila=97 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/edital-inscricao-de-eleicao-para-o
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/RESOLUCAO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/RESOLUCAO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/vivi270420
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-ELE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/FICHA-INSC
+  [129/sem limite] fila=96 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/portaria-131-2023-pss-estagio/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  [130/sem limite] fila=95 | depth=2 | https://uniaodavitoria.pr.gov.br/concurso-pss/concurso-publico-2022-portaria-562
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/11/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .doc -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/12/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/dec-450.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/dec-449.pd
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Julgamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ERRATA-1-P
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/gabarito-p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documento-
+  [131/sem limite] fila=94 | depth=2 | https://uniaodavitoria.pr.gov.br/galeria_de_fotos/noite-de-arte-das-escolas-e-cm
+  [132/sem limite] fila=93 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-02-2026-p
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/RESPOSTA-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/ATA-EDITAL
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/05/EDITAL-CHA
+  [133/sem limite] fila=92 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-no-01-2026-foment
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/PARECER-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/PARECER-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/PARECER-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/ATA-SCANEA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/AVISO-DE-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/ESBOCO-EDI
+  [134/sem limite] fila=91 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-no02-2026
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/Edital-Cha
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/1-Proposta
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/2-Proposta
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/3-Proposta
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/4-Proposta
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/5-ATA-DE-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/6-AVISO-DE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/7-CERTIDAO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/8-PARECER_
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/9-TERMO-DE
+  [135/sem limite] fila=90 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-chamamento-no-1-2026/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/Edital-Cha
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2026/03/1o-PEDIDO-
+  [136/sem limite] fila=89 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/credenciamento-de-associacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/1o-IMPUGNA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/2o-PARECER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/3o-PARECER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/4o-PARECER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/5o-PARECER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/6o-ANEXO-0
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/Apendice-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/Apendice-I
+  [137/sem limite] fila=88 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-para-cred
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/Tabela-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/Estudo-Tec
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/08/EDITAL-DE-
+  [138/sem limite] fila=87 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-no-n-o-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Termo-de-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Estudo-Tec
+  [139/sem limite] fila=86 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/1.Edital-d
+  [140/sem limite] fila=85 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-no-03-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/2a-Ata-do-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Ata-do-Res
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/07/Processo-n
+  [141/sem limite] fila=84 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-no-02-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/ATA-CULTUR
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/05/Aviso-de-C
+  [142/sem limite] fila=83 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-01-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/04/Publicacoe
+  [143/sem limite] fila=82 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-imas-cont
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/NAHIM-GEST
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/03/AVISO-DE-E
+  [144/sem limite] fila=81 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-no-01-2025-fomento-al
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Resultado-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/NOVO-RESUL
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/ATA-DO-RES
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Edital-RET
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/1o-TERMO-D
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/02/AVISO-DE-C
+  [145/sem limite] fila=80 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/ANEXO-III-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Termo-de-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Edital-Ret
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Memorando-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Termo-de-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Memorando-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Resultado-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Memorando-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Memorando-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/11/Publicacoe
+  [146/sem limite] fila=79 | depth=2 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Esclarecim
+  [147/sem limite] fila=78 | depth=2 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/?page=2
+  [148/sem limite] fila=93 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-eletronica-no-003-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Proposta-R
+  [149/sem limite] fila=92 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-eletronica-no-001-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Proposta-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-An
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Questionam
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-da
+  [150/sem limite] fila=91 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-de-licitacao-n-o-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Aviso-de-D
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Dispensa-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ESCLARECIM
+  [151/sem limite] fila=90 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-eletronica-no-56-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Analise-do
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Solicitaca
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  [152/sem limite] fila=89 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-eletronica-no-47-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Relatorio-
+  [153/sem limite] fila=88 | depth=2 | https://uniaodavitoria.pr.gov.br/dipensa-eletronica/dispensa-eletronica-no-001-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Dispensa-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Proposta-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Analise-do
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Decisao-da
+  [154/sem limite] fila=87 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-ab
+  [155/sem limite] fila=91 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-amplia-vacinacao
+  [156/sem limite] fila=95 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-parana-em
+  [157/sem limite] fila=98 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/assistencia-social-participa-de-c
+  [158/sem limite] fila=101 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-cria-conselho-mu
+  [159/sem limite] fila=103 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-novo-cmei-n
+  [160/sem limite] fila=106 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-10a-conf
+  [161/sem limite] fila=109 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/obras-na-bento-munhoz-iniciam-nes
+  [162/sem limite] fila=113 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/tributacao-municipal-orienta-empr
+  [163/sem limite] fila=116 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/2/
+  [164/sem limite] fila=127 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/3/
+  [165/sem limite] fila=140 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/4/
+  [166/sem limite] fila=150 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/5/
+  [167/sem limite] fila=161 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/6/
+  [168/sem limite] fila=172 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/7/
+  [169/sem limite] fila=184 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/8/
+  [170/sem limite] fila=196 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/9/
+  [171/sem limite] fila=207 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/10/
+  [172/sem limite] fila=216 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/11/
+  [173/sem limite] fila=227 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/12/
+  [174/sem limite] fila=238 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/13/
+  [175/sem limite] fila=248 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/14/
+  [176/sem limite] fila=262 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/15/
+  [177/sem limite] fila=274 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/16/
+  [178/sem limite] fila=284 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/17/
+  [179/sem limite] fila=295 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/18/
+  [180/sem limite] fila=307 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/19/
+  [181/sem limite] fila=318 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/20/
+  [182/sem limite] fila=326 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/21/
+  [183/sem limite] fila=337 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/22/
+  [184/sem limite] fila=347 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/23/
+  [185/sem limite] fila=358 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/24/
+  [186/sem limite] fila=369 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/25/
+  [187/sem limite] fila=381 | depth=2 | https://uniaodavitoria.pr.gov.br/noticias/26/
+  [188/sem limite] fila=383 | depth=2 | https://uniaodavitoria.pr.gov.br/departamentos/casa-do-empreendedor-de-uniao-da-
+  [189/sem limite] fila=382 | depth=2 | https://uniaodavitoria.pr.gov.br/departamentos/agencia-do-trabalhador-de-uniao-d
+  [190/sem limite] fila=381 | depth=2 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/
+  [191/sem limite] fila=382 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/conselho-municipal-dos-direitos-d
+  [192/sem limite] fila=381 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/toca-do-coelho-e-feira-da-uniao-i
+  [193/sem limite] fila=380 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-nova-ambu
+  [194/sem limite] fila=379 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-avanca-nos-indic
+  [195/sem limite] fila=378 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/agencia-do-trabalhador-de-uniao-d
+  [196/sem limite] fila=377 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-conquista-excele
+  [197/sem limite] fila=376 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/academia-de-letras-do-vale-do-igu
+  [198/sem limite] fila=375 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-ut
+  [199/sem limite] fila=374 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/quadra-da-escola-padre-jacintho-p
+  [200/sem limite] fila=373 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-la
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_links.xlsx
+  844 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_externos.xlsx
+  88 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=372 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-recolhiment
+  [202/sem limite] fila=371 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/vigilancia-ambiental-intensifica-
+  [203/sem limite] fila=370 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/imposto-predial-e-territorial-urb
+  [204/sem limite] fila=369 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/operacao-aifo-realiza-fiscalizaca
+  [205/sem limite] fila=368 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/vigilancia-epidemiologica-esta-em
+  [206/sem limite] fila=367 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/projeto-colorindo-infancias-leva-
+  [207/sem limite] fila=366 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/idosos-de-uniao-da-vitoria-partic
+  [208/sem limite] fila=365 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-evento-u
+  [209/sem limite] fila=364 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/implanon-ja-esta-disponivel-nas-u
+  [210/sem limite] fila=363 | depth=2 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/2/
+  [211/sem limite] fila=363 | depth=2 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/38/
+  [212/sem limite] fila=363 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/casa-do-empreendedor-esta-em-novo
+  [213/sem limite] fila=362 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-ab
+  [214/sem limite] fila=361 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-de-uniao-da-vitoria-real
+  [215/sem limite] fila=360 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-obras-realiza-reper
+  [216/sem limite] fila=359 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/conselho-tutelar-de-uniao-da-vito
+  [217/sem limite] fila=358 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/inclusao-equipe-da-secretaria-de-
+  [218/sem limite] fila=357 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-de-uniao-da-vitoria-alerta-
+  [219/sem limite] fila=356 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-premio-de
+  [220/sem limite] fila=355 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/dia-d-da-saude-da-mulher-sera-nes
+  [221/sem limite] fila=354 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/fumprevi-aposentados-e-pensionist
+  [222/sem limite] fila=353 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/feira-uniao-uniao-da-vitoria-ganh
+  [223/sem limite] fila=352 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-in
+  [224/sem limite] fila=351 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/dia-d-da-vacinacao-contra-a-gripe
+  [225/sem limite] fila=350 | depth=2 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-inicia-capacitacao-em-ab
+  [226/sem limite] fila=349 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/10/Publicacoe
+  [227/sem limite] fila=348 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-12-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Matriculas
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Matriculas
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/DECRETO-No
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Aviso-da-N
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/09/Publicacoe
+  [228/sem limite] fila=347 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-chamamento-publico-n-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/ANEXO-VIII
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/ANEXO-X-Pl
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/1.-Process
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2.-Process
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/3._-Solici
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/4.-Respost
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/5._-Solici
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/6.-Respost
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/7.-3a-Soli
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/9.-Respost
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/11.-4a-Sol
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/12.-Respos
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Representa
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Esclarecim
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Consulta-f
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/5a-Solicit
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/IMPUGNACAO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/RESPOSTA-A
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/DA-JUSTIFI
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Despacho-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/2a-IMPUGNA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/3a-IMPUGNA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/RESPOSTA-A
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Dos-Creden
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Dos-Creden
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Dos-Creden
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Ata-de-Reu
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Consulta-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Contrarraz
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Contrarraz
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Do-Julgame
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/AVISO-DE-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/DECRETO-No
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Aviso-da-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Novo-Crede
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Envelope-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Ata-da-Ses
+  [229/sem limite] fila=347 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/07/PublicaoAe
+  [230/sem limite] fila=346 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  [231/sem limite] fila=345 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  [232/sem limite] fila=344 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-no-04-202
+  [233/sem limite] fila=343 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  [234/sem limite] fila=342 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-002-2
+  [235/sem limite] fila=341 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-001-2
+  [236/sem limite] fila=340 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/1707/
+  [237/sem limite] fila=339 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-no-09-2
+  [238/sem limite] fila=338 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-n-o-001-2022-secretar
+  [239/sem limite] fila=337 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-no-007-20
+  [240/sem limite] fila=336 | depth=3 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-no-006-20
+  [241/sem limite] fila=335 | depth=3 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/?page=3
+  [242/sem limite] fila=350 | depth=3 | http://www.uniaodavitoria.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/
+  [243/sem limite] fila=349 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/sala-do-empreendedor-de-uniao-da-
+  [244/sem limite] fila=348 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-finaliza-curso-p
+  [245/sem limite] fila=347 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/produtores-de-uniao-da-vitoria-te
+  [246/sem limite] fila=346 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-in
+  [247/sem limite] fila=345 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-vacinacao
+  [248/sem limite] fila=344 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-registra-quase-2
+  [249/sem limite] fila=343 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-prepara-evento-e
+  [250/sem limite] fila=342 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inaugura-primeir
+  [251/sem limite] fila=341 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/estar-tera-zona-verde-com-permane
+  [252/sem limite] fila=340 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-lanca-programa-a
+  [253/sem limite] fila=339 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/historico-educacao-de-uniao-da-vi
+  [254/sem limite] fila=338 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/feira-do-produtor-rural-sera-inau
+  [255/sem limite] fila=337 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-divulga-lista-unica-dos-
+  [256/sem limite] fila=336 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/confira-toda-a-programacao-da-fes
+  [257/sem limite] fila=335 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-oficializa-inici
+  [258/sem limite] fila=334 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/cine-teatro-luz-recebe-a-peca-o-f
+  [259/sem limite] fila=333 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-realiza-atualizacao-ca
+  [260/sem limite] fila=332 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-de-verao-reune-mais-de-c
+  [261/sem limite] fila=331 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inaugura-base-pr
+  [262/sem limite] fila=330 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/procon-de-uniao-da-vitoria-tera-n
+  [263/sem limite] fila=329 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/conferencia-das-cidades-elege-pro
+  [264/sem limite] fila=328 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-mais-de-m
+  [265/sem limite] fila=327 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-palestra
+  [266/sem limite] fila=326 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-avanca-na-educac
+  [267/sem limite] fila=325 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-a-2a-sem
+  [268/sem limite] fila=324 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/campanha-imposto-solidario-doe-pa
+  [269/sem limite] fila=323 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-abre-inscricoes-
+  [270/sem limite] fila=323 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-de-uniao-da-vitoria-real
+  [271/sem limite] fila=322 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/conselho-municipal-da-pessoa-idos
+  [272/sem limite] fila=321 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/procon-de-uniao-da-vitoria-realiz
+  [273/sem limite] fila=320 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-lanca-tarifa-zer
+  [274/sem limite] fila=319 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/lista-unica-cmeis-2025/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/BERCARIO-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/BERCARIO-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/Bercario-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-1
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-1
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-1
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-2
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-4
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-4
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/11/INFANTIL-4
+  [275/sem limite] fila=318 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-el
+  [276/sem limite] fila=317 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ponte-do-arco-estara-bloqueada-na
+  [277/sem limite] fila=316 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-civil-de-uniao-da-vitoria-
+  [278/sem limite] fila=315 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-duas-moto
+  [279/sem limite] fila=314 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realizara-confer
+  [280/sem limite] fila=313 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/duas-escolas-de-uniao-da-vitoria-
+  [281/sem limite] fila=312 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/segunda-etapa-do-programa-bons-ol
+  [282/sem limite] fila=311 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-capacita
+  [283/sem limite] fila=310 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/tres-ubss-de-uniao-da-vitoria-tem
+  [284/sem limite] fila=309 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-caravana-pa
+  [285/sem limite] fila=308 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/provopar-de-uniao-da-vitoria-lanc
+  [286/sem limite] fila=307 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ary-carneiro-jr-entrega-ordem-de-
+  [287/sem limite] fila=306 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-coleta-se
+  [288/sem limite] fila=305 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-educacao-realiza-ca
+  [289/sem limite] fila=304 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/projeto-da-cultura-de-uniao-da-vi
+  [290/sem limite] fila=303 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mutirao-de-limpeza-no-conjunto-ho
+  [291/sem limite] fila=302 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [292/sem limite] fila=301 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-assistencia-social-
+  [293/sem limite] fila=300 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-esportes-promove-9o
+  [294/sem limite] fila=299 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-abre-inscricoes-
+  [295/sem limite] fila=298 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-avanca-para-conc
+  [296/sem limite] fila=297 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/praca-dos-expedicionarios-passa-p
+  [297/sem limite] fila=296 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-animal-realiza-ciclo-de-pa
+  [298/sem limite] fila=295 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-in
+  [299/sem limite] fila=294 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/profissionais-da-saude-de-uniao-d
+  [300/sem limite] fila=293 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [301/sem limite] fila=292 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-audienci
+  [302/sem limite] fila=291 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-animal-recebe-visita-de-es
+  [303/sem limite] fila=290 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-in
+  [304/sem limite] fila=289 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-civil-de-uniao-da-vitoria-
+  [305/sem limite] fila=288 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-assinatu
+  [306/sem limite] fila=287 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/oficina-gratuita-orienta-meis-sob
+  [307/sem limite] fila=286 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-de-uniao-da-vitoria-reforca
+  [308/sem limite] fila=285 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-recolhiment
+  [309/sem limite] fila=284 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/curso-gratuito-de-auxiliar-de-coz
+  [310/sem limite] fila=283 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-1a-expo-
+  [311/sem limite] fila=282 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/programa-bons-olhos-parana-inicia
+  [312/sem limite] fila=281 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/investimento-de-r-66-milhoes-gara
+  [313/sem limite] fila=280 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-a-2a-sem
+  [314/sem limite] fila=279 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-audienci
+  [315/sem limite] fila=278 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-cria-e-da-posse-
+  [316/sem limite] fila=277 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-lanca-projeto-me
+  [317/sem limite] fila=276 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ubs-do-sao-bernardo-segue-atenden
+  [318/sem limite] fila=275 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/programa-paralimpico-de-uniao-da-
+  [319/sem limite] fila=274 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-registra-primeir
+  [320/sem limite] fila=273 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-encontro
+  [321/sem limite] fila=272 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/imposto-solidario-parte-do-seu-ir
+  [322/sem limite] fila=271 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/seis-entidades-recebem-recursos-p
+  [323/sem limite] fila=270 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/asfalto-novo-chega-ao-sagrada-fam
+  [324/sem limite] fila=269 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/iptu-2026-tem-10-de-desconto-para
+  [325/sem limite] fila=268 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-investe-r-64-mil
+  [326/sem limite] fila=267 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mais-de-800-atletas-participam-de
+  [327/sem limite] fila=266 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-o-dia-d-
+  [328/sem limite] fila=265 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mais-seguranca-na-porta-das-escol
+  [329/sem limite] fila=264 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-avanca-com-pavim
+  [330/sem limite] fila=263 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-oito-pontos
+  [331/sem limite] fila=262 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/esporte-e-assistencia-social-real
+  [332/sem limite] fila=261 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-celebra-136-anos
+  [333/sem limite] fila=260 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/aniversario-de-uniao-da-vitoria-t
+  [334/sem limite] fila=259 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/comemoracoes-dos-136-anos-de-unia
+  [335/sem limite] fila=258 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-veiculo-p
+  [336/sem limite] fila=257 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-di
+  [337/sem limite] fila=257 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/palestra-a-conquista-das-mulheres
+  [338/sem limite] fila=256 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-amplia-atendimen
+  [339/sem limite] fila=255 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-celebra-136-anos
+  [340/sem limite] fila=254 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebera-segunda
+  [341/sem limite] fila=253 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-de-uniao-da-vitoria-real
+  [342/sem limite] fila=252 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/semaforo-da-rua-visconde-de-guara
+  [343/sem limite] fila=251 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/nova-iluminacao-do-estadio-antioc
+  [344/sem limite] fila=250 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-de-uniao-da-vitoria-libera-
+  [345/sem limite] fila=249 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/servidores-da-administracao-munic
+  [346/sem limite] fila=248 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ultimos-dias-para-participar-do-p
+  [347/sem limite] fila=247 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/9617/
+  [348/sem limite] fila=246 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-educacao-realiza-ca
+  [349/sem limite] fila=245 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-conexao-
+  [350/sem limite] fila=244 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-dia-d-da-sa
+  [351/sem limite] fila=243 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-segue-sem-casos-
+  [352/sem limite] fila=242 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-dia-dela
+  [353/sem limite] fila=241 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-fortalece-ambien
+  [354/sem limite] fila=240 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-sedia-festival-p
+  [355/sem limite] fila=239 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/pascoa-encantada-vai-transformar-
+  [356/sem limite] fila=238 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-sedia-encontro-r
+  [357/sem limite] fila=237 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/duas-escolas-de-uniao-da-vitoria-
+  [358/sem limite] fila=236 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-animal-realiza-feira-de-ad
+  [359/sem limite] fila=235 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/iptu-2026-pode-ser-pago-com-10-de
+  [360/sem limite] fila=234 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-oferece-curso-gratuito
+  [361/sem limite] fila=233 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-de-verao-acontece-neste-
+  [362/sem limite] fila=232 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/vacina-contra-a-dengue-esta-dispo
+  [363/sem limite] fila=231 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-feira-do-pe
+  [364/sem limite] fila=230 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/revitalizacao-da-praca-dos-expedi
+  [365/sem limite] fila=229 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-la
+  [366/sem limite] fila=228 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/professores-de-educacao-fisica-de
+  [367/sem limite] fila=227 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mais-de-56-mil-alunos-retornam-as
+  [368/sem limite] fila=226 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-e-senar-pr-promovem-cu
+  [369/sem limite] fila=225 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-de-verao-2026-ja-tem-dat
+  [370/sem limite] fila=224 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/tres-ubss-de-uniao-da-vitoria-tem
+  [371/sem limite] fila=223 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/feira-uniao-ganha-mais-um-dia-de-
+  [372/sem limite] fila=222 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-assistencia-social-
+  [373/sem limite] fila=221 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-e-celebrada-como
+  [374/sem limite] fila=220 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-to
+  [375/sem limite] fila=219 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-civil-atende-ocorrencias-a
+  [376/sem limite] fila=218 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/obras-do-parque-linear-entram-na-
+  [377/sem limite] fila=217 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeito-ary-carneiro-jr-transmit
+  [378/sem limite] fila=216 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/concurso-da-prefeitura-de-uniao-d
+  [379/sem limite] fila=215 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ponte-do-arco-estara-bloqueada-na
+  [380/sem limite] fila=214 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-di
+  [381/sem limite] fila=213 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-in
+  [382/sem limite] fila=212 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/cmei-eneida-fagundes-recebe-mais-
+  [383/sem limite] fila=211 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/20a-cantata-de-natal-da-escola-mu
+  [384/sem limite] fila=210 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/dez-entidades-sao-contempladas-31
+  [385/sem limite] fila=209 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/transito-na-regiao-da-17a-festa-n
+  [386/sem limite] fila=208 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-curso-gr
+  [387/sem limite] fila=207 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-reforca-acoes-do
+  [388/sem limite] fila=206 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-e-reconhecida-co
+  [389/sem limite] fila=205 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-natalino-movimenta-a-pra
+  [390/sem limite] fila=204 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/idosos-do-programa-de-exercicios-
+  [391/sem limite] fila=203 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-periodo-d
+  [392/sem limite] fila=202 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/proerd-forma-mais-de-350-alunos-e
+  [393/sem limite] fila=201 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mais-de-400-professores-recebem-f
+  [394/sem limite] fila=200 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-lanca-o-natal-lu
+  [395/sem limite] fila=199 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-recebe-onibus-do
+  [396/sem limite] fila=198 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-acende-iluminaca
+  [397/sem limite] fila=197 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/doacoes-arrecadadas-com-a-corrida
+  [398/sem limite] fila=196 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/acesso-e-estacionamento-do-termin
+  [399/sem limite] fila=195 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-conexao-
+  [400/sem limite] fila=194 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/junta-militar-de-uniao-da-vitoria
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_links.xlsx
+  945 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_externos.xlsx
+  91 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=193 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/alunos-da-oficina-de-violao-do-cr
+  [402/sem limite] fila=192 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-pr
+  [403/sem limite] fila=191 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-abre-consulta-pu
+  [404/sem limite] fila=190 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/novembro-azul-uniao-da-vitoria-re
+  [405/sem limite] fila=189 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-intensifica-acoes-de-c
+  [406/sem limite] fila=188 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-garante-equipara
+  [407/sem limite] fila=187 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-e-senar-oferecem-curso
+  [408/sem limite] fila=186 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-divulga-cronograma-de-ma
+  [409/sem limite] fila=185 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-e-contemplada-co
+  [410/sem limite] fila=184 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/dia-de-finados-manutencao-nos-tum
+  [411/sem limite] fila=183 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ouvidoria-municipal-e-o-principal
+  [412/sem limite] fila=182 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-assina-contrato-
+  [413/sem limite] fila=181 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/professora-de-uniao-da-vitoria-co
+  [414/sem limite] fila=180 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-garante-dignidad
+  [415/sem limite] fila=179 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/predio-do-caps-passa-por-revitali
+  [416/sem limite] fila=178 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/rua-dos-expedicionarios-recebe-re
+  [417/sem limite] fila=177 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-dia-d-de-va
+  [418/sem limite] fila=176 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/associacao-autismo-sem-barreiras-
+  [419/sem limite] fila=175 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-campanha-
+  [420/sem limite] fila=174 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/sme-realiza-corrida-rosa-5k-no-di
+  [421/sem limite] fila=173 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeito-assina-ordem-de-servico-
+  [422/sem limite] fila=172 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/dia-d-da-saude-da-mulher-sera-nes
+  [423/sem limite] fila=171 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/recuperacao-da-avenida-bento-munh
+  [424/sem limite] fila=170 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-e-contemplada-co
+  [425/sem limite] fila=169 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/museu-aniz-domingos-recebe-duas-e
+  [426/sem limite] fila=168 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-obras-realiza-manut
+  [427/sem limite] fila=167 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/seguranca-alimentar-familias-de-u
+  [428/sem limite] fila=166 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-divulga-resultad
+  [429/sem limite] fila=165 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-do-meio-ambiente-parti
+  [430/sem limite] fila=164 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uvtran-realiza-alteracao-no-funci
+  [431/sem limite] fila=163 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-rosa-uniao-da-vitoria-lanca
+  [432/sem limite] fila=162 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-assina-ordem-de-
+  [433/sem limite] fila=161 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-e-copel-iniciam-
+  [434/sem limite] fila=160 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ubs-do-sao-braz-passa-por-reforma
+  [435/sem limite] fila=159 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-eleicao-
+  [436/sem limite] fila=158 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/semaforo-da-rua-marechal-deodoro-
+  [437/sem limite] fila=157 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [438/sem limite] fila=156 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-da-inicio-a-mode
+  [439/sem limite] fila=155 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/pequenos-arteiros-apresenta-conce
+  [440/sem limite] fila=154 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-recolhiment
+  [441/sem limite] fila=153 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/assistencia-social-inicia-novos-g
+  [442/sem limite] fila=152 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ubs-dos-conjuntos-tera-atendiment
+  [443/sem limite] fila=151 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/tradicional-desfile-de-7-de-setem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/09/Desfile-de
+  [444/sem limite] fila=150 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/academia-de-saude-oferece-ativida
+  [445/sem limite] fila=149 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-animal-realiza-feira-de-ad
+  [446/sem limite] fila=148 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-civil-de-uniao-da-vitoria-
+  [447/sem limite] fila=147 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-evento-d
+  [448/sem limite] fila=146 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-promove-oficina-de-com
+  [449/sem limite] fila=145 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mutirao-da-secretaria-de-saude-li
+  [450/sem limite] fila=144 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/escola-de-uniao-da-vitoria-incent
+  [451/sem limite] fila=143 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/agosto-dourado-e-lembrado-com-aco
+  [452/sem limite] fila=142 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-lanca-sala-senso
+  [453/sem limite] fila=141 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fique-em-dia-tera-ultimo-mutirao-
+  [454/sem limite] fila=140 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-reestabelece-a-c
+  [455/sem limite] fila=139 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-animal-reforca-adocao-resp
+  [456/sem limite] fila=138 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ciahab-realiza-atualizacao-cadast
+  [457/sem limite] fila=137 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-fica-em-1o-lugar
+  [458/sem limite] fila=136 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/empresa-de-uniao-da-vitoria-conqu
+  [459/sem limite] fila=135 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-novo-prot
+  [460/sem limite] fila=134 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/violencia-contra-a-mulher-uniao-d
+  [461/sem limite] fila=133 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/agronegocio-municipio-e-unespar-s
+  [462/sem limite] fila=132 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-a-15a-co
+  [463/sem limite] fila=131 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fique-em-dia-tera-atendimento-esp
+  [464/sem limite] fila=130 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/participa-uniao-prefeitura-de-uni
+  [465/sem limite] fila=129 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/edital-para-venda-de-alimentos-pa
+  [466/sem limite] fila=128 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-dose-de-r
+  [467/sem limite] fila=127 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/assinada-ordem-de-servico-para-a-
+  [468/sem limite] fila=126 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/conselho-municipal-de-desenvolvim
+  [469/sem limite] fila=125 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeito-ary-carneiro-jr-assina-o
+  [470/sem limite] fila=124 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ubss-de-uniao-da-vitoria-tem-hora
+  [471/sem limite] fila=123 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/convocacao-para-eleicao-do-consel
+  [472/sem limite] fila=122 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/defesa-civil-e-secretarias-de-obr
+  [473/sem limite] fila=121 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-6a-confe
+  [474/sem limite] fila=120 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-aplicacao
+  [475/sem limite] fila=119 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/executivo-e-legislativo-trabalham
+  [476/sem limite] fila=118 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fique-em-dia-tera-atendimento-esp
+  [477/sem limite] fila=117 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-de-uniao-da-vitoria-realiza
+  [478/sem limite] fila=116 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-6a-confe
+  [479/sem limite] fila=115 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fique-em-dia-uniao-da-vitoria-ofe
+  [480/sem limite] fila=114 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-de-uniao-da-vitoria-realiza
+  [481/sem limite] fila=113 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/edital-da-eleicao-de-suplencia-do
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2025/06/Documento1
+  [482/sem limite] fila=112 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-mo
+  [483/sem limite] fila=111 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/assistencia-social-de-uniao-da-vi
+  [484/sem limite] fila=110 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/sala-do-empreendedor-tera-mutirao
+  [485/sem limite] fila=109 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/provopar-de-uniao-da-vitoria-lanc
+  [486/sem limite] fila=108 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [487/sem limite] fila=107 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-fo
+  [488/sem limite] fila=106 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-en
+  [489/sem limite] fila=105 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/ponte-machado-da-costa-tera-bloqu
+  [490/sem limite] fila=104 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/programa-porteira-adentro-fortale
+  [491/sem limite] fila=103 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-ja-imunizou-mais
+  [492/sem limite] fila=102 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-promove-caminhad
+  [493/sem limite] fila=101 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/vigilancia-sanitaria-e-ambiental-
+  [494/sem limite] fila=100 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saude-realiza-mutirao-de-atendime
+  [495/sem limite] fila=99 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-altera-data-base
+  [496/sem limite] fila=98 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-2a-confe
+  [497/sem limite] fila=97 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-amplia-vacinacao
+  [498/sem limite] fila=96 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/cine-teatro-luz-tera-concerto-de-
+  [499/sem limite] fila=95 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-municipal-de-agricultu
+  [500/sem limite] fila=94 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/cultura-convoca-interessados-para
+  [501/sem limite] fila=93 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-realiza-o-dia-d-
+  [502/sem limite] fila=92 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/acesso-a-rua-nipton-curi-estara-i
+  [503/sem limite] fila=91 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/feirantes-de-uniao-da-vitoria-par
+  [504/sem limite] fila=90 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-abre-as-inscrico
+  [505/sem limite] fila=90 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mantendo-a-tradicao-uniao-da-vito
+  [506/sem limite] fila=89 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/estacao-de-pascoa-tera-atividades
+  [507/sem limite] fila=88 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-tera-feira-do-pe
+  [508/sem limite] fila=87 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/servidores-participam-de-capacita
+  [509/sem limite] fila=86 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/iptu-2025-pode-ser-pago-com-10-de
+  [510/sem limite] fila=85 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/assistencia-social-promove-dia-d-
+  [511/sem limite] fila=84 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prazo-para-pagamento-do-iss-fixo-
+  [512/sem limite] fila=83 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/vigilancia-ambiental-segue-com-in
+  [513/sem limite] fila=82 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-sedia-etapa-loca
+  [514/sem limite] fila=81 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-inicia-vacinacao
+  [515/sem limite] fila=80 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/aniversario-de-uniao-da-vitoria-t
+  [516/sem limite] fila=79 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/exposicao-concerto-e-grande-festa
+  [517/sem limite] fila=78 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/musica-danca-e-humor-marcam-progr
+  [518/sem limite] fila=77 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/programacao-de-135-anos-de-uniao-
+  [519/sem limite] fila=76 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/terceira-idade-agora-tem-um-progr
+  [520/sem limite] fila=75 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/vacina-contra-o-hpv-esta-disponiv
+  [521/sem limite] fila=74 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-di
+  [522/sem limite] fila=73 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-al
+  [523/sem limite] fila=72 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretarias-de-agricultura-de-uni
+  [524/sem limite] fila=71 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fiscalizacao-eletronica-sera-desa
+  [525/sem limite] fila=70 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-municipal-de-esportes-
+  [526/sem limite] fila=69 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-de-verao-acontece-neste-
+  [527/sem limite] fila=68 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/mudanca-de-endereco-quatro-secret
+  [528/sem limite] fila=67 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-de-uniao-da-vitoria-rece
+  [529/sem limite] fila=66 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/trecho-da-rua-nilo-eugenio-dos-re
+  [530/sem limite] fila=65 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-agricultura-realiza
+  [531/sem limite] fila=64 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/festival-de-verao-acontecera-nos-
+  [532/sem limite] fila=63 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/carnes-do-iptu-2025-ja-podem-ser-
+  [533/sem limite] fila=62 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/educacao-realiza-formacao-continu
+  [534/sem limite] fila=61 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [535/sem limite] fila=60 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/farmacia-do-sao-cristovao-volta-a
+  [536/sem limite] fila=59 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/exposicao-uniao-reune-obras-de-ar
+  [537/sem limite] fila=58 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-abre-negociacao-
+  [538/sem limite] fila=57 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/notas-de-produtor-rural-podem-ser
+  [539/sem limite] fila=56 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/equipes-iniciam-trabalho-de-limpe
+  [540/sem limite] fila=55 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-la
+  [541/sem limite] fila=54 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/janeiro-branco-uniao-da-vitoria-t
+  [542/sem limite] fila=53 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/caravana-de-verao-tres-regioes-de
+  [543/sem limite] fila=52 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-obras-inicia-trabal
+  [544/sem limite] fila=51 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-e-
+  [545/sem limite] fila=50 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [546/sem limite] fila=49 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-an
+  [547/sem limite] fila=48 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/nova-feira-dos-produtores-rurais-
+  [548/sem limite] fila=47 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/conselho-tutelar-de-uniao-da-vito
+  [549/sem limite] fila=46 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/visitas-ao-morro-do-cristo-estao-
+  [550/sem limite] fila=45 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/nota-oficial/
+  [551/sem limite] fila=44 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-re
+  [552/sem limite] fila=43 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/fichas-de-inscricao-festival-de-v
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/BASQUETE-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/BASQUETE-3
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/FUTEBOL-7-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/FUTEBOL-7-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/FUTEVOLEI-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/FUTSAL-SUB
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/FUTSAL-SUB
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/VOLEI-DE-A
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/VOLEI-DE-A
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2024/02/VOLEI-DE-A
+  [553/sem limite] fila=42 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-di
+  [554/sem limite] fila=41 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-se-prepara-para-
+  [555/sem limite] fila=40 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/processo-seletivo-simplificado-pa
+  [556/sem limite] fila=39 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-municipal-de-educacao-
+  [557/sem limite] fila=38 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/construcao-do-ambulatorio-medico-
+  [558/sem limite] fila=37 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-celebra-conquist
+  [559/sem limite] fila=36 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-de-uniao-da-vitoria-ab
+  [560/sem limite] fila=35 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeitura-divulga-convocacao-de-
+  [561/sem limite] fila=34 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prorrogacao-das-inscricoes-para-b
+  [562/sem limite] fila=33 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/municipio-de-uniao-da-vitoria-abr
+  [563/sem limite] fila=32 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/projeto-cinema-na-praca-levara-no
+  [564/sem limite] fila=31 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/prefeito-de-uniao-da-vitoria-bach
+  [565/sem limite] fila=30 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/classificacao-lista-unica-cmeis/
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/bercario-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/bercario-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/bercario-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/12/INFANTIL-I
+  [566/sem limite] fila=29 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/uniao-da-vitoria-disponibiliza-ca
+  [567/sem limite] fila=28 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/unidade-de-saude-padre-santo-mari
+  [568/sem limite] fila=27 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/atendimento-emergencial-rede-muni
+  [569/sem limite] fila=26 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/avenida-paula-freitas-volta-a-ter
+  [570/sem limite] fila=25 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/saque-fgts-calamidade-ja-pode-ser
+  [571/sem limite] fila=24 | depth=3 | https://uniaodavitoria.pr.gov.br/sem-categoria/secretaria-de-assistencia-social-
+  [572/sem limite] fila=23 | depth=3 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/2/
+  [573/sem limite] fila=23 | depth=3 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/38/
+  [574/sem limite] fila=23 | depth=3 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/3/
+  [575/sem limite] fila=23 | depth=3 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/37/
+  [576/sem limite] fila=23 | depth=4 | http://www.uniaodavitoria.pr.gov.br
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br
+  [577/sem limite] fila=22 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-no-5-20
+  [578/sem limite] fila=21 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-003-2
+  [579/sem limite] fila=20 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-02-20
+  [580/sem limite] fila=19 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-001-2
+  [581/sem limite] fila=18 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  [582/sem limite] fila=17 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-no-009-20
+  [583/sem limite] fila=16 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-07-20
+  [584/sem limite] fila=15 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-convocacao-no01-20
+  [585/sem limite] fila=14 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-06-2021-a
+  [586/sem limite] fila=13 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-06-20
+  [587/sem limite] fila=12 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-05-20
+  [588/sem limite] fila=11 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-04-20
+  [589/sem limite] fila=10 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacao
+  [590/sem limite] fila=9 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Anexo-II-T
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/6_Processo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/3_ESCLAREC
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Impugnacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1.-Solicit
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_2a-Impug
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_3a-Impug
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_4a-Impug
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1_AVISO-DE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/5a-Impugna
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/3_Publicac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Termo-de-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  [591/sem limite] fila=8 | depth=4 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-01-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/4_Processo
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_IMPUGNAC
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/IMPUGNACAO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PARECER-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/3_Publicac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Esclarecim
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/2.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/3.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/4.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/5.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/6.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/7.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/8.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/9.-Documen
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/10.-Docume
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/11.-Docume
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/12.-Docume
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_1a-Ata-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1.-Complem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/2.-Complem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/3.-Complem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/4.-Complem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/5.-Complem
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/RESULTADO-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-da-Ses
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  [592/sem limite] fila=7 | depth=4 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/?page=4
+  [593/sem limite] fila=22 | depth=4 | https://uniaodavitoria.pr.gov.br/conferenciaas
+  [594/sem limite] fila=21 | depth=4 | https://uniaodavitoria.pr.gov.br/concurso-pss/bolsa-de-estudos-2026/
+ ❌ HTTP_404: https://uniaodavitoria.pr.gov.br/concurso-pss/bolsa-de-estudos-2026/
+  🤖 Usando Selenium para: https://uniaodavitoria.pr.gov.br/concurso-pss/bolsa-de-estudos-2026/
+ ❌ HTTP_404: https://uniaodavitoria.pr.gov.br/concurso-pss/bolsa-de-estudos-2026/
+  [595/sem limite] fila=20 | depth=4 | http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+  [596/sem limite] fila=19 | depth=4 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/3/
+  [597/sem limite] fila=19 | depth=4 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/37/
+  [598/sem limite] fila=19 | depth=4 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/4/
+  [599/sem limite] fila=19 | depth=4 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/36/
+  [600/sem limite] fila=19 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-05-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Abe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Abe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Aviso-de-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Chamamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_links.xlsx
+  1025 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_externos.xlsx
+  95 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 600 nesta sessão).
+  [601/sem limite] fila=18 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-04-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Abe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Aviso-de-C
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Chamamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Chamamento
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  [602/sem limite] fila=17 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-03-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_Edital-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_ANEXO-I-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1_Publicac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_Impugnac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Aviso-de-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Te
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-da
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Protocolos
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Reu
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Te
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Credenciam
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-da-Ses
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Contrarraz
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Decisao-da
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/DECISAO-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CONVOCACAO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Pareceres-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Portaria-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/TERMO-DE-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  [603/sem limite] fila=16 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-o-02-20
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Processo-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_Edital-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ANEXO-I-Te
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1_Publicac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_Impugnac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Aviso-de-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Te
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-da
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Protocolos
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Reu
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Te
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Credencime
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Documentac
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-da-Ses
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Decisao-da
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/DECISAO-DA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CONVOCACAO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PARECERES-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Portaria-n
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Recurso-Ad
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/TERMO-DE-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  [604/sem limite] fila=15 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamada-publica-n-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/2a-Ata-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/4_COMUNICA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/6_AVISO-DE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/22_Fase-In
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ady-Jose-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Associacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ATA-1.pdf
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Certidao-N
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Cooperativ
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edson-Jose
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Eliane-Zav
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Elio-Zavie
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Estanislau
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Extrato-de
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Fernanda-F
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Giovanni-E
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Joao-Fersc
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Laudo-das-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Marlene-Ma
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Pareceres-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Projeto-de
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Projetos-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Projetos-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Projetos-d
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Resultado-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Retificaca
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Rudolf-Eug
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Sulimari-L
+  [605/sem limite] fila=14 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_EDITAL-R
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/0_RETIFICA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PUBLICACOE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PUBLICACOE
+  [606/sem limite] fila=14 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/FASE-INTER
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacoe
+  [607/sem limite] fila=13 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-chamamento-no-004-201
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CREDENCIAM
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ADITIVO-MA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ADITIVO-JO
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ADITIVO-LE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CREDENCIAM
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ADITIVO-LE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ATA-DE-SES
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-DE-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1a-LISTAGE
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Chamamento
+  [608/sem limite] fila=12 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamada-publica-n-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ATA-DE-CHA
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-CHAM
+  [609/sem limite] fila=11 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamada-publica-n-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-DE-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Impugnacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Chamamento
+  [610/sem limite] fila=10 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-chamamento-publico-n-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Publicacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/1o-Edital-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Termo-de-C
+  [611/sem limite] fila=9 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-DE-L
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/ERRATA-Do-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Edital-de-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-de-Rec
+  📄 [200] .xlsx -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/PLANILHA-1
+  [612/sem limite] fila=8 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-DE-
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Impugnacao
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-DE-S
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Parecer-Ju
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/AVISO-DE-J
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/Ata-da-Ses
+  [613/sem limite] fila=7 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/CHAMAMENTO
+  [614/sem limite] fila=6 | depth=5 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  [615/sem limite] fila=5 | depth=5 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/?page=5
+  [616/sem limite] fila=7 | depth=5 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/4/
+  [617/sem limite] fila=7 | depth=5 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/36/
+  [618/sem limite] fila=7 | depth=5 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/5/
+  [619/sem limite] fila=7 | depth=5 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/35/
+  [620/sem limite] fila=7 | depth=6 | http://uniaodavitoria.pr.gov.br/
+  [621/sem limite] fila=6 | depth=6 | https://uniaodavitoria.pr.gov.br/chamamento-publico/chamamento-publico-n-002-201
+  [622/sem limite] fila=5 | depth=6 | https://uniaodavitoria.pr.gov.br/chamamento-publico/edital-de-chamamento-publico
+  📄 [200] .pdf -> https://uniaodavitoria.pr.gov.br/wp-content/uploads/2023/06/EDITAL-DE-
+  [623/sem limite] fila=4 | depth=6 | https://uniaodavitoria.pr.gov.br/licitacoes/chamamentos-publicos/?page=6
+  [624/sem limite] fila=3 | depth=6 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/5/
+  [625/sem limite] fila=3 | depth=6 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/35/
+  [626/sem limite] fila=3 | depth=6 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/6/
+  [627/sem limite] fila=3 | depth=6 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/34/
+  [628/sem limite] fila=3 | depth=7 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/6/
+  [629/sem limite] fila=3 | depth=7 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/34/
+  [630/sem limite] fila=3 | depth=7 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/7/
+  [631/sem limite] fila=3 | depth=7 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/33/
+  [632/sem limite] fila=3 | depth=8 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/7/
+  [633/sem limite] fila=3 | depth=8 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/33/
+  [634/sem limite] fila=3 | depth=8 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/8/
+  [635/sem limite] fila=3 | depth=8 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/32/
+  [636/sem limite] fila=3 | depth=9 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/8/
+  [637/sem limite] fila=3 | depth=9 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/32/
+  [638/sem limite] fila=3 | depth=9 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/9/
+  [639/sem limite] fila=3 | depth=9 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/31/
+  [640/sem limite] fila=3 | depth=10 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/9/
+  [641/sem limite] fila=2 | depth=10 | https://uniaodavitoria.pr.gov.br/category/sem-categoria/page/31/
+  [642/sem limite] fila=1 | depth=10 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/10/
+  [643/sem limite] fila=0 | depth=10 | https://uniaodavitoria.pr.gov.br/author/pmuva/page/30/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_links.xlsx
+  1195 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_externos.xlsx
+  96 links externos registrados.
+
+  Varredura encerrada: UNIAODAVITORIA
+  Páginas nesta sessão: 643
+  Páginas totais (acumulado): 643
+  Arquivos no inventário: 1195
+  Erros registrados: 8
+
+
+ Pipeline encerrado. Resultados em: resultados/uniaodavitoria/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas União da Vitória)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 União da Vitória (slug: uniaodavitoria)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/uniaodavitoria/index.cfm/
+              ✅ https://uniaodavitoria.pr.gov.br/
+              ✅ https://www.uniaodavitoria.pr.leg.br/transparencia/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - União da Vitória
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UNIAODAVITORIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1195 arquivos já registrados.
+  Links externos parciais carregados: 96 links já registrados.
+  Log de erros parcial carregado: 8 erros já registrados.
+  Reprocessar erros: 3 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 5 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: UNIAODAVITORIA
+  Páginas já visitadas (checkpoint): 640
+  URLs na fila: 3
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+640)/sem limite] fila=2 | depth=3 | http://www.uniaodavitoria.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/
+  [2 (+640)/sem limite] fila=1 | depth=4 | http://www.uniaodavitoria.pr.gov.br
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br
+  [3 (+640)/sem limite] fila=0 | depth=4 | http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_links.xlsx
+  1195 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/erros_varredura.xlsx
+  11 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/uniaodavitoria/inventario_externos.xlsx
+  96 links externos registrados.
+
+  Varredura encerrada: UNIAODAVITORIA
+  Páginas nesta sessão: 3
+  Páginas totais (acumulado): 643
+  Arquivos no inventário: 1195
+  Erros registrados: 11
+
+
+ Pipeline encerrado. Resultados em: resultados/uniaodavitoria/
+============================================================
+

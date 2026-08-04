@@ -111,3 +111,649 @@ Nenhum checkpoint encontrado — iniciando do zero.
   [28/sem limite] fila=7 | depth=1 | https://www.ubirata.pr.gov.br/mapa-do-site/
   [29/sem limite] fila=7 | depth=1 | https://www.ubirata.pr.gov.br/pesquisa-de-satisfacao-e/
   [30/sem limite] fila=6 | depth=1 | https://www.ubirata.pr.gov.br/noticias
+  [31/sem limite] fila=14 | depth=1 | https://www.ubirata.pr.gov.br/atualizacao-do-levantamento-de-areas-de-risco-para
+  [32/sem limite] fila=13 | depth=1 | https://www.ubirata.pr.gov.br/mais-um-importante-passo-para-o-fortalecimento-do-
+  [33/sem limite] fila=12 | depth=1 | https://www.ubirata.pr.gov.br/ubirata-foi-contemplado-com-o-programa-bons-olhos-
+  [34/sem limite] fila=11 | depth=1 | https://www.ubirata.pr.gov.br/ubirata-e-referencia-em-qualidade-de-vida/
+  [35/sem limite] fila=10 | depth=2 | https://www.ubirata.pr.gov.br/sim-servico-de-inspecao-municipal/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/04/Lei-3066-2026
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-1-Gesta
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-2-Regis
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-3-Regis
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-4-Colet
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-5-Comba
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-6-Progr
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-7-Proce
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-8-Educa
+  📄 [200] .docx -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Anexo-9-Fisca
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/05/Decreto-45-20
+  [36/sem limite] fila=9 | depth=2 | https://www.ubirata.pr.gov.br/mapa-do-site/ubirata.oxy.elotech.com.br/cidadao/
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/mapa-do-site/ubirata.oxy.elotech.com.br/cidadao/
+  🤖 Usando Selenium para: https://www.ubirata.pr.gov.br/mapa-do-site/ubirata.oxy.elotech.com.br/cidadao/
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/mapa-do-site/ubirata.oxy.elotech.com.br/cidadao/
+  [37/sem limite] fila=8 | depth=2 | https://www.ubirata.pr.gov.br/nova-rua-de-mao-unica-em-ubirata/
+  [38/sem limite] fila=7 | depth=2 | https://www.ubirata.pr.gov.br/comite-municipal-fortalece-acoes-de-enfrentamento-
+  [39/sem limite] fila=6 | depth=2 | https://www.ubirata.pr.gov.br/biblioteca-publica-municipal-cecilia-meireles-ampl
+  [40/sem limite] fila=5 | depth=2 | https://www.ubirata.pr.gov.br/uma-tarde-de-sorrisos-danca-e-muita-tradicao-nos-c
+  [41/sem limite] fila=4 | depth=2 | https://www.ubirata.pr.gov.br/atencao-nova-rua-com-via-de-mao-unica-comeca-hoje/
+  [42/sem limite] fila=3 | depth=2 | https://www.ubirata.pr.gov.br/grande-marco-para-a-educacao-do-municipio/
+  [43/sem limite] fila=2 | depth=2 | https://www.ubirata.pr.gov.br/noticias/page/2/
+  [44/sem limite] fila=13 | depth=2 | https://www.ubirata.pr.gov.br/noticias/page/3/
+  [45/sem limite] fila=23 | depth=2 | https://www.ubirata.pr.gov.br/noticias/page/565/
+  [46/sem limite] fila=30 | depth=3 | https://www.ubirata.pr.gov.br/entrega-de-novos-uniformes-para-os-cooperados-da-r
+  [47/sem limite] fila=29 | depth=3 | https://www.ubirata.pr.gov.br/ubirata-e-destaque-no-premio-alfabetiza-juntos/
+  [48/sem limite] fila=28 | depth=3 | https://www.ubirata.pr.gov.br/confraternizacao-em-homenagem-ao-junho-violeta-no-
+  [49/sem limite] fila=27 | depth=3 | https://www.ubirata.pr.gov.br/palestra-sobre-seguranca-alimentar-para-empreended
+  [50/sem limite] fila=26 | depth=3 | https://www.ubirata.pr.gov.br/feira-da-saude-itinerante-conscientizacao-nas-esco
+  [51/sem limite] fila=25 | depth=3 | https://www.ubirata.pr.gov.br/dia-de-colorir-a-cidade-para-a-copa-2026/
+  [52/sem limite] fila=24 | depth=3 | https://www.ubirata.pr.gov.br/assessor-da-sesa-visita-a-nova-santa-casa-em-ubira
+  [53/sem limite] fila=23 | depth=3 | https://www.ubirata.pr.gov.br/municipio-garante-apostilas-de-leitura-gratuitamen
+  [54/sem limite] fila=22 | depth=3 | https://www.ubirata.pr.gov.br/expobira-2026-a-festa-ubiratanense-confirma-atraco
+  [55/sem limite] fila=21 | depth=3 | https://www.ubirata.pr.gov.br/almoco-celebra-o-dia-das-maes-no-cci-e-centro-dia/
+  [56/sem limite] fila=20 | depth=3 | https://www.ubirata.pr.gov.br/noticias/page/1/
+  [57/sem limite] fila=19 | depth=3 | https://www.ubirata.pr.gov.br/noticias/page/4/
+  [58/sem limite] fila=29 | depth=3 | https://www.ubirata.pr.gov.br/projeto-conviver-com-arte-oficina-de-patchcolagem-
+  [59/sem limite] fila=28 | depth=3 | https://www.ubirata.pr.gov.br/atencao-produtor-rural/
+  [60/sem limite] fila=27 | depth=3 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirata-abre-inscricoes-para-novo-pr
+  [61/sem limite] fila=26 | depth=3 | https://www.ubirata.pr.gov.br/mais-uma-edicao-de-sabores-da-comcam-reune-publico
+  [62/sem limite] fila=25 | depth=3 | https://www.ubirata.pr.gov.br/treinamento-para-pais-e-apoiadores-de-criancas-neu
+  [63/sem limite] fila=24 | depth=3 | https://www.ubirata.pr.gov.br/vacinacao-antirrabica-em-ubirata/
+  [64/sem limite] fila=23 | depth=3 | https://www.ubirata.pr.gov.br/meta-de-marco-atingida-com-sucesso/
+  [65/sem limite] fila=22 | depth=3 | https://www.ubirata.pr.gov.br/atencao-aos-casos-de-dengue-no-seu-bairro/
+  [66/sem limite] fila=21 | depth=3 | https://www.ubirata.pr.gov.br/inauguracao-da-nova-sala-multidisciplinar-6d-no-ca
+  [67/sem limite] fila=20 | depth=3 | https://www.ubirata.pr.gov.br/entrega-dos-ovos-de-pascoa-para-as-criancas-da-red
+  [68/sem limite] fila=19 | depth=3 | https://www.ubirata.pr.gov.br/noticias/page/5/
+  [69/sem limite] fila=29 | depth=3 | https://www.ubirata.pr.gov.br/agente-jovem-inicia-trabalho-de-nova-turma/
+  [70/sem limite] fila=31 | depth=3 | https://www.ubirata.pr.gov.br/amanha-comeca-i-show-de-talentos/
+  [71/sem limite] fila=33 | depth=3 | https://www.ubirata.pr.gov.br/provopar-realiza-bingo-domingo/
+  [72/sem limite] fila=33 | depth=3 | https://www.ubirata.pr.gov.br/ubirata-recebe-serie-de-melhorias/
+  [73/sem limite] fila=32 | depth=3 | https://www.ubirata.pr.gov.br/ubirata-enfrenta-anahy-no-campeonato-amador/
+  [74/sem limite] fila=34 | depth=3 | https://www.ubirata.pr.gov.br/musicos-ubiratanenses-vencem-festival-em-nova-cant
+  [75/sem limite] fila=35 | depth=3 | https://www.ubirata.pr.gov.br/noticias/page/564/
+  [76/sem limite] fila=44 | depth=3 | https://www.ubirata.pr.gov.br/noticias/page/563/
+  [77/sem limite] fila=54 | depth=4 | https://www.ubirata.pr.gov.br/alunos-de-ubirata-realizam-a-prova-do-cnca/
+  [78/sem limite] fila=53 | depth=4 | https://www.ubirata.pr.gov.br/poder-judiciario-realiza-visita-as-instituicoes-so
+  [79/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/atencao-3-ruas-centrais-passam-a-ser-mao-unica/
+  [80/sem limite] fila=51 | depth=4 | https://www.ubirata.pr.gov.br/colegio-carlos-gomes-recebe-novo-piso-em-quadra-es
+  [81/sem limite] fila=50 | depth=4 | https://www.ubirata.pr.gov.br/sunset-conexao-com-elas-muita-festa-e-musica-boa-p
+  [82/sem limite] fila=49 | depth=4 | https://www.ubirata.pr.gov.br/mudancas-no-transito-em-ubirata/
+  [83/sem limite] fila=48 | depth=4 | https://www.ubirata.pr.gov.br/com-confirmacao-de-casos-de-dengue-tipo-3-ubirata-
+  [84/sem limite] fila=47 | depth=4 | https://www.ubirata.pr.gov.br/municipio-realiza-etapa-de-provas-do-processo-sele
+  [85/sem limite] fila=46 | depth=4 | https://www.ubirata.pr.gov.br/confira-o-ensalamento-para-o-pss-01-2026/
+  [86/sem limite] fila=45 | depth=4 | https://www.ubirata.pr.gov.br/2a-companhia-do-11o-bpm-de-ubirata-tem-novo-comand
+  [87/sem limite] fila=44 | depth=4 | https://www.ubirata.pr.gov.br/noticias/page/6/
+  [88/sem limite] fila=54 | depth=4 | https://www.ubirata.pr.gov.br/oficina-de-grafite-mais-do-que-tinta-e-cultura-e-a
+  [89/sem limite] fila=53 | depth=4 | https://www.ubirata.pr.gov.br/isencao-do-iptu-2026-saiba-quem-tem-direito-e-como
+  [90/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/estao-abertas-as-inscricoes-para-processo-seletivo
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2026/02/1.-Edital-Pro
+  [91/sem limite] fila=51 | depth=4 | https://www.ubirata.pr.gov.br/ubirata-recebe-exposicao-itinerante-sobre-memorias
+  [92/sem limite] fila=50 | depth=4 | https://www.ubirata.pr.gov.br/iptu-2026-confira-os-prazos-e-condicoes/
+  [93/sem limite] fila=49 | depth=4 | https://www.ubirata.pr.gov.br/28839-2/
+  [94/sem limite] fila=48 | depth=4 | https://www.ubirata.pr.gov.br/ovitrampas-mais-do-que-uma-armadilha-uma-tecnologi
+  [95/sem limite] fila=47 | depth=4 | https://www.ubirata.pr.gov.br/saude-publica-alerta-para-os-riscos-do-descarte-in
+  [96/sem limite] fila=46 | depth=4 | https://www.ubirata.pr.gov.br/novas-cacambas-de-lixo-sao-instaladas-para-melhora
+  [97/sem limite] fila=45 | depth=4 | https://www.ubirata.pr.gov.br/indice-de-infestacao-por-dengue-atinge-51-em-ubira
+  [98/sem limite] fila=44 | depth=4 | https://www.ubirata.pr.gov.br/noticias/page/7/
+  [99/sem limite] fila=54 | depth=4 | https://www.ubirata.pr.gov.br/carto-comida-boa/
+  [100/sem limite] fila=54 | depth=4 | https://www.ubirata.pr.gov.br/xiii-conferncia-municipal-de-assistncia-social-rea
+  [101/sem limite] fila=53 | depth=4 | https://www.ubirata.pr.gov.br/secretaria-da-assistncia-social-promove-dia-especi
+  [102/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/coral-municipal-de-ubirat-participou-do-v-encontro
+  [103/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/cursos-de-tcnica-vocal-e-viola-caipira/
+  [104/sem limite] fila=51 | depth=4 | https://www.ubirata.pr.gov.br/resgatando-o-patriotismo/
+  [105/sem limite] fila=50 | depth=4 | https://www.ubirata.pr.gov.br/bingo-do-provopar-supera-expectativas/
+  [106/sem limite] fila=49 | depth=4 | https://www.ubirata.pr.gov.br/prefeito-baco-recebe-campees-dos-jogos-da-juventud
+  [107/sem limite] fila=49 | depth=4 | https://www.ubirata.pr.gov.br/ubirat-vence-mais-uma-no-claudino-e-se-classifica-
+  [108/sem limite] fila=48 | depth=4 | https://www.ubirata.pr.gov.br/ubirat-recebe-itaipulndia-pela-2-rodada-do-campeon
+  [109/sem limite] fila=47 | depth=4 | https://www.ubirata.pr.gov.br/comunidade-jandaia-ganha-premio-associacao-excelen
+  [110/sem limite] fila=46 | depth=4 | https://www.ubirata.pr.gov.br/musicos-divulgam-cultura-da-cidade/
+  [111/sem limite] fila=45 | depth=4 | https://www.ubirata.pr.gov.br/prefeito-presta-contas-na-comunidade-sao-joao/
+  [112/sem limite] fila=47 | depth=4 | https://www.ubirata.pr.gov.br/ubirata-participa-do-jogos-da-juventude-em-umuaram
+  [113/sem limite] fila=49 | depth=4 | https://www.ubirata.pr.gov.br/show-de-talentos-apresenta-mais-de-200-ubiratanens
+  [114/sem limite] fila=48 | depth=4 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirata-lanca-cartilha-sobre-municip
+  [115/sem limite] fila=50 | depth=4 | https://www.ubirata.pr.gov.br/agencia-da-caixa-retorna-a-ubirata/
+  [116/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/cmdca-realiza-conferencia-amanha/
+  [117/sem limite] fila=51 | depth=4 | https://www.ubirata.pr.gov.br/prefeitura-fecha-e-cidade-comemora-padroeiro/
+  [118/sem limite] fila=51 | depth=4 | https://www.ubirata.pr.gov.br/ubirata-volta-a-liderar-campeonato-amador/
+  [119/sem limite] fila=50 | depth=4 | https://www.ubirata.pr.gov.br/campanha-do-agasalho-atende-moradores-de-ubirata/
+  [120/sem limite] fila=52 | depth=4 | https://www.ubirata.pr.gov.br/noticias/page/562/
+  [121/sem limite] fila=62 | depth=4 | https://www.ubirata.pr.gov.br/obra-do-auditorio-ja-mostra-imponencia/
+  [122/sem limite] fila=61 | depth=4 | https://www.ubirata.pr.gov.br/professores-discutem-plano-de-carreira/
+  [123/sem limite] fila=60 | depth=4 | https://www.ubirata.pr.gov.br/decisao-da-copa-genial-acontece-no-domingo/
+  [124/sem limite] fila=59 | depth=4 | https://www.ubirata.pr.gov.br/ubirata-comeca-amanha-disputas-dos-jogos-da-juvent
+  [125/sem limite] fila=58 | depth=4 | https://www.ubirata.pr.gov.br/administracao-municipal-aplica-recursos-em-yolanda
+  [126/sem limite] fila=60 | depth=4 | https://www.ubirata.pr.gov.br/dalecio-anuncia-construcao-de-centro-de-eventos/
+  [127/sem limite] fila=62 | depth=4 | https://www.ubirata.pr.gov.br/populacao-recebe-mais-doacoes-da-campanha-do-agasa
+  [128/sem limite] fila=61 | depth=4 | https://www.ubirata.pr.gov.br/cei-dona-mariquinha-reune-alunos-e-pais-em-festa-j
+  [129/sem limite] fila=60 | depth=4 | https://www.ubirata.pr.gov.br/secretarios-respondem-acusacao-de-irregularidades/
+  [130/sem limite] fila=59 | depth=4 | https://www.ubirata.pr.gov.br/conferencia-discute-politicas-para-crianca-e-adole
+  [131/sem limite] fila=58 | depth=4 | https://www.ubirata.pr.gov.br/noticias/page/561/
+  [132/sem limite] fila=68 | depth=5 | https://www.ubirata.pr.gov.br/tradicional-folia-de-reis-atrai-grande-publico-na-
+  [133/sem limite] fila=67 | depth=5 | https://www.ubirata.pr.gov.br/formatura-do-infantil-5-ubirata-celebra-conclusao-
+  [134/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-inicia-campanha-de-imunizacao-contra-vsr-p
+  [135/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/caps-de-ubirata-esta-em-novo-endereco/
+  [136/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/cerimonia-de-conclusao-do-programa-mais-saude-com-
+  [137/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/audiencia-publica-do-pme-em-ubirata-debate-avancos
+  [138/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-participa-do-miss-e-mister-terceira-idade-
+  [139/sem limite] fila=61 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-entra-em-alerta-contra-a-dengue-apos-levan
+  [140/sem limite] fila=60 | depth=5 | https://www.ubirata.pr.gov.br/palestra-em-ubirata-explica-a-complexa-transicao-i
+  [141/sem limite] fila=59 | depth=5 | https://www.ubirata.pr.gov.br/integracao-e-alegria-ubirata-encerra-festividades-
+  [142/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/noticias/page/8/
+  [143/sem limite] fila=68 | depth=5 | https://www.ubirata.pr.gov.br/inauguracao-do-novo-centro-comunitario-do-jardim-p
+  [144/sem limite] fila=67 | depth=5 | https://www.ubirata.pr.gov.br/servidores-publicos-de-ubirata-celebram-em-jantar-
+  [145/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/acao-de-plantio-contribui-com-a-recuperacao-da-mat
+  [146/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/outubro-rosa-ubirata-realiza-noite-de-conscientiza
+  [147/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-marca-presenca-no-encontro-de-cultura-do-i
+  [148/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/preparacao-para-o-dia-de-finados-no-cemiterio-muni
+  [149/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/concurso-cultural-alunos-do-municipio-de-ubirata-r
+  [150/sem limite] fila=61 | depth=5 | https://www.ubirata.pr.gov.br/exposicao-amnesia-da-paisagem-revisitando-o-passad
+  [151/sem limite] fila=60 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-inicia-georreferenciamento-urbano-com-tecn
+  [152/sem limite] fila=59 | depth=5 | https://www.ubirata.pr.gov.br/ciencia-na-esfera-chega-ao-centro-cultural-de-ubir
+  [153/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/noticias/page/9/
+  [154/sem limite] fila=68 | depth=5 | https://www.ubirata.pr.gov.br/ix-conferncia-municipal-dos-direitos-da-criana-e-d
+  [155/sem limite] fila=67 | depth=5 | https://www.ubirata.pr.gov.br/2-etapa-do-fermop-ser-realizada-nesta-sexta-feira-
+  [156/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/equipe-de-ubirat-joga-no-domingo-pela-semifinal-do
+  [157/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-e-um-dos-10-municipios-do-estado-que-tem-s
+  [158/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/secretaria-de-financas-apresenta-trabalhos-desenvo
+  [159/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-fecha-primeiro-semestre-com-superavit-de-m
+  [160/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/jogos-escolares-fase-municipal/
+  [161/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/ubirat-estreia-com-empate-no-campeonato-paranaense
+  [162/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/27-anos-depois-ubirat-disputar-a-bronze-na-elite-d
+  [163/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/dois-mil-e-cinquenta-alunos-retornaram-as-aulas-na
+  [164/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/reforma-e-modernizacao-de-escola-marcara-o-retorno
+  [165/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/colegio-carlos-gomes-e-um-dos-32-do-estado-contemp
+  [166/sem limite] fila=61 | depth=5 | https://www.ubirata.pr.gov.br/handebol-feminino-de-ubirat-campeo-da-fase-regiona
+  [167/sem limite] fila=61 | depth=5 | https://www.ubirata.pr.gov.br/ponte-de-concreto-est-sendo-construda-sobre-o-crre
+  [168/sem limite] fila=60 | depth=5 | https://www.ubirata.pr.gov.br/mais-recursos-financeiros-para-santa-casa-de-ubira
+  [169/sem limite] fila=59 | depth=5 | https://www.ubirata.pr.gov.br/recesso-funcional-no-carnaval-sade-atende-s-na-qua
+  [170/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/teve-incio-em-ubirat-o-maior-campeonato-de-truco-e
+  [171/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/vem-a-o-dia-de-cooperar-2017/
+  [172/sem limite] fila=57 | depth=5 | https://www.ubirata.pr.gov.br/sos-repassou-doaes-recebidas-atravs-da-campanha-pe
+  [173/sem limite] fila=56 | depth=5 | https://www.ubirata.pr.gov.br/atletas-amadoras-recebem-incentivo-de-secretaria/
+  [174/sem limite] fila=55 | depth=5 | https://www.ubirata.pr.gov.br/companhia-tespis-de-teatro-se-apresenta-em-ubirata
+  [175/sem limite] fila=54 | depth=5 | https://www.ubirata.pr.gov.br/dalecio-se-reune-com-equipe-de-trabalho/
+  [176/sem limite] fila=56 | depth=5 | https://www.ubirata.pr.gov.br/curso-de-panificacao-qualifica-mulheres-do-armazem
+  [177/sem limite] fila=55 | depth=5 | https://www.ubirata.pr.gov.br/secretario-participa-de-congresso-nacional/
+  [178/sem limite] fila=57 | depth=5 | https://www.ubirata.pr.gov.br/prefeito-acompanha-tramitacao-de-projetos/
+  [179/sem limite] fila=59 | depth=5 | https://www.ubirata.pr.gov.br/secretaria-mobiliza-agentes-e-orienta-populacao/
+  [180/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/cei-boa-vista-realiza-festa-junina/
+  [181/sem limite] fila=57 | depth=5 | https://www.ubirata.pr.gov.br/center-car-senior-conquista-o-titulo-de-campeao-da
+  [182/sem limite] fila=56 | depth=5 | https://www.ubirata.pr.gov.br/saude-alerta-para-cuidados-com-a-dengue-mesmo-no-i
+  [183/sem limite] fila=58 | depth=5 | https://www.ubirata.pr.gov.br/noticias/page/560/
+  [184/sem limite] fila=68 | depth=5 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirat-recebe-doao-de-182-pneus-da-r
+  [185/sem limite] fila=68 | depth=5 | https://www.ubirata.pr.gov.br/ubirat-o-primeiro-da-comcam-em-valor-bruto-da-prod
+  [186/sem limite] fila=67 | depth=5 | https://www.ubirata.pr.gov.br/feira-da-lua-funcionara-em-novo-local-e-dia/
+  [187/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/o-start-foi-dado-no-recape-asfltico-da-avenida-clo
+  [188/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/semana-sempre-yolanda/
+  [189/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/prefeitura-realiza-pintura-de-faixas-de-sinalizao-
+  [190/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/cras-entrega-diploma-das-primeiras-turmas/
+  [191/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/conselho-de-assistencia-social-realiza-conferencia
+  [192/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/dalecio-participa-da-17a-festa-do-carneiro-no-bura
+  [193/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/secretaria-de-servicos-urbanos-apresenta-acoes-que
+  [194/sem limite] fila=66 | depth=5 | https://www.ubirata.pr.gov.br/pesquisa-aponta-escolas-de-ubirata-como-as-melhore
+  [195/sem limite] fila=65 | depth=5 | https://www.ubirata.pr.gov.br/prefeito-visita-obras-e-comunidades/
+  [196/sem limite] fila=64 | depth=5 | https://www.ubirata.pr.gov.br/idosos-participam-de-festa-junina/
+  [197/sem limite] fila=63 | depth=5 | https://www.ubirata.pr.gov.br/ubirata-se-destaca-nos-jogos-da-juventude/
+  [198/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/pioneiro-visita-ubirata-depois-31-anos/
+  [199/sem limite] fila=61 | depth=5 | https://www.ubirata.pr.gov.br/festa-junina-anima-cei-nosso-lar/
+  [200/sem limite] fila=62 | depth=5 | https://www.ubirata.pr.gov.br/noticias/page/559/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_links.xlsx
+  80 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_externos.xlsx
+  26 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=72 | depth=6 | https://www.ubirata.pr.gov.br/ubirata-futsal-cresce-no-momento-certo-e-garante-v
+  [202/sem limite] fila=71 | depth=6 | https://www.ubirata.pr.gov.br/ovitrampas-armadilhas-instaladas-no-municipio-de-u
+  [203/sem limite] fila=70 | depth=6 | https://www.ubirata.pr.gov.br/municipio-de-ubirata-oficializa-plano-municipal-de
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/08/Decreto-114-2
+  [204/sem limite] fila=69 | depth=6 | https://www.ubirata.pr.gov.br/workshop-de-tendencias-em-consumo-e-mercado-palest
+  [205/sem limite] fila=68 | depth=6 | https://www.ubirata.pr.gov.br/coral-municipal-de-ubirata-realizara-apresentacao-
+  [206/sem limite] fila=67 | depth=6 | https://www.ubirata.pr.gov.br/um-passo-na-educacao-estudantes-de-escolas-integra
+  [207/sem limite] fila=66 | depth=6 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirata-abre-processo-seletivo-para-
+  [208/sem limite] fila=65 | depth=6 | https://www.ubirata.pr.gov.br/5a-conferencia-estadual-de-politicas-para-mulheres
+  [209/sem limite] fila=64 | depth=6 | https://www.ubirata.pr.gov.br/3o-encontro-de-culturas-de-verao-reune-produtores-
+  [210/sem limite] fila=63 | depth=6 | https://www.ubirata.pr.gov.br/23022-2/
+  [211/sem limite] fila=62 | depth=6 | https://www.ubirata.pr.gov.br/noticias/page/10/
+  [212/sem limite] fila=72 | depth=6 | https://www.ubirata.pr.gov.br/mobilidade-inclusao-e-qualidade-de-vida-entrega-de
+  [213/sem limite] fila=71 | depth=6 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirata-reforca-equipes-da-educacao-
+  [214/sem limite] fila=70 | depth=6 | https://www.ubirata.pr.gov.br/dia-dos-avos-centro-dia-realizou-um-almoco-dedicad
+  [215/sem limite] fila=69 | depth=6 | https://www.ubirata.pr.gov.br/caminhada-do-meio-dia-uma-acao-que-preza-pela-just
+  [216/sem limite] fila=68 | depth=6 | https://www.ubirata.pr.gov.br/atencao-caps-mudou-de-endereco/
+  [217/sem limite] fila=67 | depth=6 | https://www.ubirata.pr.gov.br/desenvolvimento-rural-estradas-de-ubirata-recebem-
+  [218/sem limite] fila=66 | depth=6 | https://www.ubirata.pr.gov.br/dengue-nao-e-brincadeira-saiba-os-principais-cuida
+  [219/sem limite] fila=65 | depth=6 | https://www.ubirata.pr.gov.br/farmacia-da-ubs-josefina-reabre-com-horario-amplia
+  [220/sem limite] fila=64 | depth=6 | https://www.ubirata.pr.gov.br/ubirata-leva-viola-capiria-a-londrina/
+  [221/sem limite] fila=63 | depth=6 | https://www.ubirata.pr.gov.br/protagonismo-feminino-palestra-realizada-na-camara
+  [222/sem limite] fila=62 | depth=6 | https://www.ubirata.pr.gov.br/noticias/page/11/
+  [223/sem limite] fila=72 | depth=6 | http://www.ubirata.pr.gov.br/
+Redirecionamento externo ignorado: http://www.ubirata.pr.gov.br/ → https://www.ubirata.pr.gov.br:443/
+  🤖 Usando Selenium para: http://www.ubirata.pr.gov.br/
+  📄 [200] .pdf -> http://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/historia_memor
+  [224/sem limite] fila=73 | depth=6 | https://www.ubirata.pr.gov.br/vereadores-repassam-ao-prefeito-fabio-dalecio-mais
+  [225/sem limite] fila=72 | depth=6 | https://www.ubirata.pr.gov.br/ubirata-fecha-primeiro-semestre-com-superavit-de-m
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/ubirata-fecha-primeiro-semestre-com-superavit-de-mais-de-r-2-milhoes/www.ubirata.pr.gov.br/
+  🤖 Usando Selenium para: https://www.ubirata.pr.gov.br/ubirata-fecha-primeiro-semestre-com-superavit-de-mais-de-r-2-milhoes/www.ubirata.pr.gov.br/
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/ubirata-fecha-primeiro-semestre-com-superavit-de-mais-de-r-2-milhoes/www.ubirata.pr.gov.br/
+  [226/sem limite] fila=71 | depth=6 | https://www.ubirata.pr.gov.br/atletas-de-ubirat-conquistam-medalha-de-ouro-no-ci
+  [227/sem limite] fila=70 | depth=6 | https://www.ubirata.pr.gov.br/tres-ubiratanenses-entre-os-primeiros-colocados-no
+  [228/sem limite] fila=69 | depth=6 | https://www.ubirata.pr.gov.br/secretaria-de-ao-social-adquire-veculo-0-km-e-equi
+  [229/sem limite] fila=68 | depth=6 | https://www.ubirata.pr.gov.br/maior-campeonato-de-truco-trios-do-brasil-teve-inc
+  [230/sem limite] fila=67 | depth=6 | https://www.ubirata.pr.gov.br/ubiratanenses-atendidos-pelo-cras-participam-de-fe
+  [231/sem limite] fila=67 | depth=6 | https://www.ubirata.pr.gov.br/projetos-sociais-visitam-centros-de-educacao/
+  [232/sem limite] fila=66 | depth=6 | https://www.ubirata.pr.gov.br/adama-realizou-encontro-na-assembleia-da-comcam/
+  [233/sem limite] fila=65 | depth=6 | https://www.ubirata.pr.gov.br/secretria-de-sade-de-ubirat-participou-da-expoepi-
+  [234/sem limite] fila=65 | depth=6 | https://www.ubirata.pr.gov.br/bom-nmero-de-pessoas-fizeram-exames-no-dia-da-sade
+  [235/sem limite] fila=64 | depth=6 | https://www.ubirata.pr.gov.br/sbado-dia-da-sade-do-homem-e-sua-famlia-em-ubirat/
+  [236/sem limite] fila=63 | depth=6 | https://www.ubirata.pr.gov.br/ndice-da-firjan-aponta-bom-desempenho-para-ubirat/
+  [237/sem limite] fila=63 | depth=6 | https://www.ubirata.pr.gov.br/encontro-com-agentes-da-regio-sul-discutiu-o-desen
+  [238/sem limite] fila=62 | depth=6 | https://www.ubirata.pr.gov.br/presidente-da-comcam-e-deputados-apresentam-propos
+  [239/sem limite] fila=61 | depth=6 | https://www.ubirata.pr.gov.br/ubiratanenses-devem-ficar-alertas-para-risco-de-in
+  [240/sem limite] fila=61 | depth=6 | https://www.ubirata.pr.gov.br/vila-esperanca-inicia-grupo-de-educacao-e-saude/
+  [241/sem limite] fila=60 | depth=6 | https://www.ubirata.pr.gov.br/secretarias-alertam-sobre-dengue-nas-escolas/
+  [242/sem limite] fila=59 | depth=6 | https://www.ubirata.pr.gov.br/prefeito-recepciona-atletas-ubiratanenses/
+  [243/sem limite] fila=58 | depth=6 | https://www.ubirata.pr.gov.br/secretaria-realiza-aula-inaugural-de-programas-edu
+  [244/sem limite] fila=57 | depth=6 | https://www.ubirata.pr.gov.br/agente-jovem-discute-gravidez-na-adolescencia/
+  [245/sem limite] fila=56 | depth=6 | https://www.ubirata.pr.gov.br/estadio-recebe-pintura/
+  [246/sem limite] fila=57 | depth=6 | https://www.ubirata.pr.gov.br/comeca-calcamento-com-pedra-irregular-no-panorama/
+  [247/sem limite] fila=59 | depth=6 | https://www.ubirata.pr.gov.br/secretaria-promove-curso-basico-de-libras/
+  [248/sem limite] fila=58 | depth=6 | https://www.ubirata.pr.gov.br/administracao-colabora-com-santa-casa-de-campo-mou
+  [249/sem limite] fila=57 | depth=6 | https://www.ubirata.pr.gov.br/alunos-recebem-mochilas-escolares/
+  [250/sem limite] fila=56 | depth=6 | https://www.ubirata.pr.gov.br/professores-participam-de-capacitacao-do-agrinho/
+  [251/sem limite] fila=55 | depth=6 | https://www.ubirata.pr.gov.br/prefeito-anuncia-novidades-e-destaca-trabalhos/
+  [252/sem limite] fila=54 | depth=6 | https://www.ubirata.pr.gov.br/noticias/page/558/
+  [253/sem limite] fila=64 | depth=6 | https://www.ubirata.pr.gov.br/producao-ubiratanense-na-feira-de-sabores/
+  [254/sem limite] fila=63 | depth=6 | https://www.ubirata.pr.gov.br/avanam-obras-dos-centros-comunitrios-dos-bairros-s
+  [255/sem limite] fila=62 | depth=6 | https://www.ubirata.pr.gov.br/prefeito-baco-recebe-novo-gerente-da-cooperativa-i
+  [256/sem limite] fila=62 | depth=6 | https://www.ubirata.pr.gov.br/fabio-dalecio-fala-com-deputado-reni-pereira-sobre
+  [257/sem limite] fila=61 | depth=6 | https://www.ubirata.pr.gov.br/social-conhece-restaurante-popular-em-toledo/
+  [258/sem limite] fila=60 | depth=6 | https://www.ubirata.pr.gov.br/servidores-do-municipio-recebem-cracha-de-identifi
+  [259/sem limite] fila=60 | depth=6 | https://www.ubirata.pr.gov.br/servidores-municipais-passam-por-treinamento-sobre
+  [260/sem limite] fila=59 | depth=6 | https://www.ubirata.pr.gov.br/realizada-4a-audiencia-publica-do-plano-diretor/
+  [261/sem limite] fila=58 | depth=6 | https://www.ubirata.pr.gov.br/cerca-de-200-cavaleiros-e-amazonas-participaram-da
+  [262/sem limite] fila=57 | depth=6 | https://www.ubirata.pr.gov.br/centenas-de-ubiratanenses-participaram-da-festa-de
+  [263/sem limite] fila=56 | depth=6 | https://www.ubirata.pr.gov.br/alan-kardec-realiza-festa-julina/
+  [264/sem limite] fila=56 | depth=6 | https://www.ubirata.pr.gov.br/servidores-recebem-orientacao-sobre-seguranca-no-t
+  [265/sem limite] fila=55 | depth=6 | https://www.ubirata.pr.gov.br/posto-de-saude-boa-vista-esta-em-fase-de-acabament
+  [266/sem limite] fila=57 | depth=6 | https://www.ubirata.pr.gov.br/criancas-aprendem-sobre-responsabilidade-na-escola
+  [267/sem limite] fila=56 | depth=6 | https://www.ubirata.pr.gov.br/acao-social-realiza-encontro-sobre-o-bolsa-familia
+  [268/sem limite] fila=55 | depth=6 | https://www.ubirata.pr.gov.br/provopar-recebe-doacoes-da-viapar/
+  [269/sem limite] fila=54 | depth=6 | https://www.ubirata.pr.gov.br/alunos-se-apresentam-no-lar-dos-velhinhos/
+  [270/sem limite] fila=53 | depth=6 | https://www.ubirata.pr.gov.br/motoristas-participam-de-curso-de-direcao/
+  [271/sem limite] fila=54 | depth=6 | https://www.ubirata.pr.gov.br/ubirata-forma-agentes-comunitarios-da-saude/
+  [272/sem limite] fila=53 | depth=6 | https://www.ubirata.pr.gov.br/conselheiros-realizam-pre-conferencia/
+  [273/sem limite] fila=52 | depth=6 | https://www.ubirata.pr.gov.br/noticias/page/557/
+  [274/sem limite] fila=62 | depth=7 | https://www.ubirata.pr.gov.br/unidos-para-fazer-o-bem-rotary-club-de-ubirata-um-
+  [275/sem limite] fila=61 | depth=7 | https://www.ubirata.pr.gov.br/casa-facil-pr-vida-nova-promovendo-inclusao-social
+  [276/sem limite] fila=60 | depth=7 | https://www.ubirata.pr.gov.br/ubirata-sedia-copa-parana-de-basquete-e-reune-mais
+  [277/sem limite] fila=59 | depth=7 | https://www.ubirata.pr.gov.br/alunos-da-escola-municipal-gentil-toledo-de-morais
+  [278/sem limite] fila=58 | depth=7 | https://www.ubirata.pr.gov.br/campanha-da-escola-municipal-gentil-toledo-de-mora
+  [279/sem limite] fila=57 | depth=7 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirata-amplia-equipe-com-novas-cont
+  [280/sem limite] fila=56 | depth=7 | https://www.ubirata.pr.gov.br/transformar-atraves-da-educacao-coletores-de-lixo-
+  [281/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/coral-municipal-de-ubirata-participou-do-iii-encon
+  [282/sem limite] fila=54 | depth=7 | https://www.ubirata.pr.gov.br/fermop-2025-conheca-os-talentos-que-avancam-para-a
+  [283/sem limite] fila=53 | depth=7 | https://www.ubirata.pr.gov.br/ubirata-implanta-projeto-para-aumentar-seguranca-v
+  [284/sem limite] fila=52 | depth=7 | https://www.ubirata.pr.gov.br/noticias/page/12/
+  [285/sem limite] fila=62 | depth=7 | https://www.ubirata.pr.gov.br/vacinacao-contra-influenza-cenario-atual-e-a-impor
+  [286/sem limite] fila=61 | depth=7 | https://www.ubirata.pr.gov.br/palhacos-cantores-do-sou-arte-encantam-criancas-de
+  [287/sem limite] fila=60 | depth=7 | https://www.ubirata.pr.gov.br/vbp-ubirata-segue-em-destaque-com-o-maior-numero-d
+  [288/sem limite] fila=59 | depth=7 | https://www.ubirata.pr.gov.br/junho-violeta-caminhada-de-ubirata-da-voz-a-luta-p
+  [289/sem limite] fila=58 | depth=7 | https://www.ubirata.pr.gov.br/aqueca-ubirata-campanha-do-agasalho-2025/
+  [290/sem limite] fila=57 | depth=7 | https://www.ubirata.pr.gov.br/junho-violeta-ubirata-destaca-a-importancia-e-comp
+  [291/sem limite] fila=56 | depth=7 | https://www.ubirata.pr.gov.br/incentivo-a-cultura-audiencia-publica-em-ubirata-d
+  [292/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/horta-do-bem-cras-inicia-uma-plantacao-para-combat
+  [293/sem limite] fila=54 | depth=7 | https://www.ubirata.pr.gov.br/pnab-2025-nova-audiencia-publica-em-ubirata-discut
+  [294/sem limite] fila=53 | depth=7 | https://www.ubirata.pr.gov.br/safra-do-milho-giro-tecnico-de-inverno-chega-para-
+  [295/sem limite] fila=52 | depth=7 | https://www.ubirata.pr.gov.br/noticias/page/13/
+  [296/sem limite] fila=62 | depth=7 | http://www.ubirata.pr.gov.br/acessibilidade
+Redirecionamento externo ignorado: http://www.ubirata.pr.gov.br/acessibilidade → https://www.ubirata.pr.gov.br:443/acessibilidade
+  🤖 Usando Selenium para: http://www.ubirata.pr.gov.br/acessibilidade
+  [297/sem limite] fila=61 | depth=7 | http://www.ubirata.pr.gov.br/noticias
+Redirecionamento externo ignorado: http://www.ubirata.pr.gov.br/noticias → https://www.ubirata.pr.gov.br:443/noticias
+  🤖 Usando Selenium para: http://www.ubirata.pr.gov.br/noticias
+  [298/sem limite] fila=60 | depth=7 | https://www.ubirata.pr.gov.br/assembleia-da-comcam-reune-prefeitos-em-ubirata/
+  [299/sem limite] fila=59 | depth=7 | https://www.ubirata.pr.gov.br/registrado-primeiro-caso-de-dengue-em-ubirata-no-a
+  [300/sem limite] fila=58 | depth=7 | https://www.ubirata.pr.gov.br/prefeito-de-ubirat-busca-parcerias-para-fomentar-a
+  [301/sem limite] fila=57 | depth=7 | https://www.ubirata.pr.gov.br/saude-distribui-camisinha-antes-do-carnaval/
+  [302/sem limite] fila=56 | depth=7 | https://www.ubirata.pr.gov.br/iniciado-o-recape-asfaltico-do-jardim-sao-paulo/
+  [303/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/definida-programacao-para-reinauguracao-da-praca-v
+  [304/sem limite] fila=54 | depth=7 | https://www.ubirata.pr.gov.br/municipio-comeca-trabalhos-para-colocacao-de-pedra
+  [305/sem limite] fila=54 | depth=7 | https://www.ubirata.pr.gov.br/urbanismo-regulariza-trecho-da-rua-mato-grosso/
+  [306/sem limite] fila=53 | depth=7 | https://www.ubirata.pr.gov.br/calcamento-com-pedra-irregular-e-aprovado/
+  [307/sem limite] fila=52 | depth=7 | https://www.ubirata.pr.gov.br/cobertura-de-quadras-esta-em-ritmo-acelerado/
+  [308/sem limite] fila=51 | depth=7 | https://www.ubirata.pr.gov.br/vila-rural-recebe-recuperacao-de-estrada/
+  [309/sem limite] fila=53 | depth=7 | https://www.ubirata.pr.gov.br/ubirata-esta-envolvida-em-dois-campeonatos/
+  [310/sem limite] fila=52 | depth=7 | https://www.ubirata.pr.gov.br/inscries-para-concurso-iniciam-dia-30/
+  [311/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/handebol-feminino-se-destaca-em-competicao-estadua
+  [312/sem limite] fila=54 | depth=7 | https://www.ubirata.pr.gov.br/troca-de-iluminacao-mostra-economia/
+  [313/sem limite] fila=56 | depth=7 | https://www.ubirata.pr.gov.br/saude-apresenta-relatorio-de-atendimentos-em-junho
+  [314/sem limite] fila=57 | depth=7 | https://www.ubirata.pr.gov.br/curumim-resgata-valores-familiares/
+  [315/sem limite] fila=56 | depth=7 | https://www.ubirata.pr.gov.br/basquete-de-ubirata-e-destaque-regional/
+  [316/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/morre-primeiro-prefeito-de-ubirata/
+  [317/sem limite] fila=55 | depth=7 | https://www.ubirata.pr.gov.br/noticias/page/556/
+  [318/sem limite] fila=65 | depth=7 | https://www.ubirata.pr.gov.br/vice-prefeito-recepciona-governadora-do-rotary/
+  [319/sem limite] fila=64 | depth=7 | https://www.ubirata.pr.gov.br/prefeitura-abre-concurso-para-agente-de-saude/
+  [320/sem limite] fila=64 | depth=7 | https://www.ubirata.pr.gov.br/desfile-dos-47-anos-esta-em-preparacao/
+  [321/sem limite] fila=63 | depth=7 | https://www.ubirata.pr.gov.br/praa-da-matriz-est-sendo-revitalizada-ser-mais-um-
+  [322/sem limite] fila=63 | depth=7 | https://www.ubirata.pr.gov.br/realizada-nessa-quinta-feira-a-maior-licitacao-da-
+  [323/sem limite] fila=62 | depth=7 | https://www.ubirata.pr.gov.br/forum-eleitoral-esta-em-ritmo-acelerado/
+  [324/sem limite] fila=61 | depth=7 | https://www.ubirata.pr.gov.br/secretaria-realizou-curso-para-conselheiros-munici
+  [325/sem limite] fila=60 | depth=7 | https://www.ubirata.pr.gov.br/saude-treina-servidores-sobre-a-influenza-a/
+  [326/sem limite] fila=59 | depth=7 | https://www.ubirata.pr.gov.br/8a-conferencia-da-saude-amanha/
+  [327/sem limite] fila=61 | depth=7 | https://www.ubirata.pr.gov.br/amanaje-grava-programa-em-curitiba/
+  [328/sem limite] fila=60 | depth=7 | https://www.ubirata.pr.gov.br/em-visita-a-curitiba-dalecio-encaminha-varios-proj
+  [329/sem limite] fila=62 | depth=7 | https://www.ubirata.pr.gov.br/recicla-bira-e-expandido-para-toda-cidade/
+  [330/sem limite] fila=64 | depth=7 | https://www.ubirata.pr.gov.br/frota-da-educacao-passa-por-reformas/
+  [331/sem limite] fila=66 | depth=7 | https://www.ubirata.pr.gov.br/bolsa-familia-renova-150-cartoes/
+  [332/sem limite] fila=65 | depth=7 | https://www.ubirata.pr.gov.br/ubiratanenses-recepcionam-douglas-fabricio/
+  [333/sem limite] fila=64 | depth=7 | https://www.ubirata.pr.gov.br/ubirata-se-aproxima-do-1o-lugar-no-amador/
+  [334/sem limite] fila=63 | depth=7 | https://www.ubirata.pr.gov.br/estao-abertas-inscricoes-para-o-concurso-publico/
+  [335/sem limite] fila=62 | depth=7 | https://www.ubirata.pr.gov.br/ubirata-participa-da-conferencia-das-cidades/
+  [336/sem limite] fila=64 | depth=7 | https://www.ubirata.pr.gov.br/noticias/page/555/
+  [337/sem limite] fila=74 | depth=8 | https://www.ubirata.pr.gov.br/meta-alcancada-ubirata-atinge-180-na-colocacao-de-
+  [338/sem limite] fila=73 | depth=8 | https://www.ubirata.pr.gov.br/iptu-2025-guias-disponveis/
+  [339/sem limite] fila=72 | depth=8 | https://www.ubirata.pr.gov.br/outubro-rosa/
+  [340/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/ubirat-completa-63-anos-e-voc-nosso-convidado/
+  [341/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/ubiratanense-em-destaque/
+  [342/sem limite] fila=70 | depth=8 | https://www.ubirata.pr.gov.br/prmio-gestor-pblico-do-paran/
+  [343/sem limite] fila=69 | depth=8 | https://www.ubirata.pr.gov.br/pavimentao-em-estradas-rurais-a-estrada-jussara-re
+  [344/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/unidos-pelas-mulheres/
+  [345/sem limite] fila=70 | depth=8 | https://www.ubirata.pr.gov.br/a-expobira-2024-um-sucesso-de-entretenimento-e-cul
+  [346/sem limite] fila=69 | depth=8 | https://www.ubirata.pr.gov.br/aldir-blanc/
+  [347/sem limite] fila=68 | depth=8 | https://www.ubirata.pr.gov.br/noticias/page/14/
+  [348/sem limite] fila=76 | depth=8 | https://www.ubirata.pr.gov.br/maio-laranja/
+  [349/sem limite] fila=75 | depth=8 | https://www.ubirata.pr.gov.br/secretaria-de-agricultura-realiza-atualizao-de-reb
+  [350/sem limite] fila=74 | depth=8 | https://www.ubirata.pr.gov.br/dia-d-sade-bucal-no-programa-sade-na-escola-pse/
+  [351/sem limite] fila=73 | depth=8 | https://www.ubirata.pr.gov.br/transformando-vias-conectando-comunidades-o-impact
+  [352/sem limite] fila=72 | depth=8 | https://www.ubirata.pr.gov.br/inaugurao-do-centro-comunitrio-no-bairro-so-joaqui
+  [353/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/apresentao-especial-do-coral-municipal-em-homenage
+  [354/sem limite] fila=70 | depth=8 | https://www.ubirata.pr.gov.br/lei-paulo-gustavo/
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/ATA-DE-RESULT
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/RESULTADO-FIN
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/RESULTADO-PRE
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/AVISO-DE-PROR
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  📄 [200] .pdf -> https://www.ubirata.pr.gov.br/wp-content/uploads/2025/04/CHAMAMENTO-PU
+  [355/sem limite] fila=69 | depth=8 | https://www.ubirata.pr.gov.br/empreendedorismo-feminino/
+  [356/sem limite] fila=68 | depth=8 | https://www.ubirata.pr.gov.br/deputado-estadual-douglas-fabrcio-viabiliza-caminh
+  [357/sem limite] fila=67 | depth=8 | https://www.ubirata.pr.gov.br/melhoria-do-microrevestimento-asfltico-beneficia-r
+  [358/sem limite] fila=66 | depth=8 | https://www.ubirata.pr.gov.br/noticias/page/15/
+  [359/sem limite] fila=75 | depth=8 | https://www.ubirata.pr.gov.br/prefeitura-realiza-acao-para-recuperar-asfalto/
+  [360/sem limite] fila=74 | depth=8 | https://www.ubirata.pr.gov.br/municipio-investe-em-readequacao-e-cascalhamento-d
+  [361/sem limite] fila=74 | depth=8 | https://www.ubirata.pr.gov.br/municipio-trabalha-para-que-estradas-rurais-esteja
+  [362/sem limite] fila=73 | depth=8 | https://www.ubirata.pr.gov.br/maquinas-trabalhando-para-melhorar-qualidade-de-vi
+  [363/sem limite] fila=72 | depth=8 | http://www.ubirata.pr.gov.br
+Redirecionamento externo ignorado: http://www.ubirata.pr.gov.br → https://www.ubirata.pr.gov.br:443/
+  🤖 Usando Selenium para: http://www.ubirata.pr.gov.br
+  [364/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/agncia-do-trabalhador-de-ubirat-realizou-intermedi
+  [365/sem limite] fila=71 | depth=8 | https://www.ubirata.pr.gov.br/ubirat-2-no-ranking-regional-colocando-871-no-merc
+  [366/sem limite] fila=70 | depth=8 | https://www.ubirata.pr.gov.br/trabalhadores-de-ubirat-embarcaram-para-colheita-d
+  [367/sem limite] fila=69 | depth=8 | https://www.ubirata.pr.gov.br/vias-centrais-da-cidade-recebem-operacao-tapa-bura
+  [368/sem limite] fila=69 | depth=8 | https://www.ubirata.pr.gov.br/melhorias-em-vias-urbanas-garantem-beneficios-a-co
+  [369/sem limite] fila=68 | depth=8 | https://www.ubirata.pr.gov.br/secretario-pede-que-populacao-colabore-com-o-munic
+  [370/sem limite] fila=67 | depth=8 | https://www.ubirata.pr.gov.br/saude-apresenta-relatorio-de-atividades/
+  [371/sem limite] fila=66 | depth=8 | https://www.ubirata.pr.gov.br/ubirata-comemora-1000-dias-de-administracao/
+  [372/sem limite] fila=65 | depth=8 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirat-decreta-luto-oficial-por-mort
+  [373/sem limite] fila=64 | depth=8 | https://www.ubirata.pr.gov.br/estrada-cruzeiro-recebe-calcamento-com-pedra-irreg
+  [374/sem limite] fila=63 | depth=8 | https://www.ubirata.pr.gov.br/saude-elege-membros-do-comite-da-dengue/
+  [375/sem limite] fila=63 | depth=8 | https://www.ubirata.pr.gov.br/gestao-compartilhada-reune-servidores/
+  [376/sem limite] fila=62 | depth=8 | https://www.ubirata.pr.gov.br/ultimos-dias-para-inscricao-do-curso-de-pedagogia/
+  [377/sem limite] fila=61 | depth=8 | https://www.ubirata.pr.gov.br/projeto-integra-alunos-e-acao-social/
+  [378/sem limite] fila=60 | depth=8 | https://www.ubirata.pr.gov.br/conselho-municipal-de-saude-toma-posse/
+  [379/sem limite] fila=59 | depth=8 | https://www.ubirata.pr.gov.br/conferencia-estabelece-propostas-para-saude/
+  [380/sem limite] fila=58 | depth=8 | https://www.ubirata.pr.gov.br/inscricoes-do-concurso-encerram-na-quarta/
+  [381/sem limite] fila=57 | depth=8 | https://www.ubirata.pr.gov.br/ubirata-em-festa-com-a-vitoria-do-amador/
+  [382/sem limite] fila=56 | depth=8 | https://www.ubirata.pr.gov.br/comite-quer-combater-a-dengue-em-ubirata/
+  [383/sem limite] fila=55 | depth=8 | https://www.ubirata.pr.gov.br/noticias/page/554/
+  [384/sem limite] fila=65 | depth=8 | https://www.ubirata.pr.gov.br/prefeitura-abre-concurso-para-agente-de-saude/www.
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/prefeitura-abre-concurso-para-agente-de-saude/www.exatuspr.com.br/
+  🤖 Usando Selenium para: https://www.ubirata.pr.gov.br/prefeitura-abre-concurso-para-agente-de-saude/www.exatuspr.com.br/
+ ❌ HTTP_404: https://www.ubirata.pr.gov.br/prefeitura-abre-concurso-para-agente-de-saude/www.exatuspr.com.br/
+  [385/sem limite] fila=64 | depth=8 | https://www.ubirata.pr.gov.br/projeto-preve-ampliacao-de-escolas/
+  [386/sem limite] fila=63 | depth=8 | https://www.ubirata.pr.gov.br/reunio-tratou-do-plano-municipal-de-educao/
+  [387/sem limite] fila=63 | depth=8 | https://www.ubirata.pr.gov.br/concursos-pblicos-realizado-nos-ltimos-anos-esto-s
+  [388/sem limite] fila=62 | depth=8 | https://www.ubirata.pr.gov.br/secretaria-da-educao-realiza-1-reunio-de-2017-com-
+  [389/sem limite] fila=61 | depth=8 | https://www.ubirata.pr.gov.br/reuniao-com-viapar-tratou-de-construcao-de-rotator
+  [390/sem limite] fila=61 | depth=8 | https://www.ubirata.pr.gov.br/fabio-dalecio-e-eleito-presidente-de-consorcio-da-
+  [391/sem limite] fila=60 | depth=8 | https://www.ubirata.pr.gov.br/empossado-novo-chefe-da-ciretran-de-ubirata/
+  [392/sem limite] fila=59 | depth=8 | https://www.ubirata.pr.gov.br/a-prefeitura-de-ubirat-trabalha-na-melhoria-das-es
+  [393/sem limite] fila=59 | depth=8 | https://www.ubirata.pr.gov.br/programa-caixa-dae%c2%b2agua-boa-chega-a-ubirat/
+  [394/sem limite] fila=58 | depth=8 | https://www.ubirata.pr.gov.br/mil-mudas-de-rvores-distribudas-no-centro-de-ubira
+  [395/sem limite] fila=57 | depth=8 | https://www.ubirata.pr.gov.br/recuperao-do-calamento-e-abertura-de-novas-vagas-d
+  [396/sem limite] fila=57 | depth=8 | https://www.ubirata.pr.gov.br/municpio-constri-caladas-em-vielas-da-vila-recife-
+  [397/sem limite] fila=56 | depth=8 | https://www.ubirata.pr.gov.br/revitalizao-do-prdio-da-unidade-de-sade-yolanda/
+  [398/sem limite] fila=55 | depth=8 | https://www.ubirata.pr.gov.br/camara-tem-cinco-vereadores-novos/
+  [399/sem limite] fila=54 | depth=8 | https://www.ubirata.pr.gov.br/prefeito-se-encontra-com-requiao-e-pessuti/
+  [400/sem limite] fila=53 | depth=8 | https://www.ubirata.pr.gov.br/prefeito-e-primeira-dama-participam-da-cupula-mund
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_links.xlsx
+  92 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_externos.xlsx
+  30 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=52 | depth=8 | https://www.ubirata.pr.gov.br/saude-faz-coleta-de-sangue/
+  [402/sem limite] fila=53 | depth=8 | https://www.ubirata.pr.gov.br/diretores-aderem-trabalho-de-mobilizacao/
+  [403/sem limite] fila=55 | depth=8 | https://www.ubirata.pr.gov.br/alfabetizandos-recebem-incentivo-da-prefeitura/
+  [404/sem limite] fila=54 | depth=8 | https://www.ubirata.pr.gov.br/leilao-vendeu-somente-um-terreno/
+  [405/sem limite] fila=53 | depth=8 | https://www.ubirata.pr.gov.br/administracao-divulga-concorrencia-do-concurso/
+  [406/sem limite] fila=53 | depth=8 | https://www.ubirata.pr.gov.br/ubirata-preparada-para-o-50o-japs/
+  [407/sem limite] fila=52 | depth=8 | https://www.ubirata.pr.gov.br/saude-realiza-primeira-semana-do-homem/
+  [408/sem limite] fila=51 | depth=8 | https://www.ubirata.pr.gov.br/agentes-ambientais-sensibilizam-a-populacao/
+  [409/sem limite] fila=50 | depth=8 | https://www.ubirata.pr.gov.br/praca-horacio-jose-ribeiro-ganha-novo-visual/
+  [410/sem limite] fila=52 | depth=8 | https://www.ubirata.pr.gov.br/ubirata-continua-o-combate-contra-a-dengue/
+  [411/sem limite] fila=51 | depth=8 | https://www.ubirata.pr.gov.br/noticias/page/553/
+  [412/sem limite] fila=60 | depth=9 | https://www.ubirata.pr.gov.br/programao-especial-no-final-de-ano-ubiratanense/
+  [413/sem limite] fila=59 | depth=9 | https://www.ubirata.pr.gov.br/concluso-de-trecho-da-estrada-olinda-com-pedras-ir
+  [414/sem limite] fila=58 | depth=9 | https://www.ubirata.pr.gov.br/encontro-mulheres-protagonizando-o-agro-realizado-
+  [415/sem limite] fila=57 | depth=9 | https://www.ubirata.pr.gov.br/circuito-caminhos-do-milho-renem-especialistas-par
+  [416/sem limite] fila=56 | depth=9 | https://www.ubirata.pr.gov.br/cinema-itinerante-em-ubirat/
+  [417/sem limite] fila=55 | depth=9 | https://www.ubirata.pr.gov.br/pss/
+  [418/sem limite] fila=54 | depth=9 | https://www.ubirata.pr.gov.br/processo-eletivo-pblico/
+  [419/sem limite] fila=53 | depth=9 | https://www.ubirata.pr.gov.br/ovos-de-pscoa/
+  [420/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirat-realizou-palestra-de-gesto-fi
+  [421/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/cci-ubirat-e-yolanda/
+  [422/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/prefeitura-oferece-diversidade-de-oficinas-cultura
+  [423/sem limite] fila=49 | depth=9 | https://www.ubirata.pr.gov.br/prefeitura-de-ubirat-investe-em-micro-revestimento
+  [424/sem limite] fila=48 | depth=9 | https://www.ubirata.pr.gov.br/noticias/page/16/
+  [425/sem limite] fila=56 | depth=9 | https://www.ubirata.pr.gov.br/secretaria-de-assistncia-social-celebra-o-dia-das-
+  [426/sem limite] fila=56 | depth=9 | https://www.ubirata.pr.gov.br/nova-comisso-do-conselho-municipal-de-educao-de-ub
+  [427/sem limite] fila=55 | depth=9 | https://www.ubirata.pr.gov.br/copa-ubirat-de-basquete/
+  [428/sem limite] fila=54 | depth=9 | https://www.ubirata.pr.gov.br/agricultura-familiar/
+  [429/sem limite] fila=53 | depth=9 | https://www.ubirata.pr.gov.br/escolinha-de-futebol-fc-cascavel/
+  [430/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/formado-novo-conselho-municipal-da-cultura-concult
+  [431/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/habitao/
+  [432/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/todos-contra-a-dengue/
+  [433/sem limite] fila=49 | depth=9 | https://www.ubirata.pr.gov.br/copa-mitor/
+  [434/sem limite] fila=48 | depth=9 | https://www.ubirata.pr.gov.br/noticias/page/17/
+  [435/sem limite] fila=58 | depth=9 | https://www.ubirata.pr.gov.br/municipio-faz-recuperacao-e-cascalhamento-em-estra
+  [436/sem limite] fila=57 | depth=9 | https://www.ubirata.pr.gov.br/interessados-em-ingressar-na-unit-foram-entrevista
+  [437/sem limite] fila=56 | depth=9 | https://www.ubirata.pr.gov.br/funcionarios-fizeram-limpeza-de-ruas-calcadas-e-ar
+  [438/sem limite] fila=55 | depth=9 | https://www.ubirata.pr.gov.br/estrutura-oferecida-durante-expobira-2011-foi-surp
+  [439/sem limite] fila=54 | depth=9 | https://www.ubirata.pr.gov.br/concurso-registra-baixa-desistencia/
+  [440/sem limite] fila=53 | depth=9 | https://www.ubirata.pr.gov.br/concurso-publico-sera-realizado-domingo/
+  [441/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/basquete-esta-em-3o-lugar-na-copa-oeste/
+  [442/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/prefeitura-retoma-obra-da-casa-da-cultura/
+  [443/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/acao-social-entrega-cartoes-do-bolsa-familia/
+  [444/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/audiencia-discutira-projeto-da-avenida-botelho/
+  [445/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/encontro-orienta-agricultores-sobre-financiamento/
+  [446/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/secretarias-estabelecem-parceria-com-colegio/
+  [447/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/saude-contra-a-poliomielite/
+  [448/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/campeonato-empresarial-encerra-com-saldo-positivo/
+  [449/sem limite] fila=49 | depth=9 | https://www.ubirata.pr.gov.br/noticias/page/552/
+  [450/sem limite] fila=59 | depth=9 | https://www.ubirata.pr.gov.br/conferncia-pblica-concluiu-processo-de-reviso-do-p
+  [451/sem limite] fila=58 | depth=9 | https://www.ubirata.pr.gov.br/reuniao-sobre-a-seguranca-em-ubirata/
+  [452/sem limite] fila=57 | depth=9 | https://www.ubirata.pr.gov.br/prefeitura-e-itaipu-comeam-a-distribuio-de-lpis-se
+  [453/sem limite] fila=56 | depth=9 | https://www.ubirata.pr.gov.br/quadra-poliesportiva-do-boa-vista-recebe-pintura-n
+  [454/sem limite] fila=55 | depth=9 | https://www.ubirata.pr.gov.br/provopar-e-social-distribuem-roupas-da-campanha-do
+  [455/sem limite] fila=54 | depth=9 | https://www.ubirata.pr.gov.br/amanha-e-dia-de-coleta-de-sangue/
+  [456/sem limite] fila=53 | depth=9 | https://www.ubirata.pr.gov.br/prefeito-baco-recebe-equipe-administrativa-da-unit
+  [457/sem limite] fila=53 | depth=9 | https://www.ubirata.pr.gov.br/deputado-federal-roman-visita-prefeito-baco-e-reaf
+  [458/sem limite] fila=52 | depth=9 | https://www.ubirata.pr.gov.br/catadores-de-materiais-reciclveis-e-servidores-que
+  [459/sem limite] fila=51 | depth=9 | https://www.ubirata.pr.gov.br/esporte-lanca-copa-nacional-de-futebol-amanha/
+  [460/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/melhorias-no-distrito-de-yolanda/
+  [461/sem limite] fila=50 | depth=9 | https://www.ubirata.pr.gov.br/revitalizao-da-sinalizao-deixa-ubirat-mais-segura-
+  [462/sem limite] fila=49 | depth=9 | https://www.ubirata.pr.gov.br/revitalizao-na-sinalizao-horizontal-no-centro-da-c
+  [463/sem limite] fila=48 | depth=9 | https://www.ubirata.pr.gov.br/pr-alfabetizado-implanta-mais-nove-turmas/
+  [464/sem limite] fila=47 | depth=9 | https://www.ubirata.pr.gov.br/amanha-e-dia-de-combate-a-poliomielite/
+  [465/sem limite] fila=46 | depth=9 | https://www.ubirata.pr.gov.br/operacao-tapa-buraco-recupera-ruas/
+  [466/sem limite] fila=45 | depth=9 | https://www.ubirata.pr.gov.br/musicos-sao-finalistas-de-festival/
+  [467/sem limite] fila=44 | depth=9 | https://www.ubirata.pr.gov.br/agencia-do-trabalhador-beneficios-para-todos/
+  [468/sem limite] fila=43 | depth=9 | https://www.ubirata.pr.gov.br/jurados-definem-vencedores-de-concurso/
+  [469/sem limite] fila=42 | depth=9 | https://www.ubirata.pr.gov.br/redacao-valorizacao-da-educacao-1o/
+  [470/sem limite] fila=44 | depth=9 | https://www.ubirata.pr.gov.br/redacao-educacao-em-primeiro-lugar-2o/
+  [471/sem limite] fila=43 | depth=9 | https://www.ubirata.pr.gov.br/combate-a-polio-e-na-sao-joao-amanha/
+  [472/sem limite] fila=42 | depth=9 | https://www.ubirata.pr.gov.br/noticias/page/551/
+  [473/sem limite] fila=52 | depth=10 | https://www.ubirata.pr.gov.br/selo-prata-sebrae/
+  [474/sem limite] fila=51 | depth=10 | https://www.ubirata.pr.gov.br/educao-de-ubirat-e-destaque-mais-uma-vez/
+  [475/sem limite] fila=50 | depth=10 | https://www.ubirata.pr.gov.br/a-luta-contra-a-dengue-nossa/
+  [476/sem limite] fila=49 | depth=10 | https://www.ubirata.pr.gov.br/renovao-e-entusiasmo-o-retorno-ps-frias-nas-escola
+  [477/sem limite] fila=48 | depth=10 | https://www.ubirata.pr.gov.br/sade-em-alta/
+  [478/sem limite] fila=47 | depth=10 | https://www.ubirata.pr.gov.br/oportunidade-imperdvel-para-crianas-e-adolescentes
+  [479/sem limite] fila=46 | depth=10 | https://www.ubirata.pr.gov.br/volta-as-aulas/
+  [480/sem limite] fila=45 | depth=10 | https://www.ubirata.pr.gov.br/mulheres-e-meninas-em-situao-de-vulnerabilidade-po
+  [481/sem limite] fila=44 | depth=10 | https://www.ubirata.pr.gov.br/noticias/page/18/
+  [482/sem limite] fila=43 | depth=10 | https://www.ubirata.pr.gov.br/vice-prefeito-alexandre-molina-marca-presena-no-im
+  [483/sem limite] fila=42 | depth=10 | https://www.ubirata.pr.gov.br/programa-de-conservao-de-estradas/
+  [484/sem limite] fila=41 | depth=10 | https://www.ubirata.pr.gov.br/avenida-clodaldo-de-oliveira/
+  [485/sem limite] fila=40 | depth=10 | https://www.ubirata.pr.gov.br/famlia-acolhedora/
+  [486/sem limite] fila=39 | depth=10 | https://www.ubirata.pr.gov.br/vida-com-qualidade-na-melhor-idade/
+  [487/sem limite] fila=38 | depth=10 | https://www.ubirata.pr.gov.br/prefeitura-realiza-limpeza-de-terrenos-baldios-e-c
+  [488/sem limite] fila=37 | depth=10 | https://www.ubirata.pr.gov.br/posse-dos-novos-conselheiros-tutelares-de-ubirat/
+  [489/sem limite] fila=36 | depth=10 | https://www.ubirata.pr.gov.br/avanos-nas-vias-rurais-ubirat-na-rota-do-progresso
+  [490/sem limite] fila=35 | depth=10 | https://www.ubirata.pr.gov.br/tradicional-festa-da-folia-de-reis/
+  [491/sem limite] fila=34 | depth=10 | https://www.ubirata.pr.gov.br/premiao-cultural-em-ubirat-destaques-da-lei-paulo-
+  [492/sem limite] fila=33 | depth=10 | https://www.ubirata.pr.gov.br/crianas-dos-projetos-sociais-no-dog-king/
+  [493/sem limite] fila=32 | depth=10 | https://www.ubirata.pr.gov.br/noticias/page/19/
+  [494/sem limite] fila=31 | depth=10 | https://www.ubirata.pr.gov.br/mdia-da-administrao-municipal-no-contrato-de-gesto
+  [495/sem limite] fila=30 | depth=10 | https://www.ubirata.pr.gov.br/caixa-economica-e-realidade-novamente/
+  [496/sem limite] fila=29 | depth=10 | https://www.ubirata.pr.gov.br/secretario-apresenta-relatorio-de-atividades-na-ca
+  [497/sem limite] fila=28 | depth=10 | https://www.ubirata.pr.gov.br/ubirata-confirma-parcerias-com-sesi-senai-e-fiep/
+  [498/sem limite] fila=27 | depth=10 | https://www.ubirata.pr.gov.br/secretaria-de-desenvolvimento-economico-apresenta-
+  [499/sem limite] fila=26 | depth=10 | https://www.ubirata.pr.gov.br/cultura-abre-semana-da-patria-amanha/
+  [500/sem limite] fila=25 | depth=10 | https://www.ubirata.pr.gov.br/diretores-e-coordenadores-discutem-evasao-escolar/
+  [501/sem limite] fila=24 | depth=10 | https://www.ubirata.pr.gov.br/saude-orienta-sobre-maleficios-do-tabagismo/
+  [502/sem limite] fila=23 | depth=10 | https://www.ubirata.pr.gov.br/motocross-vai-animar-comunidade-santo-inacio/
+  [503/sem limite] fila=22 | depth=10 | https://www.ubirata.pr.gov.br/pr-alfabetizado-realiza-palestra/
+  [504/sem limite] fila=21 | depth=10 | https://www.ubirata.pr.gov.br/curumim-relembra-folclore-brasileiro/
+  [505/sem limite] fila=20 | depth=10 | https://www.ubirata.pr.gov.br/vila-recife-ganhara-centro-social/
+  [506/sem limite] fila=19 | depth=10 | https://www.ubirata.pr.gov.br/vacinacao-contra-polio-e-prorrogada/
+  [507/sem limite] fila=18 | depth=10 | https://www.ubirata.pr.gov.br/obras-publicas-continuam-e-valorizam-ubirata/
+  [508/sem limite] fila=17 | depth=10 | https://www.ubirata.pr.gov.br/prefeitura-investe-na-ampliacao-de-quadras/
+  [509/sem limite] fila=16 | depth=10 | https://www.ubirata.pr.gov.br/noticias/page/550/
+  [510/sem limite] fila=15 | depth=10 | https://www.ubirata.pr.gov.br/ubirat-recebe-r-450-mil-da-secretaria-de-estado-da
+  [511/sem limite] fila=14 | depth=10 | https://www.ubirata.pr.gov.br/novas-flores-sao-plantadas-nos-canteiros-da-cidade
+  [512/sem limite] fila=13 | depth=10 | https://www.ubirata.pr.gov.br/publicada-a-lista-de-aprovados-no-concurso-de-ubir
+  [513/sem limite] fila=12 | depth=10 | https://www.ubirata.pr.gov.br/publicada-a-lista-de-aprovados-no-concurso-de-ubir
+  [514/sem limite] fila=11 | depth=10 | https://www.ubirata.pr.gov.br/concurso-de-ubirata-registra-baixo-indice-de-desis
+  [515/sem limite] fila=10 | depth=10 | https://www.ubirata.pr.gov.br/alunos-aprendem-sobre-cuidados-na-agricultura/
+  [516/sem limite] fila=9 | depth=10 | https://www.ubirata.pr.gov.br/prefeitura-divulga-aprovados-no-concurso/
+  [517/sem limite] fila=8 | depth=10 | https://www.ubirata.pr.gov.br/alunos-finalizam-atividade-para-agrinho/
+  [518/sem limite] fila=7 | depth=10 | https://www.ubirata.pr.gov.br/ultimo-dia-para-vacinar-contra-polio/
+  [519/sem limite] fila=6 | depth=10 | https://www.ubirata.pr.gov.br/ubirata-tem-novo-prefeito/
+  [520/sem limite] fila=5 | depth=10 | https://www.ubirata.pr.gov.br/populacao-supera-expectativa-do-ibge/
+  [521/sem limite] fila=4 | depth=10 | https://www.ubirata.pr.gov.br/servidores-conhecem-obras-em-andamento/
+  [522/sem limite] fila=3 | depth=10 | https://www.ubirata.pr.gov.br/ubirata-comemora-semana-da-patria/
+  [523/sem limite] fila=2 | depth=10 | https://www.ubirata.pr.gov.br/projeto-da-avenida-botelho-de-souza-agrada-ubirata
+  [524/sem limite] fila=1 | depth=10 | https://www.ubirata.pr.gov.br/dalecio-viabiliza-construcao-de-biblioteca/
+  [525/sem limite] fila=0 | depth=10 | https://www.ubirata.pr.gov.br/noticias/page/549/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_links.xlsx
+  92 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_externos.xlsx
+  44 links externos registrados.
+
+  Varredura encerrada: UBIRATA
+  Páginas nesta sessão: 525
+  Páginas totais (acumulado): 525
+  Arquivos no inventário: 92
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/ubirata/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Ubiratã)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Ubiratã (slug: ubirata)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://ubirata.1doc.com.br/b.php?pg=o/transparencia/
+              ✅ https://ubirata.cr2.site/
+           *  ✅ https://ubirata.oxy.elotech.com.br/portaltransparencia/
+            + ✅ https://www.ubirata.pr.gov.br/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +1 domínio(s)]
+           → https://ubirata.oxy.elotech.com.br/portaltransparencia/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UBIRATA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 92 arquivos já registrados.
+  Links externos parciais carregados: 44 links já registrados.
+  Log de erros parcial carregado: 6 erros já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 6 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: UBIRATA
+  Páginas já visitadas (checkpoint): 525
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+525)/sem limite] fila=0 | depth=0 | https://ubirata.oxy.elotech.com.br/portaltransparencia/
+  🤖 Usando Selenium para: https://ubirata.oxy.elotech.com.br/portaltransparencia/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_links.xlsx
+  92 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/erros_varredura.xlsx
+  6 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/ubirata/inventario_externos.xlsx
+  44 links externos registrados.
+
+  Varredura encerrada: UBIRATA
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 526
+  Arquivos no inventário: 92
+  Erros registrados: 6
+
+
+ Pipeline encerrado. Resultados em: resultados/ubirata/
+============================================================
+
