@@ -1,3 +1,3 @@
-./run_pipeline.sh angulo
-./run_pipeline.sh antonina
-./run_pipeline.sh antonioolinto
+./run_pipeline.sh ubirata
+./run_pipeline.sh umuarama
+./run_pipeline.sh uniaodavitoria
