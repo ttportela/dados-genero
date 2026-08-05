@@ -1813,3 +1813,691 @@ Inventário parcial carregado: 36 arquivos já registrados.
   🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realizadas-pela-secretaria-de-cultura-atraves-da-lei-paulo-gustavo
  ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realizadas-pela-secretaria-de-cultura-atraves-da-lei-paulo-gustavo
   [34 (+400)/sem limite] fila=2340 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/1-conferencia-municipal-de-cultura
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/1-conferencia-municipal-de-cultura-supera-expectativas
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/1-conferencia-municipal-de-cultura-supera-expectativas
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/1-conferencia-municipal-de-cultura-supera-expectativas
+  [35 (+400)/sem limite] fila=2339 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/inscricoes-para-o-festival-do-3-ca
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/inscricoes-para-o-festival-do-3-canta-cantu-abrem-no-dia-15-de-abril
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/inscricoes-para-o-festival-do-3-canta-cantu-abrem-no-dia-15-de-abril
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/inscricoes-para-o-festival-do-3-canta-cantu-abrem-no-dia-15-de-abril
+  [36 (+400)/sem limite] fila=2338 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura?start=16
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura?start=16
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura?start=16
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura?start=16
+  [37 (+400)/sem limite] fila=2337 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-d
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-de-tres-barras-do-parana-anuncia-recesso-de-ferias
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-de-tres-barras-do-parana-anuncia-recesso-de-ferias
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-de-tres-barras-do-parana-anuncia-recesso-de-ferias
+  [38 (+400)/sem limite] fila=2336 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/torneio-municipal-de-field-target-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/torneio-municipal-de-field-target-movimenta-competidores-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/torneio-municipal-de-field-target-movimenta-competidores-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/torneio-municipal-de-field-target-movimenta-competidores-em-tres-barras-do-parana
+  [39 (+400)/sem limite] fila=2335 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/esporte-e-inclusao-projeto-talento
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/esporte-e-inclusao-projeto-talentos-de-jesus-realiza-entrega-de-chuteiras-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/esporte-e-inclusao-projeto-talentos-de-jesus-realiza-entrega-de-chuteiras-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/esporte-e-inclusao-projeto-talentos-de-jesus-realiza-entrega-de-chuteiras-em-tres-barras-do-parana
+  [40 (+400)/sem limite] fila=2334 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/gat3-de-tres-barras-do-parana-repr
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/gat3-de-tres-barras-do-parana-representa-o-municipio-na-operacao-al-hadaf-em-maringa
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/gat3-de-tres-barras-do-parana-representa-o-municipio-na-operacao-al-hadaf-em-maringa
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/gat3-de-tres-barras-do-parana-representa-o-municipio-na-operacao-al-hadaf-em-maringa
+  [41 (+400)/sem limite] fila=2333 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-su
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-da-copa-amizade-de-futsal-das-categorias-de-base
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-da-copa-amizade-de-futsal-das-categorias-de-base
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-da-copa-amizade-de-futsal-das-categorias-de-base
+  [42 (+400)/sem limite] fila=2332 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/projeto-talentos-de-jesus-celebra-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/projeto-talentos-de-jesus-celebra-conquista-com-entrega-de-chuteiras-para-jovens-atletas
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/projeto-talentos-de-jesus-celebra-conquista-com-entrega-de-chuteiras-para-jovens-atletas
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/projeto-talentos-de-jesus-celebra-conquista-com-entrega-de-chuteiras-para-jovens-atletas
+  [43 (+400)/sem limite] fila=2331 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/realizado-o-congresso-tecnico-do-c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/realizado-o-congresso-tecnico-do-campeonato-municipal-de-sinuca-de-duplas-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/realizado-o-congresso-tecnico-do-campeonato-municipal-de-sinuca-de-duplas-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/realizado-o-congresso-tecnico-do-campeonato-municipal-de-sinuca-de-duplas-2026
+  [44 (+400)/sem limite] fila=2330 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/secretaria-de-esportes-de-tres-bar
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-de-esportes-de-tres-barras-do-parana-recebe-145-chuteiras-atraves-do-projeto-talentos-de-jesus-fc-cascavel
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-de-esportes-de-tres-barras-do-parana-recebe-145-chuteiras-atraves-do-projeto-talentos-de-jesus-fc-cascavel
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-de-esportes-de-tres-barras-do-parana-recebe-145-chuteiras-atraves-do-projeto-talentos-de-jesus-fc-cascavel
+  [45 (+400)/sem limite] fila=2329 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-i
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-intensifica-manutencao-dos-campos-de-futebol-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-intensifica-manutencao-dos-campos-de-futebol-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/secretaria-municipal-de-esportes-intensifica-manutencao-dos-campos-de-futebol-em-tres-barras-do-parana
+  [46 (+400)/sem limite] fila=2328 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/venha-prestigiar-a-grande-final-do
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/venha-prestigiar-a-grande-final-do-campeonato-municipal-de-futsal-2026-caixa
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/venha-prestigiar-a-grande-final-do-campeonato-municipal-de-futsal-2026-caixa
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/venha-prestigiar-a-grande-final-do-campeonato-municipal-de-futsal-2026-caixa
+  [47 (+400)/sem limite] fila=2327 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-su
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-do-4-open-de-daido-karate-full-contact
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-do-4-open-de-daido-karate-full-contact
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte/tres-barras-do-parana-celebra-o-sucesso-do-4-open-de-daido-karate-full-contact
+  [48 (+400)/sem limite] fila=2326 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=16
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=16
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=16
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=16
+  [49 (+400)/sem limite] fila=2325 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=32
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=32
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=32
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=32
+  [50 (+400)/sem limite] fila=2324 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=48
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=48
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=48
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=48
+  [51 (+400)/sem limite] fila=2323 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=64
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=64
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=64
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=64
+  [52 (+400)/sem limite] fila=2322 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=80
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=80
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=80
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=80
+  [53 (+400)/sem limite] fila=2321 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=96
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=96
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=96
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=96
+  [54 (+400)/sem limite] fila=2320 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=112
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=112
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=112
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=112
+  [55 (+400)/sem limite] fila=2319 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=128
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=128
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=128
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=128
+  [56 (+400)/sem limite] fila=2318 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=144
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=144
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=144
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=144
+  [57 (+400)/sem limite] fila=2317 | depth=2 | https://tresbarras.pr.gov.br/noticias/esporte?start=224
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/esporte?start=224
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/esporte?start=224
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/esporte?start=224
+  [58 (+400)/sem limite] fila=2316 | depth=2 | https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5422-2023
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5422-2023
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5422-2023
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5422-2023
+  [59 (+400)/sem limite] fila=2315 | depth=2 | https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5452-2023
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5452-2023
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5452-2023
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/atos/decretos/decreto-n-5452-2023
+  [60 (+400)/sem limite] fila=2314 | depth=2 | https://tresbarras.pr.gov.br/index.php?option=com_users&view=remind
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/index.php?option=com_users&view=remind
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/index.php?option=com_users&view=remind
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/index.php?option=com_users&view=remind
+  [61 (+400)/sem limite] fila=2313 | depth=2 | https://tresbarras.pr.gov.br/index.php?option=com_users&view=reset
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/index.php?option=com_users&view=reset
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/index.php?option=com_users&view=reset
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/index.php?option=com_users&view=reset
+  [62 (+400)/sem limite] fila=2312 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=catego
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=category&id=38
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=category&id=38
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=category&id=38
+  [63 (+400)/sem limite] fila=2311 | depth=3 | https://tresbarras.pr.gov.br/transparencia/auditoria
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/auditoria
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/auditoria
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/auditoria
+  [64 (+400)/sem limite] fila=2310 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+  [65 (+400)/sem limite] fila=2309 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=10266:auxilio-brasil&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=10266:auxilio-brasil&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=10266:auxilio-brasil&catid=86
+  [66 (+400)/sem limite] fila=2308 | depth=3 | https://tresbarras.pr.gov.br/covid/vacinometro
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/covid/vacinometro
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/covid/vacinometro
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/covid/vacinometro
+  [67 (+400)/sem limite] fila=2307 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8864:periodo-eleitoral-2020&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8864:periodo-eleitoral-2020&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8864:periodo-eleitoral-2020&catid=86
+  [68 (+400)/sem limite] fila=2306 | depth=3 | https://tresbarras.pr.gov.br/denuncie
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/denuncie
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/denuncie
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/denuncie
+  [69 (+400)/sem limite] fila=2305 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8096:portal-lai-estatisticas&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8096:portal-lai-estatisticas&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8096:portal-lai-estatisticas&catid=86
+  [70 (+400)/sem limite] fila=2304 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8090:portal-lai&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8090:portal-lai&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=8090:portal-lai&catid=86
+  [71 (+400)/sem limite] fila=2303 | depth=3 | https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=articl
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=3854:periodo-eleitoral&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=3854:periodo-eleitoral&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/administracao/chefe-de-gabinete?view=article&id=3854:periodo-eleitoral&catid=86
+  [72 (+400)/sem limite] fila=2302 | depth=3 | https://tresbarras.pr.gov.br/galeria
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/galeria
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/galeria
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/galeria
+  [73 (+400)/sem limite] fila=2301 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=category&id=38
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=category&id=38
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=category&id=38
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=category&id=38
+  [74 (+400)/sem limite] fila=2300 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=1414
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=14140:conselho-de-alimentacao-escolar&catid=86
+  [75 (+400)/sem limite] fila=2299 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=1026
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=10266:auxilio-brasil&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=10266:auxilio-brasil&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=10266:auxilio-brasil&catid=86
+  [76 (+400)/sem limite] fila=2298 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8864
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8864:periodo-eleitoral-2020&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8864:periodo-eleitoral-2020&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8864:periodo-eleitoral-2020&catid=86
+  [77 (+400)/sem limite] fila=2297 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8096
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8096:portal-lai-estatisticas&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8096:portal-lai-estatisticas&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8096:portal-lai-estatisticas&catid=86
+  [78 (+400)/sem limite] fila=2296 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8090
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8090:portal-lai&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8090:portal-lai&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=8090:portal-lai&catid=86
+  [79 (+400)/sem limite] fila=2295 | depth=3 | https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=3854
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=3854:periodo-eleitoral&catid=86
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=3854:periodo-eleitoral&catid=86
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/governo/secretarias/tributacao?view=article&id=3854:periodo-eleitoral&catid=86
+  [80 (+400)/sem limite] fila=2294 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-06-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-06-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-06-2026
+  [81 (+400)/sem limite] fila=2293 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-05-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-05-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-05-2026
+  [82 (+400)/sem limite] fila=2292 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-04-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-04-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-04-2026
+  [83 (+400)/sem limite] fila=2291 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-03-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-03-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-03-2026
+  [84 (+400)/sem limite] fila=2290 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-02-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-02-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-02-2026
+  [85 (+400)/sem limite] fila=2289 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-01-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-01-2026
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-01-2026
+  [86 (+400)/sem limite] fila=2288 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-12-2025
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-12-2025
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-12-2025
+  [87 (+400)/sem limite] fila=2287 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-11-2025
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-11-2025
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-11-2025
+  [88 (+400)/sem limite] fila=2286 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-10-2025
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-10-2025
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-10-2025
+  [89 (+400)/sem limite] fila=2285 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-benefici
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-09-2025
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-09-2025
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia/lista-de-beneficiarios-do-programa-bolsa-familia-mes-09-2025
+  [90 (+400)/sem limite] fila=2284 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=10
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=10
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=10
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=10
+  [91 (+400)/sem limite] fila=2283 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=20
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=20
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=20
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=20
+  [92 (+400)/sem limite] fila=2282 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=30
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=30
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=30
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=30
+  [93 (+400)/sem limite] fila=2281 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=40
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=40
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=40
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=40
+  [94 (+400)/sem limite] fila=2280 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=50
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=50
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=50
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=50
+  [95 (+400)/sem limite] fila=2279 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=60
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=60
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=60
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/bolsa-familia?start=60
+  [96 (+400)/sem limite] fila=2278 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/siafic/decreto-n-4-440-2021
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/siafic/decreto-n-4-440-2021
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/siafic/decreto-n-4-440-2021
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/siafic/decreto-n-4-440-2021
+  [97 (+400)/sem limite] fila=2277 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/pesquisas/pesquisa-de-satisfaca
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/pesquisas/pesquisa-de-satisfacao-contratada
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/pesquisas/pesquisa-de-satisfacao-contratada
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/pesquisas/pesquisa-de-satisfacao-contratada
+  [98 (+400)/sem limite] fila=2276 | depth=3 | https://tresbarras.pr.gov.br/transparencia/geral/lai?view=formulario&layout=lai
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/geral/lai?view=formulario&layout=lai
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/geral/lai?view=formulario&layout=lai
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/geral/lai?view=formulario&layout=lai
+  [99 (+400)/sem limite] fila=2275 | depth=3 | https://www.tresbarras.pr.gov.br/transparencia/geral/lai
+ ❌ TIMEOUT_OU_CONEXAO: https://www.tresbarras.pr.gov.br/transparencia/geral/lai
+  🤖 Usando Selenium para: https://www.tresbarras.pr.gov.br/transparencia/geral/lai
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.tresbarras.pr.gov.br/transparencia/geral/lai
+  [100 (+400)/sem limite] fila=2274 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-n-1-2017
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-n-1-2017
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-n-1-2017
+  [101 (+400)/sem limite] fila=2273 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2016
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2016
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2016
+  [102 (+400)/sem limite] fila=2272 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2015
+  [103 (+400)/sem limite] fila=2271 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/contrato
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/contrato-n-013-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/contrato-n-013-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/contrato-n-013-2015
+  [104 (+400)/sem limite] fila=2270 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-12-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-12-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-e-edital-de-licitacao-convite-12-2015
+  [105 (+400)/sem limite] fila=2269 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-11-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-11-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-11-2015
+  [106 (+400)/sem limite] fila=2268 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-10-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-10-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-10-2015
+  [107 (+400)/sem limite] fila=2267 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-9-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-9-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-9-2015
+  [108 (+400)/sem limite] fila=2266 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-8-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-8-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-8-2015
+  [109 (+400)/sem limite] fila=2265 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-7-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-7-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-7-2015
+  [110 (+400)/sem limite] fila=2264 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-6-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-6-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-6-2015
+  [111 (+400)/sem limite] fila=2263 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-5-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-5-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-5-2015
+  [112 (+400)/sem limite] fila=2262 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-4-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-4-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-4-2015
+  [113 (+400)/sem limite] fila=2261 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-3-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-3-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-3-2015
+  [114 (+400)/sem limite] fila=2260 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-2-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-2-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-2-2015
+  [115 (+400)/sem limite] fila=2259 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-1-2015
+  [116 (+400)/sem limite] fila=2258 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-45-2015
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-45-2015
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-45-2015
+  [117 (+400)/sem limite] fila=2257 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-44-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-44-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-44-2014
+  [118 (+400)/sem limite] fila=2256 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-43-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-43-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-43-2014
+  [119 (+400)/sem limite] fila=2255 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-42-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-42-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-42-2014
+  [120 (+400)/sem limite] fila=2254 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-41-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-41-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-41-2014
+  [121 (+400)/sem limite] fila=2253 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-40-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-40-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-40-2014
+  [122 (+400)/sem limite] fila=2252 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-39-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-39-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-39-2014
+  [123 (+400)/sem limite] fila=2251 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-37-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-37-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-37-2014
+  [124 (+400)/sem limite] fila=2250 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-36-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-36-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-36-2014
+  [125 (+400)/sem limite] fila=2249 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-35-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-35-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-35-2014
+  [126 (+400)/sem limite] fila=2248 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-34-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-34-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-34-2014
+  [127 (+400)/sem limite] fila=2247 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-33-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-33-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-33-2014
+  [128 (+400)/sem limite] fila=2246 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-32-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-32-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-32-2014
+  [129 (+400)/sem limite] fila=2245 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-31-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-31-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-31-2014
+  [130 (+400)/sem limite] fila=2244 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-30-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-30-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-30-2014
+  [131 (+400)/sem limite] fila=2243 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-29-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-29-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-29-2014
+  [132 (+400)/sem limite] fila=2242 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-28-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-28-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-28-2014
+  [133 (+400)/sem limite] fila=2241 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-27-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-27-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-27-2014
+  [134 (+400)/sem limite] fila=2240 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-26-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-26-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-26-2014
+  [135 (+400)/sem limite] fila=2239 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-25-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-25-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-25-2014
+  [136 (+400)/sem limite] fila=2238 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-24-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-24-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-24-2014
+  [137 (+400)/sem limite] fila=2237 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-23-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-23-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-23-2014
+  [138 (+400)/sem limite] fila=2236 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-22-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-22-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-22-2014
+  [139 (+400)/sem limite] fila=2235 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
+  [140 (+400)/sem limite] fila=2234 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-20-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-20-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-20-2014
+  [141 (+400)/sem limite] fila=2233 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-19-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-19-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-19-2014
+  [142 (+400)/sem limite] fila=2232 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-18-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-18-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-18-2014
+  [143 (+400)/sem limite] fila=2231 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-17-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-17-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-17-2014
+  [144 (+400)/sem limite] fila=2230 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-16-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-16-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-16-2014
+  [145 (+400)/sem limite] fila=2229 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-15-2014
+  [146 (+400)/sem limite] fila=2228 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-07-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-07-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-07-2014
+  [147 (+400)/sem limite] fila=2227 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-06-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-06-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-06-2014
+  [148 (+400)/sem limite] fila=2226 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-05-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-05-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-05-2014
+  [149 (+400)/sem limite] fila=2225 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-04-2014
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-04-2014
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-04-2014
+  [150 (+400)/sem limite] fila=2224 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite?start=50
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite?start=50
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite?start=50
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite?start=50
+  [151 (+400)/sem limite] fila=2223 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2026-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2026-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2026-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+  [152 (+400)/sem limite] fila=2222 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-13-2025-construcao-de-creche-do-programa-infancia-feliz-parana-com-execucao-de-servicos-de-servicos-preliminares-e-administracao-de-obra-movimentacao-de-terra-drenagem-de-aguas-pluviais-fundacoes-estruturas-alvenaria-divisorias-muros-e-fechos-cobertura-esquadrias-acessorios-vidroes-e-espelhos-instalacoes-eletricas-telefonia-sistemade-protecao-e-ventilacao-instalacoes-hidrossanitaria
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-13-2025-construcao-de-creche-do-programa-infancia-feliz-parana-com-execucao-de-servicos-de-servicos-preliminares-e-administracao-de-obra-movimentacao-de-terra-drenagem-de-aguas-pluviais-fundacoes-estruturas-alvenaria-divisorias-muros-e-fechos-cobertura-esquadrias-acessorios-vidroes-e-espelhos-instalacoes-eletricas-telefonia-sistemade-protecao-e-ventilacao-instalacoes-hidrossanitaria
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-13-2025-construcao-de-creche-do-programa-infancia-feliz-parana-com-execucao-de-servicos-de-servicos-preliminares-e-administracao-de-obra-movimentacao-de-terra-drenagem-de-aguas-pluviais-fundacoes-estruturas-alvenaria-divisorias-muros-e-fechos-cobertura-esquadrias-acessorios-vidroes-e-espelhos-instalacoes-eletricas-telefonia-sistemade-protecao-e-ventilacao-instalacoes-hidrossanitaria
+  [153 (+400)/sem limite] fila=2221 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-palco-som-e-iluminacao-na-praca-municipal-no-dia-06-de-dezembro-para-evento-de-abertura-de-natal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-palco-som-e-iluminacao-na-praca-municipal-no-dia-06-de-dezembro-para-evento-de-abertura-de-natal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-palco-som-e-iluminacao-na-praca-municipal-no-dia-06-de-dezembro-para-evento-de-abertura-de-natal
+  [154 (+400)/sem limite] fila=2220 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-11-2025-contratacao-de-empresa-para-execucao-de-recape-asfaltico-de-vias-urbanas-em-cbuq-3-059-56-m-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-nos-trechos-da-avenida-sao-paulo-entre-rua-delino-bergamin-e-rua-timoteo-bernardes-prestes
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-11-2025-contratacao-de-empresa-para-execucao-de-recape-asfaltico-de-vias-urbanas-em-cbuq-3-059-56-m-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-nos-trechos-da-avenida-sao-paulo-entre-rua-delino-bergamin-e-rua-timoteo-bernardes-prestes
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-11-2025-contratacao-de-empresa-para-execucao-de-recape-asfaltico-de-vias-urbanas-em-cbuq-3-059-56-m-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-nos-trechos-da-avenida-sao-paulo-entre-rua-delino-bergamin-e-rua-timoteo-bernardes-prestes
+  [155 (+400)/sem limite] fila=2219 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2025-contratacao-de-empresa-para-realizacao-de-reforma-da-unidade-basica-de-saude-do-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2025-contratacao-de-empresa-para-realizacao-de-reforma-da-unidade-basica-de-saude-do-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2025-contratacao-de-empresa-para-realizacao-de-reforma-da-unidade-basica-de-saude-do-municipio-de-tres-barras-do-parana
+  [156 (+400)/sem limite] fila=2218 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-som-iluminacao-e-banheiros-quimicos-no-campo-de-futebol-jose-orbem-e-ginasio-de-esportes-mario-lopes-nos-dias-05-e-06-de-setembro-de-2025-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-som-iluminacao-e-banheiros-quimicos-no-campo-de-futebol-jose-orbem-e-ginasio-de-esportes-mario-lopes-nos-dias-05-e-06-de-setembro-de-2025-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2025-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-som-iluminacao-e-banheiros-quimicos-no-campo-de-futebol-jose-orbem-e-ginasio-de-esportes-mario-lopes-nos-dias-05-e-06-de-setembro-de-2025-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+  [157 (+400)/sem limite] fila=2217 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2025-contratacao-de-empresa-para-construcao-de-unidades-habitacionais-em-areas-urbanas-com-recursos-do-fundo-nacional-de-habitcao-de-interesse-social-fnhis-no-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2025-contratacao-de-empresa-para-construcao-de-unidades-habitacionais-em-areas-urbanas-com-recursos-do-fundo-nacional-de-habitcao-de-interesse-social-fnhis-no-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2025-contratacao-de-empresa-para-construcao-de-unidades-habitacionais-em-areas-urbanas-com-recursos-do-fundo-nacional-de-habitcao-de-interesse-social-fnhis-no-municipio-de-tres-barras-do-parana
+  [158 (+400)/sem limite] fila=2216 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2025-contratacao-de-empresa-para-execucao-de-reforma-no-clube-de-maes-nossa-senhora-dos-navegantes-do-distrito-de-barra-bonita
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2025-contratacao-de-empresa-para-execucao-de-reforma-no-clube-de-maes-nossa-senhora-dos-navegantes-do-distrito-de-barra-bonita
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2025-contratacao-de-empresa-para-execucao-de-reforma-no-clube-de-maes-nossa-senhora-dos-navegantes-do-distrito-de-barra-bonita
+  [159 (+400)/sem limite] fila=2215 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2025-contratacao-de-empresa-para-prestacao-de-servicos-de-requalificacao-de-vias-incluindo-fornecimento-de-material
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2025-contratacao-de-empresa-para-prestacao-de-servicos-de-requalificacao-de-vias-incluindo-fornecimento-de-material
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2025-contratacao-de-empresa-para-prestacao-de-servicos-de-requalificacao-de-vias-incluindo-fornecimento-de-material
+  [160 (+400)/sem limite] fila=2214 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2025-contratacao-de-empresa-especializada-para-execucao-do-projeto-de-iluminacao-ornamental-no-trecho-da-pr-471-compreendendo-o-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-pr-incluindo-a-rotatoria
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2025-contratacao-de-empresa-especializada-para-execucao-do-projeto-de-iluminacao-ornamental-no-trecho-da-pr-471-compreendendo-o-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-pr-incluindo-a-rotatoria
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2025-contratacao-de-empresa-especializada-para-execucao-do-projeto-de-iluminacao-ornamental-no-trecho-da-pr-471-compreendendo-o-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-pr-incluindo-a-rotatoria
+  [161 (+400)/sem limite] fila=2213 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-04-2025-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-do-centro-cirurgico-no-hospital-municipal-de-tres-barras-do-parana-abrangendo-os-servicos-de-demolicao-construcao-instalacoes-hidraulicas-e-sanitarias-revestimentos-pintura-e-demais-intervencoes-necessarias-conforme-especificado-nos-projetos-tecnicos-planilha-orcamentaria-memorial-descritivo-e-demais
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-04-2025-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-do-centro-cirurgico-no-hospital-municipal-de-tres-barras-do-parana-abrangendo-os-servicos-de-demolicao-construcao-instalacoes-hidraulicas-e-sanitarias-revestimentos-pintura-e-demais-intervencoes-necessarias-conforme-especificado-nos-projetos-tecnicos-planilha-orcamentaria-memorial-descritivo-e-demais
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-04-2025-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-do-centro-cirurgico-no-hospital-municipal-de-tres-barras-do-parana-abrangendo-os-servicos-de-demolicao-construcao-instalacoes-hidraulicas-e-sanitarias-revestimentos-pintura-e-demais-intervencoes-necessarias-conforme-especificado-nos-projetos-tecnicos-planilha-orcamentaria-memorial-descritivo-e-demais
+  [162 (+400)/sem limite] fila=2212 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-presencial-n-03-2025-concorrencia-na-forma-presencial-do-tipo-tecnica-e-preco-do-seguinte-objeto-contratacao-de-uma-agencia-de-publicidade-e-propaganda-para-a-prestacao-de-servicos-tecnicos-especializados-na-concepcao-planejamento-criacao-execucao-e-divulgacao-de-campanhas-institucionais-bem-como-na-realizacao-de-outros-servicos-publicitarios-de-interesse-da-administracao-publica-do-m
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-presencial-n-03-2025-concorrencia-na-forma-presencial-do-tipo-tecnica-e-preco-do-seguinte-objeto-contratacao-de-uma-agencia-de-publicidade-e-propaganda-para-a-prestacao-de-servicos-tecnicos-especializados-na-concepcao-planejamento-criacao-execucao-e-divulgacao-de-campanhas-institucionais-bem-como-na-realizacao-de-outros-servicos-publicitarios-de-interesse-da-administracao-publica-do-m
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-presencial-n-03-2025-concorrencia-na-forma-presencial-do-tipo-tecnica-e-preco-do-seguinte-objeto-contratacao-de-uma-agencia-de-publicidade-e-propaganda-para-a-prestacao-de-servicos-tecnicos-especializados-na-concepcao-planejamento-criacao-execucao-e-divulgacao-de-campanhas-institucionais-bem-como-na-realizacao-de-outros-servicos-publicitarios-de-interesse-da-administracao-publica-do-m
+  [163 (+400)/sem limite] fila=2211 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-02-2025-contratacao-de-empresa-para-execucao-de-obra-de-extensao-da-rede-eletrica-para-iluminacao-da-pista-de-caminhada-na-pr-471
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-02-2025-contratacao-de-empresa-para-execucao-de-obra-de-extensao-da-rede-eletrica-para-iluminacao-da-pista-de-caminhada-na-pr-471
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-02-2025-contratacao-de-empresa-para-execucao-de-obra-de-extensao-da-rede-eletrica-para-iluminacao-da-pista-de-caminhada-na-pr-471
+  [164 (+400)/sem limite] fila=2210 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-01-2025-construcao-de-capela-mortuaria-conforme-termo-de-convenio-n-916-2024-secid-e-projetos
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-01-2025-construcao-de-capela-mortuaria-conforme-termo-de-convenio-n-916-2024-secid-e-projetos
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-01-2025-construcao-de-capela-mortuaria-conforme-termo-de-convenio-n-916-2024-secid-e-projetos
+  [165 (+400)/sem limite] fila=2209 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-20-2024-contratacao-de-empresa-especializada-para-a-construcao-de-um-sistema-completo-de-abastecimento-de-agua-potavel-contemplando-todas-as-etapas-necessarias-incluindo-a-perfuracao-de-poco-artesiano-revestimento-e-instalacao-de-equipamentos-obtencao-das-licencas-ambientais-e-outorgas-construcao-do-reservatorio-de-armazenamento-e-implantacao-da-rede-de-distribuicao-visan
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-20-2024-contratacao-de-empresa-especializada-para-a-construcao-de-um-sistema-completo-de-abastecimento-de-agua-potavel-contemplando-todas-as-etapas-necessarias-incluindo-a-perfuracao-de-poco-artesiano-revestimento-e-instalacao-de-equipamentos-obtencao-das-licencas-ambientais-e-outorgas-construcao-do-reservatorio-de-armazenamento-e-implantacao-da-rede-de-distribuicao-visan
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-20-2024-contratacao-de-empresa-especializada-para-a-construcao-de-um-sistema-completo-de-abastecimento-de-agua-potavel-contemplando-todas-as-etapas-necessarias-incluindo-a-perfuracao-de-poco-artesiano-revestimento-e-instalacao-de-equipamentos-obtencao-das-licencas-ambientais-e-outorgas-construcao-do-reservatorio-de-armazenamento-e-implantacao-da-rede-de-distribuicao-visan
+  [166 (+400)/sem limite] fila=2208 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-19-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-da-escola-municipal-angelina-segala-dezan
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-19-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-da-escola-municipal-angelina-segala-dezan
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-19-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-da-escola-municipal-angelina-segala-dezan
+  [167 (+400)/sem limite] fila=2207 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-18-2024-contratacao-de-empresa-para-construcao-de-estrutura-pre-moldada-para-base-de-reservatorio-de-20-000-vinte-mil-litros-a-ser-instalado-na-linha-sao-paulo
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-18-2024-contratacao-de-empresa-para-construcao-de-estrutura-pre-moldada-para-base-de-reservatorio-de-20-000-vinte-mil-litros-a-ser-instalado-na-linha-sao-paulo
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-18-2024-contratacao-de-empresa-para-construcao-de-estrutura-pre-moldada-para-base-de-reservatorio-de-20-000-vinte-mil-litros-a-ser-instalado-na-linha-sao-paulo
+  [168 (+400)/sem limite] fila=2206 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-17-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-17-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-17-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  [169 (+400)/sem limite] fila=2205 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-16-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-sonho-de-crianca-e-hospital-municipal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-16-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-sonho-de-crianca-e-hospital-municipal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-16-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-sonho-de-crianca-e-hospital-municipal
+  [170 (+400)/sem limite] fila=2204 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-15-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-do-refeitorio-e-do-deposito-de-alimentos-da-escola-municipal-carlos-gomes-incluindo-o-fornecimento-de-todos-os-materiais-necessarios-conforme-especificado-nos-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-15-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-do-refeitorio-e-do-deposito-de-alimentos-da-escola-municipal-carlos-gomes-incluindo-o-fornecimento-de-todos-os-materiais-necessarios-conforme-especificado-nos-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-15-2024-contratacao-de-empresa-especializada-para-a-execucao-das-obras-de-ampliacao-do-refeitorio-e-do-deposito-de-alimentos-da-escola-municipal-carlos-gomes-incluindo-o-fornecimento-de-todos-os-materiais-necessarios-conforme-especificado-nos-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  [171 (+400)/sem limite] fila=2203 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-14-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-14-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-14-2024-contratacao-de-empresa-especializada-para-a-execucao-da-reforma-da-biblioteca-publica-municipal-abrangendo-servicos-de-pintura-interna-e-externa-substituicao-da-cobertura-e-das-esquadrias-de-acordo-com-os-projetos-a-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo-licitatorio
+  [172 (+400)/sem limite] fila=2202 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-13-2024-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-13-2024-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-13-2024-contratacao-de-empresa-para-execucao-de-pavimentacao-poliedrica-em-estradas-rurais-vicinais-na-comunidade-de-linha-alta-com-extensao-de-750-metros
+  [173 (+400)/sem limite] fila=2201 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2024-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-e-luzes-de-led-no-campo-de-futebol-jose-orbem-nos-dias-06-e-07-de-setembro-de-2024-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2024-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-e-luzes-de-led-no-campo-de-futebol-jose-orbem-nos-dias-06-e-07-de-setembro-de-2024-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-12-2024-contratacao-de-empresa-para-locacao-e-instalacao-de-tendas-stands-palco-e-luzes-de-led-no-campo-de-futebol-jose-orbem-nos-dias-06-e-07-de-setembro-de-2024-para-evento-febarras-a-ser-realizado-pela-associacao-comercial-e-empresarial-de-tres-barras-do-parana
+  [174 (+400)/sem limite] fila=2200 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-11-2024-contratacao-de-empresa-para-execucao-de-obra-de-reforma-do-paco-municipal-de-tres-barras-do-parana-contendo-pintura-externa-da-edificacao-e-substituicao-do-telhado-existente-conforme-convenio-n-542-2024-secid
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-11-2024-contratacao-de-empresa-para-execucao-de-obra-de-reforma-do-paco-municipal-de-tres-barras-do-parana-contendo-pintura-externa-da-edificacao-e-substituicao-do-telhado-existente-conforme-convenio-n-542-2024-secid
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-11-2024-contratacao-de-empresa-para-execucao-de-obra-de-reforma-do-paco-municipal-de-tres-barras-do-parana-contendo-pintura-externa-da-edificacao-e-substituicao-do-telhado-existente-conforme-convenio-n-542-2024-secid
+  [175 (+400)/sem limite] fila=2199 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-6-481-20m2-incluindo-servicos-preliminares-drenagem-revestimento-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-532-2024-secid
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-6-481-20m2-incluindo-servicos-preliminares-drenagem-revestimento-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-532-2024-secid
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-10-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-6-481-20m2-incluindo-servicos-preliminares-drenagem-revestimento-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-532-2024-secid
+  [176 (+400)/sem limite] fila=2198 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-de-vias-urbanas-em-cbuq-10-149-76m2-incluindo-servicos-preliminares-terraplenagem-drenagem-base-e-sub-base-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-504-2024-secid
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-de-vias-urbanas-em-cbuq-10-149-76m2-incluindo-servicos-preliminares-terraplenagem-drenagem-base-e-sub-base-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-504-2024-secid
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-09-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-de-vias-urbanas-em-cbuq-10-149-76m2-incluindo-servicos-preliminares-terraplenagem-drenagem-base-e-sub-base-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-504-2024-secid
+  [177 (+400)/sem limite] fila=2197 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-5-419-21m2-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-503-2024-secid
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-5-419-21m2-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-503-2024-secid
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-08-2024-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-asfaltica-sobre-pedras-irregulares-de-vias-urbanas-em-cbuq-5-419-21m2-incluindo-servicos-preliminares-revestimento-meio-fio-com-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual-conforme-convenio-n-503-2024-secid
+  [178 (+400)/sem limite] fila=2196 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-anaju-e-ginasio-de-esportes-do-bairro-jardim-floresta
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-anaju-e-ginasio-de-esportes-do-bairro-jardim-floresta
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-07-2024-contratacao-de-empresa-para-fornecimento-de-projetos-tecnicos-e-exectivos-documentos-complementares-art-s-materiais-equipamentos-e-servicos-para-instalacao-do-sistema-de-geracao-de-energia-solar-fotovoltaico-on-grid-homologado-e-comissionado-pelo-orgao-competente-nas-dependecias-do-cmei-anaju-e-ginasio-de-esportes-do-bairro-jardim-floresta
+  [179 (+400)/sem limite] fila=2195 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2024-contratacao-de-empresa-especializada-para-execucao-de-03-abastecedouros-comunitarios-nas-comunidades-de-santa-barbara-linha-kennedy-e-rosario-d-oeste-confome-projetos-planilhas-orcamentarias-e-demais-documentos-em-anexo-ao-processo
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2024-contratacao-de-empresa-especializada-para-execucao-de-03-abastecedouros-comunitarios-nas-comunidades-de-santa-barbara-linha-kennedy-e-rosario-d-oeste-confome-projetos-planilhas-orcamentarias-e-demais-documentos-em-anexo-ao-processo
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-06-2024-contratacao-de-empresa-especializada-para-execucao-de-03-abastecedouros-comunitarios-nas-comunidades-de-santa-barbara-linha-kennedy-e-rosario-d-oeste-confome-projetos-planilhas-orcamentarias-e-demais-documentos-em-anexo-ao-processo
+  [180 (+400)/sem limite] fila=2194 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2024-contratacao-de-empresa-para-executar-obra-de-pista-de-caminhada-em-acesso-ao-cemiterio-municipal-na-pr-471-km-193-82m-a-km-194-137m
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2024-contratacao-de-empresa-para-executar-obra-de-pista-de-caminhada-em-acesso-ao-cemiterio-municipal-na-pr-471-km-193-82m-a-km-194-137m
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-eletronica-n-05-2024-contratacao-de-empresa-para-executar-obra-de-pista-de-caminhada-em-acesso-ao-cemiterio-municipal-na-pr-471-km-193-82m-a-km-194-137m
+  [181 (+400)/sem limite] fila=2193 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2024-contratacao-de-empresa-para-executar-pavimentacao-asfaltica-em-vias-publicas-urbanas-conforme-contrato-de-repasse-n-953315-2023-do-ministerio-das-cidades
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2024-contratacao-de-empresa-para-executar-pavimentacao-asfaltica-em-vias-publicas-urbanas-conforme-contrato-de-repasse-n-953315-2023-do-ministerio-das-cidades
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2024-contratacao-de-empresa-para-executar-pavimentacao-asfaltica-em-vias-publicas-urbanas-conforme-contrato-de-repasse-n-953315-2023-do-ministerio-das-cidades
+  [182 (+400)/sem limite] fila=2192 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2024-contratacao-de-empresa-especializada-para-execucao-de-obra-de-ampliacao-da-infraestrutura-da-unidade-operacional-da-coleta-seletiva-de-residuos-solidos-urbanos-conforme-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2024-contratacao-de-empresa-especializada-para-execucao-de-obra-de-ampliacao-da-infraestrutura-da-unidade-operacional-da-coleta-seletiva-de-residuos-solidos-urbanos-conforme-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2024-contratacao-de-empresa-especializada-para-execucao-de-obra-de-ampliacao-da-infraestrutura-da-unidade-operacional-da-coleta-seletiva-de-residuos-solidos-urbanos-conforme-projetos-planilha-orcamentaria-e-demais-documentos-anexos-ao-processo
+  [183 (+400)/sem limite] fila=2191 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2024-contratacao-de-empresa-para-construcao-de-estacao-de-residuos-solidos-urbanos-no-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2024-contratacao-de-empresa-para-construcao-de-estacao-de-residuos-solidos-urbanos-no-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2024-contratacao-de-empresa-para-construcao-de-estacao-de-residuos-solidos-urbanos-no-municipio-de-tres-barras-do-parana
+  [184 (+400)/sem limite] fila=2190 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2024-contratacao-de-servicos-de-publicidade-prestados-por-intermedio-de-agencia-de-propaganda-compreendendo-o-conjunto-de-atividades-realizadas-integradamente-que-tenham-por-objetivo-o-estudo-o-planejamento-a-conceituacao-a-concepcao-a-criacao-a-execucao-interna-a-intermediacao-e-supervisao-da-execucao-externa-e-a-distribuicao-de-acoes-publicitarias-junto-a-publicos-de-interesse
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2024-contratacao-de-servicos-de-publicidade-prestados-por-intermedio-de-agencia-de-propaganda-compreendendo-o-conjunto-de-atividades-realizadas-integradamente-que-tenham-por-objetivo-o-estudo-o-planejamento-a-conceituacao-a-concepcao-a-criacao-a-execucao-interna-a-intermediacao-e-supervisao-da-execucao-externa-e-a-distribuicao-de-acoes-publicitarias-junto-a-publicos-de-interesse
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2024-contratacao-de-servicos-de-publicidade-prestados-por-intermedio-de-agencia-de-propaganda-compreendendo-o-conjunto-de-atividades-realizadas-integradamente-que-tenham-por-objetivo-o-estudo-o-planejamento-a-conceituacao-a-concepcao-a-criacao-a-execucao-interna-a-intermediacao-e-supervisao-da-execucao-externa-e-a-distribuicao-de-acoes-publicitarias-junto-a-publicos-de-interesse
+  [185 (+400)/sem limite] fila=2189 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2023-contratacao-de-empresa-para-execucao-de-projeto-do-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-que-sera-implantado-entre-o-km-190-228m-e-km190-965m-da-pr471-trecho-pr471s0100epr
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2023-contratacao-de-empresa-para-execucao-de-projeto-do-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-que-sera-implantado-entre-o-km-190-228m-e-km190-965m-da-pr471-trecho-pr471s0100epr
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2023-contratacao-de-empresa-para-execucao-de-projeto-do-novo-contorno-de-acesso-ao-municipio-de-tres-barras-do-parana-que-sera-implantado-entre-o-km-190-228m-e-km190-965m-da-pr471-trecho-pr471s0100epr
+  [186 (+400)/sem limite] fila=2188 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2022-contratacao-de-empresa-para-execucao-de-pavimentacao-asfaltica-em-vias-urbanas-do-municipio-de-tres-barras-barras-do-parana-conforme-contrato-de-finaciamento-n-4392-2022-fomento-parana-sfm
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2022-contratacao-de-empresa-para-execucao-de-pavimentacao-asfaltica-em-vias-urbanas-do-municipio-de-tres-barras-barras-do-parana-conforme-contrato-de-finaciamento-n-4392-2022-fomento-parana-sfm
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2022-contratacao-de-empresa-para-execucao-de-pavimentacao-asfaltica-em-vias-urbanas-do-municipio-de-tres-barras-barras-do-parana-conforme-contrato-de-finaciamento-n-4392-2022-fomento-parana-sfm
+  [187 (+400)/sem limite] fila=2187 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-publica-n-02-2021-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-e-pavimentacao-asfaltica-em-vias-urbanas-recape-em-cbuq-28-920-00m-incluindo-servicos-preliminares-demolicao-do-pavimento-existente-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-obra
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-publica-n-02-2021-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-e-pavimentacao-asfaltica-em-vias-urbanas-recape-em-cbuq-28-920-00m-incluindo-servicos-preliminares-demolicao-do-pavimento-existente-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-obra
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-publica-n-02-2021-contratacao-de-empresa-para-execucao-de-obra-de-pavimentacao-sobre-pedras-irregulares-e-pavimentacao-asfaltica-em-vias-urbanas-recape-em-cbuq-28-920-00m-incluindo-servicos-preliminares-demolicao-do-pavimento-existente-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-obra
+  [188 (+400)/sem limite] fila=2186 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2021-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2021-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2021-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+  [189 (+400)/sem limite] fila=2185 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-05-2020-contratacao-de-empresa-para-execucao-de-recapeamento-asfaltico-sobre-pavimento-poliedrico-em-vias-urbanas-no-loteamento-jardim-america
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-05-2020-contratacao-de-empresa-para-execucao-de-recapeamento-asfaltico-sobre-pavimento-poliedrico-em-vias-urbanas-no-loteamento-jardim-america
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-05-2020-contratacao-de-empresa-para-execucao-de-recapeamento-asfaltico-sobre-pavimento-poliedrico-em-vias-urbanas-no-loteamento-jardim-america
+  [190 (+400)/sem limite] fila=2184 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-04-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+  [191 (+400)/sem limite] fila=2183 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2020-contratacao-de-empresa-para-execucao-de-remodelagem-e-revitalizacao-da-avenida-brasil-com-recapeamento-asfaltico-em-cbuq-26-101-98-m-e-pavimentacao-em-cbuq-677-57-m-incluindo-os-servicos-preliminares-terraplanagem-base-e-sub-base-revestimento-meio-fio-e-sarjeta-servicos-de-urbanizacao-sinalizacao-de-transito-servicos-diversos-ensaios-tecnologicos-e-placa-de-comunicacao-visua
+  [192 (+400)/sem limite] fila=2182 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2020-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2020-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-02-2020-alienacao-de-bem-imovel-lote-n-60-b-3-gleba-n-01-imovel-andrada
+  [193 (+400)/sem limite] fila=2181 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2020-pavimentacao-asfaltica-sobre-pedras-irregulares-em-cbuq-20-854-56-m-incluindo-os-servicos-preliminares-revestimento-reperfilamento-e-capa-tapa-buraco-meio-fio-e-sarjeta-paisagismo-e-urbanismo-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2020-pavimentacao-asfaltica-sobre-pedras-irregulares-em-cbuq-20-854-56-m-incluindo-os-servicos-preliminares-revestimento-reperfilamento-e-capa-tapa-buraco-meio-fio-e-sarjeta-paisagismo-e-urbanismo-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2020-pavimentacao-asfaltica-sobre-pedras-irregulares-em-cbuq-20-854-56-m-incluindo-os-servicos-preliminares-revestimento-reperfilamento-e-capa-tapa-buraco-meio-fio-e-sarjeta-paisagismo-e-urbanismo-sinalizacao-de-transito-ensaios-tecnologicos-e-placa-de-comunicacao-visual
+  [194 (+400)/sem limite] fila=2180 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2019-cessao-de-uso-de-espaco-publico-destinado-para-a-exploracao-de-atividade-comercial-de-praca-de-alimentacao-e-venda-de-bebidas-durante-a-realizacao-do-fermop-festival-regional-dos-municipios-do-oeste-do-parana-e-fermups-festival-regional-da-musica-popular-e-sertaneja-do-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2019-cessao-de-uso-de-espaco-publico-destinado-para-a-exploracao-de-atividade-comercial-de-praca-de-alimentacao-e-venda-de-bebidas-durante-a-realizacao-do-fermop-festival-regional-dos-municipios-do-oeste-do-parana-e-fermups-festival-regional-da-musica-popular-e-sertaneja-do-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-01-2019-cessao-de-uso-de-espaco-publico-destinado-para-a-exploracao-de-atividade-comercial-de-praca-de-alimentacao-e-venda-de-bebidas-durante-a-realizacao-do-fermop-festival-regional-dos-municipios-do-oeste-do-parana-e-fermups-festival-regional-da-musica-popular-e-sertaneja-do-municipio-de-tres-barras-do-parana
+  [195 (+400)/sem limite] fila=2179 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2017
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2017
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica/concorrencia-n-03-2017
+  [196 (+400)/sem limite] fila=2178 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica?s
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica?start=50
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica?start=50
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/concorrencia-publica?start=50
+  [197 (+400)/sem limite] fila=2177 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-16-2024-contracao-de-empresa-para-prestacao-de-servicos-de-portabilidade-e-mensalidade-de-linhas-telefonicas-fixo-ilimitado-para-os-departamentos-da-administracao-publica-municipal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-16-2024-contracao-de-empresa-para-prestacao-de-servicos-de-portabilidade-e-mensalidade-de-linhas-telefonicas-fixo-ilimitado-para-os-departamentos-da-administracao-publica-municipal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-16-2024-contracao-de-empresa-para-prestacao-de-servicos-de-portabilidade-e-mensalidade-de-linhas-telefonicas-fixo-ilimitado-para-os-departamentos-da-administracao-publica-municipal
+  [198 (+400)/sem limite] fila=2176 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-15-2024-contratacao-de-empresa-promotora-de-eventos-para-fornecimento-de-toda-a-estrutura-de-palco-iluminacao-equipamentos-de-sonorizacao-equipe-tecnica-e-demais-equipamentos-e-estrutura-necessaria-para-a-realizacao-de-show-de-abertura-de-natal-no-dia-07-12-2024
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-15-2024-contratacao-de-empresa-promotora-de-eventos-para-fornecimento-de-toda-a-estrutura-de-palco-iluminacao-equipamentos-de-sonorizacao-equipe-tecnica-e-demais-equipamentos-e-estrutura-necessaria-para-a-realizacao-de-show-de-abertura-de-natal-no-dia-07-12-2024
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-15-2024-contratacao-de-empresa-promotora-de-eventos-para-fornecimento-de-toda-a-estrutura-de-palco-iluminacao-equipamentos-de-sonorizacao-equipe-tecnica-e-demais-equipamentos-e-estrutura-necessaria-para-a-realizacao-de-show-de-abertura-de-natal-no-dia-07-12-2024
+  [199 (+400)/sem limite] fila=2175 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-14-2024-contratacao-de-empresa-para-fornecer-e-operar-um-trenzinho-natalino-destinado-a-passeios-com-criancas-pela-cidade
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-14-2024-contratacao-de-empresa-para-fornecer-e-operar-um-trenzinho-natalino-destinado-a-passeios-com-criancas-pela-cidade
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-14-2024-contratacao-de-empresa-para-fornecer-e-operar-um-trenzinho-natalino-destinado-a-passeios-com-criancas-pela-cidade
+  [200 (+400)/sem limite] fila=2174 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-13-2024-registro-de-precos-para-futura-e-eventual-aquisicao-de-leite-uht-em-caixinhas-destinado-ao-atendimento-das-necessidades-da-administracao-publica-municipal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-13-2024-registro-de-precos-para-futura-e-eventual-aquisicao-de-leite-uht-em-caixinhas-destinado-ao-atendimento-das-necessidades-da-administracao-publica-municipal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-13-2024-registro-de-precos-para-futura-e-eventual-aquisicao-de-leite-uht-em-caixinhas-destinado-ao-atendimento-das-necessidades-da-administracao-publica-municipal
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/tresbarrasdoparana/inventario_links.xlsx
+  36 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/tresbarrasdoparana/erros_varredura.xlsx
+  826 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/tresbarrasdoparana/inventario_externos.xlsx
+  91 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 200 nesta sessão).
+  [201 (+400)/sem limite] fila=2173 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-09-2024-contratacao-de-assessoria-tecnica-para-suporte-na-gestao-cultural-na-captacao-e-aplicacao-dos-recursos-da-politica-nacional-aldir-blanc-pnab-no-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-09-2024-contratacao-de-assessoria-tecnica-para-suporte-na-gestao-cultural-na-captacao-e-aplicacao-dos-recursos-da-politica-nacional-aldir-blanc-pnab-no-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-09-2024-contratacao-de-assessoria-tecnica-para-suporte-na-gestao-cultural-na-captacao-e-aplicacao-dos-recursos-da-politica-nacional-aldir-blanc-pnab-no-municipio-de-tres-barras-do-parana
+  [202 (+400)/sem limite] fila=2172 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-08-2024-contratacao-de-empresa-para-fornecimento-e-instalacao-de-transformador-trifasico-em-barracao-de-propriedade-do-municipio-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-08-2024-contratacao-de-empresa-para-fornecimento-e-instalacao-de-transformador-trifasico-em-barracao-de-propriedade-do-municipio-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-de-licitacao-n-08-2024-contratacao-de-empresa-para-fornecimento-e-instalacao-de-transformador-trifasico-em-barracao-de-propriedade-do-municipio-de-tres-barras-do-parana
+  [203 (+400)/sem limite] fila=2171 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-eletronica-n-07-2024-contratacao-de-empresa-para-prestacao-de-servicos-de-profissional-em-enfermagem-para-plantoes-diurnos-e-noturnos-no-hospital-municipal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-eletronica-n-07-2024-contratacao-de-empresa-para-prestacao-de-servicos-de-profissional-em-enfermagem-para-plantoes-diurnos-e-noturnos-no-hospital-municipal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/dispensa-eletronica-n-07-2024-contratacao-de-empresa-para-prestacao-de-servicos-de-profissional-em-enfermagem-para-plantoes-diurnos-e-noturnos-no-hospital-municipal
+  [204 (+400)/sem limite] fila=2170 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/dispensa-de-licitacao/
