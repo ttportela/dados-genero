@@ -1663,3 +1663,23 @@ Nenhum checkpoint encontrado — iniciando do zero.
  ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
   [540/sem limite] fila=2234 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+============================================================
+  TCC - Pipeline de Dados Publicos | TRESBARRASDOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 36 arquivos já registrados.
+  Links externos parciais carregados: 91 links já registrados.
+  Log de erros parcial carregado: 426 erros já registrados.
+
+============================================================
+  Crawler iniciado: TRESBARRASDOPARANA
+  Páginas já visitadas (checkpoint): 400
+  URLs na fila: 2374
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+400)/sem limite] fila=2373 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divul
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divulga-boletim-de-ists-com-dados-de-2016-a-2026
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divulga-boletim-de-ists-com-dados-de-2016-a-2026
