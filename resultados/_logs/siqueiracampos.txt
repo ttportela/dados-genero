@@ -14870,3 +14870,794 @@ Consultando IBGE — municípios de PR (código 41)...
   Cidades já configuradas: 399
 
   [1/1] 🔍 Siqueira Campos (slug: siqueiracampos)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | SIQUEIRACAMPOS
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 2940 arquivos já registrados.
+  Links externos parciais carregados: 211 links já registrados.
+  Log de erros parcial carregado: 248 erros já registrados.
+
+============================================================
+  Crawler iniciado: SIQUEIRACAMPOS
+  Páginas já visitadas (checkpoint): 10832
+  URLs na fila: 8982
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+10832)/sem limite] fila=8981 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/114/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/114/
+  [2 (+10832)/sem limite] fila=8980 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/11/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/11/processo-
+  [3 (+10832)/sem limite] fila=8979 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/154/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/154/
+  [4 (+10832)/sem limite] fila=8978 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/153/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/153/
+  [5 (+10832)/sem limite] fila=8977 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/152/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/152/
+  [6 (+10832)/sem limite] fila=8976 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/151/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/151/
+  [7 (+10832)/sem limite] fila=8975 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/149/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/149/
+  [8 (+10832)/sem limite] fila=8974 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/148/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/148/
+  [9 (+10832)/sem limite] fila=8973 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/147/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/147/
+  [10 (+10832)/sem limite] fila=8972 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/144/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/144/
+  [11 (+10832)/sem limite] fila=8971 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/143/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/143/
+  [12 (+10832)/sem limite] fila=8970 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/113/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/113/
+  [13 (+10832)/sem limite] fila=8969 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/112/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/112/
+  [14 (+10832)/sem limite] fila=8968 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/111/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/111/
+  [15 (+10832)/sem limite] fila=8967 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/110/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/110/
+  [16 (+10832)/sem limite] fila=8966 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/109/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/109/
+  [17 (+10832)/sem limite] fila=8965 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/108/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/108/
+  [18 (+10832)/sem limite] fila=8964 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/107/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/107/
+  [19 (+10832)/sem limite] fila=8963 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/103/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/103/
+  [20 (+10832)/sem limite] fila=8962 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/10/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/10/processo-
+  [21 (+10832)/sem limite] fila=8961 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/244/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/244/
+  [22 (+10832)/sem limite] fila=8960 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/243/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/243/
+  [23 (+10832)/sem limite] fila=8959 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/241/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/241/
+  [24 (+10832)/sem limite] fila=8958 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/235/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/235/
+  [25 (+10832)/sem limite] fila=8957 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/229/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/229/
+  [26 (+10832)/sem limite] fila=8956 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/214/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/214/
+  [27 (+10832)/sem limite] fila=8955 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/189/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/189/
+  [28 (+10832)/sem limite] fila=8954 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/139/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/139/
+  [29 (+10832)/sem limite] fila=8953 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/134/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/134/
+  [30 (+10832)/sem limite] fila=8952 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/133/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/133/
+  [31 (+10832)/sem limite] fila=8951 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/132/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/132/
+  [32 (+10832)/sem limite] fila=8950 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/131/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/131/
+  [33 (+10832)/sem limite] fila=8949 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/130/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/130/
+  [34 (+10832)/sem limite] fila=8948 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/127/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/127/
+  [35 (+10832)/sem limite] fila=8947 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/125/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/125/
+  [36 (+10832)/sem limite] fila=8946 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/122/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/122/
+  [37 (+10832)/sem limite] fila=8945 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/120/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/120/
+  [38 (+10832)/sem limite] fila=8944 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/119/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/119/
+  [39 (+10832)/sem limite] fila=8943 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/104/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/104/
+  [40 (+10832)/sem limite] fila=8942 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/102/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/102/
+  [41 (+10832)/sem limite] fila=8941 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/101/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/101/
+  [42 (+10832)/sem limite] fila=8940 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/99/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/99/
+  [43 (+10832)/sem limite] fila=8939 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/98/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/98/
+  [44 (+10832)/sem limite] fila=8938 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/96/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/96/
+  [45 (+10832)/sem limite] fila=8937 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/9/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/9/processo-s
+  [46 (+10832)/sem limite] fila=8936 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/176/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/176/
+  [47 (+10832)/sem limite] fila=8935 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/175/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/175/
+  [48 (+10832)/sem limite] fila=8934 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/174/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/174/
+  [49 (+10832)/sem limite] fila=8933 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/173/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/173/
+  [50 (+10832)/sem limite] fila=8932 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/172/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/172/
+  [51 (+10832)/sem limite] fila=8931 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/97/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/97/
+  [52 (+10832)/sem limite] fila=8930 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/94/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/94/
+  [53 (+10832)/sem limite] fila=8929 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/92/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/92/
+  [54 (+10832)/sem limite] fila=8928 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/91/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/91/
+  [55 (+10832)/sem limite] fila=8927 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/90/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/90/
+  [56 (+10832)/sem limite] fila=8926 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/89/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/89/
+  [57 (+10832)/sem limite] fila=8925 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/88/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/88/
+  [58 (+10832)/sem limite] fila=8924 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/87/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/87/
+  [59 (+10832)/sem limite] fila=8923 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/8/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/8/processo-s
+  [60 (+10832)/sem limite] fila=8922 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/78/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/78/
+  [61 (+10832)/sem limite] fila=8921 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/77/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/77/
+  [62 (+10832)/sem limite] fila=8920 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/76/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/76/
+  [63 (+10832)/sem limite] fila=8919 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/71/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/71/
+  [64 (+10832)/sem limite] fila=8918 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/7/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/7/processo-s
+  [65 (+10832)/sem limite] fila=8917 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/75/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/75/
+  [66 (+10832)/sem limite] fila=8916 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/73/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/73/
+  [67 (+10832)/sem limite] fila=8915 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/70/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/70/
+  [68 (+10832)/sem limite] fila=8914 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/69/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/69/
+  [69 (+10832)/sem limite] fila=8913 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/68/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/68/
+  [70 (+10832)/sem limite] fila=8912 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/67/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/67/
+  [71 (+10832)/sem limite] fila=8911 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/66/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/66/
+  [72 (+10832)/sem limite] fila=8910 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/6/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/6/processo-s
+  [73 (+10832)/sem limite] fila=8909 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/171/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/171/
+  [74 (+10832)/sem limite] fila=8908 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/170/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/170/
+  [75 (+10832)/sem limite] fila=8907 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/169/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/169/
+  [76 (+10832)/sem limite] fila=8906 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/168/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/168/
+  [77 (+10832)/sem limite] fila=8905 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/167/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/167/
+  [78 (+10832)/sem limite] fila=8904 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/166/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/166/
+  [79 (+10832)/sem limite] fila=8903 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/165/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/165/
+  [80 (+10832)/sem limite] fila=8902 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/164/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/164/
+  [81 (+10832)/sem limite] fila=8901 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/163/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/163/
+  [82 (+10832)/sem limite] fila=8900 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/162/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/162/
+  [83 (+10832)/sem limite] fila=8899 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/161/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/161/
+  [84 (+10832)/sem limite] fila=8898 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/160/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/160/
+  [85 (+10832)/sem limite] fila=8897 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/159/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/159/
+  [86 (+10832)/sem limite] fila=8896 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/158/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/158/
+  [87 (+10832)/sem limite] fila=8895 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/157/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/157/
+  [88 (+10832)/sem limite] fila=8894 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/65/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/65/
+  [89 (+10832)/sem limite] fila=8893 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/63/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/63/
+  [90 (+10832)/sem limite] fila=8892 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/62/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/62/
+  [91 (+10832)/sem limite] fila=8891 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/60/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/60/
+  [92 (+10832)/sem limite] fila=8890 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/58/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/58/
+  [93 (+10832)/sem limite] fila=8889 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/4/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/4/processo-s
+  [94 (+10832)/sem limite] fila=8888 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/55/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/55/
+  [95 (+10832)/sem limite] fila=8887 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/54/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/54/
+  [96 (+10832)/sem limite] fila=8886 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/53/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/53/
+  [97 (+10832)/sem limite] fila=8885 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/52/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/52/
+  [98 (+10832)/sem limite] fila=8884 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/48/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/48/
+  [99 (+10832)/sem limite] fila=8883 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/47/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/47/
+  [100 (+10832)/sem limite] fila=8882 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/46/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/46/
+  [101 (+10832)/sem limite] fila=8881 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/45/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/45/
+  [102 (+10832)/sem limite] fila=8880 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/44/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/44/
+  [103 (+10832)/sem limite] fila=8879 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/39/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/39/
+  [104 (+10832)/sem limite] fila=8878 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/3/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/3/processo-s
+  [105 (+10832)/sem limite] fila=8877 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/79/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/79/
+  [106 (+10832)/sem limite] fila=8876 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/74/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/74/
+  [107 (+10832)/sem limite] fila=8875 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/37/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/37/
+  [108 (+10832)/sem limite] fila=8874 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/36/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/36/
+  [109 (+10832)/sem limite] fila=8873 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/35/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/35/
+  [110 (+10832)/sem limite] fila=8872 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/34/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/34/
+  [111 (+10832)/sem limite] fila=8871 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/38/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/38/
+  [112 (+10832)/sem limite] fila=8870 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/comprovante/2/processo-seletivo/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/comprovante/2/processo-s
+  [113 (+10832)/sem limite] fila=8869 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/81/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/81/
+  [114 (+10832)/sem limite] fila=8868 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/80/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/80/
+  [115 (+10832)/sem limite] fila=8867 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/30/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/30/
+  [116 (+10832)/sem limite] fila=8866 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/29/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/29/
+  [117 (+10832)/sem limite] fila=8865 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/28/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/28/
+  [118 (+10832)/sem limite] fila=8864 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/27/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/27/
+  [119 (+10832)/sem limite] fila=8863 | depth=5 | https://www.siqueiracampos.pr.gov.br/concurso/download/26/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/concurso/download/26/
+  [120 (+10832)/sem limite] fila=8862 | depth=5 | https://www.siqueiracampos.pr.gov.br/noticia/print-noticia/2464/2-edicao-do-conc
+  [121 (+10832)/sem limite] fila=8861 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/933/carta-convite/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/933/carta-c
+  [122 (+10832)/sem limite] fila=8860 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1882/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1882/concor
+  [123 (+10832)/sem limite] fila=8859 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5954/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5954/
+  [124 (+10832)/sem limite] fila=8858 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5953/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5953/
+  [125 (+10832)/sem limite] fila=8857 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5919/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5919/
+  [126 (+10832)/sem limite] fila=8856 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5900/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5900/
+  [127 (+10832)/sem limite] fila=8855 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5898/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5898/
+  [128 (+10832)/sem limite] fila=8854 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5897/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5897/
+  [129 (+10832)/sem limite] fila=8853 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5896/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5896/
+  [130 (+10832)/sem limite] fila=8852 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1865/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1865/concor
+  [131 (+10832)/sem limite] fila=8851 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5883/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5883/
+  [132 (+10832)/sem limite] fila=8850 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5854/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5854/
+  [133 (+10832)/sem limite] fila=8849 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1786/pcontratacao-de-empr
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/public/admin/globalarq/uploads/fi
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/public/admin/globalarq/licitacao/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/public/admin/globalarq/licitacao/
+  📄 [200] .zip -> https://www.siqueiracampos.pr.gov.br/public/admin/globalarq/licitacao/
+  [134 (+10832)/sem limite] fila=8852 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2026/categoria/15/concorren
+  [135 (+10832)/sem limite] fila=8851 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1780/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1780/concor
+  [136 (+10832)/sem limite] fila=8850 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5642/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5642/
+  [137 (+10832)/sem limite] fila=8849 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5602/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5602/
+  [138 (+10832)/sem limite] fila=8848 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5573/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5573/
+  [139 (+10832)/sem limite] fila=8847 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5504/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5504/
+  [140 (+10832)/sem limite] fila=8846 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5477/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5477/
+  [141 (+10832)/sem limite] fila=8845 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1603/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1603/concor
+  [142 (+10832)/sem limite] fila=8844 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4795/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4795/
+  [143 (+10832)/sem limite] fila=8843 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4597/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4597/
+  [144 (+10832)/sem limite] fila=8842 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4592/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4592/
+  [145 (+10832)/sem limite] fila=8841 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4513/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4513/
+  [146 (+10832)/sem limite] fila=8840 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4510/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4510/
+  [147 (+10832)/sem limite] fila=8839 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4509/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4509/
+  [148 (+10832)/sem limite] fila=8838 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4508/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4508/
+  [149 (+10832)/sem limite] fila=8837 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4507/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4507/
+  [150 (+10832)/sem limite] fila=8836 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4379/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4379/
+  [151 (+10832)/sem limite] fila=8835 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4378/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4378/
+  [152 (+10832)/sem limite] fila=8834 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4377/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4377/
+  [153 (+10832)/sem limite] fila=8833 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4376/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4376/
+  [154 (+10832)/sem limite] fila=8832 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4375/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4375/
+  [155 (+10832)/sem limite] fila=8831 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4374/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4374/
+  [156 (+10832)/sem limite] fila=8830 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1596/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1596/concor
+  [157 (+10832)/sem limite] fila=8829 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5838/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5838/
+  [158 (+10832)/sem limite] fila=8828 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5393/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5393/
+  [159 (+10832)/sem limite] fila=8827 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5376/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5376/
+  [160 (+10832)/sem limite] fila=8826 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5375/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5375/
+  [161 (+10832)/sem limite] fila=8825 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5363/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5363/
+  [162 (+10832)/sem limite] fila=8824 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5361/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5361/
+  [163 (+10832)/sem limite] fila=8823 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5342/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5342/
+  [164 (+10832)/sem limite] fila=8822 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4928/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4928/
+  [165 (+10832)/sem limite] fila=8821 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4830/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4830/
+  [166 (+10832)/sem limite] fila=8820 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4829/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4829/
+  [167 (+10832)/sem limite] fila=8819 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4784/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4784/
+  [168 (+10832)/sem limite] fila=8818 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4743/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4743/
+  [169 (+10832)/sem limite] fila=8817 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4674/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4674/
+  [170 (+10832)/sem limite] fila=8816 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4665/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4665/
+  [171 (+10832)/sem limite] fila=8815 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4663/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4663/
+  [172 (+10832)/sem limite] fila=8814 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4641/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4641/
+  [173 (+10832)/sem limite] fila=8813 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4633/
+  🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/licitacao/download/4633/
+  [174 (+10832)/sem limite] fila=8812 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4632/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4632/
+  [175 (+10832)/sem limite] fila=8811 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4562/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4562/
+  [176 (+10832)/sem limite] fila=8810 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4522/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4522/
+  [177 (+10832)/sem limite] fila=8809 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4373/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/4373/
+  [178 (+10832)/sem limite] fila=8808 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/5692/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/5692/
+  [179 (+10832)/sem limite] fila=8807 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4362/
+  🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/licitacao/download/4362/
+  [180 (+10832)/sem limite] fila=8806 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/4360/
+  🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/licitacao/download/4360/
+  [181 (+10832)/sem limite] fila=8805 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1203/concorrencia-pub
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/1203/concor
+  [182 (+10832)/sem limite] fila=8804 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/2746/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/2746/
+  [183 (+10832)/sem limite] fila=8803 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/130/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/130/concorr
+  [184 (+10832)/sem limite] fila=8802 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/397/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/397/
+  [185 (+10832)/sem limite] fila=8801 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/396/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/396/
+  [186 (+10832)/sem limite] fila=8800 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/395/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/395/
+  [187 (+10832)/sem limite] fila=8799 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/394/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/394/
+  [188 (+10832)/sem limite] fila=8798 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/393/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/393/
+  [189 (+10832)/sem limite] fila=8797 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/392/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/392/
+  [190 (+10832)/sem limite] fila=8796 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/148/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/148/concorr
+  [191 (+10832)/sem limite] fila=8795 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/462/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/462/
+  [192 (+10832)/sem limite] fila=8794 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/461/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/461/
+  [193 (+10832)/sem limite] fila=8793 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/460/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/460/
+  [194 (+10832)/sem limite] fila=8792 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/459/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/459/
+  [195 (+10832)/sem limite] fila=8791 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/458/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/458/
+  [196 (+10832)/sem limite] fila=8790 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/457/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/457/
+  [197 (+10832)/sem limite] fila=8789 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/270/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/270/concorr
+  [198 (+10832)/sem limite] fila=8788 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/788/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/788/
+  [199 (+10832)/sem limite] fila=8787 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/787/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/787/
+  [200 (+10832)/sem limite] fila=8786 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/786/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/786/
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/inventario_links.xlsx
+  3138 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/erros_varredura.xlsx
+  248 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/inventario_externos.xlsx
+  211 links externos registrados.
+  Checkpoint salvo (11032 páginas totais | 200 nesta sessão).
+  [201 (+10832)/sem limite] fila=8785 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/785/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/785/
+  [202 (+10832)/sem limite] fila=8784 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/784/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/784/
+  [203 (+10832)/sem limite] fila=8783 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/783/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/783/
+  [204 (+10832)/sem limite] fila=8782 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/782/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/782/
+  [205 (+10832)/sem limite] fila=8781 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/781/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/781/
+  [206 (+10832)/sem limite] fila=8780 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/780/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/780/
+  [207 (+10832)/sem limite] fila=8779 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/286/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/286/concorr
+  [208 (+10832)/sem limite] fila=8778 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/830/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/830/
+  [209 (+10832)/sem limite] fila=8777 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/829/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/829/
+  [210 (+10832)/sem limite] fila=8776 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/828/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/828/
+  [211 (+10832)/sem limite] fila=8775 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/827/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/827/
+  [212 (+10832)/sem limite] fila=8774 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/826/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/826/
+  [213 (+10832)/sem limite] fila=8773 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/825/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/825/
+  [214 (+10832)/sem limite] fila=8772 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/422/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/422/concorr
+  [215 (+10832)/sem limite] fila=8771 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1218/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1218/
+  [216 (+10832)/sem limite] fila=8770 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1217/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1217/
+  [217 (+10832)/sem limite] fila=8769 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1216/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1216/
+  [218 (+10832)/sem limite] fila=8768 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/436/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/436/concorr
+  [219 (+10832)/sem limite] fila=8767 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1261/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1261/
+  [220 (+10832)/sem limite] fila=8766 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1260/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1260/
+  [221 (+10832)/sem limite] fila=8765 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1259/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1259/
+  [222 (+10832)/sem limite] fila=8764 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1258/
+  🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/licitacao/download/1258/
+  [223 (+10832)/sem limite] fila=8763 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1257/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1257/
+  [224 (+10832)/sem limite] fila=8762 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1256/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1256/
+  [225 (+10832)/sem limite] fila=8761 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/563/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/563/concorr
+  [226 (+10832)/sem limite] fila=8760 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1692/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1692/
+  [227 (+10832)/sem limite] fila=8759 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1691/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1691/
+  [228 (+10832)/sem limite] fila=8758 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1690/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1690/
+  [229 (+10832)/sem limite] fila=8757 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1689/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1689/
+  [230 (+10832)/sem limite] fila=8756 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1688/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1688/
+  [231 (+10832)/sem limite] fila=8755 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/564/concorrencia-publ
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/564/concorr
+  [232 (+10832)/sem limite] fila=8754 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1698/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1698/
+  [233 (+10832)/sem limite] fila=8753 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1697/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1697/
+  [234 (+10832)/sem limite] fila=8752 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1696/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1696/
+  [235 (+10832)/sem limite] fila=8751 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1695/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1695/
+  [236 (+10832)/sem limite] fila=8750 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1694/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1694/
+  [237 (+10832)/sem limite] fila=8749 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1693/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1693/
+  [238 (+10832)/sem limite] fila=8748 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/85/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/85/chamada-
+  [239 (+10832)/sem limite] fila=8747 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/257/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/257/
+  [240 (+10832)/sem limite] fila=8746 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/256/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/256/
+  [241 (+10832)/sem limite] fila=8745 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/255/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/255/
+  [242 (+10832)/sem limite] fila=8744 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/115/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/115/chamada
+  [243 (+10832)/sem limite] fila=8743 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/353/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/353/
+  [244 (+10832)/sem limite] fila=8742 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/352/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/352/
+  [245 (+10832)/sem limite] fila=8741 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/351/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/351/
+  [246 (+10832)/sem limite] fila=8740 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/350/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/350/
+  [247 (+10832)/sem limite] fila=8739 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/150/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/150/chamada
+  [248 (+10832)/sem limite] fila=8738 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/470/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/470/
+  [249 (+10832)/sem limite] fila=8737 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/93/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/93/chamada-
+  [250 (+10832)/sem limite] fila=8736 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/273/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/273/
+  [251 (+10832)/sem limite] fila=8735 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/237/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/237/chamada
+  [252 (+10832)/sem limite] fila=8734 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/696/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/696/
+  [253 (+10832)/sem limite] fila=8733 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/695/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/695/
+  [254 (+10832)/sem limite] fila=8732 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/397/chamada-publica/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/397/chamada
+  [255 (+10832)/sem limite] fila=8731 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1123/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1123/
+  [256 (+10832)/sem limite] fila=8730 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1122/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1122/
+  [257 (+10832)/sem limite] fila=8729 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1121/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1121/
+  [258 (+10832)/sem limite] fila=8728 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1120/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1120/
+  [259 (+10832)/sem limite] fila=8727 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1788/pcontratacao-dos-ser
+  [260 (+10832)/sem limite] fila=8726 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2026/categoria/17/dispensa-
+  [261 (+10832)/sem limite] fila=8726 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1724/pcontratacao-dos-ser
+  [262 (+10832)/sem limite] fila=8725 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1720/p-styletext-alignjus
+  [263 (+10832)/sem limite] fila=8724 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1723/pcontratacao-de-empr
+  [264 (+10832)/sem limite] fila=8723 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1718/paquisicao-de-peca-p
+  [265 (+10832)/sem limite] fila=8722 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1717/pcontratacao-de-empr
+  [266 (+10832)/sem limite] fila=8721 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1716/paquisicao-de-camise
+  [267 (+10832)/sem limite] fila=8720 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1715/paquisicao-de-ferram
+  [268 (+10832)/sem limite] fila=8719 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1711/pcontratacao-de-empr
+  [269 (+10832)/sem limite] fila=8718 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1706/paquisicao-de-reagen
+  [270 (+10832)/sem limite] fila=8717 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1697/prealizacao-de-pesqu
+  [271 (+10832)/sem limite] fila=8716 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1693/pcontratacao-de-empr
+  [272 (+10832)/sem limite] fila=8715 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1695/pcontratacao-de-serv
+  [273 (+10832)/sem limite] fila=8714 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2025/categoria/17/dispensa-
+  [274 (+10832)/sem limite] fila=8713 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1686/pcontratacao-de-empr
+  [275 (+10832)/sem limite] fila=8712 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1684/pcontratacao-de-empr
+  [276 (+10832)/sem limite] fila=8711 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1683/paquisicao-de-botas-
+  [277 (+10832)/sem limite] fila=8710 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1681/paquisicao-de-fardam
+  [278 (+10832)/sem limite] fila=8709 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1675/paquisicao-de-um-con
+  [279 (+10832)/sem limite] fila=8708 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1667/pcontratacao-do-serv
+  [280 (+10832)/sem limite] fila=8707 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1666/pcontratacao-de-empr
+  [281 (+10832)/sem limite] fila=8706 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1644/paquisicao-de-pecas-
+  [282 (+10832)/sem limite] fila=8705 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1638/pcontratacao-de-empr
+  [283 (+10832)/sem limite] fila=8704 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1641/pcontratacao-de-empr
+  [284 (+10832)/sem limite] fila=8703 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1640/pcontratacao-de-empr
+  [285 (+10832)/sem limite] fila=8702 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1637/paquisicao-de-materi
+  [286 (+10832)/sem limite] fila=8701 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1636/pcontratacao-da-comp
+  [287 (+10832)/sem limite] fila=8700 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1628/pcontratacao-de-empr
+  [288 (+10832)/sem limite] fila=8699 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1634/ppagamento-de-taxa-p
+  [289 (+10832)/sem limite] fila=8698 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1633/pcontratacao-dos-ser
+  [290 (+10832)/sem limite] fila=8697 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1625/pcontratacao-de-empr
+  [291 (+10832)/sem limite] fila=8696 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1619/pcontratacao-dos-ser
+  [292 (+10832)/sem limite] fila=8695 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1525/pcontratacao-de-empr
+  [293 (+10832)/sem limite] fila=8694 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1515/paquisicao-de-reagen
+  [294 (+10832)/sem limite] fila=8693 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1514/paquisicao-de-equipa
+  [295 (+10832)/sem limite] fila=8692 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1513/paquisicao-de-pecas-
+  [296 (+10832)/sem limite] fila=8691 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1480/paquisicao-de-pecas-
+  [297 (+10832)/sem limite] fila=8690 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1479/paquisicao-de-bebedo
+  [298 (+10832)/sem limite] fila=8689 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1467/pcontratacao-de-empr
+  [299 (+10832)/sem limite] fila=8688 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1466/paquisicao-de-sais-p
+  [300 (+10832)/sem limite] fila=8687 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1461/paquisicao-de-veneno
+  [301 (+10832)/sem limite] fila=8686 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1472/pcontratacao-da-empr
+  [302 (+10832)/sem limite] fila=8685 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1463/pcontratacao-do-serv
+  [303 (+10832)/sem limite] fila=8684 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1460/pcontratacao-de-empr
+  [304 (+10832)/sem limite] fila=8683 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2024/categoria/17/dispensa-
+  [305 (+10832)/sem limite] fila=8682 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1453/pcontratacao-de-empr
+  [306 (+10832)/sem limite] fila=8681 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1445/pcontratacao-de-empr
+  [307 (+10832)/sem limite] fila=8680 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1444/paquisicao-de-aparel
+  [308 (+10832)/sem limite] fila=8679 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1439/paquisicao-de-marmit
+  [309 (+10832)/sem limite] fila=8678 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1441/pcontratacao-dos-ser
+  [310 (+10832)/sem limite] fila=8677 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1440/pcontratacao-dos-ser
+  [311 (+10832)/sem limite] fila=8676 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1438/pcontratacao-de-empr
+  [312 (+10832)/sem limite] fila=8675 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1371/paquisicao-de-extint
+  [313 (+10832)/sem limite] fila=8674 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1365/pcontratacao-de-empr
+  [314 (+10832)/sem limite] fila=8673 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1360/pcontratacao-de-empr
+  [315 (+10832)/sem limite] fila=8672 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1344/pcontratacao-de-empr
+  [316 (+10832)/sem limite] fila=8671 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1343/pcontratacao-de-empr
+  [317 (+10832)/sem limite] fila=8670 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1331/paquisicao-de-01-mot
+  [318 (+10832)/sem limite] fila=8669 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1326/pcontratacao-de-empr
+  [319 (+10832)/sem limite] fila=8668 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1325/pcontratacao-de-empr
+  [320 (+10832)/sem limite] fila=8667 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1320/paquisicao-de-materi
+  [321 (+10832)/sem limite] fila=8666 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1317/paquisicao-de-reagen
+  [322 (+10832)/sem limite] fila=8665 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1314/paquisicao-de-um-kit
+  [323 (+10832)/sem limite] fila=8664 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1311/paquisicao-de-equipa
+  [324 (+10832)/sem limite] fila=8663 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2023/categoria/17/dispensa-
+  [325 (+10832)/sem limite] fila=8662 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1300/pcontratacao-de-empr
+  [326 (+10832)/sem limite] fila=8661 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1299/pcontratacao-de-empr
+  [327 (+10832)/sem limite] fila=8660 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1316/paquisicao-de-botas-
+  [328 (+10832)/sem limite] fila=8659 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1294/paquisicao-de-fardas
+  [329 (+10832)/sem limite] fila=8658 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1291/pcontratacao-de-empr
+  [330 (+10832)/sem limite] fila=8657 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1290/paquisicao-de-marmit
+  [331 (+10832)/sem limite] fila=8656 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1296/pcontratacao-de-empr
+  [332 (+10832)/sem limite] fila=8655 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1289/pcontratacao-de-um-p
+  [333 (+10832)/sem limite] fila=8654 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1286/pcontratacao-dos-ser
+  [334 (+10832)/sem limite] fila=8653 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1285/pcontratacao-de-prof
+  [335 (+10832)/sem limite] fila=8652 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1279/paquisicao-de-veneno
+  [336 (+10832)/sem limite] fila=8651 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1276/pcontratacao-de-empr
+  [337 (+10832)/sem limite] fila=8650 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1220/plocacao-de-imovel-p
+  [338 (+10832)/sem limite] fila=8649 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1222/pproposta-de-compra-
+  [339 (+10832)/sem limite] fila=8648 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1221/plocacao-de-imovel-n
+  [340 (+10832)/sem limite] fila=8647 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1204/pcontratacao-da-empr
+  [341 (+10832)/sem limite] fila=8646 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1185/pcontratacao-de-empr
+  [342 (+10832)/sem limite] fila=8645 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1179/pcontratacao-de-empr
+  [343 (+10832)/sem limite] fila=8644 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1169/pcontratacao-de-empr
+  [344 (+10832)/sem limite] fila=8643 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1122/pcontratacao-de-empr
+  [345 (+10832)/sem limite] fila=8642 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1123/p-styletext-alignjus
+  [346 (+10832)/sem limite] fila=8641 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2022/categoria/17/dispensa-
+  [347 (+10832)/sem limite] fila=8640 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1016/p-styletext-alignjus
+  [348 (+10832)/sem limite] fila=8639 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1015/pstrongaquisicao-de-
+  [349 (+10832)/sem limite] fila=8638 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1014/pcontratacao-de-empr
+  [350 (+10832)/sem limite] fila=8637 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1013/pstrongcontratacao-d
+  [351 (+10832)/sem limite] fila=8636 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1012/paquisicao-de-ovos-d
+  [352 (+10832)/sem limite] fila=8635 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1011/paquisicao-de-vacina
+  [353 (+10832)/sem limite] fila=8634 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1010/pmanutencao-de-bomba
+  [354 (+10832)/sem limite] fila=8633 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1009/paquisicao-de-um-col
+  [355 (+10832)/sem limite] fila=8632 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1008/p-styletext-alignjus
+  [356 (+10832)/sem limite] fila=8631 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1007/pstrongaquisicao-de-
+  [357 (+10832)/sem limite] fila=8630 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1006/pcontratacao-em-regi
+  [358 (+10832)/sem limite] fila=8629 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2021/categoria/17/dispensa-
+  [359 (+10832)/sem limite] fila=8628 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1850/ptermo-de-fomento-ce
+  [360 (+10832)/sem limite] fila=8627 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1824/pcontratacao-de-03-s
+  [361 (+10832)/sem limite] fila=8626 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1819/paquisicao-de-01-um-
+  [362 (+10832)/sem limite] fila=8625 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1814/plocacao-de-imovel-p
+  [363 (+10832)/sem limite] fila=8624 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1787/pcredenciamento-de-e
+  [364 (+10832)/sem limite] fila=8623 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1784/ptermo-de-fomento-ce
+  [365 (+10832)/sem limite] fila=8622 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2026/categoria/19/inexigibi
+  [366 (+10832)/sem limite] fila=8622 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1710/p-styletext-alignjus
+  [367 (+10832)/sem limite] fila=8621 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1708/ptermo-de-fomento-ce
+  [368 (+10832)/sem limite] fila=8620 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1698/plocacao-de-imovel-p
+  [369 (+10832)/sem limite] fila=8619 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1696/p-styletext-alignjus
+  [370 (+10832)/sem limite] fila=8618 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1671/pcontratacao-da-dupl
+  [371 (+10832)/sem limite] fila=8617 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1670/pcontratacao-da-dupl
+  [372 (+10832)/sem limite] fila=8616 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1669/pcontratacao-da-dupl
+  [373 (+10832)/sem limite] fila=8615 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1661/ptermo-de-fomento-ce
+  [374 (+10832)/sem limite] fila=8614 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1620/plocacao-de-imovel-p
+  [375 (+10832)/sem limite] fila=8613 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2025/categoria/19/inexigibi
+  [376 (+10832)/sem limite] fila=8612 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1526/pcredenciamento-de-e
+  [377 (+10832)/sem limite] fila=8611 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1519/padesao-a-ata-de-reg
+  [378 (+10832)/sem limite] fila=8610 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1507/ptermo-de-fomento-ce
+  [379 (+10832)/sem limite] fila=8609 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1506/ptermo-de-fomento-ce
+  [380 (+10832)/sem limite] fila=8608 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1499/pcredenciamento-de-e
+  [381 (+10832)/sem limite] fila=8607 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1500/ptermo-de-fomento-fi
+  [382 (+10832)/sem limite] fila=8606 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1497/pcontratacao-de-empr
+  [383 (+10832)/sem limite] fila=8605 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1492/p-styletext-alignjus
+  [384 (+10832)/sem limite] fila=8604 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1493/paquisicao-do-imovel
+  [385 (+10832)/sem limite] fila=8603 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1491/ptermo-de-fomento-fi
+  [386 (+10832)/sem limite] fila=8602 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1470/p-styletext-alignjus
+  [387 (+10832)/sem limite] fila=8601 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1458/ptermo-de-fomento-fi
+  [388 (+10832)/sem limite] fila=8600 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2024/categoria/19/inexigibi
+  [389 (+10832)/sem limite] fila=8599 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1464/plocacao-de-imovel-p
+  [390 (+10832)/sem limite] fila=8598 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1457/pchamamento-publico-
+  [391 (+10832)/sem limite] fila=8597 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1456/plocacao-de-imovel-p
+  [392 (+10832)/sem limite] fila=8596 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1435/ptermo-de-fomento-ce
+  [393 (+10832)/sem limite] fila=8595 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1305/paquisicao-de-02-doi
+  [394 (+10832)/sem limite] fila=8594 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1280/pcredenciamento-de-e
+  [395 (+10832)/sem limite] fila=8593 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2023/categoria/19/inexigibi
+  [396 (+10832)/sem limite] fila=8592 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1180/pcontratacao-para-ma
+  [397 (+10832)/sem limite] fila=8591 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1172/ptermo-de-fomento-fi
+  [398 (+10832)/sem limite] fila=8590 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1156/ptermo-de-fomento-ce
+  [399 (+10832)/sem limite] fila=8589 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1155/ptermo-de-fomento-ce
+  [400 (+10832)/sem limite] fila=8588 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1154/ptermo-de-fomento-ce
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/inventario_links.xlsx
+  3195 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/erros_varredura.xlsx
+  248 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/siqueiracampos/inventario_externos.xlsx
+  211 links externos registrados.
+  Checkpoint salvo (11232 páginas totais | 400 nesta sessão).
+  [401 (+10832)/sem limite] fila=8587 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/detalhe/1144/p-styletext-alignjus
+  [402 (+10832)/sem limite] fila=8586 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/lista/2022/categoria/19/inexigibi
+  [403 (+10832)/sem limite] fila=8585 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/47/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/47/inexigib
+  [404 (+10832)/sem limite] fila=8584 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/80/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/80/
+  [405 (+10832)/sem limite] fila=8583 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/46/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/46/inexigib
+  [406 (+10832)/sem limite] fila=8582 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/79/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/79/
+  [407 (+10832)/sem limite] fila=8581 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/123/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/123/inexigi
+  [408 (+10832)/sem limite] fila=8580 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/373/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/373/
+  [409 (+10832)/sem limite] fila=8579 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/372/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/372/
+  [410 (+10832)/sem limite] fila=8578 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/371/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/371/
+  [411 (+10832)/sem limite] fila=8577 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/126/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/126/inexigi
+  [412 (+10832)/sem limite] fila=8576 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/379/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/379/
+  [413 (+10832)/sem limite] fila=8575 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/136/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/136/inexigi
+  [414 (+10832)/sem limite] fila=8574 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/3028/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/3028/
+  [415 (+10832)/sem limite] fila=8573 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/3027/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/3027/
+  [416 (+10832)/sem limite] fila=8572 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/3026/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/3026/
+  [417 (+10832)/sem limite] fila=8571 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/428/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/428/
+  [418 (+10832)/sem limite] fila=8570 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/152/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/152/inexigi
+  [419 (+10832)/sem limite] fila=8569 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/472/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/472/
+  [420 (+10832)/sem limite] fila=8568 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/156/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/156/inexigi
+  [421 (+10832)/sem limite] fila=8567 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/478/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/478/
+  [422 (+10832)/sem limite] fila=8566 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/157/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/157/inexigi
+  [423 (+10832)/sem limite] fila=8565 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/479/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/479/
+  [424 (+10832)/sem limite] fila=8564 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/138/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/138/inexigi
+  [425 (+10832)/sem limite] fila=8563 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/430/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/430/
+  [426 (+10832)/sem limite] fila=8562 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/137/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/137/inexigi
+  [427 (+10832)/sem limite] fila=8561 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/429/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/429/
+  [428 (+10832)/sem limite] fila=8560 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/257/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/257/inexigi
+  [429 (+10832)/sem limite] fila=8559 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/753/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/753/
+  [430 (+10832)/sem limite] fila=8558 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/258/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/258/inexigi
+  [431 (+10832)/sem limite] fila=8557 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/756/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/756/
+  [432 (+10832)/sem limite] fila=8556 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/755/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/755/
+  [433 (+10832)/sem limite] fila=8555 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/754/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/754/
+  [434 (+10832)/sem limite] fila=8554 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/320/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/320/inexigi
+  [435 (+10832)/sem limite] fila=8553 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/929/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/929/
+  [436 (+10832)/sem limite] fila=8552 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/319/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/319/inexigi
+  [437 (+10832)/sem limite] fila=8551 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/928/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/928/
+  [438 (+10832)/sem limite] fila=8550 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/364/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/364/inexigi
+  [439 (+10832)/sem limite] fila=8549 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1018/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1018/
+  [440 (+10832)/sem limite] fila=8548 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/363/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/363/inexigi
+  [441 (+10832)/sem limite] fila=8547 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1017/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1017/
+  [442 (+10832)/sem limite] fila=8546 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/370/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/370/inexigi
+  [443 (+10832)/sem limite] fila=8545 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1044/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1044/
+  [444 (+10832)/sem limite] fila=8544 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1043/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1043/
+  [445 (+10832)/sem limite] fila=8543 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/380/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/380/inexigi
+  [446 (+10832)/sem limite] fila=8542 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1071/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1071/
+  [447 (+10832)/sem limite] fila=8541 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1070/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1070/
+  [448 (+10832)/sem limite] fila=8540 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/381/inexigibilidade/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/comprovante/381/inexigi
+  [449 (+10832)/sem limite] fila=8539 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1074/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1074/
+  [450 (+10832)/sem limite] fila=8538 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1073/
+  📄 [200] .pdf -> https://www.siqueiracampos.pr.gov.br/licitacao/download/1073/
+  [451 (+10832)/sem limite] fila=8537 | depth=5 | https://www.siqueiracampos.pr.gov.br/licitacao/download/1072/

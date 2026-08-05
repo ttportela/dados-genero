@@ -1683,3 +1683,133 @@ Inventário parcial carregado: 36 arquivos já registrados.
   [1 (+400)/sem limite] fila=2373 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divul
  ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divulga-boletim-de-ists-com-dados-de-2016-a-2026
   🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divulga-boletim-de-ists-com-dados-de-2016-a-2026
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://tresbarras.pr.gov.br/noticias/saude/saude-de-tres-barras-do-parana-divulga-boletim-de-ists-com-dados-de-2016-a-2026
+  [2 (+400)/sem limite] fila=2372 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/o-combate-a-dengue-nao-tira-ferias-t
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/o-combate-a-dengue-nao-tira-ferias-tres-barras-do-parana-alerta-para-cuidados-durante-o-inverno
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/o-combate-a-dengue-nao-tira-ferias-tres-barras-do-parana-alerta-para-cuidados-durante-o-inverno
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/o-combate-a-dengue-nao-tira-ferias-tres-barras-do-parana-alerta-para-cuidados-durante-o-inverno
+  [3 (+400)/sem limite] fila=2371 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/ajude-a-melhorar-o-agendamento-da-no
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/ajude-a-melhorar-o-agendamento-da-nossa-saude
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/ajude-a-melhorar-o-agendamento-da-nossa-saude
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/ajude-a-melhorar-o-agendamento-da-nossa-saude
+  [4 (+400)/sem limite] fila=2370 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/atencao-homens-de-tres-barras-do-par
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/atencao-homens-de-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/atencao-homens-de-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/atencao-homens-de-tres-barras-do-parana
+  [5 (+400)/sem limite] fila=2369 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-dia-d-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-dia-d-de-vacinacao-contra-a-gripe-neste-sabado-28
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-dia-d-de-vacinacao-contra-a-gripe-neste-sabado-28
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-dia-d-de-vacinacao-contra-a-gripe-neste-sabado-28
+  [6 (+400)/sem limite] fila=2368 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/campanha-de-prevencao-ao-cancer-de-c
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/campanha-de-prevencao-ao-cancer-de-colo-de-utero-e-de-mama
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/campanha-de-prevencao-ao-cancer-de-colo-de-utero-e-de-mama
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/campanha-de-prevencao-ao-cancer-de-colo-de-utero-e-de-mama
+  [7 (+400)/sem limite] fila=2367 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-abre-inscricoe
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-abre-inscricoes-para-o-projeto-grupo-crescer-saudavel
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-abre-inscricoes-para-o-projeto-grupo-crescer-saudavel
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-abre-inscricoes-para-o-projeto-grupo-crescer-saudavel
+  [8 (+400)/sem limite] fila=2366 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/combate-a-dengue-mutirao-de-limpeza-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/combate-a-dengue-mutirao-de-limpeza-ja-esta-em-andamento-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/combate-a-dengue-mutirao-de-limpeza-ja-esta-em-andamento-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/combate-a-dengue-mutirao-de-limpeza-ja-esta-em-andamento-em-tres-barras-do-parana
+  [9 (+400)/sem limite] fila=2365 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-em-alerta-voce
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-em-alerta-voce-sabe-onde-mora-o-perigo
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-em-alerta-voce-sabe-onde-mora-o-perigo
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-em-alerta-voce-sabe-onde-mora-o-perigo
+  [10 (+400)/sem limite] fila=2364 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-mutira
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-mutirao-de-limpeza-contra-a-dengue-e-chikungunya
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-mutirao-de-limpeza-contra-a-dengue-e-chikungunya
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/tres-barras-do-parana-realiza-mutirao-de-limpeza-contra-a-dengue-e-chikungunya
+  [11 (+400)/sem limite] fila=2363 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude/conselho-municipal-de-saude-elege-e-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude/conselho-municipal-de-saude-elege-e-empossa-nova-diretoria-para-o-quadrienio-2026-2029
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude/conselho-municipal-de-saude-elege-e-empossa-nova-diretoria-para-o-quadrienio-2026-2029
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude/conselho-municipal-de-saude-elege-e-empossa-nova-diretoria-para-o-quadrienio-2026-2029
+  [12 (+400)/sem limite] fila=2362 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=16
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=16
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=16
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=16
+  [13 (+400)/sem limite] fila=2361 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=32
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=32
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=32
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=32
+  [14 (+400)/sem limite] fila=2360 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=48
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=48
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=48
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=48
+  [15 (+400)/sem limite] fila=2359 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=64
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=64
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=64
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=64
+  [16 (+400)/sem limite] fila=2358 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=80
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=80
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=80
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=80
+  [17 (+400)/sem limite] fila=2357 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=96
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=96
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=96
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=96
+  [18 (+400)/sem limite] fila=2356 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=112
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=112
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=112
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=112
+  [19 (+400)/sem limite] fila=2355 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=128
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=128
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=128
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=128
+  [20 (+400)/sem limite] fila=2354 | depth=2 | https://tresbarras.pr.gov.br/noticias/saude?start=144
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/saude?start=144
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/saude?start=144
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/saude?start=144
+  [21 (+400)/sem limite] fila=2353 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/talentos-de-tres-barras-do-parana-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/talentos-de-tres-barras-do-parana-brilham-no-21-fermop-em-cascavel
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/talentos-de-tres-barras-do-parana-brilham-no-21-fermop-em-cascavel
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/talentos-de-tres-barras-do-parana-brilham-no-21-fermop-em-cascavel
+  [22 (+400)/sem limite] fila=2352 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/secretaria-municipal-de-cultura-e-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/secretaria-municipal-de-cultura-e-turismo-abre-credenciamento-para-agentes-culturais-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/secretaria-municipal-de-cultura-e-turismo-abre-credenciamento-para-agentes-culturais-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/secretaria-municipal-de-cultura-e-turismo-abre-credenciamento-para-agentes-culturais-em-tres-barras-do-parana
+  [23 (+400)/sem limite] fila=2351 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/iv-mostra-cultural-celebra-a-diver
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/iv-mostra-cultural-celebra-a-diversidade-etnico-racial-na-rede-municipal
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/iv-mostra-cultural-celebra-a-diversidade-etnico-racial-na-rede-municipal
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/iv-mostra-cultural-celebra-a-diversidade-etnico-racial-na-rede-municipal
+  [24 (+400)/sem limite] fila=2350 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/magia-e-fantasia-em-tres-barras-so
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/magia-e-fantasia-em-tres-barras-sobre-dragoes-e-bolhas-de-sabao-encanta-centenas-de-criancas
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/magia-e-fantasia-em-tres-barras-sobre-dragoes-e-bolhas-de-sabao-encanta-centenas-de-criancas
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/magia-e-fantasia-em-tres-barras-sobre-dragoes-e-bolhas-de-sabao-encanta-centenas-de-criancas
+  [25 (+400)/sem limite] fila=2349 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/4-febarras-supera-expectativas-e-e
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/4-febarras-supera-expectativas-e-encerra-com-chave-de-ouro
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/4-febarras-supera-expectativas-e-encerra-com-chave-de-ouro
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/4-febarras-supera-expectativas-e-encerra-com-chave-de-ouro
+  [26 (+400)/sem limite] fila=2348 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/cultura-em-debate-artistas-e-gesto
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/cultura-em-debate-artistas-e-gestores-discutem-a-lei-aldir-blanc-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/cultura-em-debate-artistas-e-gestores-discutem-a-lei-aldir-blanc-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/cultura-em-debate-artistas-e-gestores-discutem-a-lei-aldir-blanc-em-tres-barras-do-parana
+  [27 (+400)/sem limite] fila=2347 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/quarta-edicao-do-canta-cantu-e-suc
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/quarta-edicao-do-canta-cantu-e-sucesso-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/quarta-edicao-do-canta-cantu-e-sucesso-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/quarta-edicao-do-canta-cantu-e-sucesso-em-tres-barras-do-parana
+  [28 (+400)/sem limite] fila=2346 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/artistas-tribarrenses-iniciam-grav
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/artistas-tribarrenses-iniciam-gravacao-de-video-clipe-musical
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/artistas-tribarrenses-iniciam-gravacao-de-video-clipe-musical
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/artistas-tribarrenses-iniciam-gravacao-de-video-clipe-musical
+  [29 (+400)/sem limite] fila=2345 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/projeto-cinema-na-praca-2024-e-suc
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/projeto-cinema-na-praca-2024-e-sucesso-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/projeto-cinema-na-praca-2024-e-sucesso-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/projeto-cinema-na-praca-2024-e-sucesso-em-tres-barras-do-parana
+  [30 (+400)/sem limite] fila=2344 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/cinema-na-praca-sera-realizado-no-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/cinema-na-praca-sera-realizado-no-dia-02-de-junho-em-tres-barras-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/cinema-na-praca-sera-realizado-no-dia-02-de-junho-em-tres-barras-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/cinema-na-praca-sera-realizado-no-dia-02-de-junho-em-tres-barras-do-parana
+  [31 (+400)/sem limite] fila=2343 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/3-canta-cantu-etapa-tres-barras-do
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/3-canta-cantu-etapa-tres-barras-do-parana-e-sucesso
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/3-canta-cantu-etapa-tres-barras-do-parana-e-sucesso
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/3-canta-cantu-etapa-tres-barras-do-parana-e-sucesso
+  [32 (+400)/sem limite] fila=2342 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/show-com-padre-ezequiel-dal-pozzo-
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/show-com-padre-ezequiel-dal-pozzo-e-sucesso-em-tres-barra-do-parana
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/show-com-padre-ezequiel-dal-pozzo-e-sucesso-em-tres-barra-do-parana
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/show-com-padre-ezequiel-dal-pozzo-e-sucesso-em-tres-barra-do-parana
+  [33 (+400)/sem limite] fila=2341 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realiza
+ ❌ TIMEOUT_OU_CONEXAO: https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realizadas-pela-secretaria-de-cultura-atraves-da-lei-paulo-gustavo
+  🤖 Usando Selenium para: https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realizadas-pela-secretaria-de-cultura-atraves-da-lei-paulo-gustavo
+ ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/noticias/cultura/encerra-oficinas-de-violao-realizadas-pela-secretaria-de-cultura-atraves-da-lei-paulo-gustavo
+  [34 (+400)/sem limite] fila=2340 | depth=2 | https://tresbarras.pr.gov.br/noticias/cultura/1-conferencia-municipal-de-cultura

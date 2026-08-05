@@ -19062,3 +19062,461 @@ Redirecionamento externo ignorado: https://telemacoborba.pr.gov.br/index.php/com
   [9355/sem limite] fila=4206 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
   🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=45581a721282479fd8082e99f9ae369db2856d96
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+============================================================
+  TCC - Pipeline de Dados Publicos | TELEMACOBORBA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 4941 arquivos já registrados.
+  Links externos parciais carregados: 188 links já registrados.
+  Log de erros parcial carregado: 1468 erros já registrados.
+
+============================================================
+  Crawler iniciado: TELEMACOBORBA
+  Páginas já visitadas (checkpoint): 9200
+  URLs na fila: 4359
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+9200)/sem limite] fila=4358 | depth=5 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/transito/65-servicos
+  [2 (+9200)/sem limite] fila=4357 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9586ee5c087e0a7d490f9e923edb20c20179b277
+  [3 (+9200)/sem limite] fila=4356 | depth=5 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/transito/65-servicos
+  [4 (+9200)/sem limite] fila=4355 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [5 (+9200)/sem limite] fila=4354 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [6 (+9200)/sem limite] fila=4353 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [7 (+9200)/sem limite] fila=4352 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [8 (+9200)/sem limite] fila=4351 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [9 (+9200)/sem limite] fila=4350 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [10 (+9200)/sem limite] fila=4349 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [11 (+9200)/sem limite] fila=4348 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [12 (+9200)/sem limite] fila=4347 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [13 (+9200)/sem limite] fila=4346 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [14 (+9200)/sem limite] fila=4345 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [15 (+9200)/sem limite] fila=4344 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [16 (+9200)/sem limite] fila=4343 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cb8d44f86a6c51a767e05f6266ce214c2604a738
+  [17 (+9200)/sem limite] fila=4342 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/formu
+  [18 (+9200)/sem limite] fila=4343 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [19 (+9200)/sem limite] fila=4342 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=837333115b94f9602d9b71c6663e120539a90df3
+  [20 (+9200)/sem limite] fila=4341 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [21 (+9200)/sem limite] fila=4340 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=94a2c8b193c8cf342a06e10f7e8ba7fe1cd4010f
+  [22 (+9200)/sem limite] fila=4339 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [23 (+9200)/sem limite] fila=4338 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4f04f339fa61abe5e8ba6c49fff33b1d83cb30cf
+  [24 (+9200)/sem limite] fila=4337 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [25 (+9200)/sem limite] fila=4336 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8ec30525d9c684cf1b9f46d77ed312982e8a73d7
+  [26 (+9200)/sem limite] fila=4335 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [27 (+9200)/sem limite] fila=4334 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4dfc256e4ce1e30240abf4e1a7f6a0b8e89a8eeb
+  [28 (+9200)/sem limite] fila=4333 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [29 (+9200)/sem limite] fila=4332 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cb829bee5fdb3fd8a3d6bb42bda6e440ad59f8e5
+  [30 (+9200)/sem limite] fila=4331 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [31 (+9200)/sem limite] fila=4330 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e58887e906c7873d269d12851a2a7abfcafaac45
+  [32 (+9200)/sem limite] fila=4329 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [33 (+9200)/sem limite] fila=4328 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c87fe5974dfc0b2f3b1e91e56bb5c589063efd53
+  [34 (+9200)/sem limite] fila=4327 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [35 (+9200)/sem limite] fila=4326 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=03504d574db2ae7fda6c1c1ba2e3a5cf12759f82
+  [36 (+9200)/sem limite] fila=4325 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [37 (+9200)/sem limite] fila=4324 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bd93113dd1b295aaf36a7fe2f957b55ed77a816a
+  [38 (+9200)/sem limite] fila=4323 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [39 (+9200)/sem limite] fila=4322 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0fec52dbe87a2f4bced36e8a04bc4713a496df51
+  [40 (+9200)/sem limite] fila=4321 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [41 (+9200)/sem limite] fila=4320 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=307878eb0a7b529ee1ce4ac9c935fdee584ac37d
+  [42 (+9200)/sem limite] fila=4319 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [43 (+9200)/sem limite] fila=4318 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8f7f12a829182a95a6c9c6af96c9a8f24e74b2ae
+  [44 (+9200)/sem limite] fila=4317 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [45 (+9200)/sem limite] fila=4316 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2424fc907fdab8d48f19230570349d52c4d1d010
+  [46 (+9200)/sem limite] fila=4315 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [47 (+9200)/sem limite] fila=4314 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e4e7ad18308b4a40df44dc5349be0aec2118538d
+  [48 (+9200)/sem limite] fila=4313 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [49 (+9200)/sem limite] fila=4312 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=11b896d37cf00b2bf1b5b5e06be1e2ab2cefcd54
+  [50 (+9200)/sem limite] fila=4311 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [51 (+9200)/sem limite] fila=4310 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=652067625f440c80a9c34508087ed9537efff4db
+  [52 (+9200)/sem limite] fila=4309 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [53 (+9200)/sem limite] fila=4308 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=da6bb01f7dad2166aa547c017341eb3846c1e338
+  [54 (+9200)/sem limite] fila=4307 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [55 (+9200)/sem limite] fila=4306 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=140dbce5bf8e74de714769d61a1693fb37e03752
+  [56 (+9200)/sem limite] fila=4305 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [57 (+9200)/sem limite] fila=4304 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0c8171d28361ffc3d413801bfd1b240e76b5f5da
+  [58 (+9200)/sem limite] fila=4303 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [59 (+9200)/sem limite] fila=4302 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6615e7710d654e1b6e4edd951a0f20a0c0ac6119
+  [60 (+9200)/sem limite] fila=4301 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [61 (+9200)/sem limite] fila=4300 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=84393c71a73240987961164d16e298a44fa06d54
+  [62 (+9200)/sem limite] fila=4299 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [63 (+9200)/sem limite] fila=4298 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=68b774c416312abe1bbacf92289ac7ed84cb56c5
+  [64 (+9200)/sem limite] fila=4297 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [65 (+9200)/sem limite] fila=4296 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7fabb46be22207172c8befb9849a812251f703ee
+  [66 (+9200)/sem limite] fila=4295 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [67 (+9200)/sem limite] fila=4294 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=75a1216055ec24ff0d3d49a07425571cb977f857
+  [68 (+9200)/sem limite] fila=4293 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [69 (+9200)/sem limite] fila=4292 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cb6abad547700bc6acefadbc2c65daf85836b9d4
+  [70 (+9200)/sem limite] fila=4291 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [71 (+9200)/sem limite] fila=4290 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=452d33086e8186188ec38211fc2b0846108292f0
+  [72 (+9200)/sem limite] fila=4289 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [73 (+9200)/sem limite] fila=4288 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2b96df4f7273026e8d6c450f4d20658e247f1e39
+  [74 (+9200)/sem limite] fila=4287 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [75 (+9200)/sem limite] fila=4286 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=45be35bf839ea6aced7fa739d221ec0326372e95
+  [76 (+9200)/sem limite] fila=4285 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [77 (+9200)/sem limite] fila=4284 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=75cfe3a966df055fa7fac0097072c28471d81105
+  [78 (+9200)/sem limite] fila=4283 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [79 (+9200)/sem limite] fila=4282 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3d254822630649146a6be6abcc2d76c48c09ec63
+  [80 (+9200)/sem limite] fila=4281 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [81 (+9200)/sem limite] fila=4280 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ba426d2263ea711590be107c330bc1d25376d4a1
+  [82 (+9200)/sem limite] fila=4279 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [83 (+9200)/sem limite] fila=4278 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ce79b61b1c453c40cd7ecc1215306937c0f86686
+  [84 (+9200)/sem limite] fila=4277 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [85 (+9200)/sem limite] fila=4276 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e214559d10203163d745c49ec1af6b78dac701be
+  [86 (+9200)/sem limite] fila=4275 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [87 (+9200)/sem limite] fila=4274 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3ab40217b6e17d8defaa72b6f3212e9e3f60f6e4
+  [88 (+9200)/sem limite] fila=4273 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [89 (+9200)/sem limite] fila=4272 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c8718ddadcf2da995f05bbcfe87d5ce1383b7ffc
+  [90 (+9200)/sem limite] fila=4271 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [91 (+9200)/sem limite] fila=4270 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=50c073ca3d565323d04e028efdf0f55b42017b3d
+  [92 (+9200)/sem limite] fila=4269 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [93 (+9200)/sem limite] fila=4268 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=291e4a10621717a2c4b33edab6582c1a19dfff4f
+  [94 (+9200)/sem limite] fila=4267 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [95 (+9200)/sem limite] fila=4266 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bcf8f4ec0a8109df1fc33a983b6cc34e906589d3
+  [96 (+9200)/sem limite] fila=4265 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [97 (+9200)/sem limite] fila=4264 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f7d27bce66df5aee6b52279cd6fc8ea536431575
+  [98 (+9200)/sem limite] fila=4263 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [99 (+9200)/sem limite] fila=4262 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=052e08469be3b3713578dd8ffdd615ab4fed21c4
+  [100 (+9200)/sem limite] fila=4261 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [101 (+9200)/sem limite] fila=4260 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e28bb39255b9c7932e01f955b6f0d54466efeb4f
+  [102 (+9200)/sem limite] fila=4259 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [103 (+9200)/sem limite] fila=4258 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c62df3d63bf4ba46dfac586e053b48fa1a4b0e11
+  [104 (+9200)/sem limite] fila=4257 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [105 (+9200)/sem limite] fila=4256 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1ce06ad7e14c641906db5a5f623c0573ed0fd04f
+  [106 (+9200)/sem limite] fila=4255 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [107 (+9200)/sem limite] fila=4254 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ffbacdaae65c1836628b1bb2018aee831912f7e4
+  [108 (+9200)/sem limite] fila=4253 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [109 (+9200)/sem limite] fila=4252 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=27bf14abd86fe9145f82694497c64b99a0a6dcf2
+  [110 (+9200)/sem limite] fila=4251 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [111 (+9200)/sem limite] fila=4250 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1e203b95ca10387a6e25f0c76cf4a4dc26690c35
+  [112 (+9200)/sem limite] fila=4249 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [113 (+9200)/sem limite] fila=4248 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5bb244457792e7bf57aca1a450be7f6949419e48
+  [114 (+9200)/sem limite] fila=4247 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [115 (+9200)/sem limite] fila=4246 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c021adf01e1385146011f71c5139bb0ea43b9746
+  [116 (+9200)/sem limite] fila=4245 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [117 (+9200)/sem limite] fila=4244 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5be326c9fe74ca8c7ef5c214c7b678924b4c7efb
+  [118 (+9200)/sem limite] fila=4243 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [119 (+9200)/sem limite] fila=4242 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=af12b1f563ce61dd7d50845a0fead68645973ff2
+  [120 (+9200)/sem limite] fila=4241 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [121 (+9200)/sem limite] fila=4240 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4817cbb323cd7591bec0d45e3bf6e5ea6682991c
+  [122 (+9200)/sem limite] fila=4239 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [123 (+9200)/sem limite] fila=4238 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=69686707156e8f6ca8d777d6cb25e193622a5a2f
+  [124 (+9200)/sem limite] fila=4237 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [125 (+9200)/sem limite] fila=4236 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3adaf4931d647949e06c6d793ee3441579c2fb39
+  [126 (+9200)/sem limite] fila=4235 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [127 (+9200)/sem limite] fila=4234 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=812cabb62cf656553ee051862e1924e3e252f0d5
+  [128 (+9200)/sem limite] fila=4233 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [129 (+9200)/sem limite] fila=4232 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4e3b1c95b00d0086e6a02a3b63b99e12710ce1dd
+  [130 (+9200)/sem limite] fila=4231 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [131 (+9200)/sem limite] fila=4230 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=68dbf89702c17cfc5aeeffb44881e52b1fbcd137
+  [132 (+9200)/sem limite] fila=4229 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [133 (+9200)/sem limite] fila=4228 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3b63ee541fefbd0326a9a621fdd4c4062af96bc7
+  [134 (+9200)/sem limite] fila=4227 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [135 (+9200)/sem limite] fila=4226 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dd176fcca8f02547aecd06e6f780f35d159b14bb
+  [136 (+9200)/sem limite] fila=4225 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [137 (+9200)/sem limite] fila=4224 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5274094d7f0ef978082bdbc85371ac44a6f2f86a
+  [138 (+9200)/sem limite] fila=4223 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [139 (+9200)/sem limite] fila=4222 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bb338cb450cfd264f1ae6c64c26e87d928c3a354
+  [140 (+9200)/sem limite] fila=4221 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [141 (+9200)/sem limite] fila=4220 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=467ae2f17b13f86717a600225da889125052170f
+  [142 (+9200)/sem limite] fila=4219 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [143 (+9200)/sem limite] fila=4218 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=18348bf6b2cc8bb0592ed8d804e661116e393ca0
+  [144 (+9200)/sem limite] fila=4217 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [145 (+9200)/sem limite] fila=4216 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=276c73406e8b4c3f6b85ee9ea20d8c9fe81c9355
+  [146 (+9200)/sem limite] fila=4215 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [147 (+9200)/sem limite] fila=4214 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=13019ecdc5b044413aa3bb34a00779b67c9d1ae8
+  [148 (+9200)/sem limite] fila=4213 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [149 (+9200)/sem limite] fila=4212 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9755cfc7a917dbc1923b45280b81524c0e5bd0ce
+  [150 (+9200)/sem limite] fila=4211 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [151 (+9200)/sem limite] fila=4210 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b9bbcaab375dcd9ee01de6b32ece8de4af42139a
+  [152 (+9200)/sem limite] fila=4209 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [153 (+9200)/sem limite] fila=4208 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fea0047a65e3de4e0f8373089d30b5b5f2cff519
+  [154 (+9200)/sem limite] fila=4207 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [155 (+9200)/sem limite] fila=4206 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=45581a721282479fd8082e99f9ae369db2856d96
+  [156 (+9200)/sem limite] fila=4205 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [157 (+9200)/sem limite] fila=4204 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7280586ff6534e9bea1d47630af924be38375aeb
+  [158 (+9200)/sem limite] fila=4203 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [159 (+9200)/sem limite] fila=4202 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c5078120e8f4c25039110c9c84cc5e1e72238e58
+  [160 (+9200)/sem limite] fila=4201 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [161 (+9200)/sem limite] fila=4200 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8c1b3f65c9af402d4f37818eadbc37b3be3c1e8a
+  [162 (+9200)/sem limite] fila=4199 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [163 (+9200)/sem limite] fila=4198 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0bf9716eb57278fcb03011248b840a5e752bf012
+  [164 (+9200)/sem limite] fila=4197 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [165 (+9200)/sem limite] fila=4196 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bd9b0d81b2a51fb00a62f19d8def05088d8e474e
+  [166 (+9200)/sem limite] fila=4195 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [167 (+9200)/sem limite] fila=4194 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b66aea2eb64ce13c334a0db237476fe2cbe1e489
+  [168 (+9200)/sem limite] fila=4193 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [169 (+9200)/sem limite] fila=4192 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e286cac253f888a1cf384d65bbf08e40571fc7ef
+  [170 (+9200)/sem limite] fila=4191 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [171 (+9200)/sem limite] fila=4190 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1a5b221e63122c8b7c213defbf09f1c019792fea
+  [172 (+9200)/sem limite] fila=4189 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [173 (+9200)/sem limite] fila=4188 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9dc10e3edd97af384ccd9629aa12de16573ab81a
+  [174 (+9200)/sem limite] fila=4187 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [175 (+9200)/sem limite] fila=4186 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e35e5a5345314a4c9f8374078251005a2929e803
+  [176 (+9200)/sem limite] fila=4185 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [177 (+9200)/sem limite] fila=4184 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3bc192b51693f31d6c21e8c8d68579e4e30d4218
+  [178 (+9200)/sem limite] fila=4183 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [179 (+9200)/sem limite] fila=4182 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4a88ddfc1b4f11ca7876ee68a91601828784e8d5
+  [180 (+9200)/sem limite] fila=4181 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [181 (+9200)/sem limite] fila=4180 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4cdd1de3f2e04dbe4d6faa857980555a285c257e
+  [182 (+9200)/sem limite] fila=4179 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [183 (+9200)/sem limite] fila=4178 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5badf9ddff4bee20f7689d92cb5cfae9f73db592
+  [184 (+9200)/sem limite] fila=4177 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [185 (+9200)/sem limite] fila=4176 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5b3366ffacf2fb6b01a17f9f7d94763d508a01b8
+  [186 (+9200)/sem limite] fila=4175 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [187 (+9200)/sem limite] fila=4174 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5c5e38953a597f7a8f07f207a96420a212cfea81
+  [188 (+9200)/sem limite] fila=4173 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [189 (+9200)/sem limite] fila=4172 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7d5ef59cd52e9e7a6527ad9843a66a39eb0098b9
+  [190 (+9200)/sem limite] fila=4171 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [191 (+9200)/sem limite] fila=4170 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=65573bfbf7d54fcf6b28e7126ab30710f4b770de
+  [192 (+9200)/sem limite] fila=4169 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [193 (+9200)/sem limite] fila=4168 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=075566c5a3d6f3cd4560dbd9e6a759a1fcee250d
+  [194 (+9200)/sem limite] fila=4167 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [195 (+9200)/sem limite] fila=4166 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8cf6f90ae37a8c0e71b532657b4c5cadac0f7475
+  [196 (+9200)/sem limite] fila=4165 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [197 (+9200)/sem limite] fila=4164 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b03f4ef91f7942f46889ac1de5e90de0b4d9d305
+  [198 (+9200)/sem limite] fila=4163 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [199 (+9200)/sem limite] fila=4162 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e3ef5e8f277fea4be377b3cfb22a67bd9d799ae3
+  [200 (+9200)/sem limite] fila=4161 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  4941 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1468 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  188 links externos registrados.
+  Checkpoint salvo (9400 páginas totais | 200 nesta sessão).
+  [201 (+9200)/sem limite] fila=4160 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=188b2b094b8c7f93edbe9f49cf2f2048f95e1712
+  [202 (+9200)/sem limite] fila=4159 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [203 (+9200)/sem limite] fila=4158 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2c80ea3b36e33136b79898f858550aaa7e6528fa
+  [204 (+9200)/sem limite] fila=4157 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [205 (+9200)/sem limite] fila=4156 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f244eb0e47033240f8a962dfebad5dfc5ea467d0
+  [206 (+9200)/sem limite] fila=4155 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [207 (+9200)/sem limite] fila=4154 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a800d7d84ab7bd6132bf8914cdda097fc5205751
+  [208 (+9200)/sem limite] fila=4153 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [209 (+9200)/sem limite] fila=4152 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2869fe9e65d82b6be28264d84023fddc4073d8a5
+  [210 (+9200)/sem limite] fila=4151 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [211 (+9200)/sem limite] fila=4150 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bc14634e66f376432a84b797d654ca90c5d5240e
+  [212 (+9200)/sem limite] fila=4149 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [213 (+9200)/sem limite] fila=4148 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=91ac62b8d4469a5f07cc2fb5830525b2ed21a07c
+  [214 (+9200)/sem limite] fila=4147 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [215 (+9200)/sem limite] fila=4146 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=00fdb589b3e59b292c94b5559727096f876ea03f
+  [216 (+9200)/sem limite] fila=4145 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [217 (+9200)/sem limite] fila=4144 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=180e4e599b5aada5b88218d48e97ec082380ca13
+  [218 (+9200)/sem limite] fila=4143 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [219 (+9200)/sem limite] fila=4142 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=06e1913b61810d5dfcba4a874706a837e643f8d5
+  [220 (+9200)/sem limite] fila=4141 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [221 (+9200)/sem limite] fila=4140 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=89b5cc9585ccfe9f128b8b9559517365bd3c2e97
+  [222 (+9200)/sem limite] fila=4139 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [223 (+9200)/sem limite] fila=4138 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=397ae146e256fb8c5e87a4109955c6417e41c0e1
+  [224 (+9200)/sem limite] fila=4137 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [225 (+9200)/sem limite] fila=4136 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=982c87fb8df376154bbfd6d6378a46c10cdb9546
+  [226 (+9200)/sem limite] fila=4135 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [227 (+9200)/sem limite] fila=4134 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dd016b5fc556661b2c4659b8edc8db1c7626c706
+  [228 (+9200)/sem limite] fila=4133 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [229 (+9200)/sem limite] fila=4132 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=568cf2bb3223857e80b3ade912bc1bc08528a905
+  [230 (+9200)/sem limite] fila=4131 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [231 (+9200)/sem limite] fila=4130 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=56f3e1bf7419079bfe52b05bdc65e3af372a6662
+  [232 (+9200)/sem limite] fila=4129 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [233 (+9200)/sem limite] fila=4128 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9cb1aebb1e0c5d2bfa802b5f13fe0d57eb5ccddf
+  [234 (+9200)/sem limite] fila=4127 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [235 (+9200)/sem limite] fila=4126 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9e5744c122024c9b20dd4b84c111599b8f83a664
+  [236 (+9200)/sem limite] fila=4125 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [237 (+9200)/sem limite] fila=4124 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7c6c3c1582a8926b3b84a5b9e666024b9cc18568
+  [238 (+9200)/sem limite] fila=4123 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [239 (+9200)/sem limite] fila=4122 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dc70d1f8128d25351854bea72848fa68bfed3bbd
+  [240 (+9200)/sem limite] fila=4121 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [241 (+9200)/sem limite] fila=4120 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=345adba8fe7803511c988c0e2587fb4e3acf7b94
+  [242 (+9200)/sem limite] fila=4119 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [243 (+9200)/sem limite] fila=4118 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=26b351deb8d00667dc5d0b2853792575f26de9c5
+  [244 (+9200)/sem limite] fila=4117 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [245 (+9200)/sem limite] fila=4116 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a6ff5f33d42cdf04a765868454eb81275ecb4a83
+  [246 (+9200)/sem limite] fila=4115 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [247 (+9200)/sem limite] fila=4114 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ad2894d4e8285650cce9ec6f9f9ef64cf2f5c6eb
+  [248 (+9200)/sem limite] fila=4113 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [249 (+9200)/sem limite] fila=4112 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c18ffcbf40ca4c5da9e4fd702c109e5547bfbda1
+  [250 (+9200)/sem limite] fila=4111 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [251 (+9200)/sem limite] fila=4110 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b9362ea1eac55cf48b17124878b9ae11111de752
+  [252 (+9200)/sem limite] fila=4109 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [253 (+9200)/sem limite] fila=4108 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1b50602274f566abe15a0250f739ce52ee90ef31
+  [254 (+9200)/sem limite] fila=4107 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [255 (+9200)/sem limite] fila=4106 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=de121d70e39ae95ebdd3f4e0ca43ca7ef07ef052
+  [256 (+9200)/sem limite] fila=4105 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [257 (+9200)/sem limite] fila=4104 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=53b15277fe638a7d1362aa182a0bbb85b5dbeafe
+  [258 (+9200)/sem limite] fila=4103 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 21-2
+  [259 (+9200)/sem limite] fila=4104 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 20-2
+  [260 (+9200)/sem limite] fila=4105 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 19-2
+  [261 (+9200)/sem limite] fila=4106 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 18-2
+  [262 (+9200)/sem limite] fila=4107 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 17-2
+  [263 (+9200)/sem limite] fila=4108 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 16-2
+  [264 (+9200)/sem limite] fila=4109 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  ⚠️ [404] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 15-2
+  [265 (+9200)/sem limite] fila=4110 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 14-2
+  [266 (+9200)/sem limite] fila=4111 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 13-2
+  [267 (+9200)/sem limite] fila=4112 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 12-2
+  [268 (+9200)/sem limite] fila=4113 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 11-2
+  [269 (+9200)/sem limite] fila=4114 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 10-2
+  [270 (+9200)/sem limite] fila=4115 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 09-2
+  [271 (+9200)/sem limite] fila=4116 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [272 (+9200)/sem limite] fila=4117 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 08-2
+  [273 (+9200)/sem limite] fila=4118 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 07-2
+  [274 (+9200)/sem limite] fila=4119 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 06-2
+  [275 (+9200)/sem limite] fila=4120 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 05-2
+  [276 (+9200)/sem limite] fila=4121 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 04-2
+  [277 (+9200)/sem limite] fila=4122 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/editais_tbtran/EDITAL 03-2
+  [278 (+9200)/sem limite] fila=4123 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [279 (+9200)/sem limite] fila=4122 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6e49ad1dcadb99c4d2b9c01b3c0b14d7dfe6fb1e
+  [280 (+9200)/sem limite] fila=4121 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [281 (+9200)/sem limite] fila=4120 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4a71e9f1c4937c8d9cf1aa955bf578bbda16db1a
+  [282 (+9200)/sem limite] fila=4119 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [283 (+9200)/sem limite] fila=4118 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=df5ab6b6b33eee834a0444aabf81d891d57f6c33
+  [284 (+9200)/sem limite] fila=4117 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [285 (+9200)/sem limite] fila=4116 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0b4a6f95928ed3ad18b3e651ba79c3fefd21afc0
+  [286 (+9200)/sem limite] fila=4115 | depth=5 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/tbtran/edita
+  [287 (+9200)/sem limite] fila=4114 | depth=5 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bc79c8a71c2b2da05134d89692df9b72b5947707
