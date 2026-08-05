@@ -1,3 +1,3 @@
-./run_pipeline.sh apucarana
-./run_pipeline.sh arapongas
-./run_pipeline.sh arapoti
+./run_pipeline.sh sertanopolis
+./run_pipeline.sh siqueiracampos
+./run_pipeline.sh sulina

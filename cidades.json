@@ -407,10 +407,12 @@
   },
   "tamboara": {
     "sementes": [
-      "https://tamboara.pr.gov.br/"
+      "https://tamboara.pr.gov.br/",
+      "https://www.tamboara.pr.gov.br/"
     ],
     "dominios": [
-      "tamboara.pr.gov.br"
+      "tamboara.pr.gov.br",
+      "www.tamboara.pr.gov.br"
     ]
   },
   "tresbarrasdoparana": {
@@ -3444,9 +3446,11 @@
   },
   "tapejara": {
     "sementes": [
-      "https://www.tapejara.pr.gov.br/"
+      "https://www.tapejara.pr.gov.br/",
+      "https://tapejara.eloweb.net/portaltransparencia/1/"
     ],
     "dominios": [
+      "tapejara.eloweb.net",
       "tapejara.pr.gov.br",
       "www.tapejara.pr.gov.br"
     ]
