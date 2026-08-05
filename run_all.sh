@@ -370,12 +370,15 @@
 # ./run_pipeline.sh senges
 # ./run_pipeline.sh serranopolisdoiguacu
 # ./run_pipeline.sh sertaneja
+
 # ./run_pipeline.sh sertanopolis
 # ./run_pipeline.sh siqueiracampos
 # ./run_pipeline.sh sulina
+
 # ./run_pipeline.sh tamarana
 # ./run_pipeline.sh tamboara
 # ./run_pipeline.sh tapejara
+
 # ./run_pipeline.sh tapira
 # ./run_pipeline.sh teixeirasoares
 # ./run_pipeline.sh telemacoborba
