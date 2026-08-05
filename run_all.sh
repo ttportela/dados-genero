@@ -382,9 +382,11 @@
 # ./run_pipeline.sh terraboa
 # ./run_pipeline.sh terrarica
 # ./run_pipeline.sh terraroxa
+
 # ./run_pipeline.sh tibagi
 # ./run_pipeline.sh tijucasdosul
 # ./run_pipeline.sh toledo
+
 # ./run_pipeline.sh tomazina
 # ./run_pipeline.sh tresbarrasdoparana
 # ./run_pipeline.sh tunasdoparana
