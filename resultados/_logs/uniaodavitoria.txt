@@ -1989,3 +1989,143 @@ Inventário parcial carregado: 1195 arquivos já registrados.
  Pipeline encerrado. Resultados em: resultados/uniaodavitoria/
 ============================================================
 
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UNIAODAVITORIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1195 arquivos já registrados.
+  Links externos parciais carregados: 96 links já registrados.
+  Log de erros parcial carregado: 11 erros já registrados.
+
+============================================================
+  Crawler iniciado: UNIAODAVITORIA
+  Páginas já visitadas (checkpoint): 643
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/inventario_links.xlsx
+  1195 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/erros_varredura.xlsx
+  11 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/inventario_externos.xlsx
+  96 links externos registrados.
+
+  Varredura encerrada: UNIAODAVITORIA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 643
+  Arquivos no inventário: 1195
+  Erros registrados: 11
+
+
+ Pipeline encerrado. Resultados em: resultados/uniaodavitoria/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas União da Vitória)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 União da Vitória (slug: uniaodavitoria)...   → buscando no DuckDuckGo (apenas inventário)... /home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (DuckDuckGo bloqueou — aguardando 10s...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (tentando Google...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (DuckDuckGo bloqueou — aguardando 10s...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (tentando Google...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - União da Vitória
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | UNIAODAVITORIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1195 arquivos já registrados.
+  Links externos parciais carregados: 96 links já registrados.
+  Log de erros parcial carregado: 11 erros já registrados.
+  Reprocessar erros: 3 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 8 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: UNIAODAVITORIA
+  Páginas já visitadas (checkpoint): 640
+  URLs na fila: 3
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+640)/sem limite] fila=2 | depth=3 | http://www.uniaodavitoria.pr.gov.br/
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/
+  [2 (+640)/sem limite] fila=1 | depth=4 | http://www.uniaodavitoria.pr.gov.br
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br
+  [3 (+640)/sem limite] fila=0 | depth=4 | http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ TIMEOUT_OU_CONEXAO: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+  🤖 Usando Selenium para: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+ ❌ SELENIUM_ERRO: WebDriverException: http://www.uniaodavitoria.pr.gov.br/conferenciadascidades
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/inventario_links.xlsx
+  1195 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/erros_varredura.xlsx
+  14 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/uniaodavitoria/inventario_externos.xlsx
+  96 links externos registrados.
+
+  Varredura encerrada: UNIAODAVITORIA
+  Páginas nesta sessão: 3
+  Páginas totais (acumulado): 643
+  Arquivos no inventário: 1195
+  Erros registrados: 14
+
+
+ Pipeline encerrado. Resultados em: resultados/uniaodavitoria/
+============================================================
+

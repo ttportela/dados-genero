@@ -1,0 +1,443 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TAPIRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TAPIRA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.tapira.pr.gov.br/
+  [2/sem limite] fila=25 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=p0
+  [3/sem limite] fila=24 | depth=1 | https://www.tapira.pr.gov.br
+  [4/sem limite] fila=23 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ncb0&id=1696
+  [5/sem limite] fila=22 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ncb0&id=1695
+  [6/sem limite] fila=21 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ncb0&id=2072
+  [7/sem limite] fila=20 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ncb0&id=1694
+  [8/sem limite] fila=19 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ixb0&id=562
+  [9/sem limite] fila=18 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3244
+  [10/sem limite] fila=24 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3200
+  [11/sem limite] fila=30 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3204
+  [12/sem limite] fila=35 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=4245
+  [13/sem limite] fila=34 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=4234
+  [14/sem limite] fila=36 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3203
+  [15/sem limite] fila=42 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3202
+  [16/sem limite] fila=46 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3206
+  [17/sem limite] fila=45 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3201
+  [18/sem limite] fila=51 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368svb0&id=3207
+  [19/sem limite] fila=54 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481437
+  [20/sem limite] fila=55 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479801
+  [21/sem limite] fila=54 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479489
+  [22/sem limite] fila=53 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476897
+  [23/sem limite] fila=52 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476165
+  [24/sem limite] fila=51 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476031
+  [25/sem limite] fila=50 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475631
+  [26/sem limite] fila=49 | depth=1 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ovb0&id=3463
+  [27/sem limite] fila=48 | depth=1 | https://webmail.tapira.pr.gov.br
+  [28/sem limite] fila=90 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481437&id_secre
+  [29/sem limite] fila=89 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1474236&id_secre
+  [30/sem limite] fila=88 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473655&id_secre
+  [31/sem limite] fila=87 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472901&id_secre
+  [32/sem limite] fila=87 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472900&id_secre
+  [33/sem limite] fila=86 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472878&id_secre
+  [34/sem limite] fila=85 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244
+  [35/sem limite] fila=97 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479489&id_secre
+  [36/sem limite] fila=96 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472948&id_secre
+  [37/sem limite] fila=95 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472901&id_secre
+  [38/sem limite] fila=94 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466298&id_secre
+  [39/sem limite] fila=93 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466297&id_secre
+  [40/sem limite] fila=92 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1459529&id_secre
+  [41/sem limite] fila=91 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200
+  [42/sem limite] fila=102 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476031&id_secre
+  [43/sem limite] fila=101 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473655&id_secre
+  [44/sem limite] fila=100 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470613&id_secre
+  [45/sem limite] fila=99 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470547&id_secre
+  [46/sem limite] fila=98 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336562&id_secre
+  [47/sem limite] fila=97 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204
+  [48/sem limite] fila=104 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479801&id_secre
+  [49/sem limite] fila=103 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479275&id_secre
+  [50/sem limite] fila=102 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234
+  [51/sem limite] fila=109 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481437&id_secre
+  [52/sem limite] fila=108 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472901&id_secre
+  [53/sem limite] fila=107 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470726&id_secre
+  [54/sem limite] fila=106 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466298&id_secre
+  [55/sem limite] fila=105 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466297&id_secre
+  [56/sem limite] fila=104 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1455484&id_secre
+  [57/sem limite] fila=103 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203
+  [58/sem limite] fila=114 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479274&id_secre
+  [59/sem limite] fila=113 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1476897&id_secre
+  [60/sem limite] fila=112 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1416793&id_secre
+  [61/sem limite] fila=111 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336559&id_secre
+  [62/sem limite] fila=110 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202
+  [63/sem limite] fila=117 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473070&id_secre
+  [64/sem limite] fila=116 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472963&id_secre
+  [65/sem limite] fila=115 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472900&id_secre
+  [66/sem limite] fila=114 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470044&id_secre
+  [67/sem limite] fila=113 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442771&id_secre
+  [68/sem limite] fila=112 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442769&id_secre
+  [69/sem limite] fila=111 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201
+  [70/sem limite] fila=122 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1386358&id_secre
+  [71/sem limite] fila=121 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1383156&id_secre
+  [72/sem limite] fila=120 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1340850&id_secre
+  [73/sem limite] fila=119 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207
+  [74/sem limite] fila=126 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479275
+  [75/sem limite] fila=125 | depth=2 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1479274
+  [76/sem limite] fila=124 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ar
+  [77/sem limite] fila=123 | depth=2 | https://webmail.tapira.pr.gov.br?locale=cs
+  [78/sem limite] fila=122 | depth=2 | https://webmail.tapira.pr.gov.br?locale=da
+  [79/sem limite] fila=121 | depth=2 | https://webmail.tapira.pr.gov.br?locale=de
+  [80/sem limite] fila=120 | depth=2 | https://webmail.tapira.pr.gov.br?locale=el
+  [81/sem limite] fila=119 | depth=2 | https://webmail.tapira.pr.gov.br?locale=en
+  [82/sem limite] fila=118 | depth=2 | https://webmail.tapira.pr.gov.br?locale=es
+  [83/sem limite] fila=117 | depth=2 | https://webmail.tapira.pr.gov.br?locale=es_419
+  [84/sem limite] fila=116 | depth=2 | https://webmail.tapira.pr.gov.br?locale=es_es
+  [85/sem limite] fila=115 | depth=2 | https://webmail.tapira.pr.gov.br?locale=fi
+  [86/sem limite] fila=114 | depth=2 | https://webmail.tapira.pr.gov.br?locale=fil
+  [87/sem limite] fila=113 | depth=2 | https://webmail.tapira.pr.gov.br?locale=fr
+  [88/sem limite] fila=112 | depth=2 | https://webmail.tapira.pr.gov.br?locale=he
+  [89/sem limite] fila=111 | depth=2 | https://webmail.tapira.pr.gov.br?locale=hu
+  [90/sem limite] fila=110 | depth=2 | https://webmail.tapira.pr.gov.br?locale=i_en
+  [91/sem limite] fila=109 | depth=2 | https://webmail.tapira.pr.gov.br?locale=id
+  [92/sem limite] fila=108 | depth=2 | https://webmail.tapira.pr.gov.br?locale=it
+  [93/sem limite] fila=107 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ja
+  [94/sem limite] fila=106 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ko
+  [95/sem limite] fila=105 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ms
+  [96/sem limite] fila=104 | depth=2 | https://webmail.tapira.pr.gov.br?locale=nb
+  [97/sem limite] fila=103 | depth=2 | https://webmail.tapira.pr.gov.br?locale=nl
+  [98/sem limite] fila=102 | depth=2 | https://webmail.tapira.pr.gov.br?locale=pl
+  [99/sem limite] fila=101 | depth=2 | https://webmail.tapira.pr.gov.br?locale=pt
+  [100/sem limite] fila=100 | depth=2 | https://webmail.tapira.pr.gov.br?locale=pt_br
+  [101/sem limite] fila=99 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ro
+  [102/sem limite] fila=98 | depth=2 | https://webmail.tapira.pr.gov.br?locale=ru
+  [103/sem limite] fila=97 | depth=2 | https://webmail.tapira.pr.gov.br?locale=sv
+  [104/sem limite] fila=96 | depth=2 | https://webmail.tapira.pr.gov.br?locale=th
+  [105/sem limite] fila=95 | depth=2 | https://webmail.tapira.pr.gov.br?locale=tr
+  [106/sem limite] fila=94 | depth=2 | https://webmail.tapira.pr.gov.br?locale=uk
+  [107/sem limite] fila=93 | depth=2 | https://webmail.tapira.pr.gov.br?locale=vi
+  [108/sem limite] fila=92 | depth=2 | https://webmail.tapira.pr.gov.br?locale=zh
+  [109/sem limite] fila=91 | depth=2 | https://webmail.tapira.pr.gov.br?locale=zh_tw
+  [110/sem limite] fila=90 | depth=2 | https://webmail.tapira.pr.gov.br/resetpass?start=1
+  [111/sem limite] fila=90 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=ar
+  [112/sem limite] fila=115 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=cs
+  [113/sem limite] fila=114 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=da
+  [114/sem limite] fila=113 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=de
+  [115/sem limite] fila=112 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=el
+  [116/sem limite] fila=111 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=en
+  [117/sem limite] fila=110 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=es
+  [118/sem limite] fila=109 | depth=2 | https://webmail.tapira.pr.gov.br/?locale=es_419
+  [119/sem limite] fila=108 | depth=3 | http://www.tapira.pr.gov.br
+  [120/sem limite] fila=107 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&cn=
+  [121/sem limite] fila=116 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1469982&id_secre
+  [122/sem limite] fila=115 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466298&id_secre
+  [123/sem limite] fila=114 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466297&id_secre
+  [124/sem limite] fila=113 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1461333&id_secre
+  [125/sem limite] fila=112 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [126/sem limite] fila=111 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [127/sem limite] fila=120 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [128/sem limite] fila=127 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [129/sem limite] fila=126 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [130/sem limite] fila=125 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [131/sem limite] fila=124 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [132/sem limite] fila=123 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3244&
+  [133/sem limite] fila=122 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1455484&id_secre
+  [134/sem limite] fila=121 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1444881&id_secre
+  [135/sem limite] fila=120 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1412966&id_secre
+  [136/sem limite] fila=119 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1340567&id_secre
+  [137/sem limite] fila=118 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [138/sem limite] fila=117 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [139/sem limite] fila=116 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [140/sem limite] fila=115 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [141/sem limite] fila=114 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [142/sem limite] fila=113 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [143/sem limite] fila=112 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [144/sem limite] fila=111 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3200&
+  [145/sem limite] fila=110 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [146/sem limite] fila=109 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [147/sem limite] fila=108 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [148/sem limite] fila=107 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [149/sem limite] fila=106 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [150/sem limite] fila=105 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [151/sem limite] fila=104 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [152/sem limite] fila=103 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3204&
+  [153/sem limite] fila=102 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [154/sem limite] fila=101 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [155/sem limite] fila=100 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [156/sem limite] fila=99 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [157/sem limite] fila=98 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [158/sem limite] fila=97 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [159/sem limite] fila=96 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [160/sem limite] fila=95 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=4234&
+  [161/sem limite] fila=94 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1444881&id_secre
+  [162/sem limite] fila=93 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1412966&id_secre
+  [163/sem limite] fila=92 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1405756&id_secre
+  [164/sem limite] fila=92 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1404114&id_secre
+  [165/sem limite] fila=91 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [166/sem limite] fila=90 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [167/sem limite] fila=93 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [168/sem limite] fila=92 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [169/sem limite] fila=91 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [170/sem limite] fila=90 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [171/sem limite] fila=89 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [172/sem limite] fila=88 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3203&
+  [173/sem limite] fila=87 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [174/sem limite] fila=86 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [175/sem limite] fila=85 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [176/sem limite] fila=84 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [177/sem limite] fila=83 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [178/sem limite] fila=82 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [179/sem limite] fila=81 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [180/sem limite] fila=80 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3202&
+  [181/sem limite] fila=79 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1434506&id_secre
+  [182/sem limite] fila=79 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1423175&id_secre
+  [183/sem limite] fila=78 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1421651&id_secre
+  [184/sem limite] fila=77 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1391855&id_secre
+  [185/sem limite] fila=76 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [186/sem limite] fila=75 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [187/sem limite] fila=77 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [188/sem limite] fila=76 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [189/sem limite] fila=75 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [190/sem limite] fila=74 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [191/sem limite] fila=73 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [192/sem limite] fila=72 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3201&
+  [193/sem limite] fila=71 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [194/sem limite] fila=70 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [195/sem limite] fila=69 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [196/sem limite] fila=68 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [197/sem limite] fila=67 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [198/sem limite] fila=66 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [199/sem limite] fila=65 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+  [200/sem limite] fila=64 | depth=3 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&id_secretaria=3207&
+
+  Nenhum arquivo encontrado para tapira.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/tapira/inventario_externos.xlsx
+  175 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=63 | depth=3 | https://webmail.tapira.pr.gov.br/
+  [202/sem limite] fila=62 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=es_es
+  [203/sem limite] fila=61 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=fi
+  [204/sem limite] fila=60 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=fil
+  [205/sem limite] fila=59 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=fr
+  [206/sem limite] fila=58 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=he
+  [207/sem limite] fila=57 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=hu
+  [208/sem limite] fila=56 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=i_en
+  [209/sem limite] fila=55 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=id
+  [210/sem limite] fila=54 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=it
+  [211/sem limite] fila=53 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=ja
+  [212/sem limite] fila=52 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=ko
+  [213/sem limite] fila=51 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=ms
+  [214/sem limite] fila=50 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=nb
+  [215/sem limite] fila=49 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=nl
+  [216/sem limite] fila=48 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=pl
+  [217/sem limite] fila=47 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=pt
+  [218/sem limite] fila=46 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=pt_br
+  [219/sem limite] fila=45 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=ro
+  [220/sem limite] fila=44 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=ru
+  [221/sem limite] fila=43 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=sv
+  [222/sem limite] fila=42 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=th
+  [223/sem limite] fila=41 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=tr
+  [224/sem limite] fila=40 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=uk
+  [225/sem limite] fila=39 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=vi
+  [226/sem limite] fila=38 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=zh
+  [227/sem limite] fila=37 | depth=3 | https://webmail.tapira.pr.gov.br/?locale=zh_tw
+  [228/sem limite] fila=36 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1475572
+  [229/sem limite] fila=35 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1474504
+  [230/sem limite] fila=34 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=1
+  [231/sem limite] fila=33 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=2
+  [232/sem limite] fila=42 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=3
+  [233/sem limite] fila=51 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=4
+  [234/sem limite] fila=60 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=5
+  [235/sem limite] fila=69 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=6
+  [236/sem limite] fila=78 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=7
+  [237/sem limite] fila=84 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368n5b0&pagina=8
+  [238/sem limite] fila=83 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1461331&id_secre
+  [239/sem limite] fila=82 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1459529&id_secre
+  [240/sem limite] fila=81 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1455484&id_secre
+  [241/sem limite] fila=80 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1444881&id_secre
+  [242/sem limite] fila=79 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442771&id_secre
+  [243/sem limite] fila=78 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442769&id_secre
+  [244/sem limite] fila=77 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1437908&id_secre
+  [245/sem limite] fila=76 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1434506&id_secre
+  [246/sem limite] fila=75 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1423374&id_secre
+  [247/sem limite] fila=74 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1421651&id_secre
+  [248/sem limite] fila=73 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1419277&id_secre
+  [249/sem limite] fila=72 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1412966&id_secre
+  [250/sem limite] fila=71 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1406285&id_secre
+  [251/sem limite] fila=70 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1402405&id_secre
+  [252/sem limite] fila=69 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1394522&id_secre
+  [253/sem limite] fila=68 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1391855&id_secre
+  [254/sem limite] fila=67 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1386358&id_secre
+  [255/sem limite] fila=66 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1340567&id_secre
+  [256/sem limite] fila=65 | depth=4 | http://tapira.pr.gov.br/index.php?sessao=b054603368ixb0&id=988
+  [257/sem limite] fila=65 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1403765&id_secre
+  [258/sem limite] fila=64 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1394522&id_secre
+  [259/sem limite] fila=63 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1343559&id_secre
+  [260/sem limite] fila=62 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336561&id_secre
+  [261/sem limite] fila=61 | depth=4 | http://www.tapira.pr.gov.br/index.php?sessao=b054603368h6b0&id=365
+  [262/sem limite] fila=61 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1386358&id_secre
+  [263/sem limite] fila=60 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336563&id_secre
+  [264/sem limite] fila=59 | depth=4 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336560&id_secre
+  [265/sem limite] fila=58 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1474236
+  [266/sem limite] fila=57 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1474228
+  [267/sem limite] fila=56 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1474051
+  [268/sem limite] fila=55 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473655
+  [269/sem limite] fila=54 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1473070
+  [270/sem limite] fila=53 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472963
+  [271/sem limite] fila=52 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472948
+  [272/sem limite] fila=51 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472901
+  [273/sem limite] fila=50 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472900
+  [274/sem limite] fila=49 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1472878
+  [275/sem limite] fila=48 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471541
+  [276/sem limite] fila=47 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1471479
+  [277/sem limite] fila=46 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470726
+  [278/sem limite] fila=45 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470613
+  [279/sem limite] fila=44 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470547
+  [280/sem limite] fila=43 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1470044
+  [281/sem limite] fila=42 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1469982
+  [282/sem limite] fila=41 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466298
+  [283/sem limite] fila=40 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1466297
+  [284/sem limite] fila=39 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1461333
+  [285/sem limite] fila=38 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1461331
+  [286/sem limite] fila=37 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1459529
+  [287/sem limite] fila=36 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1455484
+  [288/sem limite] fila=35 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1444881
+  [289/sem limite] fila=34 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442771
+  [290/sem limite] fila=33 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442769
+  [291/sem limite] fila=32 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1442763
+  [292/sem limite] fila=31 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1437908
+  [293/sem limite] fila=30 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1434506
+  [294/sem limite] fila=29 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1423374
+  [295/sem limite] fila=28 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1423175
+  [296/sem limite] fila=27 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1421656
+  [297/sem limite] fila=26 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1421651
+  [298/sem limite] fila=25 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1420929
+  [299/sem limite] fila=24 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1419277
+  [300/sem limite] fila=23 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1412966
+  [301/sem limite] fila=22 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1407227
+  [302/sem limite] fila=21 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1406285
+  [303/sem limite] fila=20 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1405756
+  [304/sem limite] fila=19 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1404114
+  [305/sem limite] fila=18 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1403765
+  [306/sem limite] fila=17 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1402405
+  [307/sem limite] fila=16 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1395204
+  [308/sem limite] fila=15 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1394522
+  [309/sem limite] fila=14 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1391855
+  [310/sem limite] fila=13 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1386358
+  [311/sem limite] fila=12 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1383643
+  [312/sem limite] fila=11 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1343559
+  [313/sem limite] fila=10 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1341699
+  [314/sem limite] fila=9 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1340567
+  [315/sem limite] fila=8 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1339076
+  [316/sem limite] fila=7 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336563
+  [317/sem limite] fila=6 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336562
+  [318/sem limite] fila=5 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336561
+  [319/sem limite] fila=4 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336560
+  [320/sem limite] fila=3 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1336559
+  [321/sem limite] fila=2 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368vfb0&id=1339270
+  [322/sem limite] fila=1 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368ipb0&id=988
+  [323/sem limite] fila=0 | depth=5 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368h7b0&id=166
+  [324/sem limite] fila=0 | depth=6 | https://www.tapira.pr.gov.br/index.php?sessao=b054603368h6b0&id=365
+
+  Nenhum arquivo encontrado para tapira.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/tapira/inventario_externos.xlsx
+  267 links externos registrados.
+
+  Varredura encerrada: TAPIRA
+  Páginas nesta sessão: 324
+  Páginas totais (acumulado): 324
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/tapira/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Tapira)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Tapira (slug: tapira)...   → buscando no DuckDuckGo (apenas inventário)... /home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (DuckDuckGo bloqueou — aguardando 10s...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (tentando Google...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'portalcidadao.net'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://portalcidadao.net/tributos/index.xhtml//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.prefeituradeuberlandia.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.prefeituradeuberlandia.org//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.uberlandia.mg.gov.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.uberlandia.mg.gov.br/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TAPIRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 267 links já registrados.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: TAPIRA
+  Páginas já visitadas (checkpoint): 324
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para tapira.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/tapira/inventario_externos.xlsx
+  267 links externos registrados.
+
+  Varredura encerrada: TAPIRA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 324
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/tapira/
+============================================================
+
