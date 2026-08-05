@@ -39701,3 +39701,411 @@ Inventário parcial carregado: 9346 arquivos já registrados.
   🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-protecao-municipal/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.arapoti.pr.gov.br/noticia/5998/capacitacao-fortalece-rede-de-protecao-municipal/
   [61 (+23579)/sem limite] fila=128 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6015/secretaria-reune-grupos
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ARAPOTI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 9346 arquivos já registrados.
+  Links externos parciais carregados: 1456 links já registrados.
+  Log de erros parcial carregado: 743 erros já registrados.
+
+============================================================
+  Crawler iniciado: ARAPOTI
+  Páginas já visitadas (checkpoint): 23640
+  URLs na fila: 128
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6002/carta-de-idosos-marca-encerramento-de
+  [2 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/6001/caminhada-do-junho-violeta-reune-comu
+  [3 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5988/teatro-educativo-reune-centenas-de-al
+  [4 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5981/coral-clave-de-prata-leva-musica-e-al
+  [5 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5973/palestra-aborda-prevencao-ao-assedio-
+  [6 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6014/municipio-destina-recur
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6014/municipio-destina-recursos-para-protecao-e-bem-estar-animal/
+  [7 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6013/criancas-aprendem-sobre
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6013/criancas-aprendem-sobre-sucessao-familiar/
+  [8 (+23640)/sem limite] fila=125 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6012/encerramento-do-gestar-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6012/encerramento-do-gestar-bem-reune-futuras-mamaes/
+  [9 (+23640)/sem limite] fila=124 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6011/transporte-escolar-rece
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6011/transporte-escolar-recebe-novo-onibus/
+  [10 (+23640)/sem limite] fila=123 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/1/
+  [11 (+23640)/sem limite] fila=122 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [12 (+23640)/sem limite] fila=124 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [13 (+23640)/sem limite] fila=125 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [14 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/1/
+  [15 (+23640)/sem limite] fila=125 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/-teatro-sia-santa-apresenta
+  [16 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/-teatro-sia-santa-apresenta
+  [17 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/1/
+  [18 (+23640)/sem limite] fila=125 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [19 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [20 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [21 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/1/
+  [22 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/caravana-cultural-2023/page
+  [23 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/caravana-cultural-2023/page
+  [24 (+23640)/sem limite] fila=127 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/1/
+  [25 (+23640)/sem limite] fila=126 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [26 (+23640)/sem limite] fila=128 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [27 (+23640)/sem limite] fila=129 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [28 (+23640)/sem limite] fila=131 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/1/
+  [29 (+23640)/sem limite] fila=130 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/2
+  [30 (+23640)/sem limite] fila=132 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/3
+  [31 (+23640)/sem limite] fila=133 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/9
+  [32 (+23640)/sem limite] fila=135 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/38/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/38/page/1/
+  [33 (+23640)/sem limite] fila=134 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/1/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/1/
+  [34 (+23640)/sem limite] fila=133 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/dia-do-circo-/page/2
+  [35 (+23640)/sem limite] fila=134 | depth=2 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/dia-do-circo-/page/3
+  [36 (+23640)/sem limite] fila=134 | depth=2 | https://www.arapoti.pr.gov.br/prefeitura/departamento/
+  [37 (+23640)/sem limite] fila=133 | depth=2 | https://www.arapoti.pr.gov.br/noticia/5740/lancamento-de-oficinas-de-musicoterap
+  [38 (+23640)/sem limite] fila=133 | depth=2 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5999/junho-verde-mobiliza-es
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5999/junho-verde-mobiliza-escolas-por-sustentabilidade/
+  [39 (+23640)/sem limite] fila=132 | depth=5 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5908/formaturas-dos-5-anos/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5908/formaturas-dos-5-anos/
+  [40 (+23640)/sem limite] fila=131 | depth=5 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5488/prefeitura-revitaliza-q
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5488/prefeitura-revitaliza-quadra-de-areia-da-linha-verde/
+  [41 (+23640)/sem limite] fila=130 | depth=5 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5148/equipe-sub-15-de-arapot
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5148/equipe-sub-15-de-arapoti-esta-na-final-da-copa-hollos-de-futebol-/
+  [42 (+23640)/sem limite] fila=129 | depth=5 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4717/ja-comeaou-o-campeonato
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4717/ja-comeaou-o-campeonato-de-futsal-adulto-2012/
+  [43 (+23640)/sem limite] fila=128 | depth=5 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4783/dia-14-de-julho-tem-nov
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4783/dia-14-de-julho-tem-nova-campanha-para-doaaao-de-sangue/
+  [44 (+23640)/sem limite] fila=127 | depth=6 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4466/servidores-municipais-p
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4466/servidores-municipais-passarao-a-receber-salario-na-caixa/
+  [45 (+23640)/sem limite] fila=126 | depth=6 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3668/produtor-rural-confira-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3668/produtor-rural-confira-o-cronograma-para-agendamento-da-retroescavadeira/
+  [46 (+23640)/sem limite] fila=125 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3223/levantamento-aponta-ind
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3223/levantamento-aponta-indice-de-infestacao-por-mosquito-da-dengue-de-alto-risco/
+  [47 (+23640)/sem limite] fila=124 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3235/reuniao-discute-desenvo
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3235/reuniao-discute-desenvolvimento-do-turismo-religioso-no-municipio/
+  [48 (+23640)/sem limite] fila=123 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3244/reuniao-mensal-dos-gest
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3244/reuniao-mensal-dos-gestores-municipais-de-turismo-dos-campos-gerais/
+  [49 (+23640)/sem limite] fila=122 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3278/cadastro-municipal-de-a
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3278/cadastro-municipal-de-agentes-culturais-e-profissionais-da-cultura-de-arapoti-/
+  [50 (+23640)/sem limite] fila=121 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3281/22-de-novembro-dia-do-m
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3281/22-de-novembro-dia-do-musico/
+  [51 (+23640)/sem limite] fila=120 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3304/arapoti-recebe-reuniao-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3304/arapoti-recebe-reuniao-de-gestores-municipais-de-turismo-dos-campos-gerais/
+  [52 (+23640)/sem limite] fila=119 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3320/1-festival-musical-regi
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3320/1-festival-musical-regional-talentos-da-minha-terra/
+  [53 (+23640)/sem limite] fila=118 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3322/circuito-gastronomico-d
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3322/circuito-gastronomico-dos-campos-gerais-sera-realizado-nos-meses-de-outubro-e-novembro/
+  [54 (+23640)/sem limite] fila=117 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3334/renda-emergencial-para-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3334/renda-emergencial-para-trabalhadores-da-cultura-nao-perca-o-prazo-de-cadastramento/
+  [55 (+23640)/sem limite] fila=116 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3354/governo-do-estado-abre-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3354/governo-do-estado-abre-cadastro-de-renda-emergencial-para-trabalhadores-da-area-cultural/
+  [56 (+23640)/sem limite] fila=115 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3376/encontro-online-discute
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3376/encontro-online-discute-fotografia-gastronomica-nesta-quinta-16/
+  [57 (+23640)/sem limite] fila=114 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3410/i-mostra-container-cult
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3410/i-mostra-container-cultural-comeca-hoje-as-19-horas/
+  [58 (+23640)/sem limite] fila=113 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3587/turismo-e-cultura-repre
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3587/turismo-e-cultura-representantes-da-administracao-municipal-visitam-museu-do-imigrante-holandes/
+  [59 (+23640)/sem limite] fila=112 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3662/arapoti-tera-representa
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3662/arapoti-tera-representaaao-no-conselho-estadual-de-promoaao-de-igualdade-racial/
+  [60 (+23640)/sem limite] fila=111 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4519/braz-conquista-investim
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4519/braz-conquista-investimento-de-r-2-milhaes/
+  [61 (+23640)/sem limite] fila=110 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4522/territario-da-juventude
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4522/territario-da-juventude-tera-piscina-e-pista-de-skate/
+  [62 (+23640)/sem limite] fila=109 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4539/um-pedaao-da-holanda-em
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4539/um-pedaao-da-holanda-em-arapoti/
+  [63 (+23640)/sem limite] fila=108 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5609/colegio-civico-militar-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5609/colegio-civico-militar-joao-paulo-ii/
+  [64 (+23640)/sem limite] fila=107 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3245/equipe-de-arapoti-conqu
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3245/equipe-de-arapoti-conquista-taca-parana-de-futsal-na-categoria-sub-16/
+  [65 (+23640)/sem limite] fila=106 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4378/arapoti-tera-representa
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4378/arapoti-tera-representante-nos-jogos-da-juventude/
+  [66 (+23640)/sem limite] fila=105 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4408/torneio-de-truco-do-cha
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4408/torneio-de-truco-do-chafariz-movimentou-o-sabado/
+  [67 (+23640)/sem limite] fila=104 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4414/representantes-do-odont
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4414/representantes-do-odonto-sesc-acertam-altimos-detalhes-com-a-prefeitura/
+  [68 (+23640)/sem limite] fila=103 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4322/barcelona-vence-a-copa-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4322/barcelona-vence-a-copa-de-futebol-de-areia/
+  [69 (+23640)/sem limite] fila=102 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3799/hoje-a-o-dia-mundial-do
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3799/hoje-a-o-dia-mundial-do-meio-ambiente/
+  [70 (+23640)/sem limite] fila=101 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4351/area-central-recebe-nov
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4351/area-central-recebe-novas-lixeiras/
+  [71 (+23640)/sem limite] fila=100 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4365/mais-famalias-rurais-re
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4365/mais-famalias-rurais-recebem-a-chave-da-casa-prapria/
+  [72 (+23640)/sem limite] fila=99 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3533/contribuinte-pode-desti
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3533/contribuinte-pode-destinar-parte-de-seu-imposto-de-renda-aos-fundos-sociais/
+  [73 (+23640)/sem limite] fila=98 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3633/administracao-pretende-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3633/administracao-pretende-transformar-o-turismo-em-fonte-de-renda-e-empregos-para-arapoti/
+  [74 (+23640)/sem limite] fila=97 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4631/braz-faz-reivindicaaaes
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4631/braz-faz-reivindicaaaes-para-o-governo-do-estado/
+  [75 (+23640)/sem limite] fila=96 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5695/arapoti-participa-do-sa
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5695/arapoti-participa-do-saude-em-movimento/
+  [76 (+23640)/sem limite] fila=95 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5663/o-sabado-07-foi-de-cuid
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5663/o-sabado-07-foi-de-cuidados-com-a-saude-da-mulher/
+  [77 (+23640)/sem limite] fila=94 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5658/prefeito-parabeniza-acs
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5658/prefeito-parabeniza-acss-e-aces-por-seu-dia/
+  [78 (+23640)/sem limite] fila=93 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5654/manipulacao-de-alimento
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5654/manipulacao-de-alimentos/
+  [79 (+23640)/sem limite] fila=92 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5647/saude-ofertara-insercao
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5647/saude-ofertara-insercao-de-diu-a-partir-de-outubro/
+  [80 (+23640)/sem limite] fila=91 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5622/projeto-comidinha-de-be
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5622/projeto-comidinha-de-bebe/
+  [81 (+23640)/sem limite] fila=90 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5607/projeto-comida-de-bebe/
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5607/projeto-comida-de-bebe/
+  [82 (+23640)/sem limite] fila=89 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5603/mais-melhorias-na-saude
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5603/mais-melhorias-na-saude-municipal/
+  [83 (+23640)/sem limite] fila=88 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5593/reunioes-do-projeto-ges
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5593/reunioes-do-projeto-gestar-bem-sao-retomadas/
+  [84 (+23640)/sem limite] fila=87 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4056/municapio-recebe-certif
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4056/municapio-recebe-certificado-de-marito-comunitario-dia-do-desafio-2016/
+  [85 (+23640)/sem limite] fila=86 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/4152/cmdca-promove-palestra-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/4152/cmdca-promove-palestra-de-sensibilizaaao-do-hivaids/
+  [86 (+23640)/sem limite] fila=85 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3856/arapoti-firma-convanio-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3856/arapoti-firma-convanio-para-realizaaao-de-exames-de-especialidades/
+  [87 (+23640)/sem limite] fila=84 | depth=7 | https://www.arapoti.pr.gov.br/noticia/print-noticia/3906/aaao-da-campanha-agosto
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/3906/aaao-da-campanha-agosto-azul-acontece-no-sabado-25/
+  [88 (+23640)/sem limite] fila=83 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5876/arapoti-realiza-a-1-expo
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5876/arapoti-realiza-a-1-expomel/
+  [89 (+23640)/sem limite] fila=82 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5751/manutencao-das-estradas-
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5751/manutencao-das-estradas-rurais/
+  [90 (+23640)/sem limite] fila=81 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5703/manutencao-das-estradas-
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5703/manutencao-das-estradas-rurais/
+  [91 (+23640)/sem limite] fila=80 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5675/prefeitura-faz-reparo-em
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5675/prefeitura-faz-reparo-emergencial-na-ponte-do-rio-canoinhas/
+  [92 (+23640)/sem limite] fila=79 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/3641/desenvolvimento-economic
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/3641/desenvolvimento-economico-e-turismo-trabalha-para-aquecer-economia-local-e-gerar-emprego/
+  [93 (+23640)/sem limite] fila=78 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/4716/farum-eleitoral-de-arapo
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/4716/farum-eleitoral-de-arapoti-tem-sede-prapria/
+  [94 (+23640)/sem limite] fila=77 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5903/noite-de-encanto/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5903/noite-de-encanto/
+  [95 (+23640)/sem limite] fila=76 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5993/arapoti-avanca-em-projet
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5993/arapoti-avanca-em-projeto-para-apicultura/
+  [96 (+23640)/sem limite] fila=75 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5121/nosso-queijo-e-ouro/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5121/nosso-queijo-e-ouro/
+  [97 (+23640)/sem limite] fila=74 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5975/itaipu-e-escola-municipa
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5975/itaipu-e-escola-municipal-do-cerrado-se-unem-em-horta-comunitaria/
+  [98 (+23640)/sem limite] fila=73 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/6004/prefeitura-entrega-mater
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/6004/prefeitura-entrega-materiais-esportivos-a-associacao-saf-talisma/
+  [99 (+23640)/sem limite] fila=72 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5892/copa-arapoti-70-anos/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5892/copa-arapoti-70-anos/
+  [100 (+23640)/sem limite] fila=71 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5698/mais-uma-conquista-do-es
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5698/mais-uma-conquista-do-esporte-arapotiense/
+  [101 (+23640)/sem limite] fila=70 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5812/prefeitura-comeca-elabor
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5812/prefeitura-comeca-elaboracao-do-ppa/
+  [102 (+23640)/sem limite] fila=69 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/3972/capal-doa-132-cobertores
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/3972/capal-doa-132-cobertores-infantis-para-gestantes-do-municapio/
+  [103 (+23640)/sem limite] fila=68 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/4024/11a-conferancia-municipa
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/4024/11a-conferancia-municipal-de-assistancia-social-ocorrera-no-dia-27-de-julho/
+  [104 (+23640)/sem limite] fila=67 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/4354/campanha-do-agasalho-ben
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/4354/campanha-do-agasalho-beneficia-mais-de-800-famalias/
+  [105 (+23640)/sem limite] fila=66 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/4516/mais-de-2-mil-pessoas-re
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/4516/mais-de-2-mil-pessoas-recebem-doaaaes-da-campanha-do-agasalho/
+  [106 (+23640)/sem limite] fila=65 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5927/nota-da-sanepar/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5927/nota-da-sanepar/
+  [107 (+23640)/sem limite] fila=64 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5896/galerinha-na-prefeitura-
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5896/galerinha-na-prefeitura-/
+  [108 (+23640)/sem limite] fila=63 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5808/agora-e-lei/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5808/agora-e-lei/
+  [109 (+23640)/sem limite] fila=62 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5564/prefeitura-remove-parasi
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5564/prefeitura-remove-parasitas-de-ipes/
+  [110 (+23640)/sem limite] fila=61 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5520/campanha-recolheu-320-pn
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5520/campanha-recolheu-320-pneus-para-descarte/
+  [111 (+23640)/sem limite] fila=60 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5503/alunos-participam-de-pal
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5503/alunos-participam-de-palestra-sobre-coleta-seletiva/
+  [112 (+23640)/sem limite] fila=59 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5933/asfalto-novo-muda-a-real
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5933/asfalto-novo-muda-a-realidade-dos-bairros/
+  [113 (+23640)/sem limite] fila=58 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5880/pavimentacao-na-colonia-
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5880/pavimentacao-na-colonia-holandesa/
+  [114 (+23640)/sem limite] fila=57 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5859/iluminacao-publica/
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5859/iluminacao-publica/
+  [115 (+23640)/sem limite] fila=56 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5733/iniciado-recape-asfaltic
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5733/iniciado-recape-asfaltico-da-rota-dos-caminhoes/
+  [116 (+23640)/sem limite] fila=55 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5960/arapoti-tem-experiencias
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5960/arapoti-tem-experiencias-publicadas-em-encontro-estadual/
+  [117 (+23640)/sem limite] fila=54 | depth=7 | http://www.arapoti.pr.gov.br/noticia/print-noticia/4987/famalias-carentes-ganham
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/4987/famalias-carentes-ganham-roupas-e-sapatos/
+  [118 (+23640)/sem limite] fila=53 | depth=8 | http://www.arapoti.pr.gov.br/noticia/print-noticia/5797/arapoti-obtem-selo-diama
+  🤖 Usando Selenium para: http://www.arapoti.pr.gov.br/noticia/print-noticia/5797/arapoti-obtem-selo-diamante-de-indice-de-transparencia/
+  [119 (+23640)/sem limite] fila=52 | depth=3 | https://arapoti.atende.net/transparencia
+  🤖 Usando Selenium para: https://arapoti.atende.net/transparencia
+  [120 (+23640)/sem limite] fila=51 | depth=3 | https://arapoti.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal-web
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal-web-novo/detalhar/1
+  [121 (+23640)/sem limite] fila=50 | depth=3 | https://arapoti.atende.net/autoatendimento/servicos/guias-de-iptu
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento/servicos/guias-de-iptu
+  [122 (+23640)/sem limite] fila=49 | depth=3 | https://arapoti.atende.net/transparencia/item/licitacoes-gerais
+  🤖 Usando Selenium para: https://arapoti.atende.net/transparencia/item/licitacoes-gerais
+  [123 (+23640)/sem limite] fila=48 | depth=3 | https://arapoti.atende.net/autoatendimento
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento
+  [124 (+23640)/sem limite] fila=47 | depth=3 | https://arapoti.atende.net/atendenet
+  🤖 Usando Selenium para: https://arapoti.atende.net/atendenet
+  [125 (+23640)/sem limite] fila=46 | depth=3 | https://arapoti.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamen
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento
+  [126 (+23640)/sem limite] fila=45 | depth=3 | https://arapoti.atende.net/transparencia/grupo/contratos
+  🤖 Usando Selenium para: https://arapoti.atende.net/transparencia/grupo/contratos
+  [127 (+23640)/sem limite] fila=44 | depth=3 | https://arapoti.atende.net/autoatendimento/servicos/acesso-a-informacao
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento/servicos/acesso-a-informacao
+  [128 (+23640)/sem limite] fila=43 | depth=3 | https://arapoti.atende.net/autoatendimento/servicos/ouvidoria-municipal
+  🤖 Usando Selenium para: https://arapoti.atende.net/autoatendimento/servicos/ouvidoria-municipal
+  [129 (+23640)/sem limite] fila=42 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6002/carta-de-idosos-marca-e
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6002/carta-de-idosos-marca-encerramento-de-campanha/
+  [130 (+23640)/sem limite] fila=41 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/6001/caminhada-do-junho-viol
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/6001/caminhada-do-junho-violeta-reune-comunidade/
+  [131 (+23640)/sem limite] fila=40 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5988/teatro-educativo-reune-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5988/teatro-educativo-reune-centenas-de-alunos/
+  [132 (+23640)/sem limite] fila=39 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5981/coral-clave-de-prata-le
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5981/coral-clave-de-prata-leva-musica-e-alegria-a-santa-casa-de-ponta-grossa/
+  [133 (+23640)/sem limite] fila=38 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5973/palestra-aborda-prevenc
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5973/palestra-aborda-prevencao-ao-assedio-e-discriminacao/
+  [134 (+23640)/sem limite] fila=37 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/2/
+  [135 (+23640)/sem limite] fila=36 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [136 (+23640)/sem limite] fila=35 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [137 (+23640)/sem limite] fila=35 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/3/
+  [138 (+23640)/sem limite] fila=34 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [139 (+23640)/sem limite] fila=34 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/7/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/7/
+  [140 (+23640)/sem limite] fila=33 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/dia-das-criancas-2023/page/
+  [141 (+23640)/sem limite] fila=33 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/2/
+  [142 (+23640)/sem limite] fila=32 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/-teatro-sia-santa-apresenta
+  [143 (+23640)/sem limite] fila=31 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/43/page/3/
+  [144 (+23640)/sem limite] fila=30 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/2/
+  [145 (+23640)/sem limite] fila=29 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [146 (+23640)/sem limite] fila=28 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/homenagem-a-imigracao-espan
+  [147 (+23640)/sem limite] fila=28 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/3/
+  [148 (+23640)/sem limite] fila=27 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/5/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/5/
+  [149 (+23640)/sem limite] fila=26 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/2/
+  [150 (+23640)/sem limite] fila=25 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/caravana-cultural-2023/page
+  [151 (+23640)/sem limite] fila=24 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/41/page/3/
+  [152 (+23640)/sem limite] fila=23 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/2/
+  [153 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [154 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [155 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/3/
+  [156 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [157 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/21/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/21/
+  [158 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [159 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [160 (+23640)/sem limite] fila=23 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/2/
+  [161 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/1
+  [162 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/4
+  [163 (+23640)/sem limite] fila=22 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/3/
+  [164 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/5
+  [165 (+23640)/sem limite] fila=21 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/9/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/9/
+  [166 (+23640)/sem limite] fila=20 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/8
+  [167 (+23640)/sem limite] fila=20 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/7
+  [168 (+23640)/sem limite] fila=20 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/2/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/2/
+  [169 (+23640)/sem limite] fila=19 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/dia-do-circo-/page/1
+  [170 (+23640)/sem limite] fila=18 | depth=3 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/3/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/37/page/3/
+  [171 (+23640)/sem limite] fila=17 | depth=3 | https://www.arapoti.pr.gov.br/noticia/print-noticia/5740/lancamento-de-oficinas-
+  🤖 Usando Selenium para: https://www.arapoti.pr.gov.br/noticia/print-noticia/5740/lancamento-de-oficinas-de-musicoterapia-e-artesanato-no-caps/
+  [172 (+23640)/sem limite] fila=16 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/4/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/4/
+  [173 (+23640)/sem limite] fila=15 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/5/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/5/
+  [174 (+23640)/sem limite] fila=14 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/6/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/44/page/6/
+  [175 (+23640)/sem limite] fila=13 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/4/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/42/page/4/
+  [176 (+23640)/sem limite] fila=12 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/4/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/4/
+  [177 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [178 (+23640)/sem limite] fila=12 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/5/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/5/
+  [179 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [180 (+23640)/sem limite] fila=12 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/20/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/20/
+  [181 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [182 (+23640)/sem limite] fila=12 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/19/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/19/
+  [183 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [184 (+23640)/sem limite] fila=12 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/4/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/4/
+  [185 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/festival-de-folclore/page/6
+  [186 (+23640)/sem limite] fila=11 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/5/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/5/
+  [187 (+23640)/sem limite] fila=10 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/8/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/8/
+  [188 (+23640)/sem limite] fila=9 | depth=4 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/7/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/7/
+  [189 (+23640)/sem limite] fila=8 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/6/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/6/
+  [190 (+23640)/sem limite] fila=7 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [191 (+23640)/sem limite] fila=8 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/7/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/7/
+  [192 (+23640)/sem limite] fila=7 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [193 (+23640)/sem limite] fila=8 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/18/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/18/
+  [194 (+23640)/sem limite] fila=7 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [195 (+23640)/sem limite] fila=8 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/17/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/17/
+  [196 (+23640)/sem limite] fila=7 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [197 (+23640)/sem limite] fila=8 | depth=5 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/6/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/39/page/6/
+  [198 (+23640)/sem limite] fila=7 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/8/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/8/
+  [199 (+23640)/sem limite] fila=6 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [200 (+23640)/sem limite] fila=7 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/9/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/9/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_links.xlsx
+  9391 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/erros_varredura.xlsx
+  743 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_externos.xlsx
+  1456 links externos registrados.
+  Checkpoint salvo (23840 páginas totais | 200 nesta sessão).
+  [201 (+23640)/sem limite] fila=6 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [202 (+23640)/sem limite] fila=6 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/16/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/16/
+  [203 (+23640)/sem limite] fila=5 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [204 (+23640)/sem limite] fila=5 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/15/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/15/
+  [205 (+23640)/sem limite] fila=4 | depth=6 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [206 (+23640)/sem limite] fila=4 | depth=7 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/10/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/10/
+  [207 (+23640)/sem limite] fila=3 | depth=7 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/desfile-7-de-setembro-de-20
+  [208 (+23640)/sem limite] fila=3 | depth=7 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/11/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/11/
+  [209 (+23640)/sem limite] fila=2 | depth=7 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/14/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/14/
+  [210 (+23640)/sem limite] fila=1 | depth=7 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/13/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/13/
+  [211 (+23640)/sem limite] fila=0 | depth=8 | https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/12/
+  📄 [200] .zip -> https://www.arapoti.pr.gov.br/album-de-fotos/foto/40/page/12/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_links.xlsx
+  9398 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/erros_varredura.xlsx
+  743 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/arapoti/inventario_externos.xlsx
+  1456 links externos registrados.
+
+  Varredura encerrada: ARAPOTI
+  Páginas nesta sessão: 211
+  Páginas totais (acumulado): 23851
+  Arquivos no inventário: 9398
+  Erros registrados: 743
+
+
+ Pipeline encerrado. Resultados em: resultados/arapoti/
+============================================================
+

@@ -41,6 +41,7 @@ tabulate>=0.9.0
 # duckduckgo_search: busca automática de portais no descobrir_cidades.py
 # (opcional — o script faz scraping HTML e Google como fallback se a biblioteca falhar)
 duckduckgo_search>=6.2.0
+ddgs>=9.14
 
 # googlesearch-python: fallback de busca quando DuckDuckGo está rate-limited
 googlesearch-python>=1.2.3
