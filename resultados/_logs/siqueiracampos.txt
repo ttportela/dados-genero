@@ -35241,4 +35241,3 @@ Inventário parcial carregado: 2940 arquivos já registrados.
   🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053/
   [11783 (+10832)/sem limite] fila=2659 | depth=6 | https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053
-                                                                                                                                                                                          

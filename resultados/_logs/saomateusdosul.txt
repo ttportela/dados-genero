@@ -10705,3 +10705,34 @@ Inventário parcial carregado: 3490 arquivos já registrados.
   📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GdxLPT
   [36 (+4350)/sem limite] fila=5629 | depth=4 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GBxLPTL/
   🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GBxLPTL/
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  ERRO ao consultar IBGE: 503 Server Error: Service Unavailable for url: https://servicodados.ibge.gov.br/api/v1/localidades/estados/41/municipios
+Não foi possível obter a lista de municípios. Encerrando.
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOMATEUSDOSUL
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 6316 arquivos já registrados.
+  Links externos parciais carregados: 332 links já registrados.
+  Log de erros parcial carregado: 71 erros já registrados.
+  Reprocessar erros: 39 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 32 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: SAOMATEUSDOSUL
+  Páginas já visitadas (checkpoint): 9195
+  URLs na fila: 8920
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+9195)/sem limite] fila=8919 | depth=5 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dnxLwTL/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dnxLwTL/
