@@ -1662,7 +1662,6 @@ Nenhum checkpoint encontrado — iniciando do zero.
   🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
  ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de-licitacao-convite-n-21-2014
   [540/sem limite] fila=2234 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/licitacoes/carta-convite/aviso-de
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 ============================================================
   TCC - Pipeline de Dados Publicos | TRESBARRASDOPARANA
 ============================================================
