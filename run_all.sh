@@ -346,15 +346,19 @@
 # ./run_pipeline.sh santoinacio
 # ./run_pipeline.sh saocarlosdoivai
 # ./run_pipeline.sh saojeronimodaserra
+
 # ./run_pipeline.sh saojoao
 # ./run_pipeline.sh saojoaodocaiua
 # ./run_pipeline.sh saojoaodoivai
+
 # ./run_pipeline.sh saojoaodotriunfo
 # ./run_pipeline.sh saojorgedoeste
 # ./run_pipeline.sh saojorgedoivai
+
 # ./run_pipeline.sh saojorgedopatrocinio
 # ./run_pipeline.sh saojosedaboavista
 # ./run_pipeline.sh saojosedaspalmeiras
+
 # ./run_pipeline.sh saojosedospinhais
 # ./run_pipeline.sh saomanoeldoparana
 # ./run_pipeline.sh saomateusdosul

@@ -71,6 +71,18 @@ PARAMS_IGNORADOS = {
     "utm_content",   # Google Analytics
 }
 
+# Regex precompilada para remover matrix parameters de sessão do path.
+# Servidores Java/Tomcat (ex: abatia.metajuris.com.br) embutem jsessionid
+# como matrix parameter: /path;jsessionid=ABC123?query=...
+# O urlparse coloca ";jsessionid=ABC123" dentro de parsed.path, então a
+# filtragem de query params não o alcança. Sem isso, cada request gera um
+# novo jsessionid e a deduplicação trata cada variação como URL única,
+# causando crescimento exponencial da fila (confirmado em Abatiá: 501k URLs).
+_MATRIX_PARAMS_RE = re.compile(
+    r';(?:' + '|'.join(re.escape(p) for p in sorted(PARAMS_IGNORADOS)) + r')=[^;?]*',
+    re.IGNORECASE,
+)
+
 def url_chave_dedup(url: str) -> str:
     """
     Gera a chave de deduplicação da URL, removendo parâmetros de sessão
@@ -81,21 +93,38 @@ def url_chave_dedup(url: str) -> str:
         ?sessao=BBB&id=60  →  ?id=60   (mesma chave → deduplicado!)
         ?sessao=CCC&id=44  →  ?id=44   (chave diferente → página diferente)
 
+    Também remove matrix parameters de sessão do path (ex: ;jsessionid=XXX),
+    que servidores Java/Tomcat embutem no caminho da URL e que o urlparse
+    coloca dentro de parsed.path, não em parsed.query.
+
     Retorna a URL sem os parâmetros ignorados. Se nenhum parâmetro relevante
     restar, retorna a URL base sem query string.
     """
     try:
         parsed = urlparse(url)
-        if not parsed.query:
-            return url  # sem query params — retorna como está
-        params = parse_qs(parsed.query, keep_blank_values=True)
-        # Filtra parâmetros ignorados (case-insensitive)
-        params_limpos = {
-            k: v for k, v in params.items()
-            if k.lower() not in PARAMS_IGNORADOS
-        }
-        query_limpa = urlencode(params_limpos, doseq=True)
-        return parsed._replace(query=query_limpa).geturl()
+        # 1. Remove matrix parameters de sessão do path e params.
+        #    O urlparse coloca ";jsessionid=XXX" em parsed.params (não no path).
+        #    Aplicamos o regex no path como safety net para casos onde o
+        #    parser não separa corretamente (ex: múltiplos ; no path).
+        path_limpo = _MATRIX_PARAMS_RE.sub('', parsed.path)
+        # 2. Filtra params de sessão (parsed.params — ex: jsessionid=ABC123)
+        if parsed.params:
+            parts = parsed.params.split(';')
+            kept = [p for p in parts if p.split('=', 1)[0].lower() not in PARAMS_IGNORADOS]
+            params_limpo = ';'.join(kept)
+        else:
+            params_limpo = ''
+        # 3. Filtra query params de sessão/rastreamento
+        if parsed.query:
+            params = parse_qs(parsed.query, keep_blank_values=True)
+            params_limpos = {
+                k: v for k, v in params.items()
+                if k.lower() not in PARAMS_IGNORADOS
+            }
+            query_limpa = urlencode(params_limpos, doseq=True)
+        else:
+            query_limpa = ''
+        return parsed._replace(path=path_limpo, params=params_limpo, query=query_limpa).geturl()
     except Exception:
         return url  # fallback: retorna URL original sem modificação
 

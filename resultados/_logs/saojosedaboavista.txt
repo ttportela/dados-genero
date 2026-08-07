@@ -1,0 +1,1132 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOSEDABOAVISTA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOJOSEDABOAVISTA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saojosedaboavista.pr.gov.br/
+  [2/sem limite] fila=33 | depth=1 | https://saojosedaboavista.pr.gov.br/c/noticias/
+  [3/sem limite] fila=44 | depth=1 | https://saojosedaboavista.pr.gov.br/o-municipio/
+  [4/sem limite] fila=46 | depth=1 | https://saojosedaboavista.pr.gov.br/o-municipio/historia/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/ATA-Pri
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Criacao
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Feriado
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Feriado
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Hino-do
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Instala
+  [5/sem limite] fila=46 | depth=1 | https://saojosedaboavista.pr.gov.br/o-municipio/sobre-o-municipio/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-de-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-Est
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/lei-359
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Hino-do
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  [6/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/o-municipio/telefones-uteis/
+  [7/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/o-governo/
+  [8/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/o-governo/prefeito/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/ata-de-
+  [9/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/o-governo/vice-prefeito/
+  [10/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/organograma/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Compete
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ORGANOG
+  [11/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/recomendacoes-do-ministerio-publico/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/RECOMEN
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Recomen
+  [12/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/leis-municipais-complementar/
+  [13/sem limite] fila=45 | depth=1 | https://saojosedaboavista.pr.gov.br/licitacoes-e-contratos/
+  [14/sem limite] fila=44 | depth=1 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/
+  [15/sem limite] fila=76 | depth=1 | https://saojosedaboavista.pr.gov.br/consulta-publica-plano-de-pavimentacao-asfal
+  [16/sem limite] fila=76 | depth=1 | https://saojosedaboavista.pr.gov.br/consulta-publica-projeto-de-revitalizacao-e-
+  [17/sem limite] fila=76 | depth=1 | https://saojosedaboavista.pr.gov.br/produtores-rurais-boavistenses-devem-ficar-a
+  [18/sem limite] fila=77 | depth=1 | https://saojosedaboavista.pr.gov.br/mapa-do-site/
+  [19/sem limite] fila=115 | depth=1 | https://saojosedaboavista.pr.gov.br/
+  [20/sem limite] fila=120 | depth=1 | https://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/
+  [21/sem limite] fila=125 | depth=1 | https://www.saojosedaboavista.pr.gov.br/espaco-cultural/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/A-prime
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Lenda-U
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Poesia-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Recorte
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Bencoad
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/07/Recorte
+  [22/sem limite] fila=129 | depth=1 | https://saojosedaboavista.pr.gov.br/reurb/
+  [23/sem limite] fila=129 | depth=1 | https://www.saojosedaboavista.pr.gov.br/sala-do-empreendedor/
+  [24/sem limite] fila=128 | depth=1 | https://saojosedaboavista.pr.gov.br/eleicao-conselho/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/PA-336-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/RESOLUC
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/INDICAC
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/FICHA-D
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/Res-no-
+  [25/sem limite] fila=127 | depth=1 | https://www.saojosedaboavista.pr.gov.br/precatorios/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Lei-922
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Relacao
+  [26/sem limite] fila=126 | depth=1 | https://www.saojosedaboavista.pr.gov.br/programa-auxilio-brasil/
+  [27/sem limite] fila=126 | depth=1 | https://www.saojosedaboavista.pr.gov.br/livro-de-obitos
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1918-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1935-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1937-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1940-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1941-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1943-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1946-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1949-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1952-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1962-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1965-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1971-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1974-19
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1977-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1979-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1981-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1984-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1987-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1991-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1994-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/1997-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/2001-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/2005-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/2009-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/2017-a-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/2021-a-
+  [28/sem limite] fila=126 | depth=1 | https://www.saojosedaboavista.pr.gov.br/conselhos
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-01-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-ni-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-01-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-02-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-03-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Parecer
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Resoluc
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-13-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Publica
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ATA-01-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ATA-02-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ATA-BEN
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-01-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-02-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-03-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-04-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-01-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-02-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Parecer
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Parecer
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-Aud
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Oficios
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-par
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-532
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-711
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-ni-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-ni-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Resoluc
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ata-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Plano-A
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Plano-A
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Plano-a
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ATA-CAE
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Plano-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Informa
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/20-08-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Figura1
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VAC-29-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORM-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/15-01-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/21-01-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/12-02-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/18-03-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/25-03-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/08-04-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/20-04-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/13-05-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/27-05-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/05-08-2
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/VACINOM
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  ⚠️ [404] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/vacinom
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/INFORMA
+  [29/sem limite] fila=128 | depth=1 | https://www.saojosedaboavista.pr.gov.br/c/noticias/
+  [30/sem limite] fila=127 | depth=1 | https://saojosedaboavista.pr.gov.br/10a-conferencia-da-crianca-e-do-adolescente-
+  [31/sem limite] fila=127 | depth=1 | https://saojosedaboavista.pr.gov.br/projeto-mangut-parceria-entre-prefeitura-mpp
+  [32/sem limite] fila=126 | depth=1 | https://www.saojosedaboavista.pr.gov.br/mapa-do-site
+  [33/sem limite] fila=125 | depth=1 | https://www.saojosedaboavista.pr.gov.br/admin
+  [34/sem limite] fila=125 | depth=1 | https://saojosedaboavista.pr.gov.br/webmail
+  [35/sem limite] fila=125 | depth=1 | https://www.saojosedaboavista.pr.gov.br/lgpd
+  [36/sem limite] fila=124 | depth=2 | http://saojosedaboavista.pr.gov.br/c/noticias/
+  [37/sem limite] fila=123 | depth=2 | https://saojosedaboavista.pr.gov.br/abertas-inscricoes-para-eleicao-complementar
+  [38/sem limite] fila=123 | depth=2 | https://saojosedaboavista.pr.gov.br/municipio-de-sjbv-realiza-11a-conferencia-de
+  [39/sem limite] fila=122 | depth=2 | https://saojosedaboavista.pr.gov.br/nascer-bem-parana-e-prefeitura-levam-cuidado
+  [40/sem limite] fila=122 | depth=2 | https://saojosedaboavista.pr.gov.br/aviso-importante-aos-produtores-rurais/
+  [41/sem limite] fila=122 | depth=2 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-conscientizacao-para-come
+  [42/sem limite] fila=122 | depth=2 | https://saojosedaboavista.pr.gov.br/c/noticias/page/2/
+  [43/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/c/noticias/page/3/
+  [44/sem limite] fila=144 | depth=2 | https://saojosedaboavista.pr.gov.br/c/noticias/page/12/
+  [45/sem limite] fila=150 | depth=2 | http://saojosedaboavista.pr.gov.br/mapa-do-site
+  [46/sem limite] fila=149 | depth=2 | http://saojosedaboavista.pr.gov.br/admin
+  [47/sem limite] fila=148 | depth=2 | http://saojosedaboavista.pr.gov.br/lgpd
+  [48/sem limite] fila=147 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site
+  [49/sem limite] fila=146 | depth=2 | https://saojosedaboavista.pr.gov.br/admin
+  [50/sem limite] fila=145 | depth=2 | https://saojosedaboavista.pr.gov.br/lgpd
+  [51/sem limite] fila=144 | depth=2 | http://saojosedaboavista.pr.gov.br/o-municipio/historia/
+  [52/sem limite] fila=143 | depth=2 | http://saojosedaboavista.pr.gov.br/o-municipio/telefones-uteis/
+  [53/sem limite] fila=142 | depth=2 | http://saojosedaboavista.pr.gov.br/o-governo/
+  [54/sem limite] fila=141 | depth=2 | http://saojosedaboavista.pr.gov.br/o-governo/prefeito/
+  [55/sem limite] fila=140 | depth=2 | http://saojosedaboavista.pr.gov.br/o-governo/vice-prefeito/
+  [56/sem limite] fila=139 | depth=2 | http://saojosedaboavista.pr.gov.br/organograma/
+  [57/sem limite] fila=138 | depth=2 | http://saojosedaboavista.pr.gov.br/recomendacoes-do-ministerio-publico/
+  [58/sem limite] fila=137 | depth=2 | http://saojosedaboavista.pr.gov.br/leis-municipais-complementar/
+  [59/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/assistencia-social/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/Calenda
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Protoco
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-104
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ficha-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/REDE-DE
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/REGIMEN
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Rede-de
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Calenda
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Mapeame
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/DIAGNOS
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/DIAGNOS
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Informa
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/PESQUIS
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Planeja
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/RELATOR
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/PMAS_20
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/PMAS-20
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/PLANO-M
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/PLANO-D
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/PLANO-M
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Plano-M
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/ANALISE
+  [60/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/balancete-financeiro/
+  [61/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/balanco-anual/
+  [62/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/carta-de-servicos/
+  [63/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/coordenadoria-do-controle-interno
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/04/PLANO_A
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/10/RELATOR
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/09/RELATOR
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/09/Manual_
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/04/INSTRUC
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/Plano_A
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/06/PLANO_A
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/07/RELATOR
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/10/RELATOR
+  [64/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/convenios-transferencias-voluntarias/
+  [65/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/concessao-de-beneficios/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Pamela-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Ana-Pau
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Ana-Cla
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Benefic
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Benefic
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/Extrato
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/Extrato
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/Process
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/Process
+  [66/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/despesas-empenhos-li
+  [67/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/despesas-com-diarias
+  [68/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/divida-ativa/
+  [69/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/despesas-com-pessoal-folhas-de-pagamento/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/06/Relacao
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/04/Faixas-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/Faixas-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/Faixas-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/Faixas-
+  [70/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/educacao/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/12/EDITAL-
+  [71/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/emendas-parlamentare
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Execuca
+  [72/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/manual-de-elaboracao-ppa-ldo-loa/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Manual-
+  [73/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/manual-de-revisao-ppa/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/REVISAO
+  [74/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/meio-ambiente/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/PGRS-SA
+  [75/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/ordem-cronologica-dos-pagamentos/
+  [76/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/parecer-previo-e-jul
+  [77/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/plano-anual-de-auditoria-interna/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/07/PLANO_A
+  [78/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/plano-de-contingencia-municipal-de-protecao-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Plano-d
+  [79/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/programas-e-acoes/
+  [80/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/propostas-e-lance-do
+  [81/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/protocolo-de-atendimentos-dos-servicos-socio
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Protoco
+  [82/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/radar-nacional-de-transparencia-publica/
+  [83/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/receitas/
+  [84/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/relacao-de-bens-do-p
+  [85/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/relatorio-de-gestao-fiscal-rgf/
+  [86/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/relacao-de-veiculos/
+  [87/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/transferencias-finan
+  [88/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/obras-publicas/
+  [89/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/relatorio-resumido-da-execucao-orcamentaria-
+  [90/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/renuncias-de-receita-incentivos-fiscais/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Renunci
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Renunci
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Renunci
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-no-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Lei-102
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/LEI-518
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/07/Declara
+  [91/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/saude/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/05/SAO-JOS
+  [92/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/author/admin/
+  [93/sem limite] fila=137 | depth=2 | http://saojosedaboavista.pr.gov.br/consulta-publica-projeto-de-revitalizacao-e-e
+  [94/sem limite] fila=136 | depth=2 | http://saojosedaboavista.pr.gov.br/produtores-rurais-boavistenses-devem-ficar-at
+  [95/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/author/jose-silva/
+  [96/sem limite] fila=138 | depth=2 | http://saojosedaboavista.pr.gov.br/mapa-do-site/
+  [97/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/estrutura-organizacional/
+  [98/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/agenda-externa-do-prefeito/
+  [99/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/perguntas-frequentes/
+  [100/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/leis-e-atos-normativos/
+  [101/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/lei-organica-municipal/
+  [102/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/codigo-tributario/
+  [103/sem limite] fila=137 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/receitas/
+  [104/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/renuncias-de-receita-incentivos
+  [105/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/adiantamentos/
+  [106/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/tabela-com-os-valores-das-diarias/
+  [107/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/gastos-com-cartao-de-credito/
+  [108/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/movimentacao-bancaria/
+  [109/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/movimentacao-de-estoque/
+  [110/sem limite] fila=136 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/despesas-com-pessoal
+  [111/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/legislacao-de-pessoal/
+  [112/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/concursos-publicos-e-processos-
+  [113/sem limite] fila=135 | depth=2 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/convenios-transferen
+  [114/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/covid-19-acoes-para-enfrentamen
+  [115/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-de-gestao-e-atividade
+  [116/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-do-controle-interno/
+  [117/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/plano-plurianual-ppa/
+  [118/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/lei-de-diretrizes-orcamentarias
+  [119/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/lei-orcamentaria-anual-loa/
+  [120/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-resumido-da-execucao/
+  [121/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorios-da-lei-4-320-64/
+  [122/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorios-da-lei-9-755-98/
+  [123/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/plano-estrategico/
+  [124/sem limite] fila=134 | depth=2 | https://saojosedaboavista.pr.gov.br/coordenadoria-do-controle-interno/
+  [125/sem limite] fila=133 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/ouvidoria/
+  [126/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/servico-de-informacao-ao-cidada
+  [127/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-estatistico-do-e-sic/
+  [128/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/regulamentacao-da-ouvidoria/
+  [129/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/regulamentacao-da-lai/
+  [130/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/documentos-e-informacoes-sigilo
+  [131/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/lgpd-e-governo-digital/
+  [132/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/dados-abertos/
+  [133/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/servicos-online/
+  [134/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/mapa-do-site/pesquisas-de-satisfacao-dos-ser
+  [135/sem limite] fila=132 | depth=2 | https://saojosedaboavista.pr.gov.br/espaco-cultural/
+  [136/sem limite] fila=131 | depth=2 | https://saojosedaboavista.pr.gov.br/sala-do-empreendedor/
+  [137/sem limite] fila=131 | depth=2 | https://saojosedaboavista.pr.gov.br/precatorios/
+  [138/sem limite] fila=131 | depth=2 | https://saojosedaboavista.pr.gov.br/programa-auxilio-brasil/
+  [139/sem limite] fila=130 | depth=2 | https://saojosedaboavista.pr.gov.br/livro-de-obitos
+  [140/sem limite] fila=129 | depth=2 | https://saojosedaboavista.pr.gov.br/conselhos
+  [141/sem limite] fila=128 | depth=2 | https://www.saojosedaboavista.pr.gov.br/convenios-transferencias-voluntarias/
+  [142/sem limite] fila=127 | depth=2 | https://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/despesas-empenho
+  [143/sem limite] fila=126 | depth=2 | https://www.saojosedaboavista.pr.gov.br/despesas-com-pessoal-folhas-de-pagamento
+  [144/sem limite] fila=125 | depth=2 | https://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/relacao-de-bens-
+  [145/sem limite] fila=125 | depth=2 | https://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/obras-publicas/
+  [146/sem limite] fila=124 | depth=2 | https://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/saude/
+  [147/sem limite] fila=123 | depth=2 | http://www.saojosedaboavista.pr.gov.br/espaco-cultural/
+  [148/sem limite] fila=122 | depth=2 | https://www.saojosedaboavista.pr.gov.br/contato/
+ ❌ HTTP_404: https://www.saojosedaboavista.pr.gov.br/contato/
+  🤖 Usando Selenium para: https://www.saojosedaboavista.pr.gov.br/contato/
+ ❌ HTTP_404: https://www.saojosedaboavista.pr.gov.br/contato/
+  [149/sem limite] fila=121 | depth=2 | http://www.saojosedaboavista.pr.gov.br/mapa-do-site
+  [150/sem limite] fila=120 | depth=2 | http://www.saojosedaboavista.pr.gov.br/admin
+  [151/sem limite] fila=119 | depth=2 | http://www.saojosedaboavista.pr.gov.br/lgpd
+  [152/sem limite] fila=118 | depth=2 | http://saojosedaboavista.pr.gov.br/reurb/
+  [153/sem limite] fila=117 | depth=2 | http://www.saojosedaboavista.pr.gov.br/programa-auxilio-brasil/
+  [154/sem limite] fila=116 | depth=2 | http://www.saojosedaboavista.pr.gov.br/livro-de-obitos
+  [155/sem limite] fila=115 | depth=2 | http://www.saojosedaboavista.pr.gov.br/conselhos
+  [156/sem limite] fila=114 | depth=2 | https://saojosedaboavista.pr.gov.br/conselho-de-saude/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/INFORMA
+  [157/sem limite] fila=114 | depth=2 | https://saojosedaboavista.pr.gov.br/conselho-de-educacao/
+  [158/sem limite] fila=114 | depth=2 | http://saojosedaboavista.pr.gov.br/10a-conferencia-da-crianca-e-do-adolescente-t
+  [159/sem limite] fila=113 | depth=2 | https://saojosedaboavista.pr.gov.br/wp-login.php?action=lostpassword
+  [160/sem limite] fila=113 | depth=2 | https://webmail.saojosedaboavista.pr.gov.br
+  [161/sem limite] fila=158 | depth=3 | http://saojosedaboavista.pr.gov.br/abertas-inscricoes-para-eleicao-complementar-
+  [162/sem limite] fila=157 | depth=3 | http://saojosedaboavista.pr.gov.br/nascer-bem-parana-e-prefeitura-levam-cuidado-
+  [163/sem limite] fila=156 | depth=3 | http://saojosedaboavista.pr.gov.br/aviso-importante-aos-produtores-rurais/
+  [164/sem limite] fila=155 | depth=3 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-conscientizacao-para-comer
+  [165/sem limite] fila=154 | depth=3 | http://saojosedaboavista.pr.gov.br/c/noticias/page/2/
+  [166/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/campanha-maio-laranja-realiza-palestra-motiv
+  [167/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-amplia-servicos-com-atendimentos-
+  [168/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/municipio-de-sjbv-realiza-campanha-de-castra
+  [169/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/defesa-civil-e-prefeitura-promovem-capacitac
+  [170/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-de-sjbv-promove-curso-de-olericul
+  [171/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/a-educacao-transforma-realidades/
+  [172/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/dia-02-de-marco-comeca-a-renovacao-de-cadast
+  [173/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/projeto-futebol-futsal-2026-com-inscricoes-a
+  [174/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/processo-de-distribuicao-de-aulas-para-ano-l
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/01/Edital-
+  [175/sem limite] fila=153 | depth=3 | https://saojosedaboavista.pr.gov.br/procuradoria-de-sao-jose-da-boa-vista/
+  [176/sem limite] fila=154 | depth=3 | https://saojosedaboavista.pr.gov.br/c/noticias/page/4/
+  [177/sem limite] fila=164 | depth=3 | http://saojosedaboavista.pr.gov.br/c/noticias/page/3/
+  [178/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/programa-estadual-parana-regularizado-vai-be
+  [179/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-seleciona-agricultores-para-impla
+  [180/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/voce-precisa-saber-cuidados-necessarios-para
+  [181/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/idosos-boavistenses-visitam-parque-historico
+  [182/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-comemoracao-do-dia-das-cr
+  [183/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/projeto-som-e-ritmo-encanta-criancas-do-cmei
+  [184/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/itr-2025-prefeitura-de-sjbv-orienta-contribu
+  [185/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-realiza-conferencia-municipal-da-
+  [186/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/familias-cadastradas-no-casa-facil-vida-nova
+  [187/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/ipardes-realiza-pesquisa-nos-municipios-para
+  [188/sem limite] fila=163 | depth=3 | https://saojosedaboavista.pr.gov.br/c/noticias/page/5/
+  [189/sem limite] fila=174 | depth=3 | http://saojosedaboavista.pr.gov.br/c/noticias/page/12/
+  [190/sem limite] fila=173 | depth=3 | https://saojosedaboavista.pr.gov.br/governo-do-estado-autoriza-municipalizacao-d
+  [191/sem limite] fila=174 | depth=3 | https://saojosedaboavista.pr.gov.br/prefeitura-entrega-escritura-definitiva-na-v
+  [192/sem limite] fila=174 | depth=3 | https://saojosedaboavista.pr.gov.br/municipio-adere-ao-diario-oficial-eletronico
+  [193/sem limite] fila=174 | depth=3 | https://saojosedaboavista.pr.gov.br/esclarecimentos-sobre-os-direitos-dos-portad
+  [194/sem limite] fila=174 | depth=3 | https://saojosedaboavista.pr.gov.br/c/noticias/page/11/
+  [195/sem limite] fila=185 | depth=3 | https://saojosedaboavista.pr.gov.br/c/noticias/page/10/
+  [196/sem limite] fila=196 | depth=3 | http://saojosedaboavista.pr.gov.br/assistencia-social/
+  [197/sem limite] fila=195 | depth=3 | http://saojosedaboavista.pr.gov.br/balanco-anual/
+  [198/sem limite] fila=194 | depth=3 | http://saojosedaboavista.pr.gov.br/carta-de-servicos/
+  [199/sem limite] fila=193 | depth=3 | http://saojosedaboavista.pr.gov.br/coordenadoria-do-controle-interno
+  [200/sem limite] fila=192 | depth=3 | http://saojosedaboavista.pr.gov.br/convenios-transferencias-voluntarias/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_links.xlsx
+  351 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_externos.xlsx
+  257 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=191 | depth=3 | http://saojosedaboavista.pr.gov.br/concessao-de-beneficios/
+  [202/sem limite] fila=190 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/despesas-empenhos-liq
+  [203/sem limite] fila=189 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/divida-ativa/
+  [204/sem limite] fila=188 | depth=3 | https://saojosedaboavista.pr.gov.br/lista-de-espera-escolas-e-creches-municipais
+  [205/sem limite] fila=188 | depth=3 | https://saojosedaboavista.pr.gov.br/plano-alimentar-escolar/
+  [206/sem limite] fila=188 | depth=3 | https://saojosedaboavista.pr.gov.br/curriculo-da-rede-municipal-de-ensino/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Relator
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Relator
+  [207/sem limite] fila=188 | depth=3 | https://saojosedaboavista.pr.gov.br/educacao-em-tempo-integral/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Politic
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  [208/sem limite] fila=188 | depth=3 | https://saojosedaboavista.pr.gov.br/resolucoes-e-instrucoes-normativas/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Prefeit
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/RESOLUC
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/Prefeit
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2025/11/RESOLUC
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/07-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/06-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/05-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/04-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/03-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/02-Inst
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/01-Inst
+  [209/sem limite] fila=188 | depth=3 | http://saojosedaboavista.pr.gov.br/manual-de-elaboracao-ppa-ldo-loa/
+  [210/sem limite] fila=187 | depth=3 | http://saojosedaboavista.pr.gov.br/manual-de-revisao-ppa/
+  [211/sem limite] fila=186 | depth=3 | http://saojosedaboavista.pr.gov.br/ordem-cronologica-dos-pagamentos/
+  [212/sem limite] fila=185 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/parecer-previo-e-julg
+  [213/sem limite] fila=184 | depth=3 | http://saojosedaboavista.pr.gov.br/plano-de-contingencia-municipal-de-protecao-e
+  [214/sem limite] fila=183 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/programas-e-acoes/
+  [215/sem limite] fila=182 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/propostas-e-lance-dos
+  [216/sem limite] fila=181 | depth=3 | http://saojosedaboavista.pr.gov.br/protocolo-de-atendimentos-dos-servicos-socioa
+  [217/sem limite] fila=180 | depth=3 | http://saojosedaboavista.pr.gov.br/radar-nacional-de-transparencia-publica/
+  [218/sem limite] fila=179 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/receitas/
+  [219/sem limite] fila=178 | depth=3 | http://saojosedaboavista.pr.gov.br/relatorio-de-gestao-fiscal-rgf/
+  [220/sem limite] fila=177 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/relacao-de-veiculos/
+  [221/sem limite] fila=176 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/transferencias-financ
+  [222/sem limite] fila=175 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/obras-publicas/
+  [223/sem limite] fila=174 | depth=3 | http://saojosedaboavista.pr.gov.br/relatorio-resumido-da-execucao-orcamentaria-r
+  [224/sem limite] fila=173 | depth=3 | http://saojosedaboavista.pr.gov.br/renuncias-de-receita-incentivos-fiscais/
+  [225/sem limite] fila=172 | depth=3 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/saude/
+  [226/sem limite] fila=171 | depth=3 | https://saojosedaboavista.pr.gov.br/plantoes-profissionais-de-saude/
+  [227/sem limite] fila=171 | depth=3 | https://saojosedaboavista.pr.gov.br/lista-de-medicamentos-e-alto-custo/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/12/Remume.
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2026/04/Como_ob
+  [228/sem limite] fila=172 | depth=3 | https://saojosedaboavista.pr.gov.br/portal-da-transparencia/saude/lista-de-profi
+  [229/sem limite] fila=172 | depth=3 | http://saojosedaboavista.pr.gov.br/author/admin/
+  [230/sem limite] fila=171 | depth=3 | https://saojosedaboavista.pr.gov.br/jovem-boa-vistense-cria-podcast-para-entrevi
+  [231/sem limite] fila=171 | depth=3 | http://saojosedaboavista.pr.gov.br/author/jose-silva/
+  [232/sem limite] fila=170 | depth=3 | https://saojosedaboavista.pr.gov.br/author/jose-silva/page/2/
+  [233/sem limite] fila=170 | depth=3 | https://saojosedaboavista.pr.gov.br/author/jose-silva/page/3/
+  [234/sem limite] fila=170 | depth=3 | https://saojosedaboavista.pr.gov.br/author/jose-silva/page/4/
+  [235/sem limite] fila=170 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/estrutura-organizacional/
+  [236/sem limite] fila=169 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/agenda-externa-do-prefeito/
+  [237/sem limite] fila=168 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/perguntas-frequentes/
+  [238/sem limite] fila=167 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/leis-e-atos-normativos/
+  [239/sem limite] fila=166 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/lei-organica-municipal/
+  [240/sem limite] fila=165 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/codigo-tributario/
+  [241/sem limite] fila=164 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/renuncias-de-receita-incentivos-
+  [242/sem limite] fila=163 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/adiantamentos/
+  [243/sem limite] fila=162 | depth=3 | http://saojosedaboavista.pr.gov.br/tabela-com-os-valores-das-diarias/
+  [244/sem limite] fila=161 | depth=3 | http://saojosedaboavista.pr.gov.br/gastos-com-cartao-de-credito/
+  [245/sem limite] fila=160 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/movimentacao-bancaria/
+  [246/sem limite] fila=159 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/movimentacao-de-estoque/
+  [247/sem limite] fila=158 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/legislacao-de-pessoal/
+  [248/sem limite] fila=157 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/concursos-publicos-e-processos-s
+  [249/sem limite] fila=156 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/covid-19-acoes-para-enfrentament
+  [250/sem limite] fila=155 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-de-gestao-e-atividades
+  [251/sem limite] fila=154 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-do-controle-interno/
+  [252/sem limite] fila=153 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/plano-plurianual-ppa/
+  [253/sem limite] fila=152 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/lei-de-diretrizes-orcamentarias-
+  [254/sem limite] fila=151 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/lei-orcamentaria-anual-loa/
+  [255/sem limite] fila=150 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-resumido-da-execucao/
+  [256/sem limite] fila=149 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorios-da-lei-4-320-64/
+  [257/sem limite] fila=148 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorios-da-lei-9-755-98/
+  [258/sem limite] fila=147 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/plano-estrategico/
+  [259/sem limite] fila=146 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/servico-de-informacao-ao-cidadao
+  [260/sem limite] fila=145 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/relatorio-estatistico-do-e-sic/
+  [261/sem limite] fila=144 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/regulamentacao-da-ouvidoria/
+  [262/sem limite] fila=143 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/regulamentacao-da-lai/
+  [263/sem limite] fila=142 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/documentos-e-informacoes-sigilos
+  [264/sem limite] fila=141 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/lgpd-e-governo-digital/
+  [265/sem limite] fila=140 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/dados-abertos/
+  [266/sem limite] fila=139 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/servicos-online/
+  [267/sem limite] fila=138 | depth=3 | http://saojosedaboavista.pr.gov.br/mapa-do-site/pesquisas-de-satisfacao-dos-serv
+  [268/sem limite] fila=137 | depth=3 | http://saojosedaboavista.pr.gov.br/sala-do-empreendedor/
+  [269/sem limite] fila=136 | depth=3 | http://saojosedaboavista.pr.gov.br/precatorios/
+  [270/sem limite] fila=135 | depth=3 | http://www.saojosedaboavista.pr.gov.br/portal-da-transparencia/relacao-de-bens-d
+  [271/sem limite] fila=134 | depth=3 | http://saojosedaboavista.pr.gov.br/conselho-de-saude/
+  [272/sem limite] fila=133 | depth=3 | http://saojosedaboavista.pr.gov.br/conselho-de-educacao/
+  [273/sem limite] fila=132 | depth=3 | https://saojosedaboavista.pr.gov.br/wp-login.php
+  [274/sem limite] fila=131 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ar
+  [275/sem limite] fila=130 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=bg
+  [276/sem limite] fila=129 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=cs
+  [277/sem limite] fila=128 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=da
+  [278/sem limite] fila=127 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=de
+  [279/sem limite] fila=126 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=el
+  [280/sem limite] fila=125 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=en
+  [281/sem limite] fila=124 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=es
+  [282/sem limite] fila=123 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=es_419
+  [283/sem limite] fila=122 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=es_es
+  [284/sem limite] fila=121 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=fi
+  [285/sem limite] fila=120 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=fil
+  [286/sem limite] fila=119 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=fr
+  [287/sem limite] fila=118 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=he
+  [288/sem limite] fila=117 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=hu
+  [289/sem limite] fila=116 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=i_en
+  [290/sem limite] fila=115 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=id
+  [291/sem limite] fila=114 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=it
+  [292/sem limite] fila=113 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ja
+  [293/sem limite] fila=112 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ko
+  [294/sem limite] fila=111 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ms
+  [295/sem limite] fila=110 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=nb
+  [296/sem limite] fila=109 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=nl
+  [297/sem limite] fila=108 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=no
+  [298/sem limite] fila=107 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=pl
+  [299/sem limite] fila=106 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=pt
+  [300/sem limite] fila=105 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=pt_br
+  [301/sem limite] fila=104 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ro
+  [302/sem limite] fila=103 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=ru
+  [303/sem limite] fila=102 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=sl
+  [304/sem limite] fila=101 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=sv
+  [305/sem limite] fila=100 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=th
+  [306/sem limite] fila=99 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=tr
+  [307/sem limite] fila=98 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=uk
+  [308/sem limite] fila=97 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=vi
+  [309/sem limite] fila=96 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=zh
+  [310/sem limite] fila=95 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=zh_cn
+  [311/sem limite] fila=94 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br?locale=zh_tw
+  [312/sem limite] fila=93 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ar
+  [313/sem limite] fila=122 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=bg
+  [314/sem limite] fila=121 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=cs
+  [315/sem limite] fila=120 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=da
+  [316/sem limite] fila=119 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=de
+  [317/sem limite] fila=118 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=el
+  [318/sem limite] fila=117 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=en
+  [319/sem limite] fila=116 | depth=3 | https://webmail.saojosedaboavista.pr.gov.br/?locale=es
+  [320/sem limite] fila=115 | depth=4 | http://saojosedaboavista.pr.gov.br/campanha-maio-laranja-realiza-palestra-motiva
+  [321/sem limite] fila=114 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-amplia-servicos-com-atendimentos-e
+  [322/sem limite] fila=113 | depth=4 | http://saojosedaboavista.pr.gov.br/municipio-de-sjbv-realiza-campanha-de-castrac
+  [323/sem limite] fila=112 | depth=4 | http://saojosedaboavista.pr.gov.br/defesa-civil-e-prefeitura-promovem-capacitaca
+  [324/sem limite] fila=111 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-de-sjbv-promove-curso-de-olericult
+  [325/sem limite] fila=110 | depth=4 | http://saojosedaboavista.pr.gov.br/a-educacao-transforma-realidades/
+  [326/sem limite] fila=109 | depth=4 | http://saojosedaboavista.pr.gov.br/dia-02-de-marco-comeca-a-renovacao-de-cadastr
+  [327/sem limite] fila=108 | depth=4 | http://saojosedaboavista.pr.gov.br/projeto-futebol-futsal-2026-com-inscricoes-ab
+  [328/sem limite] fila=107 | depth=4 | http://saojosedaboavista.pr.gov.br/processo-de-distribuicao-de-aulas-para-ano-le
+  [329/sem limite] fila=106 | depth=4 | http://saojosedaboavista.pr.gov.br/procuradoria-de-sao-jose-da-boa-vista/
+  [330/sem limite] fila=105 | depth=4 | https://saojosedaboavista.pr.gov.br/author/cr2-admin22/
+  [331/sem limite] fila=105 | depth=4 | http://saojosedaboavista.pr.gov.br/c/noticias/page/4/
+  [332/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/municipio-recebe-equipamentos-para-a-defesa-
+  [333/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/secretaria-municipal-de-saude-inicia-projeto
+  [334/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/rede-de-esgoto-vai-se-tornar-realidade-em-sj
+  [335/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-e-divisao-de-habitacao-convocam-f
+  [336/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-se-reune-com-sanepar-visando-impl
+  [337/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/defesa-civil-do-municipio-se-reune-com-corpo
+  [338/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-modificacoes-no-horario-d
+  [339/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-informa-cronograma-de-coleta-de-l
+  [340/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/expo-show-2024-prefeitura-promove-apresentac
+  [341/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/c/noticias/page/6/
+  [342/sem limite] fila=114 | depth=4 | http://saojosedaboavista.pr.gov.br/programa-estadual-parana-regularizado-vai-ben
+  [343/sem limite] fila=113 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-seleciona-agricultores-para-implan
+  [344/sem limite] fila=112 | depth=4 | http://saojosedaboavista.pr.gov.br/voce-precisa-saber-cuidados-necessarios-para-
+  [345/sem limite] fila=111 | depth=4 | http://saojosedaboavista.pr.gov.br/idosos-boavistenses-visitam-parque-historico/
+  [346/sem limite] fila=110 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-comemoracao-do-dia-das-cri
+  [347/sem limite] fila=109 | depth=4 | http://saojosedaboavista.pr.gov.br/projeto-som-e-ritmo-encanta-criancas-do-cmei-
+  [348/sem limite] fila=108 | depth=4 | http://saojosedaboavista.pr.gov.br/itr-2025-prefeitura-de-sjbv-orienta-contribui
+  [349/sem limite] fila=107 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-realiza-conferencia-municipal-da-c
+  [350/sem limite] fila=106 | depth=4 | http://saojosedaboavista.pr.gov.br/familias-cadastradas-no-casa-facil-vida-nova-
+  [351/sem limite] fila=105 | depth=4 | http://saojosedaboavista.pr.gov.br/ipardes-realiza-pesquisa-nos-municipios-paran
+  [352/sem limite] fila=104 | depth=4 | http://saojosedaboavista.pr.gov.br/c/noticias/page/5/
+  [353/sem limite] fila=103 | depth=4 | https://saojosedaboavista.pr.gov.br/curso-primeiros-socorros/
+  [354/sem limite] fila=103 | depth=4 | https://saojosedaboavista.pr.gov.br/conferencia-meio-ambiente/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/editald
+  [355/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/novembro-azul/
+  [356/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/dengue/
+  [357/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-preservacao-do-meio-ambie
+  [358/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-semana-lixo-zero/
+  [359/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/outubro-rosa/
+  [360/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/vida-nova-prefeitura-e-cohapar-convocam-bene
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/VIDA-NO
+  [361/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/a-mudanca-comeca-pela-inclusao/
+  [362/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-oferece-vagas-no-cras-facilitador
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Ficha-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Lista-d
+  [363/sem limite] fila=104 | depth=4 | https://saojosedaboavista.pr.gov.br/c/noticias/page/7/
+  [364/sem limite] fila=114 | depth=4 | http://saojosedaboavista.pr.gov.br/governo-do-estado-autoriza-municipalizacao-de
+  [365/sem limite] fila=113 | depth=4 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/
+  [366/sem limite] fila=116 | depth=4 | http://saojosedaboavista.pr.gov.br/prefeitura-entrega-escritura-definitiva-na-vi
+  [367/sem limite] fila=115 | depth=4 | http://saojosedaboavista.pr.gov.br/municipio-adere-ao-diario-oficial-eletronico/
+  [368/sem limite] fila=114 | depth=4 | http://saojosedaboavista.pr.gov.br/esclarecimentos-sobre-os-direitos-dos-portado
+  [369/sem limite] fila=113 | depth=4 | http://saojosedaboavista.pr.gov.br/c/noticias/page/11/
+  [370/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/acompanhe-as-atualizacoes-dos-boletins-da-se
+  [371/sem limite] fila=111 | depth=4 | https://saojosedaboavista.pr.gov.br/atencao-populacao-boavistense-para-o-distanc
+  [372/sem limite] fila=111 | depth=4 | https://saojosedaboavista.pr.gov.br/relacao-municipal-de-medicamentos-essenciais
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/remume-
+  [373/sem limite] fila=111 | depth=4 | https://saojosedaboavista.pr.gov.br/pregao-eletronico-vai-garantir-transparencia
+  [374/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-realiza-cessao-de-predio-para-a-c
+  [375/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/atuacao-da-procuradoria-proporciona-economia
+  [376/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/novos-conselheiros-tutelares-foram-empossado
+  [377/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/saiba-aqui-como-acessar-os-atos-oficiais-do-
+  [378/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/downloads-estao-disponiveis/
+  [379/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/gepatria-alerta-municipios-sobre-cursos-de-c
+  [380/sem limite] fila=112 | depth=4 | https://saojosedaboavista.pr.gov.br/c/noticias/page/9/
+  [381/sem limite] fila=122 | depth=4 | http://saojosedaboavista.pr.gov.br/c/noticias/page/10/
+  [382/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/decretada-lei-seca-em-sao-jose-da-boa-vista/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Decreto
+  [383/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/ibge-abre-vagas-temporarias-para-o-censo-202
+  [384/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/nota-de-esclarecimento/
+  [385/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/sao-jose-da-boa-vista-esta-entre-os-melhores
+  [386/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-abre-contratacao-emergencial-para
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ficha-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  [387/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/25314-2/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ficha-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  [388/sem limite] fila=121 | depth=4 | https://saojosedaboavista.pr.gov.br/alunos-da-rede-publica-estudarao-em-casa-por
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Resoluc
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Resoluc
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Resoluc
+  [389/sem limite] fila=120 | depth=4 | https://saojosedaboavista.pr.gov.br/promotoria-de-justica-alerta-para-o-abuso-de
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/RECOMEN
+  [390/sem limite] fila=120 | depth=4 | https://saojosedaboavista.pr.gov.br/alerta-a-populacao-boavistense-fique-em-casa
+  [391/sem limite] fila=120 | depth=4 | https://saojosedaboavista.pr.gov.br/prefeitura-esta-atuando-no-enfrentamento-ao-
+  [392/sem limite] fila=120 | depth=4 | https://saojosedaboavista.pr.gov.br/c/noticias/page/8/
+  [393/sem limite] fila=130 | depth=4 | http://saojosedaboavista.pr.gov.br/lista-de-espera-escolas-e-creches-municipais/
+  [394/sem limite] fila=129 | depth=4 | http://saojosedaboavista.pr.gov.br/plano-alimentar-escolar/
+  [395/sem limite] fila=128 | depth=4 | http://saojosedaboavista.pr.gov.br/curriculo-da-rede-municipal-de-ensino/
+  [396/sem limite] fila=127 | depth=4 | http://saojosedaboavista.pr.gov.br/educacao-em-tempo-integral/
+  [397/sem limite] fila=126 | depth=4 | http://saojosedaboavista.pr.gov.br/resolucoes-e-instrucoes-normativas/
+  [398/sem limite] fila=125 | depth=4 | http://saojosedaboavista.pr.gov.br/plantoes-profissionais-de-saude/
+  [399/sem limite] fila=124 | depth=4 | http://saojosedaboavista.pr.gov.br/lista-de-medicamentos-e-alto-custo/
+  [400/sem limite] fila=123 | depth=4 | https://saojosedaboavista.pr.gov.br/estoque-de-medicamentos/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_links.xlsx
+  414 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_externos.xlsx
+  467 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=123 | depth=4 | http://saojosedaboavista.pr.gov.br/portal-da-transparencia/saude/lista-de-profis
+  [402/sem limite] fila=122 | depth=4 | http://saojosedaboavista.pr.gov.br/jovem-boa-vistense-cria-podcast-para-entrevis
+  [403/sem limite] fila=121 | depth=4 | http://saojosedaboavista.pr.gov.br/author/jose-silva/page/2/
+  [404/sem limite] fila=120 | depth=4 | http://saojosedaboavista.pr.gov.br/author/jose-silva/page/3/
+  [405/sem limite] fila=119 | depth=4 | http://saojosedaboavista.pr.gov.br/author/jose-silva/page/4/
+  [406/sem limite] fila=118 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=es_419
+  [407/sem limite] fila=117 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=es_es
+  [408/sem limite] fila=116 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=fi
+  [409/sem limite] fila=115 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=fil
+  [410/sem limite] fila=114 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=fr
+  [411/sem limite] fila=113 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=he
+  [412/sem limite] fila=112 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=hu
+  [413/sem limite] fila=111 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=i_en
+  [414/sem limite] fila=110 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=id
+  [415/sem limite] fila=109 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=it
+  [416/sem limite] fila=108 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ja
+  [417/sem limite] fila=107 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ko
+  [418/sem limite] fila=106 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ms
+  [419/sem limite] fila=105 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=nb
+  [420/sem limite] fila=104 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=nl
+  [421/sem limite] fila=103 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=no
+  [422/sem limite] fila=102 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=pl
+  [423/sem limite] fila=101 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=pt
+  [424/sem limite] fila=100 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=pt_br
+  [425/sem limite] fila=99 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ro
+  [426/sem limite] fila=98 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=ru
+  [427/sem limite] fila=97 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=sl
+  [428/sem limite] fila=96 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=sv
+  [429/sem limite] fila=95 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=th
+  [430/sem limite] fila=94 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=tr
+  [431/sem limite] fila=93 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=uk
+  [432/sem limite] fila=92 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=vi
+  [433/sem limite] fila=91 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=zh
+  [434/sem limite] fila=90 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=zh_cn
+  [435/sem limite] fila=89 | depth=4 | https://webmail.saojosedaboavista.pr.gov.br/?locale=zh_tw
+  [436/sem limite] fila=88 | depth=5 | http://saojosedaboavista.pr.gov.br/author/cr2-admin22/
+  [437/sem limite] fila=87 | depth=5 | http://saojosedaboavista.pr.gov.br/municipio-recebe-equipamentos-para-a-defesa-c
+  [438/sem limite] fila=86 | depth=5 | http://saojosedaboavista.pr.gov.br/secretaria-municipal-de-saude-inicia-projeto-
+  [439/sem limite] fila=85 | depth=5 | http://saojosedaboavista.pr.gov.br/rede-de-esgoto-vai-se-tornar-realidade-em-sjb
+  [440/sem limite] fila=84 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-e-divisao-de-habitacao-convocam-fa
+  [441/sem limite] fila=83 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-se-reune-com-sanepar-visando-impla
+  [442/sem limite] fila=82 | depth=5 | http://saojosedaboavista.pr.gov.br/defesa-civil-do-municipio-se-reune-com-corpo-
+  [443/sem limite] fila=81 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-modificacoes-no-horario-da
+  [444/sem limite] fila=80 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-informa-cronograma-de-coleta-de-li
+  [445/sem limite] fila=79 | depth=5 | http://saojosedaboavista.pr.gov.br/expo-show-2024-prefeitura-promove-apresentaco
+  [446/sem limite] fila=78 | depth=5 | http://saojosedaboavista.pr.gov.br/c/noticias/page/6/
+  [447/sem limite] fila=77 | depth=5 | https://saojosedaboavista.pr.gov.br/hospital-municipal-sao-jose-e-mppr-celebram-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Hospita
+  [448/sem limite] fila=77 | depth=5 | https://saojosedaboavista.pr.gov.br/pss-para-nutricionista-tem-inscricoes-aberta
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/PSS-par
+  [449/sem limite] fila=77 | depth=5 | https://saojosedaboavista.pr.gov.br/prefeitura-promove-concurso-publico-para-far
+  [450/sem limite] fila=77 | depth=5 | https://saojosedaboavista.pr.gov.br/ministerio-publico-recomenda-atualizacao-vac
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/10/Ministe
+  [451/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/prefeitura-celebra-parceria-com-empresa-priv
+  [452/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/municipio-de-sjbv-adere-ao-programa-de-capac
+  [453/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/prefeitura-entrega-caminhao-0-km-para-a-coaf
+  [454/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/equipe-da-defesa-civil-participa-de-treiname
+  [455/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/jovem-boavistense-conquista-vaga-no-2o-semes
+  [456/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/atendimento-copel/
+  [457/sem limite] fila=76 | depth=5 | https://saojosedaboavista.pr.gov.br/author/cr2-admin7/
+  [458/sem limite] fila=76 | depth=5 | http://saojosedaboavista.pr.gov.br/conferencia-meio-ambiente/
+  [459/sem limite] fila=75 | depth=5 | https://saojosedaboavista.pr.gov.br/author/cr2-admin3/
+  [460/sem limite] fila=75 | depth=5 | http://saojosedaboavista.pr.gov.br/novembro-azul/
+  [461/sem limite] fila=74 | depth=5 | http://saojosedaboavista.pr.gov.br/dengue/
+  [462/sem limite] fila=73 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-preservacao-do-meio-ambien
+  [463/sem limite] fila=72 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-semana-lixo-zero/
+  [464/sem limite] fila=71 | depth=5 | http://saojosedaboavista.pr.gov.br/outubro-rosa/
+  [465/sem limite] fila=70 | depth=5 | http://saojosedaboavista.pr.gov.br/vida-nova-prefeitura-e-cohapar-convocam-benef
+  [466/sem limite] fila=69 | depth=5 | http://saojosedaboavista.pr.gov.br/a-mudanca-comeca-pela-inclusao/
+  [467/sem limite] fila=68 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-oferece-vagas-no-cras-facilitador-
+  [468/sem limite] fila=67 | depth=5 | http://saojosedaboavista.pr.gov.br/c/noticias/page/7/
+  [469/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/secretaria-do-meio-ambiente-promove-cadastra
+  [470/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/comunicado-importante-aos-fornecedores/
+  [471/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/prefeitura-abre-pss-para-nivel-medio-profiss
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/EDITAL-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Ficha-I
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Portari
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Edital-
+  [472/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/lei-paulo-gustavo/
+  [473/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/municipio-de-sjbv-obteve-nota-maxima-na-regi
+  [474/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/novo-portal-da-transparencia/
+  [475/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/audiencia-publica-sera-no-dia-29-de-maio-no-
+  [476/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/nova-lei-de-licitacoes/
+  [477/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/comunicado/
+  [478/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/pretendentes-da-cohapar-devem-fazer-recadast
+  [479/sem limite] fila=66 | depth=5 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/
+  [480/sem limite] fila=65 | depth=5 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/2/
+  [481/sem limite] fila=66 | depth=5 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/3/
+  [482/sem limite] fila=67 | depth=5 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/8/
+  [483/sem limite] fila=69 | depth=5 | http://saojosedaboavista.pr.gov.br/atencao-populacao-boavistense-para-o-distanci
+  [484/sem limite] fila=68 | depth=5 | http://saojosedaboavista.pr.gov.br/relacao-municipal-de-medicamentos-essenciais/
+  [485/sem limite] fila=67 | depth=5 | http://saojosedaboavista.pr.gov.br/pregao-eletronico-vai-garantir-transparencia/
+  [486/sem limite] fila=66 | depth=5 | https://www.saojosedaboavista.pr.gov.br/licitacao/
+ ❌ HTTP_404: https://www.saojosedaboavista.pr.gov.br/licitacao/
+  🤖 Usando Selenium para: https://www.saojosedaboavista.pr.gov.br/licitacao/
+ ❌ HTTP_404: https://www.saojosedaboavista.pr.gov.br/licitacao/
+  [487/sem limite] fila=65 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-realiza-cessao-de-predio-para-a-ca
+  [488/sem limite] fila=64 | depth=5 | http://saojosedaboavista.pr.gov.br/atuacao-da-procuradoria-proporciona-economia-
+  [489/sem limite] fila=63 | depth=5 | http://saojosedaboavista.pr.gov.br/novos-conselheiros-tutelares-foram-empossados
+  [490/sem limite] fila=62 | depth=5 | http://saojosedaboavista.pr.gov.br/saiba-aqui-como-acessar-os-atos-oficiais-do-m
+  [491/sem limite] fila=61 | depth=5 | http://saojosedaboavista.pr.gov.br/downloads-estao-disponiveis/
+  [492/sem limite] fila=60 | depth=5 | http://saojosedaboavista.pr.gov.br/gepatria-alerta-municipios-sobre-cursos-de-ca
+  [493/sem limite] fila=59 | depth=5 | http://saojosedaboavista.pr.gov.br/c/noticias/page/9/
+  [494/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/prefeitura-realiza-conferencia-do-plano-dire
+  [495/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/consorcio-conectar/
+  [496/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/vacinacao-contra-covid-19-atinge-marca-histo
+  [497/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/consorcio-conectar-2/
+  [498/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/audiencia-publica-virtual-do-fundeb-dia-5-as
+  [499/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/recomendacao-administrativa-no-05-2021-mppr/
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Recomen
+  [500/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/convenio/
+  [501/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/regularizacao-das-pedreiras/
+  [502/sem limite] fila=58 | depth=5 | https://saojosedaboavista.pr.gov.br/ruas-pavimentadas/
+  [503/sem limite] fila=57 | depth=5 | https://saojosedaboavista.pr.gov.br/municipio-nao-aderiu-ao-consorcio-de-vacinas
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/Municip
+  [504/sem limite] fila=57 | depth=5 | http://saojosedaboavista.pr.gov.br/decretada-lei-seca-em-sao-jose-da-boa-vista/
+  [505/sem limite] fila=56 | depth=5 | http://saojosedaboavista.pr.gov.br/ibge-abre-vagas-temporarias-para-o-censo-2021
+  [506/sem limite] fila=55 | depth=5 | http://saojosedaboavista.pr.gov.br/nota-de-esclarecimento/
+  [507/sem limite] fila=54 | depth=5 | http://saojosedaboavista.pr.gov.br/sao-jose-da-boa-vista-esta-entre-os-melhores-
+  [508/sem limite] fila=53 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-abre-contratacao-emergencial-para-
+  [509/sem limite] fila=52 | depth=5 | http://saojosedaboavista.pr.gov.br/25314-2/
+  [510/sem limite] fila=51 | depth=5 | http://saojosedaboavista.pr.gov.br/promotoria-de-justica-alerta-para-o-abuso-de-
+  [511/sem limite] fila=50 | depth=5 | http://saojosedaboavista.pr.gov.br/alerta-a-populacao-boavistense-fique-em-casa/
+  [512/sem limite] fila=49 | depth=5 | http://saojosedaboavista.pr.gov.br/prefeitura-esta-atuando-no-enfrentamento-ao-c
+  [513/sem limite] fila=48 | depth=5 | http://saojosedaboavista.pr.gov.br/c/noticias/page/8/
+  [514/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/ubss-conquistam-bons-resultados-nos-indicado
+  [515/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/outubro-rosa-2/
+  [516/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/meio-ambiente-promove-semana-do-lixo-zero-de
+  [517/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/setembro-amarelo/
+  [518/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/gaema-orienta-sobre-parcelamento-ilegal-do-s
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/01Recom
+  [519/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/contribuinte/
+  [520/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/vem-ai-62o-aniversario-de-emancipacao-politi
+  [521/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/dengue-nao/
+  [522/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/prazo-para-professores-apresentarem-cursos-d
+  📄 [200] .pdf -> https://saojosedaboavista.pr.gov.br/wp-content/uploads/2024/11/DECRETO
+  [523/sem limite] fila=47 | depth=5 | https://saojosedaboavista.pr.gov.br/continue-se-cuidando/
+  [524/sem limite] fila=47 | depth=5 | http://saojosedaboavista.pr.gov.br/estoque-de-medicamentos/
+  [525/sem limite] fila=46 | depth=6 | http://saojosedaboavista.pr.gov.br/hospital-municipal-sao-jose-e-mppr-celebram-t
+  [526/sem limite] fila=45 | depth=6 | http://saojosedaboavista.pr.gov.br/pss-para-nutricionista-tem-inscricoes-abertas
+  [527/sem limite] fila=44 | depth=6 | http://saojosedaboavista.pr.gov.br/prefeitura-promove-concurso-publico-para-farm
+  [528/sem limite] fila=43 | depth=6 | http://saojosedaboavista.pr.gov.br/prefeitura-celebra-parceria-com-empresa-priva
+  [529/sem limite] fila=42 | depth=6 | http://saojosedaboavista.pr.gov.br/municipio-de-sjbv-adere-ao-programa-de-capaci
+  [530/sem limite] fila=41 | depth=6 | http://saojosedaboavista.pr.gov.br/prefeitura-entrega-caminhao-0-km-para-a-coafl
+  [531/sem limite] fila=40 | depth=6 | http://saojosedaboavista.pr.gov.br/equipe-da-defesa-civil-participa-de-treinamen
+  [532/sem limite] fila=39 | depth=6 | http://saojosedaboavista.pr.gov.br/jovem-boavistense-conquista-vaga-no-2o-semest
+  [533/sem limite] fila=38 | depth=6 | http://saojosedaboavista.pr.gov.br/atendimento-copel/
+  [534/sem limite] fila=37 | depth=6 | http://saojosedaboavista.pr.gov.br/author/cr2-admin7/
+  [535/sem limite] fila=36 | depth=6 | http://saojosedaboavista.pr.gov.br/author/cr2-admin3/
+  [536/sem limite] fila=35 | depth=6 | http://saojosedaboavista.pr.gov.br/secretaria-do-meio-ambiente-promove-cadastram
+  [537/sem limite] fila=34 | depth=6 | http://saojosedaboavista.pr.gov.br/comunicado-importante-aos-fornecedores/
+  [538/sem limite] fila=33 | depth=6 | http://saojosedaboavista.pr.gov.br/prefeitura-abre-pss-para-nivel-medio-profissi
+  [539/sem limite] fila=32 | depth=6 | http://saojosedaboavista.pr.gov.br/lei-paulo-gustavo/
+  [540/sem limite] fila=31 | depth=6 | http://saojosedaboavista.pr.gov.br/municipio-de-sjbv-obteve-nota-maxima-na-regio
+  [541/sem limite] fila=30 | depth=6 | http://saojosedaboavista.pr.gov.br/novo-portal-da-transparencia/
+  [542/sem limite] fila=29 | depth=6 | http://saojosedaboavista.pr.gov.br/audiencia-publica-sera-no-dia-29-de-maio-no-p
+  [543/sem limite] fila=28 | depth=6 | http://saojosedaboavista.pr.gov.br/nova-lei-de-licitacoes/
+  [544/sem limite] fila=27 | depth=6 | http://saojosedaboavista.pr.gov.br/comunicado/
+  [545/sem limite] fila=26 | depth=6 | http://saojosedaboavista.pr.gov.br/pretendentes-da-cohapar-devem-fazer-recadastr
+  [546/sem limite] fila=25 | depth=6 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/2/
+  [547/sem limite] fila=24 | depth=6 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/4/
+  [548/sem limite] fila=24 | depth=6 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/3/
+  [549/sem limite] fila=23 | depth=6 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/5/
+  [550/sem limite] fila=23 | depth=6 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/8/
+  [551/sem limite] fila=22 | depth=6 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/7/
+  [552/sem limite] fila=22 | depth=6 | https://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/6/
+  [553/sem limite] fila=22 | depth=6 | http://saojosedaboavista.pr.gov.br/prefeitura-realiza-conferencia-do-plano-diret
+  [554/sem limite] fila=21 | depth=6 | http://saojosedaboavista.pr.gov.br/consorcio-conectar/
+  [555/sem limite] fila=20 | depth=6 | http://saojosedaboavista.pr.gov.br/vacinacao-contra-covid-19-atinge-marca-histor
+  [556/sem limite] fila=19 | depth=6 | http://saojosedaboavista.pr.gov.br/consorcio-conectar-2/
+  [557/sem limite] fila=18 | depth=6 | http://saojosedaboavista.pr.gov.br/audiencia-publica-virtual-do-fundeb-dia-5-as-
+  [558/sem limite] fila=17 | depth=6 | http://saojosedaboavista.pr.gov.br/recomendacao-administrativa-no-05-2021-mppr/
+  [559/sem limite] fila=16 | depth=6 | http://saojosedaboavista.pr.gov.br/convenio/
+  [560/sem limite] fila=15 | depth=6 | http://saojosedaboavista.pr.gov.br/regularizacao-das-pedreiras/
+  [561/sem limite] fila=14 | depth=6 | http://saojosedaboavista.pr.gov.br/municipio-nao-aderiu-ao-consorcio-de-vacinas/
+  [562/sem limite] fila=13 | depth=6 | http://saojosedaboavista.pr.gov.br/ubss-conquistam-bons-resultados-nos-indicador
+  [563/sem limite] fila=12 | depth=6 | http://saojosedaboavista.pr.gov.br/outubro-rosa-2/
+  [564/sem limite] fila=11 | depth=6 | http://saojosedaboavista.pr.gov.br/meio-ambiente-promove-semana-do-lixo-zero-de-
+  [565/sem limite] fila=10 | depth=6 | http://saojosedaboavista.pr.gov.br/setembro-amarelo/
+  [566/sem limite] fila=9 | depth=6 | http://saojosedaboavista.pr.gov.br/gaema-orienta-sobre-parcelamento-ilegal-do-so
+  [567/sem limite] fila=8 | depth=6 | http://saojosedaboavista.pr.gov.br/contribuinte/
+  [568/sem limite] fila=7 | depth=6 | http://saojosedaboavista.pr.gov.br/vem-ai-62o-aniversario-de-emancipacao-politic
+  [569/sem limite] fila=6 | depth=6 | http://saojosedaboavista.pr.gov.br/dengue-nao/
+  [570/sem limite] fila=5 | depth=6 | http://saojosedaboavista.pr.gov.br/prazo-para-professores-apresentarem-cursos-de
+  [571/sem limite] fila=4 | depth=6 | http://saojosedaboavista.pr.gov.br/continue-se-cuidando/
+  [572/sem limite] fila=3 | depth=7 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/4/
+  [573/sem limite] fila=2 | depth=7 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/5/
+  [574/sem limite] fila=1 | depth=7 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/7/
+  [575/sem limite] fila=0 | depth=7 | http://saojosedaboavista.pr.gov.br/author/cr2-admin17/page/6/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_links.xlsx
+  432 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_externos.xlsx
+  678 links externos registrados.
+
+  Varredura encerrada: SAOJOSEDABOAVISTA
+  Páginas nesta sessão: 575
+  Páginas totais (acumulado): 575
+  Arquivos no inventário: 432
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/saojosedaboavista/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas São José da Boa Vista)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 São José da Boa Vista (slug: saojosedaboavista)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://pr.portaldatransparencia.com.br/prefeitura/saojosedaboavista/index.cfm/
+              ✅ https://saojosedaboavista.pr.gov.br/
+              ✅ https://www.saojosedaboavista.pr.leg.br/transparencia/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOSEDABOAVISTA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 432 arquivos já registrados.
+  Links externos parciais carregados: 678 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 4 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: SAOJOSEDABOAVISTA
+  Páginas já visitadas (checkpoint): 575
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_links.xlsx
+  432 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojosedaboavista/inventario_externos.xlsx
+  678 links externos registrados.
+
+  Varredura encerrada: SAOJOSEDABOAVISTA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 575
+  Arquivos no inventário: 432
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/saojosedaboavista/
+============================================================
+

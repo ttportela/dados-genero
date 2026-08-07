@@ -1,0 +1,1560 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOAO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOJOAO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saojoao.pr.gov.br/
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/
+  [2/sem limite] fila=32 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  [3/sem limite] fila=32 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  [4/sem limite] fila=31 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/Index.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/Index.aspx
+  [5/sem limite] fila=30 | depth=1 | https://www.saojoao.pr.gov.br/Contato.aspx
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/Contato.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Contato.aspx
+  [6/sem limite] fila=29 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  [7/sem limite] fila=28 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  [8/sem limite] fila=27 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  [9/sem limite] fila=26 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  [10/sem limite] fila=25 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  [11/sem limite] fila=24 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  [12/sem limite] fila=23 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  [13/sem limite] fila=22 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  [14/sem limite] fila=27 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  [15/sem limite] fila=26 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  [16/sem limite] fila=25 | depth=1 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  [17/sem limite] fila=24 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  [18/sem limite] fila=24 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ SELENIUM_ERRO: UnexpectedAlertPresentException: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  [19/sem limite] fila=23 | depth=1 | https://www.saojoao.pr.gov.br/20612
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/20612
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/20612
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/20612
+  [20/sem limite] fila=22 | depth=1 | https://www.saojoao.pr.gov.br/legislacao-municipal
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/legislacao-municipal
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/legislacao-municipal
+  [21/sem limite] fila=21 | depth=1 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  [22/sem limite] fila=37 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  [23/sem limite] fila=36 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  [24/sem limite] fila=35 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  [25/sem limite] fila=35 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  [26/sem limite] fila=34 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  [27/sem limite] fila=33 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  [28/sem limite] fila=32 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [29/sem limite] fila=31 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [30/sem limite] fila=39 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [31/sem limite] fila=42 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [32/sem limite] fila=41 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [33/sem limite] fila=45 | depth=1 | https://www.saojoao.pr.gov.br/Publicacoes.aspx
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx
+  [34/sem limite] fila=44 | depth=1 | https://webmail.saojoao.pr.gov.br
+ ❌ TIMEOUT_OU_CONEXAO: https://webmail.saojoao.pr.gov.br
+  🤖 Usando Selenium para: https://webmail.saojoao.pr.gov.br
+ ❌ SELENIUM_ERRO: WebDriverException: https://webmail.saojoao.pr.gov.br
+  [35/sem limite] fila=43 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  [36/sem limite] fila=49 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  [37/sem limite] fila=48 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  [38/sem limite] fila=47 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  [39/sem limite] fila=46 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  [40/sem limite] fila=45 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  [41/sem limite] fila=44 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  [42/sem limite] fila=43 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  [43/sem limite] fila=42 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  [44/sem limite] fila=41 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  [45/sem limite] fila=45 | depth=2 | https://saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Index.aspx
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Index.aspx
+  [46/sem limite] fila=44 | depth=2 | https://saojoao.pr.gov.br/Contato.aspx
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Contato.aspx
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Contato.aspx
+  [47/sem limite] fila=43 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  [48/sem limite] fila=42 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ SELENIUM_ERRO: SessionNotCreatedException: https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  [49/sem limite] fila=41 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  [50/sem limite] fila=40 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  [51/sem limite] fila=39 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  [52/sem limite] fila=38 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  [53/sem limite] fila=37 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  [54/sem limite] fila=36 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  [55/sem limite] fila=41 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  [56/sem limite] fila=40 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  [57/sem limite] fila=39 | depth=2 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  [58/sem limite] fila=47 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  [59/sem limite] fila=46 | depth=2 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  [60/sem limite] fila=52 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  [61/sem limite] fila=51 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  [62/sem limite] fila=50 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  [63/sem limite] fila=49 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  [64/sem limite] fila=48 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [65/sem limite] fila=47 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [66/sem limite] fila=46 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [67/sem limite] fila=45 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [68/sem limite] fila=47 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [69/sem limite] fila=51 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [70/sem limite] fila=50 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  [71/sem limite] fila=49 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  [72/sem limite] fila=48 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  [73/sem limite] fila=47 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [74/sem limite] fila=51 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  [75/sem limite] fila=50 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  [76/sem limite] fila=49 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  [77/sem limite] fila=54 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  [78/sem limite] fila=56 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  [79/sem limite] fila=55 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  [80/sem limite] fila=54 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  [81/sem limite] fila=53 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [82/sem limite] fila=52 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [83/sem limite] fila=54 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [84/sem limite] fila=56 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [85/sem limite] fila=55 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  [86/sem limite] fila=57 | depth=3 | https://saojoao.pr.gov.br/galeria-de-fotos-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/galeria-de-fotos-2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/galeria-de-fotos-2
+  [87/sem limite] fila=56 | depth=3 | https://saojoao.pr.gov.br/videos
+ ❌ HTTP_500: https://saojoao.pr.gov.br/videos
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/videos
+ ❌ HTTP_500: https://saojoao.pr.gov.br/videos
+  [88/sem limite] fila=55 | depth=3 | https://saojoao.pr.gov.br/prefeito-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/prefeito-2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/prefeito-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/prefeito-2
+  [89/sem limite] fila=54 | depth=3 | https://saojoao.pr.gov.br/vice-prefeito
+ ❌ HTTP_500: https://saojoao.pr.gov.br/vice-prefeito
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/vice-prefeito
+ ❌ HTTP_500: https://saojoao.pr.gov.br/vice-prefeito
+  [90/sem limite] fila=53 | depth=3 | https://saojoao.pr.gov.br/secretarias
+ ❌ HTTP_500: https://saojoao.pr.gov.br/secretarias
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/secretarias
+ ❌ HTTP_500: https://saojoao.pr.gov.br/secretarias
+  [91/sem limite] fila=52 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  [92/sem limite] fila=51 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  [93/sem limite] fila=50 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  [94/sem limite] fila=49 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  [95/sem limite] fila=48 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  [96/sem limite] fila=47 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  [97/sem limite] fila=46 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  [98/sem limite] fila=45 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=435373
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=435373
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  [99/sem limite] fila=44 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=415219
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  [100/sem limite] fila=43 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=368763
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  [101/sem limite] fila=42 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [102/sem limite] fila=41 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [103/sem limite] fila=40 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [104/sem limite] fila=39 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [105/sem limite] fila=45 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  [106/sem limite] fila=50 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213182
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  [107/sem limite] fila=49 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328837
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  [108/sem limite] fila=48 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [109/sem limite] fila=47 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [110/sem limite] fila=51 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [111/sem limite] fila=52 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [112/sem limite] fila=56 | depth=3 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  [113/sem limite] fila=55 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+  [114/sem limite] fila=54 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+  [115/sem limite] fila=53 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [116/sem limite] fila=57 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+  [117/sem limite] fila=56 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  [118/sem limite] fila=55 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  [119/sem limite] fila=54 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  [120/sem limite] fila=53 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [121/sem limite] fila=52 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  [122/sem limite] fila=51 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+  [123/sem limite] fila=50 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  [124/sem limite] fila=49 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  [125/sem limite] fila=48 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  [126/sem limite] fila=47 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/EDITAL_001_JOVEM_APRE
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/Classifica%C3%A7%C3%A
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/RETIFICA%C3%87%C3%83O
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/Edital_de_homologa%C3
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/Edital_de_divulga%C3%
+  [127/sem limite] fila=46 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206196
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206196
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206196
+  ⚠️ [404] .docx -> http://www.saojoao.pr.gov.br/images/arquivos/138/Chamamento_p%C3%BAbli
+  [128/sem limite] fila=45 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206194
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206194
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206194
+  ⚠️ [404] .pdf -> http://www.saojoao.pr.gov.br/images/arquivos/139/Edital_001_2021_-_Pro
+  [129/sem limite] fila=44 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=19
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=19
+  [130/sem limite] fila=49 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=20
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=20
+  [131/sem limite] fila=49 | depth=3 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=21
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=21
+  [132/sem limite] fila=51 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  [133/sem limite] fila=50 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  [134/sem limite] fila=49 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  [135/sem limite] fila=48 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  [136/sem limite] fila=47 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  [137/sem limite] fila=46 | depth=4 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [138/sem limite] fila=48 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  [139/sem limite] fila=47 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  [140/sem limite] fila=46 | depth=4 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [141/sem limite] fila=46 | depth=4 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  [142/sem limite] fila=47 | depth=4 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  [143/sem limite] fila=46 | depth=4 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  [144/sem limite] fila=45 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=307965
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  [145/sem limite] fila=44 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=285820
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  [146/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=278398
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  [147/sem limite] fila=42 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=273055
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  [148/sem limite] fila=41 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [149/sem limite] fila=40 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [150/sem limite] fila=44 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [151/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213277
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213277
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213277
+  [152/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206196
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206196
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206196
+  [153/sem limite] fila=42 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206194
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206194
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206194
+  [154/sem limite] fila=41 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  [155/sem limite] fila=44 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  [156/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  [157/sem limite] fila=46 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206173
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  [158/sem limite] fila=45 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=207302
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  [159/sem limite] fila=44 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328840
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  [160/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213185
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  [161/sem limite] fila=42 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [162/sem limite] fila=41 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328830
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  [163/sem limite] fila=40 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [164/sem limite] fila=44 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213169
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  [165/sem limite] fila=43 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328850
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328850
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328850
+  [166/sem limite] fila=42 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328855
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  [167/sem limite] fila=41 | depth=4 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328866
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  [168/sem limite] fila=40 | depth=4 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [169/sem limite] fila=43 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328854
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328854
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328854
+  [170/sem limite] fila=42 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  [171/sem limite] fila=41 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328856
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328856
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328856
+  [172/sem limite] fila=40 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+  [173/sem limite] fila=39 | depth=4 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  [174/sem limite] fila=38 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+  [175/sem limite] fila=37 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+  [176/sem limite] fila=36 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  [177/sem limite] fila=35 | depth=4 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=16
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=16
+  [178/sem limite] fila=39 | depth=4 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=17
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=17
+  [179/sem limite] fila=40 | depth=4 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=18
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=18
+  [180/sem limite] fila=39 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213179
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213179
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213179
+  [181/sem limite] fila=38 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  [182/sem limite] fila=37 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  [183/sem limite] fila=36 | depth=4 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  [184/sem limite] fila=35 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+  [185/sem limite] fila=34 | depth=5 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [186/sem limite] fila=33 | depth=5 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [187/sem limite] fila=32 | depth=5 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  [188/sem limite] fila=32 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213205
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213205
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213205
+  [189/sem limite] fila=31 | depth=5 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  [190/sem limite] fila=30 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=278715
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=278715
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=278715
+  [191/sem limite] fila=29 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206192
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206192
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206192
+  [192/sem limite] fila=28 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=265490
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=265490
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=265490
+  [193/sem limite] fila=27 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=267251
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=267251
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=267251
+  [194/sem limite] fila=26 | depth=5 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [195/sem limite] fila=29 | depth=5 | http://www.saojoao.pr.gov.br
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br
+  [196/sem limite] fila=59 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=236147
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=236147
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=236147
+  [197/sem limite] fila=58 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=244885
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=244885
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=244885
+  [198/sem limite] fila=57 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=245947
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=245947
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=245947
+  [199/sem limite] fila=56 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=223762
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=223762
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=223762
+  [200/sem limite] fila=55 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=224430
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=224430
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=224430
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/inventario_links.xlsx
+  7 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/erros_varredura.xlsx
+  210 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/inventario_externos.xlsx
+  142 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=54 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=221955
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=221955
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=221955
+  [202/sem limite] fila=53 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=221896
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=221896
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=221896
+  [203/sem limite] fila=52 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=220981
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=220981
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=220981
+  [204/sem limite] fila=51 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206174
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  [205/sem limite] fila=50 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206172
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  [206/sem limite] fila=49 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213183
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  [207/sem limite] fila=48 | depth=5 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [208/sem limite] fila=52 | depth=5 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  [209/sem limite] fila=51 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328835
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328835
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328835
+  [210/sem limite] fila=50 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206170
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  [211/sem limite] fila=49 | depth=5 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328867
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  [212/sem limite] fila=48 | depth=5 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  [213/sem limite] fila=52 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328838
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328838
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328838
+  [214/sem limite] fila=51 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221896
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221896
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221896
+  [215/sem limite] fila=50 | depth=5 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  [216/sem limite] fila=56 | depth=5 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=14
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=14
+  [217/sem limite] fila=59 | depth=5 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=15
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=15
+  [218/sem limite] fila=61 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220981
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220981
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220981
+  [219/sem limite] fila=60 | depth=5 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213277
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213277
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213277
+  [220/sem limite] fila=59 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+  [221/sem limite] fila=58 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=262063
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=262063
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=262063
+  [222/sem limite] fila=57 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=252078
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=252078
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=252078
+  [223/sem limite] fila=56 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=249462
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=249462
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=249462
+  [224/sem limite] fila=55 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=238249
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=238249
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=238249
+  [225/sem limite] fila=54 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  [226/sem limite] fila=54 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  [227/sem limite] fila=53 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx
+  [228/sem limite] fila=52 | depth=6 | http://www.saojoao.pr.gov.br/Contato.aspx
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Contato.aspx
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Contato.aspx
+  [229/sem limite] fila=51 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  [230/sem limite] fila=50 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  [231/sem limite] fila=49 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  [232/sem limite] fila=48 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  [233/sem limite] fila=47 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  [234/sem limite] fila=46 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  [235/sem limite] fila=45 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  [236/sem limite] fila=44 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  [237/sem limite] fila=43 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  [238/sem limite] fila=42 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  [239/sem limite] fila=41 | depth=6 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  [240/sem limite] fila=40 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  [241/sem limite] fila=40 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ SELENIUM_ERRO: UnexpectedAlertPresentException: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  [242/sem limite] fila=39 | depth=6 | http://www.saojoao.pr.gov.br/20612
+ ❌ HTTP_500: http://www.saojoao.pr.gov.br/20612
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/20612
+  [243/sem limite] fila=38 | depth=6 | http://www.saojoao.pr.gov.br/legislacao-municipal
+ ❌ HTTP_500: http://www.saojoao.pr.gov.br/legislacao-municipal
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/legislacao-municipal
+ ❌ HTTP_500: http://www.saojoao.pr.gov.br/legislacao-municipal
+  [244/sem limite] fila=37 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  [245/sem limite] fila=36 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  [246/sem limite] fila=35 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  [247/sem limite] fila=35 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  [248/sem limite] fila=34 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  [249/sem limite] fila=33 | depth=6 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  [250/sem limite] fila=32 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPubl
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [251/sem limite] fila=36 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPubl
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [252/sem limite] fila=35 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPubl
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [253/sem limite] fila=39 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPubl
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [254/sem limite] fila=38 | depth=6 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPubl
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [255/sem limite] fila=42 | depth=6 | http://www.saojoao.pr.gov.br/Publicacoes.aspx
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx
+  [256/sem limite] fila=55 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328856
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328856
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328856
+  [257/sem limite] fila=54 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328851
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328851
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328851
+  [258/sem limite] fila=53 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328854
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328854
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328854
+  [259/sem limite] fila=52 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328849
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328849
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328849
+  [260/sem limite] fila=51 | depth=6 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  [261/sem limite] fila=51 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213179
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213179
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213179
+  [262/sem limite] fila=50 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213173
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  [263/sem limite] fila=49 | depth=6 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213200
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213200
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213200
+  [264/sem limite] fila=48 | depth=6 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  [265/sem limite] fila=47 | depth=6 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  [266/sem limite] fila=49 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=238249
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=238249
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=238249
+  [267/sem limite] fila=48 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236147
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236147
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236147
+  [268/sem limite] fila=47 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=244885
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=244885
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=244885
+  [269/sem limite] fila=46 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=245947
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=245947
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=245947
+  [270/sem limite] fila=45 | depth=6 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  [271/sem limite] fila=47 | depth=6 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  [272/sem limite] fila=46 | depth=6 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  [273/sem limite] fila=48 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=223762
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=223762
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=223762
+  [274/sem limite] fila=47 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=233230
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=233230
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=233230
+  [275/sem limite] fila=46 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=217078
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=217078
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=217078
+  [276/sem limite] fila=45 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=226292
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=226292
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=226292
+  [277/sem limite] fila=44 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=227782
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=227782
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=227782
+  [278/sem limite] fila=43 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=224430
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=224430
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=224430
+  [279/sem limite] fila=42 | depth=6 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221955
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221955
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=221955
+  [280/sem limite] fila=41 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  [281/sem limite] fila=47 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  [282/sem limite] fila=46 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  [283/sem limite] fila=45 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [284/sem limite] fila=44 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [285/sem limite] fila=43 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [286/sem limite] fila=42 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [287/sem limite] fila=41 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [288/sem limite] fila=40 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  [289/sem limite] fila=39 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  [290/sem limite] fila=38 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  [291/sem limite] fila=37 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [292/sem limite] fila=36 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [293/sem limite] fila=42 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  [294/sem limite] fila=41 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  [295/sem limite] fila=40 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  [296/sem limite] fila=39 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  [297/sem limite] fila=43 | depth=7 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  [298/sem limite] fila=44 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  [299/sem limite] fila=43 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  [300/sem limite] fila=42 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  [301/sem limite] fila=41 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=228783
+  [302/sem limite] fila=40 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=287766
+  [303/sem limite] fila=39 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=286181
+  [304/sem limite] fila=38 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=307965
+  [305/sem limite] fila=37 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=285820
+  [306/sem limite] fila=36 | depth=7 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278398
+  [307/sem limite] fila=35 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListag
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [308/sem limite] fila=34 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListag
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [309/sem limite] fila=33 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListag
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [310/sem limite] fila=32 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListag
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [311/sem limite] fila=31 | depth=7 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListag
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [312/sem limite] fila=30 | depth=7 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213205
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213205
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213205
+  [313/sem limite] fila=29 | depth=7 | https://saojoao.pr.gov.br/Publicacao.aspx?id=317951
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=317951
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=317951
+  [314/sem limite] fila=28 | depth=7 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206175
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  [315/sem limite] fila=27 | depth=7 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213174
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  [316/sem limite] fila=26 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206192
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206192
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206192
+  [317/sem limite] fila=25 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=265490
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=265490
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=265490
+  [318/sem limite] fila=24 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=267251
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=267251
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=267251
+  [319/sem limite] fila=23 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=262063
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=262063
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=262063
+  [320/sem limite] fila=22 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=252078
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=252078
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=252078
+  [321/sem limite] fila=21 | depth=7 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=249462
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=249462
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=249462
+  [322/sem limite] fila=20 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  [323/sem limite] fila=19 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  [324/sem limite] fila=18 | depth=8 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [325/sem limite] fila=17 | depth=8 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [326/sem limite] fila=20 | depth=8 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [327/sem limite] fila=22 | depth=8 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [328/sem limite] fila=25 | depth=8 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  [329/sem limite] fila=24 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=273055
+  [330/sem limite] fila=23 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=264884
+  [331/sem limite] fila=22 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328866
+  [332/sem limite] fila=21 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328867
+  [333/sem limite] fila=20 | depth=8 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [334/sem limite] fila=19 | depth=8 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [335/sem limite] fila=22 | depth=8 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=8
+  [336/sem limite] fila=25 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206170
+  [337/sem limite] fila=24 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206172
+  ⚠️ [404] .doc -> http://www.saojoao.pr.gov.br/images/arquivos/146/1_510-2013_-_PPA.doc
+  [338/sem limite] fila=23 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=206173
+  [339/sem limite] fila=22 | depth=8 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=20
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=20
+  [340/sem limite] fila=21 | depth=8 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=21
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=21
+  [341/sem limite] fila=24 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=317951
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=317951
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=317951
+  [342/sem limite] fila=23 | depth=8 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  [343/sem limite] fila=22 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=207302
+  [344/sem limite] fila=21 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328840
+  [345/sem limite] fila=20 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213185
+  [346/sem limite] fila=19 | depth=9 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  [347/sem limite] fila=20 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  [348/sem limite] fila=19 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328830
+  [349/sem limite] fila=18 | depth=9 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [350/sem limite] fila=17 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213169
+  [351/sem limite] fila=16 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328850
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328850
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328850
+  [352/sem limite] fila=15 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328855
+  [353/sem limite] fila=14 | depth=9 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=6
+  [354/sem limite] fila=13 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328835
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328835
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328835
+  [355/sem limite] fila=12 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328851
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328851
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328851
+  [356/sem limite] fila=11 | depth=9 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=9
+  [357/sem limite] fila=15 | depth=9 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=10
+  [358/sem limite] fila=14 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328839
+  [359/sem limite] fila=13 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328836
+  [360/sem limite] fila=12 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328849
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328849
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328849
+  [361/sem limite] fila=11 | depth=9 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=11
+  [362/sem limite] fila=10 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213173
+  [363/sem limite] fila=9 | depth=9 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213174
+  [364/sem limite] fila=8 | depth=9 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=18
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=18
+  [365/sem limite] fila=7 | depth=9 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=19
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=19
+  [366/sem limite] fila=11 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=328829
+  [367/sem limite] fila=10 | depth=10 | http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacao
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=7
+  [368/sem limite] fila=9 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=269036
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=269036
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=269036
+  [369/sem limite] fila=8 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=251620
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=251620
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=251620
+  [370/sem limite] fila=7 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=271515
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=271515
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=271515
+  [371/sem limite] fila=6 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278715
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278715
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=278715
+  [372/sem limite] fila=5 | depth=10 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=12
+  [373/sem limite] fila=4 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213181
+  [374/sem limite] fila=3 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213184
+  [375/sem limite] fila=2 | depth=10 | http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Publicacao.aspx?id=213183
+  [376/sem limite] fila=1 | depth=10 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=16
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=16
+  [377/sem limite] fila=0 | depth=10 | http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtu
+ ❌ HTTP_403: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=17
+  🤖 Usando Selenium para: http://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=17
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/inventario_links.xlsx
+  8 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/erros_varredura.xlsx
+  389 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoao/inventario_externos.xlsx
+  265 links externos registrados.
+
+  Varredura encerrada: SAOJOAO
+  Páginas nesta sessão: 377
+  Páginas totais (acumulado): 377
+  Arquivos no inventário: 8
+  Erros registrados: 389
+
+
+ Pipeline encerrado. Resultados em: resultados/saojoao/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas São João)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 São João (slug: saojoao)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://saojoao.pr.gov.br/
+              ✅ https://saojoaopr.equiplano.com.br:7048/transparencia/consultasMaisAcessadas/
+           *  ✗ https://www.portaltransparenciasaojoao.com.br/
+              ✅ https://www.saojoaodocaiua.pr.gov.br/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOAO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 8 arquivos já registrados.
+  Links externos parciais carregados: 265 links já registrados.
+  Log de erros parcial carregado: 389 erros já registrados.
+  Reprocessar erros: 377 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 12 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: SAOJOAO
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 377
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=376 | depth=0 | https://www.saojoao.pr.gov.br/
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/
+  [2/sem limite] fila=375 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  [3/sem limite] fila=374 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  [4/sem limite] fila=373 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx
+  [5/sem limite] fila=372 | depth=1 | https://www.saojoao.pr.gov.br/Contato.aspx
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Contato.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Contato.aspx
+  [6/sem limite] fila=371 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  [7/sem limite] fila=370 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  [8/sem limite] fila=369 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  [9/sem limite] fila=368 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  [10/sem limite] fila=367 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  [11/sem limite] fila=366 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  [12/sem limite] fila=365 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  [13/sem limite] fila=364 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  [14/sem limite] fila=363 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  [15/sem limite] fila=362 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  [16/sem limite] fila=361 | depth=1 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  [17/sem limite] fila=365 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  [18/sem limite] fila=364 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+ ❌ SELENIUM_ERRO: UnexpectedAlertPresentException: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=20612
+  [19/sem limite] fila=363 | depth=1 | https://www.saojoao.pr.gov.br/20612
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/20612
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/20612
+  [20/sem limite] fila=362 | depth=1 | https://www.saojoao.pr.gov.br/legislacao-municipal
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/legislacao-municipal
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/legislacao-municipal
+ ❌ HTTP_500: https://www.saojoao.pr.gov.br/legislacao-municipal
+  [21/sem limite] fila=361 | depth=1 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213274
+  [22/sem limite] fila=360 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=368763
+  [23/sem limite] fila=359 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216019
+  [24/sem limite] fila=358 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=216017
+  [25/sem limite] fila=357 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  [26/sem limite] fila=356 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=435373
+  [27/sem limite] fila=355 | depth=1 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=415219
+  [28/sem limite] fila=354 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [29/sem limite] fila=353 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [30/sem limite] fila=352 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [31/sem limite] fila=351 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [32/sem limite] fila=350 | depth=1 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPub
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [33/sem limite] fila=349 | depth=1 | https://www.saojoao.pr.gov.br/Publicacoes.aspx
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx
+  [34/sem limite] fila=353 | depth=1 | https://webmail.saojoao.pr.gov.br
+ ❌ TIMEOUT_OU_CONEXAO: https://webmail.saojoao.pr.gov.br
+  🤖 Usando Selenium para: https://webmail.saojoao.pr.gov.br
+ ❌ SELENIUM_ERRO: WebDriverException: https://webmail.saojoao.pr.gov.br
+  [35/sem limite] fila=352 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  [36/sem limite] fila=351 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  [37/sem limite] fila=350 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  [38/sem limite] fila=349 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  [39/sem limite] fila=348 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  [40/sem limite] fila=347 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  [41/sem limite] fila=346 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  [42/sem limite] fila=345 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20103
+  [43/sem limite] fila=344 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=234849
+  [44/sem limite] fila=343 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=235079
+  [45/sem limite] fila=342 | depth=2 | https://saojoao.pr.gov.br/Index.aspx
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Index.aspx
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Index.aspx
+  [46/sem limite] fila=352 | depth=2 | https://saojoao.pr.gov.br/Contato.aspx
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Contato.aspx
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Contato.aspx
+  [47/sem limite] fila=351 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328902
+  [48/sem limite] fila=350 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=236582
+  [49/sem limite] fila=349 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=207315
+  [50/sem limite] fila=348 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=207316
+  [51/sem limite] fila=347 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=328901
+  [52/sem limite] fila=346 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=206171
+  [53/sem limite] fila=345 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213270
+  [54/sem limite] fila=344 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213175
+  [55/sem limite] fila=343 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213176
+  [56/sem limite] fila=342 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=220739
+  [57/sem limite] fila=341 | depth=2 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19608
+  [58/sem limite] fila=340 | depth=2 | https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=401422
+  [59/sem limite] fila=339 | depth=2 | https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacoes.aspx?tema=19607
+  [60/sem limite] fila=338 | depth=2 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=20101
+  [61/sem limite] fila=337 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=318901
+  [62/sem limite] fila=336 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=354766
+  [63/sem limite] fila=335 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=350528
+  [64/sem limite] fila=334 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [65/sem limite] fila=333 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [66/sem limite] fila=332 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [67/sem limite] fila=331 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [68/sem limite] fila=330 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=4
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOAO
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 8 arquivos já registrados.
+  Links externos parciais carregados: 265 links já registrados.
+  Log de erros parcial carregado: 389 erros já registrados.
+
+============================================================
+  Crawler iniciado: SAOJOAO
+  Páginas já visitadas (checkpoint): 68
+  URLs na fila: 330
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+68)/sem limite] fila=329 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=25
+  [2 (+68)/sem limite] fila=328 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=366303
+  [3 (+68)/sem limite] fila=327 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=299405
+  [4 (+68)/sem limite] fila=326 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=325481
+  [5 (+68)/sem limite] fila=325 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=5
+  [6 (+68)/sem limite] fila=324 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206174
+  [7 (+68)/sem limite] fila=323 | depth=2 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=206175
+  [8 (+68)/sem limite] fila=322 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=22
+  [9 (+68)/sem limite] fila=321 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=23
+  [10 (+68)/sem limite] fila=320 | depth=2 | https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAt
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Index.aspx?alternativo=F&alternativo=F&paginacaoAtualListagemPublicacoes=24
+  [11 (+68)/sem limite] fila=320 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=213182
+  [12 (+68)/sem limite] fila=319 | depth=3 | https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacao.aspx?id=328837
+  [13 (+68)/sem limite] fila=318 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=0
+  [14 (+68)/sem limite] fila=317 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=1
+  [15 (+68)/sem limite] fila=316 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=2
+  [16 (+68)/sem limite] fila=315 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=3
+  [17 (+68)/sem limite] fila=315 | depth=3 | https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginaca
+ ❌ HTTP_403: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  🤖 Usando Selenium para: https://www.saojoao.pr.gov.br/Publicacoes.aspx?tema=19607&alternativo=F&paginacaoAtualListagemPublicacoes=13
+  [18 (+68)/sem limite] fila=314 | depth=3 | https://saojoao.pr.gov.br/galeria-de-fotos-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/galeria-de-fotos-2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/galeria-de-fotos-2
+  [19 (+68)/sem limite] fila=313 | depth=3 | https://saojoao.pr.gov.br/videos
+ ❌ HTTP_500: https://saojoao.pr.gov.br/videos
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/videos
+ ❌ HTTP_500: https://saojoao.pr.gov.br/videos
+  [20 (+68)/sem limite] fila=312 | depth=3 | https://saojoao.pr.gov.br/prefeito-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/prefeito-2
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/prefeito-2
+ ❌ HTTP_500: https://saojoao.pr.gov.br/prefeito-2
+  [21 (+68)/sem limite] fila=311 | depth=3 | https://saojoao.pr.gov.br/vice-prefeito
+ ❌ HTTP_500: https://saojoao.pr.gov.br/vice-prefeito
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/vice-prefeito
+ ❌ HTTP_500: https://saojoao.pr.gov.br/vice-prefeito
+  [22 (+68)/sem limite] fila=310 | depth=3 | https://saojoao.pr.gov.br/secretarias
+ ❌ HTTP_500: https://saojoao.pr.gov.br/secretarias
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/secretarias
+  [23 (+68)/sem limite] fila=309 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213201
+  [24 (+68)/sem limite] fila=308 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213202
+  [25 (+68)/sem limite] fila=307 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213203
+  [26 (+68)/sem limite] fila=306 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213204
+  [27 (+68)/sem limite] fila=305 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=213206
+  [28 (+68)/sem limite] fila=304 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=365423
+  [29 (+68)/sem limite] fila=303 | depth=3 | https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
+ ❌ HTTP_403: https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
+  🤖 Usando Selenium para: https://saojoao.pr.gov.br/Publicacao.aspx?id=492006
