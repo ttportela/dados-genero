@@ -35338,3 +35338,604 @@ Inventário parcial carregado: 6494 arquivos já registrados.
   [17 (+20200)/sem limite] fila=2242 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14878-pessoas-
   [18 (+20200)/sem limite] fila=2241 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
   🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4ba60268c4043f19a94353a1d0c1edddde5e24ca
+  [19 (+20200)/sem limite] fila=2240 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14877-covid-19
+  [20 (+20200)/sem limite] fila=2239 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8c858e43a2ace685fb15c26b824bf8e891ac8568
+  [21 (+20200)/sem limite] fila=2238 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [22 (+20200)/sem limite] fila=2237 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a631c427863584f01127a283950ee6b81133a586
+  [23 (+20200)/sem limite] fila=2236 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14867-sms-vaci
+  [24 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8ab520bcaa3c1db14726d4748e2b39b680180443
+  [25 (+20200)/sem limite] fila=2234 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14863-membros-
+  [26 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [27 (+20200)/sem limite] fila=2234 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=09bde1b0a467d649328e033c2b1bb753d0713c2a
+  [28 (+20200)/sem limite] fila=2233 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14859-covid-19
+  [29 (+20200)/sem limite] fila=2232 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3d26baa703177727c0fdf30855fcdbcc590549cc
+  [30 (+20200)/sem limite] fila=2231 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14857-covid-19
+  [31 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d3441bffb3e0088c740e9e17a4009fb3aa308afe
+  [32 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14855-agosto-d
+  [33 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14849-covid-19
+  [34 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1f1ccd67a1a2af89a572c8c27480fe67291463c7
+  [35 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14851-secretar
+  [36 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [37 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=313e4f8a48f6ab11aba217a3bd0be82fe548217b
+  [38 (+20200)/sem limite] fila=2227 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [39 (+20200)/sem limite] fila=2226 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=732b59595d12485d0e75ae64087e15975e8469b3
+  [40 (+20200)/sem limite] fila=2225 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14838-saude-ul
+  [41 (+20200)/sem limite] fila=2224 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=aaef297c089885c8e7124b149f9f1e343890bfe3
+  [42 (+20200)/sem limite] fila=2223 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14836-covid-19
+  [43 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0ceb736edb3f8b09eea8c939cbf81d68bb5c64d3
+  [44 (+20200)/sem limite] fila=2221 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [45 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0ac31118c5e6e794321208ad357bbd0de7a3aa3c
+  [46 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14827-covid-19
+  [47 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e3e8021efecd110b460e5ac941f637617cf119e1
+  [48 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [49 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [50 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14552-saude-ab
+  📄 [200] .docx -> https://telemacoborba.pr.gov.br/images/pdfs/PRE-CADASTRO-Trabalhadores
+  [51 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14532-covid-19
+  [52 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [53 (+20200)/sem limite] fila=2223 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14525-vacinaca
+  [54 (+20200)/sem limite] fila=2225 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [55 (+20200)/sem limite] fila=2226 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14515-covid-19
+  [56 (+20200)/sem limite] fila=2227 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [57 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14486-covid-19
+  [58 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [59 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14463-covid-19
+  [60 (+20200)/sem limite] fila=2231 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [61 (+20200)/sem limite] fila=2232 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14416-sms-real
+  [62 (+20200)/sem limite] fila=2233 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14415-covid-19
+  [63 (+20200)/sem limite] fila=2234 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14414-saude-re
+  [64 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14413-telemaco
+  [65 (+20200)/sem limite] fila=2236 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [66 (+20200)/sem limite] fila=2237 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14410-vacinaca
+  [67 (+20200)/sem limite] fila=2238 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14409-apos-med
+  [68 (+20200)/sem limite] fila=2239 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/15129-saude-re
+  [69 (+20200)/sem limite] fila=2238 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=94c8d5128a2570674fbbaf62d397c6760cb9be84
+  [70 (+20200)/sem limite] fila=2237 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/15099-academia
+  [71 (+20200)/sem limite] fila=2236 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d014d9fa5d2a0997e4609946fd293d0d810d07c0
+  [72 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14826-pessoas-
+  [73 (+20200)/sem limite] fila=2234 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c75f4adb07dc9144c9de6fd912883a021bc8c290
+  [74 (+20200)/sem limite] fila=2233 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [75 (+20200)/sem limite] fila=2232 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e3f4dd8901e7a93fd48b171e6c1b9bc3bbc0aaaa
+  [76 (+20200)/sem limite] fila=2231 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14819-sms-reto
+  [77 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9c3a93b87c5107aed72e3e19fd6c2650d967deee
+  [78 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [79 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4699411dc196d456b42b4211deba9a07b96a4e5a
+  [80 (+20200)/sem limite] fila=2227 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [81 (+20200)/sem limite] fila=2226 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a7086c63c36de64acfd43424ca207d4019041695
+  [82 (+20200)/sem limite] fila=2225 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14811-cuidado-
+  [83 (+20200)/sem limite] fila=2224 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5741f1321fdab2eae39e12a498254b11142b7fd2
+  [84 (+20200)/sem limite] fila=2223 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14810-segunda-
+  [85 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c5fb031ac91a4c52d4a7a5f2c9454c1d5ca8e20c
+  [86 (+20200)/sem limite] fila=2221 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [87 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1bfb260083e0c3a696e14bd1c3eaea1fda04c3be
+  [88 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14807-covid-19
+  [89 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2c17fed22c0ead88252d9c304071cd2f98453b88
+  [90 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14795-ubss-vao
+  [91 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [92 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=29e8681d7b75deb5acb8a5bb435a6cff5b141f8a
+  [93 (+20200)/sem limite] fila=2216 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [94 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5f772f9b9eec9b859808dd55d07f952ade45739f
+  [95 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14785-covid-19
+  [96 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0aa305c6f5b644b9acd7b4b236b70cd32ad296dd
+  [97 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14784-covid-19
+  [98 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fc56b4386035630edac42a91aae88ec7cecfbe6d
+  [99 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14780-saude-re
+  [100 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [101 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ef8825f88fcaa8150dbe6854d28d8e292e6a7886
+  [102 (+20200)/sem limite] fila=2209 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14777-sms-real
+  [103 (+20200)/sem limite] fila=2208 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f65ba11a7d1fc38d66ee098e386ca7531d310d1a
+  [104 (+20200)/sem limite] fila=2207 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14770-covid-19
+  [105 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f3258aa815c519ec7c56156c01f92f49f708d561
+  [106 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [107 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e2c280990a360b63c7f302c04049c85442c4fbbd
+  [108 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14767-saude-re
+  [109 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b0b05d7e6db44116964c9c310a1dfb1fc84cca65
+  [110 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14765-covid-19
+  [111 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b72834c8f02904e505f37e853f221268da934361
+  [112 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [113 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2d209076e1ece37c2cc3b00eaa529a5521989d18
+  [114 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14406-covid-19
+  [115 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [116 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [117 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14371-sms-real
+  [118 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [119 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14354-covid-19
+  [120 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14349-prefeitu
+  [121 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [122 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14346-saude-va
+  [123 (+20200)/sem limite] fila=2207 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14347-trabalha
+  [124 (+20200)/sem limite] fila=2208 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14345-sms-real
+  [125 (+20200)/sem limite] fila=2209 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [126 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14330-saude-va
+  [127 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14302-covid-19
+  [128 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [129 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14288-covid-19
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/CADASTRO-ENSINO-SUPERIOR-P
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/pdfs/Registro-individual----ens
+  [130 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [131 (+20200)/sem limite] fila=2216 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14233-covid-19
+  [132 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [133 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14224-trabalha
+  [134 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/8964-dia-inter
+  [135 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6ca5525f79ca7ab6d1ab64b71d3ec904f59bae88
+  [136 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/8957-hemepar-f
+  [137 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9152-telemaco-
+  [138 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6eb8ffa1cf4f9ab27625cd7a4f77674d5a966830
+  [139 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9165-dengue-sm
+  [140 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [141 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=12fb667dda91d4fb7679ea0fede303e92bf3e581
+  [142 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [143 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d0b90eb4bf997335192df4a8d4220f83426f2f6d
+  [144 (+20200)/sem limite] fila=2216 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [145 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d10536e697762999c00e21fecd2110613ee1cb4e
+  [146 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12714-telemaco
+  [147 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=13f4e4105532a874c195b47c36113fc5523e9393
+  [148 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12731-saude-pr
+  [149 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12646-janeiro-
+  [150 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [151 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3ef23360ec23122c0e802079a84a1667da20dd68
+  [152 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [153 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7e814bd9f73af0851d52c0585e91345f948f6b8c
+  [154 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [155 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1009c7c5e5f50a97cccd8093770f00422fdc4199
+  [156 (+20200)/sem limite] fila=2209 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [157 (+20200)/sem limite] fila=2208 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3d84c61aa085fc264c5036901bebb87ce56c648d
+  [158 (+20200)/sem limite] fila=2207 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [159 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2ea0674202b272d1338a7dfe5fbb11df7488a978
+  [160 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12584-saude-re
+  [161 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b498a23289366a3ecdbabebb5a247c5d0923f0be
+  [162 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12538-hemepar-
+  [163 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [164 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cb1479e7d6ea9e9324b60fd733d9a66fbd4062d1
+  [165 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [166 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e87883fe3b47da2b6227ccfff5d96f2d9be88de5
+  [167 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [168 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=665d0ec70296c473c14a89c80bbded7af518c414
+  [169 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [170 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a6434f428d38b9cad5fefae50043f82f083133b7
+  [171 (+20200)/sem limite] fila=2196 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12475-telemaco
+  [172 (+20200)/sem limite] fila=2195 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8ac7d7a93956d6c7b119454b2e4a9892d8279902
+  [173 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12470-reuniao-
+  [174 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=995a5debdeacb4bcc7642252bef71952a3f9f230
+  [175 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12464-telemaco
+  [176 (+20200)/sem limite] fila=2191 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8af105bdaea1aa1cb15e500b3f910505d9a11043
+  [177 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12448-telemaco
+  [178 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b8ad56d8e457c4a9210472a91b2e55812694f7cd
+  [179 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [180 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3f51e0bf3bee4c40b90d640a64c8e7b32f241ac0
+  [181 (+20200)/sem limite] fila=2186 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12419-profissi
+  [182 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cdbbb965668c278259365ee911c5f945dbb6d690
+  [183 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13548-dr-marci
+  [184 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [185 (+20200)/sem limite] fila=2186 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13540-trabalha
+  [186 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13538-acesso-d
+  [187 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [188 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13531-saude-fa
+  [189 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [190 (+20200)/sem limite] fila=2191 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13524-vacinaca
+  [191 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [192 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [193 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13516-decreto-
+  [194 (+20200)/sem limite] fila=2196 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [195 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [196 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [197 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13472-pessoas-
+  [198 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13460-idosos-a
+  [199 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [200 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6497 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1468 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  218 links externos registrados.
+  Checkpoint salvo (20400 páginas totais | 200 nesta sessão).
+  [201 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [202 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [203 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12415-secretar
+  [204 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b7dab8af9556a3ca8469b5511e8a92ce53ac2390
+  [205 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12308-vigilanc
+  [206 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bb6e6c8095d775b62612a53f170d045a63114e20
+  [207 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12253-alerta-p
+  [208 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13351-vacinaca
+  [209 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f078bf5a0e8fdce9a4cbe9ac9f03ce07b7ae0297
+  [210 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [211 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=18d879c9f05d487de9b8c38889abc482f93b410a
+  [212 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13344-pessoas-
+  [213 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ff505a465c33ead112867848708fa50e16518fec
+  [214 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13341-saude-al
+  [215 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6caba2a96dbb31d724bfc3361fbe1d372c165d52
+  [216 (+20200)/sem limite] fila=2196 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [217 (+20200)/sem limite] fila=2195 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d3b55b189246be70968e276d58ed444a6751dbce
+  [218 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13303-trabalha
+  [219 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b0ccde8d6deeba4b994316495ac5f5a664b3ea6e
+  [220 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [221 (+20200)/sem limite] fila=2191 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ce842026359f5a9eff54ae7c6a4fd3b783c66422
+  [222 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13298-vacinaca
+  [223 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c89b1904d9325d63dff971bf7c6be4e395c998b2
+  [224 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [225 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=506fb788623ed2aad411d2204d45844c0049d26f
+  [226 (+20200)/sem limite] fila=2186 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13275-mutirao-
+  [227 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=922acc4b38c559c1ea5480d8496812560726d318
+  [228 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13274-idosos-c
+  [229 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b9470a0d82dd6a1936d0b63f609f62a7a06416fd
+  [230 (+20200)/sem limite] fila=2182 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13272-prefeito
+  [231 (+20200)/sem limite] fila=2181 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=027d1a77ec162f72a5722f175c5d8fda2968e6ac
+  [232 (+20200)/sem limite] fila=2180 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [233 (+20200)/sem limite] fila=2179 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=03bdc3323acaf6bf56126741d4bb0f2abe95f475
+  [234 (+20200)/sem limite] fila=2178 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13267-trabalha
+  [235 (+20200)/sem limite] fila=2177 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c7541f8a283cf2c6c49117b36b4a6045957b6b5c
+  [236 (+20200)/sem limite] fila=2176 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13265-sistema-
+  [237 (+20200)/sem limite] fila=2175 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=930c2a063e0c4dddcc90ba30205da62aa0b6c5a4
+  [238 (+20200)/sem limite] fila=2174 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13262-segunda-
+  [239 (+20200)/sem limite] fila=2173 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3656af1eeb214169a2454860e7cc89a09935d363
+  [240 (+20200)/sem limite] fila=2172 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [241 (+20200)/sem limite] fila=2171 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d90507d28545e24a2415794d62cd24891dfa3fff
+  [242 (+20200)/sem limite] fila=2170 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [243 (+20200)/sem limite] fila=2169 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c34ac31fb892af15b6bd13e5bd4c9ea2e46175da
+  [244 (+20200)/sem limite] fila=2168 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [245 (+20200)/sem limite] fila=2167 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ad9fbd056fadc6ba89b1a51d915370299b16f274
+  [246 (+20200)/sem limite] fila=2166 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13187-mutirao-
+  [247 (+20200)/sem limite] fila=2165 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=16540a74777d27da276db48a64573ee1898a0a30
+  [248 (+20200)/sem limite] fila=2164 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14223-covid-19
+  [249 (+20200)/sem limite] fila=2165 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14222-covid-19
+  [250 (+20200)/sem limite] fila=2166 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [251 (+20200)/sem limite] fila=2167 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14220-covid-19
+  [252 (+20200)/sem limite] fila=2168 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [253 (+20200)/sem limite] fila=2169 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14209-servidor
+  [254 (+20200)/sem limite] fila=2170 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [255 (+20200)/sem limite] fila=2171 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14182-telemaco
+  [256 (+20200)/sem limite] fila=2172 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14141-covid-19
+  [257 (+20200)/sem limite] fila=2173 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [258 (+20200)/sem limite] fila=2174 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14120-covid-19
+  [259 (+20200)/sem limite] fila=2175 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14104-covid-19
+  [260 (+20200)/sem limite] fila=2176 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [261 (+20200)/sem limite] fila=2177 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14098-pessoas-
+  [262 (+20200)/sem limite] fila=2178 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14091-trabalha
+  [263 (+20200)/sem limite] fila=2180 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14080-profissi
+  [264 (+20200)/sem limite] fila=2181 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [265 (+20200)/sem limite] fila=2182 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14061-trabalha
+  [266 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [267 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14018-prefeitu
+  [268 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14015-forcas-d
+  [269 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [270 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14011-pessoas-
+  [271 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14010-pessoas-
+  [272 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14009-pessoas-
+  [273 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [274 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [275 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13992-inscrico
+  [276 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [277 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [278 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13947-covid-19
+  [279 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13934-pessoas-
+  [280 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [281 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13912-covid-19
+  [282 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13905-profissi
+  [283 (+20200)/sem limite] fila=2208 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13903-pessoas-
+  [284 (+20200)/sem limite] fila=2209 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13902-saude-di
+  [285 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [286 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13896-fiscaliz
+  [287 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13882-pessoas-
+  [288 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [289 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13876-emergenc
+  [290 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13874-atendime
+  [291 (+20200)/sem limite] fila=2216 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13872-covid-19
+  [292 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13858-emergenc
+  [293 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13851-pessoas-
+  [294 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [295 (+20200)/sem limite] fila=2221 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [296 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13829-covid-19
+  [297 (+20200)/sem limite] fila=2223 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13826-prefeitu
+  [298 (+20200)/sem limite] fila=2224 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13810-telemaco
+  [299 (+20200)/sem limite] fila=2225 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13806-segunda-
+  [300 (+20200)/sem limite] fila=2226 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13805-pessoas-
+  [301 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [302 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [303 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13781-covid-19
+  [304 (+20200)/sem limite] fila=2233 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13753-covid-19
+  [305 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [306 (+20200)/sem limite] fila=2236 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13748-pessoas-
+  [307 (+20200)/sem limite] fila=2237 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13740-covid-19
+  [308 (+20200)/sem limite] fila=2238 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [309 (+20200)/sem limite] fila=2239 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13738-declarac
+  [310 (+20200)/sem limite] fila=2240 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13737-pessoas-
+  [311 (+20200)/sem limite] fila=2241 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13735-covid-19
+  [312 (+20200)/sem limite] fila=2242 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13723-saude-va
+  [313 (+20200)/sem limite] fila=2244 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [314 (+20200)/sem limite] fila=2245 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13662-saude-al
+  [315 (+20200)/sem limite] fila=2246 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [316 (+20200)/sem limite] fila=2247 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13660-covid-19
+  [317 (+20200)/sem limite] fila=2249 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [318 (+20200)/sem limite] fila=2250 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [319 (+20200)/sem limite] fila=2251 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13596-vacinaca
+  [320 (+20200)/sem limite] fila=2253 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [321 (+20200)/sem limite] fila=2254 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [322 (+20200)/sem limite] fila=2255 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [323 (+20200)/sem limite] fila=2256 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13575-idosos-c
+  [324 (+20200)/sem limite] fila=2257 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [325 (+20200)/sem limite] fila=2258 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [326 (+20200)/sem limite] fila=2259 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13563-saude-re
+  [327 (+20200)/sem limite] fila=2260 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [328 (+20200)/sem limite] fila=2261 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [329 (+20200)/sem limite] fila=2260 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9b7c432b571e2204be69acbc57ec7b4decaf55a4
+  [330 (+20200)/sem limite] fila=2259 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13183-vacinaca
+  [331 (+20200)/sem limite] fila=2258 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=61473addc3f7287d6a2ea062fa43075bd528df26
+  [332 (+20200)/sem limite] fila=2257 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13181-trabalha
+  [333 (+20200)/sem limite] fila=2256 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4a4a7e41b1538b16dd95279550cf6fa8e0e25aac
+  [334 (+20200)/sem limite] fila=2255 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [335 (+20200)/sem limite] fila=2254 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=448a647986b69f68ba121a4fedad15191770d922
+  [336 (+20200)/sem limite] fila=2253 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13173-psicolog
+  [337 (+20200)/sem limite] fila=2252 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1efaeccbf0384ff2d83bf6e3eb621b24c274f77e
+  [338 (+20200)/sem limite] fila=2251 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [339 (+20200)/sem limite] fila=2250 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3cdcbe4033fc5fdaf99219aa1f771fcf0ef9b1c2
+  [340 (+20200)/sem limite] fila=2249 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13169-vacina-p
+  [341 (+20200)/sem limite] fila=2248 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9684bb74278432d9eacb365bb47ab4e624c061ca
+  [342 (+20200)/sem limite] fila=2247 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13168-vacinaca
+  [343 (+20200)/sem limite] fila=2246 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=682092a1243fa7d39f611bdd8b5436078fde840a
+  [344 (+20200)/sem limite] fila=2245 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [345 (+20200)/sem limite] fila=2244 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=390329fae0dc8325a38526847636edd445e3cee6
+  [346 (+20200)/sem limite] fila=2243 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13163-por-decr
+  [347 (+20200)/sem limite] fila=2242 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fdf644b2723b0b9660bd0df0de85097676ff0183
+  [348 (+20200)/sem limite] fila=2241 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13161-vacina-p
+  [349 (+20200)/sem limite] fila=2240 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7e00f114804079dda0769029db295bf842489d19
+  [350 (+20200)/sem limite] fila=2239 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13158-saude-ab
+  [351 (+20200)/sem limite] fila=2238 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ef37db57751ec7900c4eab633db9af7fa481f4f2
+  [352 (+20200)/sem limite] fila=2237 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13156-secretar
+  [353 (+20200)/sem limite] fila=2236 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7e29fa14d3b49ba123da3646e130bac625d3a760
+  [354 (+20200)/sem limite] fila=2235 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [355 (+20200)/sem limite] fila=2234 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=92e50eb4750fed97ca3cb65386e7c6548dcfc81e
+  [356 (+20200)/sem limite] fila=2233 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13152-reuniao-
+  [357 (+20200)/sem limite] fila=2232 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=885236ddba3d2ce7178cb01aeb05745f77597120
+  [358 (+20200)/sem limite] fila=2231 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [359 (+20200)/sem limite] fila=2230 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4dac865a8525e7f42b9deacbdc4cf437ac407c4f
+  [360 (+20200)/sem limite] fila=2229 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13143-profissi
+  [361 (+20200)/sem limite] fila=2228 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5501cd31dc7c2d925d63c0c800a8ac7b7f48d43d
+  [362 (+20200)/sem limite] fila=2227 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [363 (+20200)/sem limite] fila=2226 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=56e3114207f1634dbbaba3bec23a70778493d949
+  [364 (+20200)/sem limite] fila=2225 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13138-projeto-
+  [365 (+20200)/sem limite] fila=2224 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f1d11237af14a9c499b595b94f0025c5a197282b
+  [366 (+20200)/sem limite] fila=2223 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13136-vacina-p
+  [367 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5e6061648074d05f0086bd68b1edb701002550a2
+  [368 (+20200)/sem limite] fila=2221 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13127-mutirao-
+  [369 (+20200)/sem limite] fila=2222 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [370 (+20200)/sem limite] fila=2221 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=da067150ce4a79180b737d41937ff935b6504474
+  [371 (+20200)/sem limite] fila=2220 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13126-vacinaca
+  [372 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dd0ed4992f87c6e7191cc84a144bb48eb7197b26
+  [373 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13108-prefeito
+  [374 (+20200)/sem limite] fila=2219 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [375 (+20200)/sem limite] fila=2218 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=677238db518511595d7b34a673bb5c264bea5973
+  [376 (+20200)/sem limite] fila=2217 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [377 (+20200)/sem limite] fila=2216 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=20553a38ee06b9400865fcfc5b67ca5fd5a1fba3
+  [378 (+20200)/sem limite] fila=2215 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [379 (+20200)/sem limite] fila=2214 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e6db194114acc09e03b7363cfa453511a24556d6
+  [380 (+20200)/sem limite] fila=2213 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13103-sms-fara
+  [381 (+20200)/sem limite] fila=2212 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8ff60aa7326cb6e5756e5bcc843695d768dcc5dc
+  [382 (+20200)/sem limite] fila=2211 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [383 (+20200)/sem limite] fila=2210 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=97552917caec46af7c0656e939efe912b156ab29
+  [384 (+20200)/sem limite] fila=2209 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13099-neste-do
+  [385 (+20200)/sem limite] fila=2208 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0df428046b9b0ef0bc112c6f0722745e34e973bd
+  [386 (+20200)/sem limite] fila=2207 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [387 (+20200)/sem limite] fila=2206 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=82c0322fb4565df9986f3a07b180d868971f3b6e
+  [388 (+20200)/sem limite] fila=2205 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13091-sms-esta
+  [389 (+20200)/sem limite] fila=2204 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cdba46e6cd8a8f9133a30ff62368c3678774baa2
+  [390 (+20200)/sem limite] fila=2203 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13089-drive-th
+  [391 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=860a1fb944e56c3ccf38299e46e468629544ec4b
+  [392 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13088-cuidador
+  [393 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7aed8c941c58f25258319344ee6fd41626a0835c
+  [394 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [395 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=82eb6ef16831b88997152198df33ac61c8bd5490
+  [396 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [397 (+20200)/sem limite] fila=2196 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9fca3a7c52ab8d54d33a8aa90f57bc74169cbe8d
+  [398 (+20200)/sem limite] fila=2195 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13064-telemaco
+  [399 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d6904b0091a3fa412f8fbd976d0a97ada5a7fcd8
+  [400 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13062-saude-re
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6497 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1468 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  218 links externos registrados.
+  Checkpoint salvo (20600 páginas totais | 400 nesta sessão).
+  [401 (+20200)/sem limite] fila=2195 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [402 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4eda7dd21e77575122a15fe8a156b161cdf9e27e
+  [403 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [404 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b65601b45ca85ecceac8b083890166902289501a
+  [405 (+20200)/sem limite] fila=2191 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [406 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ec16b12e3b9b8d703447f59adf6490b57a5cbc6e
+  [407 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [408 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8e59219e4c41b5b869b6fb394ab8e6fe062dfb5b
+  [409 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [410 (+20200)/sem limite] fila=2186 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=79d8429ac32c2aab20e8eacc18bf50b9084df6b2
+  [411 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13025-saude-di
+  [412 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f769d9d4103075be81e141c17e18325837266e5d
+  [413 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13043-idosos-c
+  [414 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [415 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=87cece75b5a991499b19017700e24330e81d0ea1
+  [416 (+20200)/sem limite] fila=2182 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13021-saude-co
+  [417 (+20200)/sem limite] fila=2181 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=79937b471dfd9db37248638c917116ad60611f86
+  [418 (+20200)/sem limite] fila=2180 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13019-prefeitu
+  [419 (+20200)/sem limite] fila=2182 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [420 (+20200)/sem limite] fila=2181 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ee79db7265dd23f1dcfa6175058f04cfdee705b5
+  [421 (+20200)/sem limite] fila=2180 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13007-saude-re
+  [422 (+20200)/sem limite] fila=2179 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=395acf42f0f897feb6652b0af593a2b17d373775
+  [423 (+20200)/sem limite] fila=2178 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13014-audienci
+  [424 (+20200)/sem limite] fila=2179 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [425 (+20200)/sem limite] fila=2178 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c826a7ac360b4d25ac2d596f42efcb4314bfc3a7
+  [426 (+20200)/sem limite] fila=2177 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/13001-saude-in
+  [427 (+20200)/sem limite] fila=2176 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d899825ac1fd1acf411c8ff5b983974263e41005
+  [428 (+20200)/sem limite] fila=2175 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [429 (+20200)/sem limite] fila=2174 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=49a033b3f9f63164ea2d4d915e206a255ed8a5ad
+  [430 (+20200)/sem limite] fila=2173 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12994-profissi
+  [431 (+20200)/sem limite] fila=2172 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b44aeac94c756ac3d91a4b21ebd7f026302e8ec1
+  [432 (+20200)/sem limite] fila=2171 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [433 (+20200)/sem limite] fila=2170 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1ddc6981b4e619e72e97b8db99e1f754210a78bd
+  [434 (+20200)/sem limite] fila=2169 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [435 (+20200)/sem limite] fila=2168 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=47a9dcd0bffbd804018db3880d24b92b6432b72d
+  [436 (+20200)/sem limite] fila=2167 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12952-telemaco
+  [437 (+20200)/sem limite] fila=2166 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d6d0241c3b2e69a08252ceef4483faee7b5edf0a
+  [438 (+20200)/sem limite] fila=2165 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12932-vacinaca
+  [439 (+20200)/sem limite] fila=2164 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c29b7bcd50c0bc42adc00334dd8fb945b961ed68
+  [440 (+20200)/sem limite] fila=2163 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [441 (+20200)/sem limite] fila=2162 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3cca712f5723f1adbf41098a0552caaa4e6792e1
+  [442 (+20200)/sem limite] fila=2161 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [443 (+20200)/sem limite] fila=2160 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f25d3af3acfe8fbaadd566b1bc0e285d58f989bf
+  [444 (+20200)/sem limite] fila=2159 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12876-sms-real
+  [445 (+20200)/sem limite] fila=2158 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6d4b629baeeeeaed1cfb86d8460595ea554cfc90
+  [446 (+20200)/sem limite] fila=2157 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12869-convocac
+  [447 (+20200)/sem limite] fila=2158 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [448 (+20200)/sem limite] fila=2157 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6a20df679e5f0defa8fdac780c1fb19e5455a6e9
+  [449 (+20200)/sem limite] fila=2156 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [450 (+20200)/sem limite] fila=2155 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0e55da4007b5f6bc21f2f6acc7d521965e60811f
+  [451 (+20200)/sem limite] fila=2154 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/71-boletim-covid-19/
+  [452 (+20200)/sem limite] fila=2153 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ceedd3d8fbbf1b30578ae7aac5d11170bcd83e7a
+  [453 (+20200)/sem limite] fila=2152 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12108-dr-marci
+  [454 (+20200)/sem limite] fila=2151 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4129feff4dc0994ba95c68a36d448562260990ba
+  [455 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/12110-braslumb
+  [456 (+20200)/sem limite] fila=2152 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11995-hemepar-
+  [457 (+20200)/sem limite] fila=2151 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=772b3f3b3cf4a6052c629ee4c4111fb2e6b6d248
+  [458 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11888-dr-ede-d
+  [459 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ec63d33bba48ded0a8e6723708077e4c049e6b1f
