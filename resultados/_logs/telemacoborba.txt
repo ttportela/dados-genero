@@ -35939,3 +35939,938 @@ Inventário parcial carregado: 6494 arquivos já registrados.
   [458 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11888-dr-ede-d
   [459 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
   🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ec63d33bba48ded0a8e6723708077e4c049e6b1f
+  [460 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11811-facultat
+  [461 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11670-hemepar-
+  [462 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=22439f95d26f472aad2fb6198ef0b70dfb185143
+  [463 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11752-administ
+  [464 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11628-campanha
+  [465 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1250277e7d420c0a702a46370573ee2f3d45a86c
+  [466 (+20200)/sem limite] fila=2147 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/11625-novembro
+  [467 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/10566-saude-al
+  [468 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=57e3970166a3589b12bf8a41f6609263465c1b25
+  [469 (+20200)/sem limite] fila=2147 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/10915-prefeitu
+  [470 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9708-hemepar-p
+  [471 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=968c3ce53d2e51a4f4f79998cfb08bcb0b0c77ca
+  [472 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9647-vacinacao
+  [473 (+20200)/sem limite] fila=2147 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=108260513f62ea49b942d85b6a43df9be473dbba
+  [474 (+20200)/sem limite] fila=2146 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9573-tabaco-se
+  [475 (+20200)/sem limite] fila=2145 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1aab5c22caf8fbba13e20f323e5a5e87c35e6685
+  [476 (+20200)/sem limite] fila=2144 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9565-saiba-qua
+  [477 (+20200)/sem limite] fila=2145 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9561-prefeitur
+  [478 (+20200)/sem limite] fila=2144 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=baf5526c64aa989f5f087858aaaa341ff1edf1fd
+  [479 (+20200)/sem limite] fila=2143 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9532-samu-sera
+  [480 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d62d18d2a8fc8ece2cfb3020f13c3abcf355938e
+  [481 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9534-junho-bra
+  [482 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9495-chuva-imp
+  [483 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bceb2aacd84125ccd06e58374118d878cccace1d
+  [484 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/9471-dengue-ap
+  [485 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [486 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3b78f7e02f10bd6f9741d9e894b99d2d481ed9b0
+  [487 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [488 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=cb31fa7c3713e70a5e26b831196e4809cbd252ea
+  [489 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [490 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c698818460f989e84d8472f029bb7e87d6f8b68a
+  [491 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [492 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0cf4faf228f902203786f4613cd57414aa5b8452
+  [493 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/117-informacoes/biblioteca-da-sau
+  [494 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/117-informacoes/biblioteca-da-sau
+  [495 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [496 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6ec492235277eb3b38e7c1018c3ad3442cd84a33
+  [497 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [498 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3f3f510dd4921144930dc920ac9f6ee5ed607f77
+  [499 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [500 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ecf84dd99946e47e601ae35e4e0aea0072afa1ac
+  [501 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [502 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5c03dc6f4f416f366973ec65cbe3f139d2714707
+  [503 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=220
+  [504 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [505 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=66814e9396be67a97f9b4fcba5a72ce6940865ba
+  [506 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [507 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9823459e56981362e252c52f892c9bafb24e2cfe
+  [508 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [509 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4d09df8c8fd164e69058e4c8087bd07a69568afd
+  [510 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [511 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a1b04ad43228cc77d8631a97bbcd5e398b07c8ae
+  [512 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [513 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a2d7a5b312e4dc786ad3dd1afd7753b4c3eb3fca
+  [514 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [515 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=052f8daab55eff2d74b48cf24e217ec2f79972f1
+  [516 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [517 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8693f4cd0ced9446928e3f54d50b4b12a5bd18f2
+  [518 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [519 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b3822bbd938d4d24ef85301c5f0b2e025a152f8a
+  [520 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [521 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fe6793ac7daca11892fd8e82dfff38d412d909f4
+  [522 (+20200)/sem limite] fila=2123 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [523 (+20200)/sem limite] fila=2122 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=95af3fe9bdbec65f7efd289adb126c98fb614664
+  [524 (+20200)/sem limite] fila=2121 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=230
+  [525 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [526 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7c34977fd84e482ec5a0ac6fe6b66fcccd651de8
+  [527 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [528 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=988a4065bd98f4450735728c984e9701cbd6bf2c
+  [529 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [530 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d8a205a144c68b0d6130adcb052d264ab0e81a9a
+  [531 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [532 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0026e1f5e05a59b51f9ef49c6a23f2351244e5c4
+  [533 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/12-informacoes/estagios/22354-ter
+  [534 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [535 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=941adcdcc789974f5f95faf796a3d98b0f97cd16
+  [536 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [537 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b1b8631b1623a969a1cc555e114779951e326c49
+  [538 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [539 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=107993fa89afce3c1beced441e73041b07d7f11f
+  [540 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [541 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=42d401b4167b8aaf600fc89407bd21670b3bac14
+  [542 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [543 (+20200)/sem limite] fila=2123 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f6892cc77c50fb8a15ebb85debc6c599880aa1f3
+  [544 (+20200)/sem limite] fila=2122 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=240
+  [545 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [546 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=08b5dbc986d4eb6a2931a323b6852eef6f2ae5c9
+  [547 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [548 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0068f10f1e1356e5fdb4b1f734f5dbbe6f5da3a5
+  [549 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [550 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=145e999dda0d566913a090aa8c38a4d446d41dc4
+  [551 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [552 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=06f9f4ec9f1a3a11734049da2ce304505e7002c1
+  [553 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [554 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3aa22b3de67fe6e8a084de6bba922942c96f3af5
+  [555 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [556 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e90792f83ec2a6e8633a63d771ca15e206aa431c
+  [557 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [558 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=03d9ecdc38ce59d0bd5cd3670cd4a6b3053af724
+  [559 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [560 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b37f1dcd13de7152e7779f180b85505fecf537cc
+  [561 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [562 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0fca40fa90b6c49dcc91933ad3b52eabb02589d0
+  [563 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/22
+  [564 (+20200)/sem limite] fila=2123 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f79cd9b767ae5608a3899da74438bf9adad44a90
+  [565 (+20200)/sem limite] fila=2122 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=250
+  [566 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [567 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9ca44dae537d268ccbae9cb80148258d0e5f3fd6
+  [568 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [569 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=98473d962bf31232fb879adec04144ae2378fe86
+  [570 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [571 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c0b8aa38010541f58d6c115c59ac1d94349edc94
+  [572 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [573 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dd3e0ca9ee27035e1e9d179775f6ea020e409b13
+  [574 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [575 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ea497cbdbbf958a648a7c3d9dc2a6f47ba48515d
+  [576 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [577 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dbbf24c61c6f4f07e7e8f81e0fd0e534b0dcfe52
+  [578 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [579 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2cfa9fb218de321ee49804f4c20c542bdb713930
+  [580 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [581 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5fa77003d781f76b687d059204bb6a1ea68b4427
+  [582 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [583 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=30d242722738fe2c4e3d32d13f8a6324c3e4f8a5
+  [584 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [585 (+20200)/sem limite] fila=2123 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=80e00fa53ec8ae1f56c74495d9ae5210ff182932
+  [586 (+20200)/sem limite] fila=2122 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=2780
+  [587 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [588 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9d475aaa56e0f4b26b0dafd78d3ca6e2e8b7ddd2
+  [589 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [590 (+20200)/sem limite] fila=2139 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a624c24fcba0124c40333676107421099902c18a
+  [591 (+20200)/sem limite] fila=2138 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [592 (+20200)/sem limite] fila=2137 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=84401ce8b5ca48f514db7837a79be14989c5b8cf
+  [593 (+20200)/sem limite] fila=2136 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [594 (+20200)/sem limite] fila=2135 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c7807d17138de9ed18cb90512ae2f9454f70acc7
+  [595 (+20200)/sem limite] fila=2134 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [596 (+20200)/sem limite] fila=2133 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d488ce7b09a814a533e5d460e7f9e4a2d19dc295
+  [597 (+20200)/sem limite] fila=2132 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [598 (+20200)/sem limite] fila=2131 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=56b6911be4fedb5b86d7de84b0798a435cc1e5db
+  [599 (+20200)/sem limite] fila=2130 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [600 (+20200)/sem limite] fila=2129 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2dfe4b25dfc102b0ede82ce7fe64f04b2dc856d5
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6497 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1468 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  219 links externos registrados.
+  Checkpoint salvo (20800 páginas totais | 600 nesta sessão).
+  [601 (+20200)/sem limite] fila=2128 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [602 (+20200)/sem limite] fila=2127 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=be07d0066f80fa97ecf108afbe92232a14c8f444
+  [603 (+20200)/sem limite] fila=2126 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [604 (+20200)/sem limite] fila=2125 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a47db0189a408e267dc790007600f7443e215a02
+  [605 (+20200)/sem limite] fila=2124 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [606 (+20200)/sem limite] fila=2123 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=af7cdd9a472ab447687a760dbc53b95a659ba4f1
+  [607 (+20200)/sem limite] fila=2122 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=2740
+  [608 (+20200)/sem limite] fila=2145 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=2750
+  [609 (+20200)/sem limite] fila=2164 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=2760
+  [610 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/10-informacoes?start=2770
+  [611 (+20200)/sem limite] fila=2202 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [612 (+20200)/sem limite] fila=2201 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3067b5e5339dc86d6dc03f637d055f50b0fd0586
+  [613 (+20200)/sem limite] fila=2200 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [614 (+20200)/sem limite] fila=2199 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=15d6ca1ebc618ee7d5062fd969978478d4fdc59e
+  [615 (+20200)/sem limite] fila=2198 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [616 (+20200)/sem limite] fila=2197 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2c5cdc0ddfed37a805e0481eb98468c309c6720e
+  [617 (+20200)/sem limite] fila=2196 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [618 (+20200)/sem limite] fila=2195 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=22ba8f15bb50de241b503a70d0ef86b9b4b482c4
+  [619 (+20200)/sem limite] fila=2194 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [620 (+20200)/sem limite] fila=2193 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=65c8cc0358a7f984eb2be2621b08970788d0eb32
+  [621 (+20200)/sem limite] fila=2192 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [622 (+20200)/sem limite] fila=2191 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=451d16fd276a0814c3b2800993037cb9c03c5358
+  [623 (+20200)/sem limite] fila=2190 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [624 (+20200)/sem limite] fila=2189 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d3197a9dba3102b121a6237f6c5884585517ee72
+  [625 (+20200)/sem limite] fila=2188 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [626 (+20200)/sem limite] fila=2187 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=32dee6e03d3c995a5080404e7a7eea3d6d56c260
+  [627 (+20200)/sem limite] fila=2186 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [628 (+20200)/sem limite] fila=2185 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=18c4a4b3a7525096140dd876ebb4e5c44b1541ea
+  [629 (+20200)/sem limite] fila=2184 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [630 (+20200)/sem limite] fila=2183 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f7fa75d67db39ddecba820b85843866d7aeb678c
+  [631 (+20200)/sem limite] fila=2182 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [632 (+20200)/sem limite] fila=2181 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9d0737697c66f4616422e74cbb209b78c72bbe16
+  [633 (+20200)/sem limite] fila=2180 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [634 (+20200)/sem limite] fila=2179 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fcef26e380c9b305449af5d2c90eda18b4fdc8d4
+  [635 (+20200)/sem limite] fila=2178 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [636 (+20200)/sem limite] fila=2177 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c9657be7543f4ba8ff20aec110d684d1db5f34bd
+  [637 (+20200)/sem limite] fila=2176 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [638 (+20200)/sem limite] fila=2175 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=2f7f5eba8c39e11d02ece3da4f535f528dbc253c
+  [639 (+20200)/sem limite] fila=2174 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [640 (+20200)/sem limite] fila=2173 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b7a8804ad2731646637b7f659f60b0561e510cfa
+  [641 (+20200)/sem limite] fila=2172 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [642 (+20200)/sem limite] fila=2171 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=51741e786cf0ed7fa7c20e7ae545390b399c071a
+  [643 (+20200)/sem limite] fila=2170 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [644 (+20200)/sem limite] fila=2169 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=db65a737388b2f8ceacba0f5831d3e54ef252b14
+  [645 (+20200)/sem limite] fila=2168 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [646 (+20200)/sem limite] fila=2167 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=acec1d855e745eb2ae68940719b2a2ac34d39200
+  [647 (+20200)/sem limite] fila=2166 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [648 (+20200)/sem limite] fila=2165 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=198c849643f44e01bd08481b51175a09c78df9fd
+  [649 (+20200)/sem limite] fila=2164 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [650 (+20200)/sem limite] fila=2163 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6463e5de377a6b1b8e421541fc76271cfe8621f5
+  [651 (+20200)/sem limite] fila=2162 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [652 (+20200)/sem limite] fila=2161 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=216a17f7d50abbff3843fc6a480f1c2d9fd0142d
+  [653 (+20200)/sem limite] fila=2160 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [654 (+20200)/sem limite] fila=2159 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4d4c39ad68d73e67ba5ea8d362464fbc5585506e
+  [655 (+20200)/sem limite] fila=2158 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/13
+  [656 (+20200)/sem limite] fila=2157 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4f3567143bb42f4c761b65f23c9cb274f79203d1
+  [657 (+20200)/sem limite] fila=2156 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [658 (+20200)/sem limite] fila=2155 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=023c60d7626e7517c683882513164a6966a82f4c
+  [659 (+20200)/sem limite] fila=2154 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [660 (+20200)/sem limite] fila=2153 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e5e0ab100794abe5819b1e2b22734352300d1cae
+  [661 (+20200)/sem limite] fila=2152 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [662 (+20200)/sem limite] fila=2151 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=11dcfc9d1695bd269f8759cc687d752cec131efa
+  [663 (+20200)/sem limite] fila=2150 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [664 (+20200)/sem limite] fila=2149 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ba4469025b53160532dbc2860ca4b645abd37216
+  [665 (+20200)/sem limite] fila=2148 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [666 (+20200)/sem limite] fila=2147 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=bc725128bf619610d3b0e2ba944d7694b33096cf
+  [667 (+20200)/sem limite] fila=2146 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [668 (+20200)/sem limite] fila=2145 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b5bd663356200e8815f888315b98c4c413821f36
+  [669 (+20200)/sem limite] fila=2144 | depth=8 | https://telemacoborba.pr.gov.br/index.php/temp/43-informacoes/boletim-oficial/14
+  [670 (+20200)/sem limite] fila=2143 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fc76e3fdd4a490d63dc9eb22a8b8d8d9e25fd0ab
+  [671 (+20200)/sem limite] fila=2142 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/18631-reuniao-
+  [672 (+20200)/sem limite] fila=2141 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=88616cdeb60dd51004337c1c8beb9b19dfa561da
+  [673 (+20200)/sem limite] fila=2140 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/18632-comissao
+  [674 (+20200)/sem limite] fila=2141 | depth=9 | https://telemacoborba.pr.gov.br/index.php/a-cidade/expo-telemaco/21576-telemaco-
+  [675 (+20200)/sem limite] fila=2140 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e12af215fadbf8274835aae3a81da93a366ac570
+  [676 (+20200)/sem limite] fila=2139 | depth=9 | https://telemacoborba.pr.gov.br/index.php/a-cidade/expo-telemaco/21575-abertura-
+  [677 (+20200)/sem limite] fila=2141 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9911-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [678 (+20200)/sem limite] fila=2140 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9804-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [679 (+20200)/sem limite] fila=2139 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9782-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [680 (+20200)/sem limite] fila=2138 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9753-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [681 (+20200)/sem limite] fila=2137 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9743-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [682 (+20200)/sem limite] fila=2136 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9736-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20157
+  [683 (+20200)/sem limite] fila=2135 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9729-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [684 (+20200)/sem limite] fila=2134 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9723-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [685 (+20200)/sem limite] fila=2133 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9713-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [686 (+20200)/sem limite] fila=2132 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9707-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [687 (+20200)/sem limite] fila=2131 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9704-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [688 (+20200)/sem limite] fila=2130 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9694-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [689 (+20200)/sem limite] fila=2129 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9683-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [690 (+20200)/sem limite] fila=2128 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9670-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [691 (+20200)/sem limite] fila=2127 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9663-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [692 (+20200)/sem limite] fila=2126 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9657-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20156
+  [693 (+20200)/sem limite] fila=2125 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9651-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [694 (+20200)/sem limite] fila=2124 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9645-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [695 (+20200)/sem limite] fila=2123 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9640-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [696 (+20200)/sem limite] fila=2122 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9628-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [697 (+20200)/sem limite] fila=2121 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9614-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1555.pdf
+  [698 (+20200)/sem limite] fila=2120 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9606-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [699 (+20200)/sem limite] fila=2119 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9592-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [700 (+20200)/sem limite] fila=2118 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9580-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [701 (+20200)/sem limite] fila=2117 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9571-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [702 (+20200)/sem limite] fila=2116 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9557-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20155
+  [703 (+20200)/sem limite] fila=2115 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9547-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [704 (+20200)/sem limite] fila=2114 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9526-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [705 (+20200)/sem limite] fila=2113 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9509-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [706 (+20200)/sem limite] fila=2112 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9494-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [707 (+20200)/sem limite] fila=2111 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9476-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [708 (+20200)/sem limite] fila=2110 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9466-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [709 (+20200)/sem limite] fila=2109 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9456-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [710 (+20200)/sem limite] fila=2108 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9452-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [711 (+20200)/sem limite] fila=2107 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9433-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [712 (+20200)/sem limite] fila=2106 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9428-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20154
+  [713 (+20200)/sem limite] fila=2105 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9420-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [714 (+20200)/sem limite] fila=2104 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9411-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [715 (+20200)/sem limite] fila=2103 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9399-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [716 (+20200)/sem limite] fila=2102 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9389-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [717 (+20200)/sem limite] fila=2101 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9383-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [718 (+20200)/sem limite] fila=2100 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9374-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [719 (+20200)/sem limite] fila=2099 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9346-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [720 (+20200)/sem limite] fila=2098 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9339-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [721 (+20200)/sem limite] fila=2097 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9330-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [722 (+20200)/sem limite] fila=2096 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9314-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20153
+  [723 (+20200)/sem limite] fila=2095 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9304-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [724 (+20200)/sem limite] fila=2094 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9300-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [725 (+20200)/sem limite] fila=2093 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9288-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [726 (+20200)/sem limite] fila=2092 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9279-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [727 (+20200)/sem limite] fila=2091 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9267-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [728 (+20200)/sem limite] fila=2090 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9247-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [729 (+20200)/sem limite] fila=2089 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9241-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [730 (+20200)/sem limite] fila=2088 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9234-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [731 (+20200)/sem limite] fila=2087 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9225-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [732 (+20200)/sem limite] fila=2086 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9219-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20152
+  [733 (+20200)/sem limite] fila=2085 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9205-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [734 (+20200)/sem limite] fila=2084 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9199-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [735 (+20200)/sem limite] fila=2083 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9192-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [736 (+20200)/sem limite] fila=2082 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9184-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [737 (+20200)/sem limite] fila=2081 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9175-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [738 (+20200)/sem limite] fila=2080 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9173-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [739 (+20200)/sem limite] fila=2079 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9162-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [740 (+20200)/sem limite] fila=2078 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9155-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [741 (+20200)/sem limite] fila=2077 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9149-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [742 (+20200)/sem limite] fila=2076 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9137-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [743 (+20200)/sem limite] fila=2075 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9129-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20151
+  [744 (+20200)/sem limite] fila=2074 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9123-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [745 (+20200)/sem limite] fila=2073 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9115-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [746 (+20200)/sem limite] fila=2072 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9097-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [747 (+20200)/sem limite] fila=2071 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9085-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [748 (+20200)/sem limite] fila=2070 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9080-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1505.pdf
+  [749 (+20200)/sem limite] fila=2069 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9067-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1504.pdf
+  [750 (+20200)/sem limite] fila=2068 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9053-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [751 (+20200)/sem limite] fila=2067 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9045-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [752 (+20200)/sem limite] fila=2066 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9030-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20150
+  [753 (+20200)/sem limite] fila=2065 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9023-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1500.pdf
+  [754 (+20200)/sem limite] fila=2064 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9014-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [755 (+20200)/sem limite] fila=2063 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9007-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [756 (+20200)/sem limite] fila=2062 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/9000-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [757 (+20200)/sem limite] fila=2061 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8981-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [758 (+20200)/sem limite] fila=2060 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8979-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [759 (+20200)/sem limite] fila=2059 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8968-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [760 (+20200)/sem limite] fila=2058 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8966-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [761 (+20200)/sem limite] fila=2057 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8958-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1492.pdf
+  [762 (+20200)/sem limite] fila=2056 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8937-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [763 (+20200)/sem limite] fila=2055 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8928-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20149
+  [764 (+20200)/sem limite] fila=2054 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8913-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [765 (+20200)/sem limite] fila=2053 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8904-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [766 (+20200)/sem limite] fila=2052 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8896-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [767 (+20200)/sem limite] fila=2051 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8891-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [768 (+20200)/sem limite] fila=2050 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8885-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [769 (+20200)/sem limite] fila=2049 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8879-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [770 (+20200)/sem limite] fila=2048 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8871-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [771 (+20200)/sem limite] fila=2047 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8854-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [772 (+20200)/sem limite] fila=2046 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8848-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [773 (+20200)/sem limite] fila=2045 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8841-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20148
+  [774 (+20200)/sem limite] fila=2044 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8834-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [775 (+20200)/sem limite] fila=2043 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8828-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [776 (+20200)/sem limite] fila=2042 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8818-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [777 (+20200)/sem limite] fila=2041 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8805-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [778 (+20200)/sem limite] fila=2040 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8799-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [779 (+20200)/sem limite] fila=2039 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8791-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [780 (+20200)/sem limite] fila=2038 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8788-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [781 (+20200)/sem limite] fila=2037 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8782-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [782 (+20200)/sem limite] fila=2036 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8778-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [783 (+20200)/sem limite] fila=2035 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8766-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20147
+  [784 (+20200)/sem limite] fila=2034 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8755-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [785 (+20200)/sem limite] fila=2033 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8744-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [786 (+20200)/sem limite] fila=2032 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8736-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [787 (+20200)/sem limite] fila=2031 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8725-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [788 (+20200)/sem limite] fila=2030 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8717-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [789 (+20200)/sem limite] fila=2029 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8708-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [790 (+20200)/sem limite] fila=2028 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8700-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [791 (+20200)/sem limite] fila=2027 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8689-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [792 (+20200)/sem limite] fila=2026 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8679-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [793 (+20200)/sem limite] fila=2025 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8668-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20146
+  [794 (+20200)/sem limite] fila=2024 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8658-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [795 (+20200)/sem limite] fila=2023 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8656-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [796 (+20200)/sem limite] fila=2022 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8647-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [797 (+20200)/sem limite] fila=2021 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8636-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [798 (+20200)/sem limite] fila=2020 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8634-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [799 (+20200)/sem limite] fila=2019 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8626-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [800 (+20200)/sem limite] fila=2018 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8610-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6621 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1468 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  219 links externos registrados.
+  Checkpoint salvo (21000 páginas totais | 800 nesta sessão).
+  [801 (+20200)/sem limite] fila=2017 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8595-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [802 (+20200)/sem limite] fila=2016 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8584-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [803 (+20200)/sem limite] fila=2015 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8566-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edi%C3%A7%C3%A3o%201452
+  [804 (+20200)/sem limite] fila=2014 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8553-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20145
+  [805 (+20200)/sem limite] fila=2013 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8540-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1450.pdf
+  [806 (+20200)/sem limite] fila=2012 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8525-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [807 (+20200)/sem limite] fila=2011 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8517-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [808 (+20200)/sem limite] fila=2010 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8509-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [809 (+20200)/sem limite] fila=2009 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8492-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [810 (+20200)/sem limite] fila=2008 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8484-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [811 (+20200)/sem limite] fila=2007 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8479-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [812 (+20200)/sem limite] fila=2006 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8468-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [813 (+20200)/sem limite] fila=2005 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8462-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1442.pdf
+  [814 (+20200)/sem limite] fila=2004 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8458-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [815 (+20200)/sem limite] fila=2003 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8449-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20144
+  [816 (+20200)/sem limite] fila=2002 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8440-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [817 (+20200)/sem limite] fila=2001 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8431-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edicao1438.pdf
+  [818 (+20200)/sem limite] fila=2000 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8420-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [819 (+20200)/sem limite] fila=1999 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8413-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [820 (+20200)/sem limite] fila=1998 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8402-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [821 (+20200)/sem limite] fila=1997 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8390-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [822 (+20200)/sem limite] fila=1996 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8370-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [823 (+20200)/sem limite] fila=1995 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8364-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [824 (+20200)/sem limite] fila=1994 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8356-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [825 (+20200)/sem limite] fila=1993 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8347-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20143
+  [826 (+20200)/sem limite] fila=1992 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8336-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [827 (+20200)/sem limite] fila=1991 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8324-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [828 (+20200)/sem limite] fila=1990 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8312-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [829 (+20200)/sem limite] fila=1989 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8297-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [830 (+20200)/sem limite] fila=1988 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8283-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [831 (+20200)/sem limite] fila=1987 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8279-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [832 (+20200)/sem limite] fila=1986 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8269-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [833 (+20200)/sem limite] fila=1985 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8260-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [834 (+20200)/sem limite] fila=1984 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8250-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [835 (+20200)/sem limite] fila=1983 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8237-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20142
+  [836 (+20200)/sem limite] fila=1982 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8230-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [837 (+20200)/sem limite] fila=1981 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8219-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [838 (+20200)/sem limite] fila=1980 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8208-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [839 (+20200)/sem limite] fila=1979 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8201-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [840 (+20200)/sem limite] fila=1978 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8194-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1416.pdf
+  [841 (+20200)/sem limite] fila=1977 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8182-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [842 (+20200)/sem limite] fila=1976 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8162-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [843 (+20200)/sem limite] fila=1975 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8157-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [844 (+20200)/sem limite] fila=1974 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8142-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [845 (+20200)/sem limite] fila=1973 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8128-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [846 (+20200)/sem limite] fila=1972 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8114-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20141
+  [847 (+20200)/sem limite] fila=1971 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8108-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [848 (+20200)/sem limite] fila=1970 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8102-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [849 (+20200)/sem limite] fila=1969 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8090-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [850 (+20200)/sem limite] fila=1968 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8077-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [851 (+20200)/sem limite] fila=1967 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8074-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [852 (+20200)/sem limite] fila=1966 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8057-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [853 (+20200)/sem limite] fila=1965 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8039-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [854 (+20200)/sem limite] fila=1964 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8034-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [855 (+20200)/sem limite] fila=1963 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8020-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [856 (+20200)/sem limite] fila=1962 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/8002-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [857 (+20200)/sem limite] fila=1961 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7991-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20140
+  [858 (+20200)/sem limite] fila=1960 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7977-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [859 (+20200)/sem limite] fila=1959 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7962-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [860 (+20200)/sem limite] fila=1958 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7937-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [861 (+20200)/sem limite] fila=1957 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7930-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [862 (+20200)/sem limite] fila=1956 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7925-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [863 (+20200)/sem limite] fila=1955 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7911-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [864 (+20200)/sem limite] fila=1954 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7902-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [865 (+20200)/sem limite] fila=1953 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7887-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [866 (+20200)/sem limite] fila=1952 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7878-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [867 (+20200)/sem limite] fila=1951 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7867-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20139
+  [868 (+20200)/sem limite] fila=1950 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7856-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [869 (+20200)/sem limite] fila=1949 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7845-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [870 (+20200)/sem limite] fila=1948 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7842-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [871 (+20200)/sem limite] fila=1947 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7829-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [872 (+20200)/sem limite] fila=1946 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7821-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [873 (+20200)/sem limite] fila=1945 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7813-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [874 (+20200)/sem limite] fila=1944 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7802-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [875 (+20200)/sem limite] fila=1943 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7784-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [876 (+20200)/sem limite] fila=1942 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7752-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [877 (+20200)/sem limite] fila=1941 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7744-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20138
+  [878 (+20200)/sem limite] fila=1940 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7739-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [879 (+20200)/sem limite] fila=1939 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7731-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [880 (+20200)/sem limite] fila=1938 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7677-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [881 (+20200)/sem limite] fila=1937 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7665-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [882 (+20200)/sem limite] fila=1936 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7652-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [883 (+20200)/sem limite] fila=1935 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7644-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [884 (+20200)/sem limite] fila=1934 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7638-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [885 (+20200)/sem limite] fila=1933 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7627-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [886 (+20200)/sem limite] fila=1932 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7617-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [887 (+20200)/sem limite] fila=1931 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7609-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [888 (+20200)/sem limite] fila=1930 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7592-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20137
+  [889 (+20200)/sem limite] fila=1929 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7582-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim//Edi%C3%A7%C3%A3o%20136
+  [890 (+20200)/sem limite] fila=1928 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7568-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1368.pdf
+  [891 (+20200)/sem limite] fila=1927 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7557-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/Edicao1367.pdf
+  [892 (+20200)/sem limite] fila=1926 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7545-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1366.pdf
+  [893 (+20200)/sem limite] fila=1925 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7530-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1365.pdf
+  [894 (+20200)/sem limite] fila=1924 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7520-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1364.pdf
+  [895 (+20200)/sem limite] fila=1923 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7514-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1363.pdf
+  [896 (+20200)/sem limite] fila=1922 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7506-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1362.pdf
+  [897 (+20200)/sem limite] fila=1921 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7492-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1361.pdf
+  [898 (+20200)/sem limite] fila=1920 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7482-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1360.pdf
+  [899 (+20200)/sem limite] fila=1919 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7476-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1359.pdf
+  [900 (+20200)/sem limite] fila=1918 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7461-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1358.pdf
+  [901 (+20200)/sem limite] fila=1917 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7448-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1357.pdf
+  [902 (+20200)/sem limite] fila=1916 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7437-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1356.pdf
+  [903 (+20200)/sem limite] fila=1915 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7425-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1355.pdf
+  [904 (+20200)/sem limite] fila=1914 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7414-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1354.pdf
+  [905 (+20200)/sem limite] fila=1913 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7409-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1353.pdf
+  [906 (+20200)/sem limite] fila=1912 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7400-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1352.pdf
+  [907 (+20200)/sem limite] fila=1911 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7390-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1351.pdf
+  [908 (+20200)/sem limite] fila=1910 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7379-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1350.pdf
+  [909 (+20200)/sem limite] fila=1909 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7371-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1349.pdf
+  [910 (+20200)/sem limite] fila=1908 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7357-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1348.pdf
+  [911 (+20200)/sem limite] fila=1907 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7347-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1347.pdf
+  [912 (+20200)/sem limite] fila=1906 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7332-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1346.pdf
+  [913 (+20200)/sem limite] fila=1905 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7318-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1345.pdf
+  [914 (+20200)/sem limite] fila=1904 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7311-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1344.pdf
+  [915 (+20200)/sem limite] fila=1903 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7287-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1343.pdf
+  [916 (+20200)/sem limite] fila=1902 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7280-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1342.pdf
+  [917 (+20200)/sem limite] fila=1901 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7263-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1341.pdf
+  [918 (+20200)/sem limite] fila=1900 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7253-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1340.pdf
+  [919 (+20200)/sem limite] fila=1899 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7248-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1339.pdf
+  [920 (+20200)/sem limite] fila=1898 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7237-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1338.pdf
+  [921 (+20200)/sem limite] fila=1897 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7227-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1337.pdf
+  [922 (+20200)/sem limite] fila=1896 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7209-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1336.pdf
+  [923 (+20200)/sem limite] fila=1895 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7201-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1335.pdf
+  [924 (+20200)/sem limite] fila=1894 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7185-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1334.pdf
+  [925 (+20200)/sem limite] fila=1893 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7162-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1333.pdf
+  [926 (+20200)/sem limite] fila=1892 | depth=9 | https://telemacoborba.pr.gov.br/index.php/informacoes/boletim-oficial/7155-edica
+  📄 [200] .pdf -> https://telemacoborba.pr.gov.br/images/boletim/edicao1332.pdf
+  [927 (+20200)/sem limite] fila=1891 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [928 (+20200)/sem limite] fila=1890 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fc71177c27bb06d6bc25a9294a6fe6438745d719
+  [929 (+20200)/sem limite] fila=1889 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [930 (+20200)/sem limite] fila=1888 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=abefa291f75eda3386b5e8ceb4d8a93356c4c136
+  [931 (+20200)/sem limite] fila=1887 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [932 (+20200)/sem limite] fila=1886 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=29cae1fa7a9f87be43114329f3cbab298be968a9
+  [933 (+20200)/sem limite] fila=1885 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [934 (+20200)/sem limite] fila=1884 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e0dfc8da3950bf42e11581123e1c3951fe11532d
+  [935 (+20200)/sem limite] fila=1883 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [936 (+20200)/sem limite] fila=1882 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=86ca5ba3ad59ac231854daaf26b78259077fbe52
+  [937 (+20200)/sem limite] fila=1881 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [938 (+20200)/sem limite] fila=1880 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9dc67bbb7e2bad08443b46a019eae7adefa27ffa
+  [939 (+20200)/sem limite] fila=1879 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [940 (+20200)/sem limite] fila=1878 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=be45d68a3da03cf28830f2e05c5169d49b89695c
+  [941 (+20200)/sem limite] fila=1877 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [942 (+20200)/sem limite] fila=1876 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b1fecf8f15b95e10887d69c3aa2302b836880800
+  [943 (+20200)/sem limite] fila=1875 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [944 (+20200)/sem limite] fila=1874 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=44ced37d0d53aef3b3c12c446ce149e160d43771
+  [945 (+20200)/sem limite] fila=1873 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [946 (+20200)/sem limite] fila=1872 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=72260a60e0ef825ea1f65a7934de9a3649135a63
+  [947 (+20200)/sem limite] fila=1871 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [948 (+20200)/sem limite] fila=1870 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7e9213d1048aa0763c770b7d351fb60217f1a288
+  [949 (+20200)/sem limite] fila=1869 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [950 (+20200)/sem limite] fila=1868 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1d49abecc54b93db29af6337b00d86415e403469
+  [951 (+20200)/sem limite] fila=1867 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [952 (+20200)/sem limite] fila=1866 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9a319258e55beaa7b2ba0488fafca6fe3f9ddedb
+  [953 (+20200)/sem limite] fila=1865 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [954 (+20200)/sem limite] fila=1864 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=28bd18f56e268ebc38e406906f8289c7b1430b0f
+  [955 (+20200)/sem limite] fila=1863 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [956 (+20200)/sem limite] fila=1862 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8c5f2477bbac3ac47fd2c36bf515c43b8a9226be
+  [957 (+20200)/sem limite] fila=1861 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [958 (+20200)/sem limite] fila=1860 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9e111ff894c4b8d2635ad5ebb83add3d158fd9a8
+  [959 (+20200)/sem limite] fila=1859 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [960 (+20200)/sem limite] fila=1858 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7b3a1d471e8299c6f78843194b2f2c565bd889de
+  [961 (+20200)/sem limite] fila=1857 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [962 (+20200)/sem limite] fila=1856 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=16dffd59631a05c9e500bf92fa10185e802a73e5
+  [963 (+20200)/sem limite] fila=1855 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [964 (+20200)/sem limite] fila=1854 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d66925970ac31b0ce77b99cbb4ea0203939b5cd6
+  [965 (+20200)/sem limite] fila=1853 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [966 (+20200)/sem limite] fila=1852 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=fe6041a4f5a5fa49eeb114984f077a41c607bf74
+  [967 (+20200)/sem limite] fila=1851 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [968 (+20200)/sem limite] fila=1850 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9c1be610fb652df1002d2c860168fb0174c7bd75
+  [969 (+20200)/sem limite] fila=1849 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [970 (+20200)/sem limite] fila=1848 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b609db44f18e4f79e3b3c942d6049239635c6e59
+  [971 (+20200)/sem limite] fila=1847 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [972 (+20200)/sem limite] fila=1846 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b88e2db9976e078a6006029a4a525c65f81557e1
+  [973 (+20200)/sem limite] fila=1845 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [974 (+20200)/sem limite] fila=1844 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c6f073598446c0f37f4c4071b0de53091f27acbb
+  [975 (+20200)/sem limite] fila=1843 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [976 (+20200)/sem limite] fila=1842 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1f7247d22eb58c0551f84dad0480c804f0876860
+  [977 (+20200)/sem limite] fila=1841 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [978 (+20200)/sem limite] fila=1840 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1e3bc83c4003718ae83c0e05b3a280fca47ded3e
+  [979 (+20200)/sem limite] fila=1839 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [980 (+20200)/sem limite] fila=1838 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e1e29bf84e05294a7e5c313082143fd3ec836e9b
+  [981 (+20200)/sem limite] fila=1837 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+ ❌ HTTP_520: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18604-falecimentos-do-dia-16-06-2023?tmpl=component&print=1
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18604-falecimentos-do-dia-16-06-2023?tmpl=component&print=1
+ ❌ HTTP_521: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18604-falecimentos-do-dia-16-06-2023?tmpl=component&print=1
+  [982 (+20200)/sem limite] fila=1836 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+ ❌ HTTP_521: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dea2b9deafd401109e04b1e472155f13b66d1c31
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dea2b9deafd401109e04b1e472155f13b66d1c31
+ ❌ HTTP_521: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dea2b9deafd401109e04b1e472155f13b66d1c31
+  [983 (+20200)/sem limite] fila=1835 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+ ❌ HTTP_521: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18601-falecimentos-do-dia-13-06-2023?tmpl=component&print=1
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18601-falecimentos-do-dia-13-06-2023?tmpl=component&print=1
+ ❌ HTTP_502: https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18601-falecimentos-do-dia-13-06-2023?tmpl=component&print=1
+  [984 (+20200)/sem limite] fila=1834 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=832ba243c879f37d666d105b9e0efbe812b97fc6
+  [985 (+20200)/sem limite] fila=1833 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [986 (+20200)/sem limite] fila=1832 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6343eba86bbdb3ea5b89ad94907664ebde975153
+  [987 (+20200)/sem limite] fila=1831 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [988 (+20200)/sem limite] fila=1832 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [989 (+20200)/sem limite] fila=1833 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [990 (+20200)/sem limite] fila=1834 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [991 (+20200)/sem limite] fila=1835 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [992 (+20200)/sem limite] fila=1836 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
