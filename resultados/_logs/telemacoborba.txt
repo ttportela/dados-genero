@@ -36874,3 +36874,39 @@ Inventário parcial carregado: 6494 arquivos já registrados.
   [990 (+20200)/sem limite] fila=1834 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
   [991 (+20200)/sem limite] fila=1835 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
   [992 (+20200)/sem limite] fila=1836 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [993 (+20200)/sem limite] fila=1837 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [994 (+20200)/sem limite] fila=1838 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [995 (+20200)/sem limite] fila=1839 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [996 (+20200)/sem limite] fila=1840 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [997 (+20200)/sem limite] fila=1841 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [998 (+20200)/sem limite] fila=1842 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [999 (+20200)/sem limite] fila=1843 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1000 (+20200)/sem limite] fila=1844 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6747 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1474 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  219 links externos registrados.
+  Checkpoint salvo (21200 páginas totais | 1000 nesta sessão).
+  [1001 (+20200)/sem limite] fila=1845 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1002 (+20200)/sem limite] fila=1846 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1003 (+20200)/sem limite] fila=1847 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1004 (+20200)/sem limite] fila=1848 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1005 (+20200)/sem limite] fila=1849 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1006 (+20200)/sem limite] fila=1850 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1007 (+20200)/sem limite] fila=1851 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1008 (+20200)/sem limite] fila=1852 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1009 (+20200)/sem limite] fila=1853 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1010 (+20200)/sem limite] fila=1854 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1011 (+20200)/sem limite] fila=1855 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1012 (+20200)/sem limite] fila=1856 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1013 (+20200)/sem limite] fila=1857 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1014 (+20200)/sem limite] fila=1858 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1015 (+20200)/sem limite] fila=1859 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1016 (+20200)/sem limite] fila=1860 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/17
+  [1017 (+20200)/sem limite] fila=1861 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario?st
+  [1018 (+20200)/sem limite] fila=1891 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
+  [1019 (+20200)/sem limite] fila=1890 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5c1c3eeefb32845b390fb31251f2179147e3d715
