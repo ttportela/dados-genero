@@ -35241,3 +35241,28 @@ Inventário parcial carregado: 2940 arquivos já registrados.
   🤖 Usando Selenium para: https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053/
   [11783 (+10832)/sem limite] fila=2659 | depth=6 | https://www.siqueiracampos.pr.gov.br/legislacao/download-lei/7053
+============================================================
+  TCC - Pipeline de Dados Publicos | SIQUEIRACAMPOS
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 10601 arquivos já registrados.
+  Links externos parciais carregados: 219 links já registrados.
+  Log de erros parcial carregado: 257 erros já registrados.
+
+============================================================
+  Crawler iniciado: SIQUEIRACAMPOS
+  Páginas já visitadas (checkpoint): 22432
+  URLs na fila: 2671
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+22432)/sem limite] fila=2670 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/print-noticia/2597/coelhinho-da-pascoa-
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2597/coelhinho-da-pascoa-visitou-nossas-escolas-e-cmeis/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2597/coelhinho-da-pascoa-visitou-nossas-escolas-e-cmeis/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2597/coelhinho-da-pascoa-visitou-nossas-escolas-e-cmeis/
+  [2 (+22432)/sem limite] fila=2669 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-en
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
