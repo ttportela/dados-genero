@@ -9580,3 +9580,38 @@ Inventário parcial carregado: 36 arquivos já registrados.
   📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/18703/Decreto N°7066.
   📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/18703/Decreto N°7013.
   📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/18703/Edital N° 039.2
+============================================================
+  TCC - Pipeline de Dados Publicos | TRESBARRASDOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1520 arquivos já registrados.
+  Links externos parciais carregados: 92 links já registrados.
+  Log de erros parcial carregado: 2826 erros já registrados.
+
+============================================================
+  Crawler iniciado: TRESBARRASDOPARANA
+  Páginas já visitadas (checkpoint): 2200
+  URLs na fila: 930
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+2200)/sem limite] fila=929 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/4320/2024/relatorios-contabeis-ag
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Demostrativo das Vari
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Balanço Patrimonial (
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Demonstração da Recei
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Despesa por Programa 
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Despesa segundo as ca
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16712/Receita segundo as ca
+  [2 (+2200)/sem limite] fila=928 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/4320/2024/relatorios-contabeis-ju
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Demostrativo das Vari
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Balanço Patrimonial (
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Despesa por Programa 
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Receita segundo as ca
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Despesa segundo as ca
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16647/Demonstração da Recei
+  [3 (+2200)/sem limite] fila=927 | depth=3 | https://tresbarras.pr.gov.br/transparencia/adm/4320/2024/relatorios-contabeis-ju
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16371/Demostrativo das Vari
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16371/Balanço Patrimonial (
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/files/article/16371/Despesa por Programa 
