@@ -35293,7 +35293,6 @@ Inventário parcial carregado: 4941 arquivos já registrados.
   [11017 (+9200)/sem limite] fila=2242 | depth=8 | https://telemacoborba.pr.gov.br/index.php/imprensa/noticias/saude/14878-pessoas-
   [11018 (+9200)/sem limite] fila=2241 | depth=8 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
   🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4ba60268c4043f19a94353a1d0c1edddde5e24ca
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 ============================================================
   TCC - Pipeline de Dados Publicos | TELEMACOBORBA
 ============================================================
