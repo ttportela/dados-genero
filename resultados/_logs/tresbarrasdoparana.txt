@@ -7073,3 +7073,75 @@ Inventário parcial carregado: 36 arquivos já registrados.
   🤖 Usando Selenium para: https://tresbarras.pr.gov.br/transparencia/orcamento/extratos/diario-de-bancos-2025
  ❌ SELENIUM_ERRO: WebDriverException: https://tresbarras.pr.gov.br/transparencia/orcamento/extratos/diario-de-bancos-2025
   [1337 (+400)/sem limite] fila=1037 | depth=3 | https://tresbarras.pr.gov.br/transparencia/orcamento/extratos/diario-de-banco-20
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TRESBARRASDOPARANA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 36 arquivos já registrados.
+  Links externos parciais carregados: 91 links já registrados.
+  Log de erros parcial carregado: 2826 erros já registrados.
+
+============================================================
+  Crawler iniciado: TRESBARRASDOPARANA
+  Páginas já visitadas (checkpoint): 1600
+  URLs na fila: 1174
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1600)/sem limite] fila=1173 | depth=3 | https://tresbarras.pr.gov.br/transparencia/orcamento/rreo/relatorio-de-execucao-
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 14 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 13 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 12 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 11 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 10- Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 9 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 8 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 7 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 6 - Demons
+  ⚠️ [0] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 3 - Demons
+  ⚠️ [0] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 2 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/9089/Anexo 1 - Balanç
+  [2 (+1600)/sem limite] fila=1172 | depth=3 | https://tresbarras.pr.gov.br/transparencia/orcamento/rreo/relatorio-de-execucao-
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 14 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 13 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 12 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 11 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 10- Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 9 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 8 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 7 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 6 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 3 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 2 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8775/Anexo 1 - Balanç
+  [3 (+1600)/sem limite] fila=1171 | depth=3 | https://tresbarras.pr.gov.br/transparencia/orcamento/rreo/relatorio-de-execucao-
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 14 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 13 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 12 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 11 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 10- Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 9 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 8 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 7 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 6 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 3 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 2 - Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8546/Anexo 1 - Balanç
+  [4 (+1600)/sem limite] fila=1170 | depth=3 | https://tresbarras.pr.gov.br/transparencia/orcamento/rreo/relatorio-de-execucao-
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Declaração Anexo
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 14 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 13 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 12 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 11 - Demon
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 10- Demons
+  📄 [200] .pdf -> https://tresbarras.pr.gov.br/attachments/article/8427/Anexo 9 - Demons
