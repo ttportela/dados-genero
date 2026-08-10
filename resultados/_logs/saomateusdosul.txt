@@ -61932,12 +61932,3 @@ Unsupported architecture:
   🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/licitacoes/nRoLxz/
 
 ============================================================
-  Descoberta de Portais Municipais — PR
-============================================================
-
-Consultando IBGE — municípios de PR (código 41)...
-  399 municípios encontrados.
-  (Filtro: apenas São Mateus do Sul)
-  Cidades já configuradas: 399
-
-  [1/1] 🔍 São Mateus do Sul (slug: saomateusdosul)... 
