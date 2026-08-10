@@ -1,0 +1,92 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTOANTONIODAPLATINA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SANTOANTONIODAPLATINA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.santoantoniodaplatina.pr.gov.br/
+  🤖 Usando Selenium para: https://www.santoantoniodaplatina.pr.gov.br/
+
+  Nenhum arquivo encontrado para santoantoniodaplatina.
+
+  Varredura encerrada: SANTOANTONIODAPLATINA
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/santoantoniodaplatina/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Santo Antônio da Platina)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Santo Antônio da Platina (slug: santoantoniodaplatina)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://nfse-santoantoniodaplatina.atende.net/cidadao/
+            + ✅ https://santoantoniodaplatina.atende.net/
+            + ✅ https://www.santoantoniodaplatina.pr.gov.br/
+              ✅ https://www.santoantoniodaplatina.pr.leg.br/transparencia-1/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTOANTONIODAPLATINA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: SANTOANTONIODAPLATINA
+  Páginas já visitadas (checkpoint): 1
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para santoantoniodaplatina.
+
+  Varredura encerrada: SANTOANTONIODAPLATINA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/santoantoniodaplatina/
+============================================================
+

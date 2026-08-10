@@ -337,6 +337,7 @@
 # ./run_pipeline.sh santamariana
 # ./run_pipeline.sh santamonica
 # ./run_pipeline.sh santanadoitarare
+
 # ./run_pipeline.sh santaterezadooeste
 # ./run_pipeline.sh santaterezinhadeitaipu
 # ./run_pipeline.sh santoantoniodaplatina

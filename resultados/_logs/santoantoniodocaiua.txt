@@ -1,0 +1,400 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTOANTONIODOCAIUA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SANTOANTONIODOCAIUA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.pmsac.pr.gov.br/
+  [2/sem limite] fila=40 | depth=1 | http://www.pmsac.pr.gov.br/index.php?sessao=p0
+  [3/sem limite] fila=39 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368ncb0&id=1259
+  [4/sem limite] fila=41 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368ncb0&id=1256
+  [5/sem limite] fila=41 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368ncb0&id=1258
+  [6/sem limite] fila=40 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368ncb0&id=1260
+  [7/sem limite] fila=39 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368gab0
+  [8/sem limite] fila=38 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=3384
+  [9/sem limite] fila=45 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=1350
+  [10/sem limite] fila=52 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=1349
+  [11/sem limite] fila=59 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=3386
+  [12/sem limite] fila=66 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=1347
+  [13/sem limite] fila=76 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=3992
+  [14/sem limite] fila=86 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=1355
+  [15/sem limite] fila=93 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=3387
+  [16/sem limite] fila=100 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=3385
+  [17/sem limite] fila=107 | depth=1 | https://www.pmsac.pr.gov.br/index.php?sessao=b054603368svb0&id=1348
+  [18/sem limite] fila=114 | depth=1 | http://www.pmsac.pr.gov.br/index.php?sessao=b054603368vfb0&id=1462113
+  [19/sem limite] fila=114 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2028
+  [20/sem limite] fila=113 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2027
+  [21/sem limite] fila=112 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2020
+  [22/sem limite] fila=111 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2019
+  [23/sem limite] fila=110 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2016
+  [24/sem limite] fila=109 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=2002
+  [25/sem limite] fila=108 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1995
+  [26/sem limite] fila=107 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1990
+  [27/sem limite] fila=106 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1986
+  [28/sem limite] fila=105 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1979
+  [29/sem limite] fila=104 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1978
+  [30/sem limite] fila=103 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1977
+  [31/sem limite] fila=102 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ixb0&id=1976
+  [32/sem limite] fila=101 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382
+  [33/sem limite] fila=100 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479924
+  [34/sem limite] fila=99 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479638
+  [35/sem limite] fila=98 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480329
+  [36/sem limite] fila=97 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485
+  [37/sem limite] fila=96 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0
+  [38/sem limite] fila=104 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3185
+  [39/sem limite] fila=103 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3213
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Santo Antônio do Caiuá)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Santo Antônio do Caiuá (slug: santoantoniodocaiua)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTOANTONIODOCAIUA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+
+============================================================
+  Crawler iniciado: SANTOANTONIODOCAIUA
+  Páginas já visitadas (checkpoint): 39
+  URLs na fila: 103
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+39)/sem limite] fila=102 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3240
+  [2 (+39)/sem limite] fila=101 | depth=1 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3242
+  [3 (+39)/sem limite] fila=100 | depth=1 | http://www.pmsac.pr.gov.br//index.php?sessao=b054603368obb0
+  [4 (+39)/sem limite] fila=107 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368kcb0&id=1260
+  [5 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368kcb0&id=1258
+  [6 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368kcb0&id=1256
+  [7 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368kcb0&id=1259
+  [8 (+39)/sem limite] fila=103 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=3384
+  [9 (+39)/sem limite] fila=102 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [10 (+39)/sem limite] fila=101 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479638&id_secre
+  [11 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [12 (+39)/sem limite] fila=99 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [13 (+39)/sem limite] fila=98 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [14 (+39)/sem limite] fila=97 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [15 (+39)/sem limite] fila=96 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384
+  [16 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=1350
+  [17 (+39)/sem limite] fila=103 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [18 (+39)/sem limite] fila=102 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480329&id_secre
+  [19 (+39)/sem limite] fila=101 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479486&id_secre
+  [20 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [21 (+39)/sem limite] fila=99 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [22 (+39)/sem limite] fila=98 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477947&id_secre
+  [23 (+39)/sem limite] fila=98 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350
+  [24 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=1349
+  [25 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [26 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [27 (+39)/sem limite] fila=103 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [28 (+39)/sem limite] fila=102 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [29 (+39)/sem limite] fila=101 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475329&id_secre
+  [30 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474021&id_secre
+  [31 (+39)/sem limite] fila=99 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349
+  [32 (+39)/sem limite] fila=107 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=3386
+  [33 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [34 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479638&id_secre
+  [35 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [36 (+39)/sem limite] fila=103 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [37 (+39)/sem limite] fila=102 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477947&id_secre
+  [38 (+39)/sem limite] fila=101 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [39 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386
+  [40 (+39)/sem limite] fila=108 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=1347
+  [41 (+39)/sem limite] fila=107 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122326&id_secre
+  [42 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122273&id_secre
+  [43 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122204&id_secre
+  [44 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368z5b0&id_secretaria=1347
+  [45 (+39)/sem limite] fila=107 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [46 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [47 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [48 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [49 (+39)/sem limite] fila=103 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476086&id_secre
+  [50 (+39)/sem limite] fila=102 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475641&id_secre
+  [51 (+39)/sem limite] fila=101 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=3992
+  [52 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122285&id_secre
+  [53 (+39)/sem limite] fila=99 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122204&id_secre
+  [54 (+39)/sem limite] fila=98 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368z5b0&id_secretaria=3992
+  [55 (+39)/sem limite] fila=97 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368spb0&id=1503
+  [56 (+39)/sem limite] fila=96 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [57 (+39)/sem limite] fila=95 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [58 (+39)/sem limite] fila=94 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [59 (+39)/sem limite] fila=93 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [60 (+39)/sem limite] fila=92 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476036&id_secre
+  [61 (+39)/sem limite] fila=92 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475329&id_secre
+  [62 (+39)/sem limite] fila=91 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=1355
+  [63 (+39)/sem limite] fila=90 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [64 (+39)/sem limite] fila=89 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [65 (+39)/sem limite] fila=88 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [66 (+39)/sem limite] fila=87 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [67 (+39)/sem limite] fila=86 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [68 (+39)/sem limite] fila=85 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [69 (+39)/sem limite] fila=84 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355
+  [70 (+39)/sem limite] fila=89 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=3387
+  [71 (+39)/sem limite] fila=88 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [72 (+39)/sem limite] fila=87 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [73 (+39)/sem limite] fila=86 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [74 (+39)/sem limite] fila=85 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [75 (+39)/sem limite] fila=84 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [76 (+39)/sem limite] fila=83 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [77 (+39)/sem limite] fila=82 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387
+  [78 (+39)/sem limite] fila=88 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=3385
+  [79 (+39)/sem limite] fila=87 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [80 (+39)/sem limite] fila=86 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [81 (+39)/sem limite] fila=85 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [82 (+39)/sem limite] fila=84 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [83 (+39)/sem limite] fila=83 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [84 (+39)/sem limite] fila=82 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [85 (+39)/sem limite] fila=81 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385
+  [86 (+39)/sem limite] fila=87 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368xwb0&id=1348
+  [87 (+39)/sem limite] fila=86 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481382&id_secre
+  [88 (+39)/sem limite] fila=85 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480329&id_secre
+  [89 (+39)/sem limite] fila=84 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479924&id_secre
+  [90 (+39)/sem limite] fila=83 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479485&id_secre
+  [91 (+39)/sem limite] fila=82 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019&id_secre
+  [92 (+39)/sem limite] fila=81 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [93 (+39)/sem limite] fila=80 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348
+  [94 (+39)/sem limite] fila=88 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479486
+  [95 (+39)/sem limite] fila=87 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479019
+  [96 (+39)/sem limite] fila=86 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477947
+  [97 (+39)/sem limite] fila=85 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477480
+  [98 (+39)/sem limite] fila=84 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462
+  [99 (+39)/sem limite] fila=83 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=1
+  [100 (+39)/sem limite] fila=82 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=2
+  [101 (+39)/sem limite] fila=91 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=3
+  [102 (+39)/sem limite] fila=100 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=4
+  [103 (+39)/sem limite] fila=109 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&pagina=5
+  [104 (+39)/sem limite] fila=110 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3558
+  [105 (+39)/sem limite] fila=110 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3500
+  [106 (+39)/sem limite] fila=109 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3501
+  [107 (+39)/sem limite] fila=108 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3247
+  [108 (+39)/sem limite] fila=107 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3260
+  [109 (+39)/sem limite] fila=106 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3245
+  [110 (+39)/sem limite] fila=105 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3244
+  [111 (+39)/sem limite] fila=104 | depth=2 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3243
+  [112 (+39)/sem limite] fila=103 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [113 (+39)/sem limite] fila=102 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471525&id_secre
+  [114 (+39)/sem limite] fila=101 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [115 (+39)/sem limite] fila=100 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462826&id_secre
+  [116 (+39)/sem limite] fila=99 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384&
+  [117 (+39)/sem limite] fila=98 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384&
+  [118 (+39)/sem limite] fila=99 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384&
+  [119 (+39)/sem limite] fila=98 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384&
+  [120 (+39)/sem limite] fila=97 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3384&
+  [121 (+39)/sem limite] fila=96 | depth=3 | http://www.pmsac.pr.gov.br
+  [122 (+39)/sem limite] fila=95 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477462&id_secre
+  [123 (+39)/sem limite] fila=94 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475329&id_secre
+  [124 (+39)/sem limite] fila=93 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [125 (+39)/sem limite] fila=92 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [126 (+39)/sem limite] fila=91 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350&
+  [127 (+39)/sem limite] fila=90 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350&
+  [128 (+39)/sem limite] fila=92 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350&
+  [129 (+39)/sem limite] fila=91 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350&
+  [130 (+39)/sem limite] fila=90 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1350&
+  [131 (+39)/sem limite] fila=89 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [132 (+39)/sem limite] fila=88 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [133 (+39)/sem limite] fila=87 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472186&id_secre
+  [134 (+39)/sem limite] fila=86 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471984&id_secre
+  [135 (+39)/sem limite] fila=85 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349&
+  [136 (+39)/sem limite] fila=84 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349&
+  [137 (+39)/sem limite] fila=86 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349&
+  [138 (+39)/sem limite] fila=85 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349&
+  [139 (+39)/sem limite] fila=84 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1349&
+  [140 (+39)/sem limite] fila=83 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475373&id_secre
+  [141 (+39)/sem limite] fila=82 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [142 (+39)/sem limite] fila=81 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [143 (+39)/sem limite] fila=80 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [144 (+39)/sem limite] fila=79 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386&
+  [145 (+39)/sem limite] fila=78 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386&
+  [146 (+39)/sem limite] fila=82 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386&
+  [147 (+39)/sem limite] fila=81 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386&
+  [148 (+39)/sem limite] fila=80 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3386&
+  [149 (+39)/sem limite] fila=79 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122326
+  [150 (+39)/sem limite] fila=78 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122285
+  [151 (+39)/sem limite] fila=77 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122273
+  [152 (+39)/sem limite] fila=76 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b0546033689fb0&id=1122204
+  [153 (+39)/sem limite] fila=75 | depth=3 | http://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3500
+  [154 (+39)/sem limite] fila=74 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [155 (+39)/sem limite] fila=73 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355&
+  [156 (+39)/sem limite] fila=72 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355&
+  [157 (+39)/sem limite] fila=71 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355&
+  [158 (+39)/sem limite] fila=70 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355&
+  [159 (+39)/sem limite] fila=69 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1355&
+  [160 (+39)/sem limite] fila=68 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471525&id_secre
+  [161 (+39)/sem limite] fila=67 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [162 (+39)/sem limite] fila=66 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387&
+  [163 (+39)/sem limite] fila=65 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387&
+  [164 (+39)/sem limite] fila=64 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387&
+  [165 (+39)/sem limite] fila=63 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387&
+  [166 (+39)/sem limite] fila=62 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3387&
+  [167 (+39)/sem limite] fila=61 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [168 (+39)/sem limite] fila=60 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1461229&id_secre
+  [169 (+39)/sem limite] fila=59 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385&
+  [170 (+39)/sem limite] fila=58 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385&
+  [171 (+39)/sem limite] fila=57 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385&
+  [172 (+39)/sem limite] fila=56 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385&
+  [173 (+39)/sem limite] fila=55 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=3385&
+  [174 (+39)/sem limite] fila=54 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475329&id_secre
+  [175 (+39)/sem limite] fila=53 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474497&id_secre
+  [176 (+39)/sem limite] fila=52 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474021&id_secre
+  [177 (+39)/sem limite] fila=51 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019&id_secre
+  [178 (+39)/sem limite] fila=50 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348&
+  [179 (+39)/sem limite] fila=49 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348&
+  [180 (+39)/sem limite] fila=54 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348&
+  [181 (+39)/sem limite] fila=53 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348&
+  [182 (+39)/sem limite] fila=52 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=1348&
+  [183 (+39)/sem limite] fila=51 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476086
+  [184 (+39)/sem limite] fila=50 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476036
+  [185 (+39)/sem limite] fila=49 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475641
+  [186 (+39)/sem limite] fila=48 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475373
+  [187 (+39)/sem limite] fila=47 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475329
+  [188 (+39)/sem limite] fila=46 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474497
+  [189 (+39)/sem limite] fila=45 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474021
+  [190 (+39)/sem limite] fila=44 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474019
+  [191 (+39)/sem limite] fila=43 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473973
+  [192 (+39)/sem limite] fila=42 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700
+  [193 (+39)/sem limite] fila=41 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473582
+  [194 (+39)/sem limite] fila=40 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472186
+  [195 (+39)/sem limite] fila=39 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472185
+  [196 (+39)/sem limite] fila=38 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471984
+  [197 (+39)/sem limite] fila=37 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471896
+  [198 (+39)/sem limite] fila=36 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471866
+  [199 (+39)/sem limite] fila=35 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471758
+  [200 (+39)/sem limite] fila=34 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471699
+
+  Nenhum arquivo encontrado para santoantoniodocaiua.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodocaiua/inventario_externos.xlsx
+  536 links externos registrados.
+  Checkpoint salvo (239 páginas totais | 200 nesta sessão).
+  [201 (+39)/sem limite] fila=33 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471624
+  [202 (+39)/sem limite] fila=32 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471585
+  [203 (+39)/sem limite] fila=31 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471542
+  [204 (+39)/sem limite] fila=30 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471525
+  [205 (+39)/sem limite] fila=29 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522
+  [206 (+39)/sem limite] fila=28 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1465374
+  [207 (+39)/sem limite] fila=27 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1465283
+  [208 (+39)/sem limite] fila=26 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1464857
+  [209 (+39)/sem limite] fila=25 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1463489
+  [210 (+39)/sem limite] fila=24 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462826
+  [211 (+39)/sem limite] fila=23 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462605
+  [212 (+39)/sem limite] fila=22 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462113
+  [213 (+39)/sem limite] fila=21 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1461285
+  [214 (+39)/sem limite] fila=20 | depth=3 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1461229
+  [215 (+39)/sem limite] fila=19 | depth=3 | http://www.pmsac.pr.gov.br//index.php?sessao=b054603368ovb0&id=3558
+  [216 (+39)/sem limite] fila=18 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462605&id_secre
+  [217 (+39)/sem limite] fila=17 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1461229&id_secre
+  [218 (+39)/sem limite] fila=16 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473582&id_secre
+  [219 (+39)/sem limite] fila=15 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [220 (+39)/sem limite] fila=14 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462113&id_secre
+  [221 (+39)/sem limite] fila=13 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471896&id_secre
+  [222 (+39)/sem limite] fila=12 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471525&id_secre
+  [223 (+39)/sem limite] fila=11 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+  [224 (+39)/sem limite] fila=10 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1463489&id_secre
+  [225 (+39)/sem limite] fila=9 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462826&id_secre
+  [226 (+39)/sem limite] fila=8 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462605&id_secre
+  [227 (+39)/sem limite] fila=7 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462113&id_secre
+  [228 (+39)/sem limite] fila=6 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1461285&id_secre
+  [229 (+39)/sem limite] fila=5 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473700&id_secre
+  [230 (+39)/sem limite] fila=4 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472185&id_secre
+  [231 (+39)/sem limite] fila=3 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471699&id_secre
+  [232 (+39)/sem limite] fila=2 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471624&id_secre
+  [233 (+39)/sem limite] fila=1 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471585&id_secre
+  [234 (+39)/sem limite] fila=0 | depth=4 | https://www.pmsac.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471522&id_secre
+
+  Nenhum arquivo encontrado para santoantoniodocaiua.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodocaiua/inventario_externos.xlsx
+  552 links externos registrados.
+
+  Varredura encerrada: SANTOANTONIODOCAIUA
+  Páginas nesta sessão: 234
+  Páginas totais (acumulado): 273
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/santoantoniodocaiua/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Santo Antônio do Caiuá)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Santo Antônio do Caiuá (slug: santoantoniodocaiua)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://s2.asp.srv.br/etransparencia.pm.caiua.sp/servlet/portal/
+              ✅ https://saojoaodocaiua.eloweb.net/portaltransparencia/dashboard/
+              ✅ https://www.pmsac.pr.gov.br/
+nenhum portal encontrado ❌ nenhum portal encontrado
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          1
+  Já configuradas:     0
+  Atualizadas (novas sementes): 0
+
+  Cidades sem portal detectado:
+    - Santo Antônio do Caiuá
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTOANTONIODOCAIUA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 552 links já registrados.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: SANTOANTONIODOCAIUA
+  Páginas já visitadas (checkpoint): 273
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para santoantoniodocaiua.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodocaiua/inventario_externos.xlsx
+  552 links externos registrados.
+
+  Varredura encerrada: SANTOANTONIODOCAIUA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 273
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/santoantoniodocaiua/
+============================================================
+
