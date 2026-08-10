@@ -36908,3 +36908,371 @@ Inventário parcial carregado: 6494 arquivos já registrados.
   [1018 (+20200)/sem limite] fila=1891 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/18
   [1019 (+20200)/sem limite] fila=1890 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
   🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5c1c3eeefb32845b390fb31251f2179147e3d715
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TELEMACOBORBA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 6747 arquivos já registrados.
+  Links externos parciais carregados: 219 links já registrados.
+  Log de erros parcial carregado: 1474 erros já registrados.
+
+============================================================
+  Crawler iniciado: TELEMACOBORBA
+  Páginas já visitadas (checkpoint): 21600
+  URLs na fila: 1873
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+21600)/sem limite] fila=1872 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=836d76759b485ef370fcea5ca58a055336603010
+  [2 (+21600)/sem limite] fila=1871 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/94
+  [3 (+21600)/sem limite] fila=1870 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=67e59e947776c0ba59e66dde6a24f5edc2912f69
+  [4 (+21600)/sem limite] fila=1869 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/94
+  [5 (+21600)/sem limite] fila=1868 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a718f3743fcfde691654867731a86c67f4499feb
+  [6 (+21600)/sem limite] fila=1867 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/94
+  [7 (+21600)/sem limite] fila=1866 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0d6042ef1fef927fecd939b2b9ae8ec5ff36e2f5
+  [8 (+21600)/sem limite] fila=1865 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [9 (+21600)/sem limite] fila=1864 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7917757a3db47979c56974372e72a0bc9d38fd99
+  [10 (+21600)/sem limite] fila=1863 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [11 (+21600)/sem limite] fila=1862 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e3954108da8a07d4e291b89662d0e9774687960c
+  [12 (+21600)/sem limite] fila=1861 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [13 (+21600)/sem limite] fila=1860 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=782dd482ab0b8cac43eab05492beb92fb91c3a5a
+  [14 (+21600)/sem limite] fila=1859 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [15 (+21600)/sem limite] fila=1858 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1ea6d4279282e730a670b63a6221f54dc4a7bb35
+  [16 (+21600)/sem limite] fila=1857 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [17 (+21600)/sem limite] fila=1856 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=d5e9d7a05cfaf2fe4c513fe7a0dcb6102aa7b9b9
+  [18 (+21600)/sem limite] fila=1855 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [19 (+21600)/sem limite] fila=1854 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b0f5f6c40afa77f88ac2f8cb531470bf399f2da6
+  [20 (+21600)/sem limite] fila=1853 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [21 (+21600)/sem limite] fila=1852 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b3008cfc41a203c831959bfbbbec13db2e6969d2
+  [22 (+21600)/sem limite] fila=1851 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/93
+  [23 (+21600)/sem limite] fila=1850 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5b53bb1e2c68d5f5f9fe40169aa2b09f8f548e80
+  [24 (+21600)/sem limite] fila=1849 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [25 (+21600)/sem limite] fila=1848 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=8a26503e23328e8e8f092cfd571706c9b6971d73
+  [26 (+21600)/sem limite] fila=1847 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [27 (+21600)/sem limite] fila=1846 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c58902d587cd731b82ddd4f59075c9d4a01c1ced
+  [28 (+21600)/sem limite] fila=1845 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [29 (+21600)/sem limite] fila=1844 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f2b3e8d0fa14d29951133fd4bcb9dc248f8e9707
+  [30 (+21600)/sem limite] fila=1843 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [31 (+21600)/sem limite] fila=1842 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ff0e6d19d8d872f248beb17ab93292917201acf6
+  [32 (+21600)/sem limite] fila=1841 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [33 (+21600)/sem limite] fila=1840 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4524428671ac19d1f5efb38f80db93a99fc4859b
+  [34 (+21600)/sem limite] fila=1839 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [35 (+21600)/sem limite] fila=1838 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6799df0792d512e723c95ff9d01ff758ec6b10d7
+  [36 (+21600)/sem limite] fila=1837 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [37 (+21600)/sem limite] fila=1836 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0c960f97e94e28911a0b95e0ee26fb7ba5a8635d
+  [38 (+21600)/sem limite] fila=1835 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [39 (+21600)/sem limite] fila=1834 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=43e815eea7b2fdb273994319d75649dcfd1342ad
+  [40 (+21600)/sem limite] fila=1833 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [41 (+21600)/sem limite] fila=1832 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=21b3b84b8ea4af1a577ef69320806ccded494587
+  [42 (+21600)/sem limite] fila=1831 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [43 (+21600)/sem limite] fila=1832 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [44 (+21600)/sem limite] fila=1833 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [45 (+21600)/sem limite] fila=1834 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [46 (+21600)/sem limite] fila=1835 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [47 (+21600)/sem limite] fila=1836 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [48 (+21600)/sem limite] fila=1837 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [49 (+21600)/sem limite] fila=1838 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [50 (+21600)/sem limite] fila=1839 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [51 (+21600)/sem limite] fila=1840 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [52 (+21600)/sem limite] fila=1841 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [53 (+21600)/sem limite] fila=1842 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [54 (+21600)/sem limite] fila=1843 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [55 (+21600)/sem limite] fila=1844 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [56 (+21600)/sem limite] fila=1845 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [57 (+21600)/sem limite] fila=1846 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [58 (+21600)/sem limite] fila=1847 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [59 (+21600)/sem limite] fila=1848 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [60 (+21600)/sem limite] fila=1849 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [61 (+21600)/sem limite] fila=1850 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [62 (+21600)/sem limite] fila=1851 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [63 (+21600)/sem limite] fila=1852 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [64 (+21600)/sem limite] fila=1853 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [65 (+21600)/sem limite] fila=1854 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [66 (+21600)/sem limite] fila=1855 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [67 (+21600)/sem limite] fila=1856 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [68 (+21600)/sem limite] fila=1857 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [69 (+21600)/sem limite] fila=1858 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [70 (+21600)/sem limite] fila=1859 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [71 (+21600)/sem limite] fila=1860 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [72 (+21600)/sem limite] fila=1861 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario?st
+  [73 (+21600)/sem limite] fila=1894 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario?st
+  [74 (+21600)/sem limite] fila=1923 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario?st
+  [75 (+21600)/sem limite] fila=1952 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario?st
+  [76 (+21600)/sem limite] fila=1981 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [77 (+21600)/sem limite] fila=1982 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [78 (+21600)/sem limite] fila=1983 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [79 (+21600)/sem limite] fila=1984 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [80 (+21600)/sem limite] fila=1985 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [81 (+21600)/sem limite] fila=1986 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [82 (+21600)/sem limite] fila=1987 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [83 (+21600)/sem limite] fila=1988 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [84 (+21600)/sem limite] fila=1989 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [85 (+21600)/sem limite] fila=1990 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/12
+  [86 (+21600)/sem limite] fila=1991 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [87 (+21600)/sem limite] fila=1992 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [88 (+21600)/sem limite] fila=1993 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [89 (+21600)/sem limite] fila=1994 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [90 (+21600)/sem limite] fila=1995 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [91 (+21600)/sem limite] fila=1996 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [92 (+21600)/sem limite] fila=1997 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [93 (+21600)/sem limite] fila=1998 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [94 (+21600)/sem limite] fila=1999 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [95 (+21600)/sem limite] fila=2000 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [96 (+21600)/sem limite] fila=2001 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [97 (+21600)/sem limite] fila=2002 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [98 (+21600)/sem limite] fila=2003 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [99 (+21600)/sem limite] fila=2004 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [100 (+21600)/sem limite] fila=2005 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [101 (+21600)/sem limite] fila=2006 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [102 (+21600)/sem limite] fila=2007 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [103 (+21600)/sem limite] fila=2008 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [104 (+21600)/sem limite] fila=2009 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [105 (+21600)/sem limite] fila=2010 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [106 (+21600)/sem limite] fila=2011 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [107 (+21600)/sem limite] fila=2012 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [108 (+21600)/sem limite] fila=2013 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [109 (+21600)/sem limite] fila=2014 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/11
+  [110 (+21600)/sem limite] fila=2015 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [111 (+21600)/sem limite] fila=2016 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [112 (+21600)/sem limite] fila=2017 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [113 (+21600)/sem limite] fila=2018 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [114 (+21600)/sem limite] fila=2019 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [115 (+21600)/sem limite] fila=2020 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [116 (+21600)/sem limite] fila=2021 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [117 (+21600)/sem limite] fila=2022 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [118 (+21600)/sem limite] fila=2023 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [119 (+21600)/sem limite] fila=2024 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [120 (+21600)/sem limite] fila=2025 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [121 (+21600)/sem limite] fila=2026 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [122 (+21600)/sem limite] fila=2027 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [123 (+21600)/sem limite] fila=2028 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [124 (+21600)/sem limite] fila=2029 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [125 (+21600)/sem limite] fila=2030 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [126 (+21600)/sem limite] fila=2031 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [127 (+21600)/sem limite] fila=2032 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [128 (+21600)/sem limite] fila=2033 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [129 (+21600)/sem limite] fila=2034 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [130 (+21600)/sem limite] fila=2035 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [131 (+21600)/sem limite] fila=2036 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [132 (+21600)/sem limite] fila=2037 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [133 (+21600)/sem limite] fila=2038 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [134 (+21600)/sem limite] fila=2039 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [135 (+21600)/sem limite] fila=2040 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [136 (+21600)/sem limite] fila=2041 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [137 (+21600)/sem limite] fila=2042 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [138 (+21600)/sem limite] fila=2043 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [139 (+21600)/sem limite] fila=2044 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [140 (+21600)/sem limite] fila=2045 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [141 (+21600)/sem limite] fila=2046 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [142 (+21600)/sem limite] fila=2047 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [143 (+21600)/sem limite] fila=2048 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [144 (+21600)/sem limite] fila=2049 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [145 (+21600)/sem limite] fila=2050 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [146 (+21600)/sem limite] fila=2051 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [147 (+21600)/sem limite] fila=2052 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [148 (+21600)/sem limite] fila=2053 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/10
+  [149 (+21600)/sem limite] fila=2054 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/99
+  [150 (+21600)/sem limite] fila=2055 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/99
+  [151 (+21600)/sem limite] fila=2056 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/99
+  [152 (+21600)/sem limite] fila=2057 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/98
+  [153 (+21600)/sem limite] fila=2058 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [154 (+21600)/sem limite] fila=2059 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [155 (+21600)/sem limite] fila=2060 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [156 (+21600)/sem limite] fila=2061 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [157 (+21600)/sem limite] fila=2062 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [158 (+21600)/sem limite] fila=2063 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [159 (+21600)/sem limite] fila=2064 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [160 (+21600)/sem limite] fila=2065 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [161 (+21600)/sem limite] fila=2066 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [162 (+21600)/sem limite] fila=2067 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [163 (+21600)/sem limite] fila=2068 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [164 (+21600)/sem limite] fila=2069 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [165 (+21600)/sem limite] fila=2070 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/97
+  [166 (+21600)/sem limite] fila=2071 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [167 (+21600)/sem limite] fila=2070 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1933e77440a387df3c7361263f8e21d610828b5d
+  [168 (+21600)/sem limite] fila=2069 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [169 (+21600)/sem limite] fila=2068 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e976b99792b5c677542de5e9e5eedf44287f2ab4
+  [170 (+21600)/sem limite] fila=2067 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [171 (+21600)/sem limite] fila=2066 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=27c508bb36648a5dc9ed8404424ebe2f753bd459
+  [172 (+21600)/sem limite] fila=2065 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [173 (+21600)/sem limite] fila=2064 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=841f3c453636f1497a836d0d967a8f2961e54230
+  [174 (+21600)/sem limite] fila=2063 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [175 (+21600)/sem limite] fila=2062 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=551a719d9dcee4e70100142c678d939800a32bd8
+  [176 (+21600)/sem limite] fila=2061 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/92
+  [177 (+21600)/sem limite] fila=2060 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5f8f5a03482fd2a65f92ab7718ec2161d26237d9
+  [178 (+21600)/sem limite] fila=2059 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [179 (+21600)/sem limite] fila=2058 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1ddf479b20c94d2c0878b70d854844c3ec63f988
+  [180 (+21600)/sem limite] fila=2057 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [181 (+21600)/sem limite] fila=2056 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=41a6a7de092715815ef29714577e81da8c090efd
+  [182 (+21600)/sem limite] fila=2055 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [183 (+21600)/sem limite] fila=2054 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ed2a494e1bf11e189e33a58470c9fb24d504ff59
+  [184 (+21600)/sem limite] fila=2053 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [185 (+21600)/sem limite] fila=2052 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=73227102baba19f186ddf015c27c4726216a4011
+  [186 (+21600)/sem limite] fila=2051 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [187 (+21600)/sem limite] fila=2050 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=41f46dd62eb775cc5d98c64d23049c933b8b55d2
+  [188 (+21600)/sem limite] fila=2049 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [189 (+21600)/sem limite] fila=2048 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0c2dbb9eacd8f772e1ec1a65e898b04b617e0209
+  [190 (+21600)/sem limite] fila=2047 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [191 (+21600)/sem limite] fila=2046 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=3f2360efb348ae5c93ce325cd11c92b432c89e21
+  [192 (+21600)/sem limite] fila=2045 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [193 (+21600)/sem limite] fila=2044 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=216b6ab97cb828d66c80594cd041d2e6f8b94cb9
+  [194 (+21600)/sem limite] fila=2043 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [195 (+21600)/sem limite] fila=2042 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e82b560e0473da83f59b5726a0ac078285e0c135
+  [196 (+21600)/sem limite] fila=2041 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [197 (+21600)/sem limite] fila=2040 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5f47c69fcaab4a4bd0e818c623b0a96d2d9f8729
+  [198 (+21600)/sem limite] fila=2039 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [199 (+21600)/sem limite] fila=2038 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e9698795b5fdc15f512ff9a6b4557021bcbae04a
+  [200 (+21600)/sem limite] fila=2037 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_links.xlsx
+  6747 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/erros_varredura.xlsx
+  1474 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/telemacoborba/inventario_externos.xlsx
+  219 links externos registrados.
+  Checkpoint salvo (21800 páginas totais | 200 nesta sessão).
+  [201 (+21600)/sem limite] fila=2036 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=a91bb2097835b8bdefe69f9dad84605c0e217990
+  [202 (+21600)/sem limite] fila=2035 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [203 (+21600)/sem limite] fila=2034 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=569570eb837e9ea4969c642697707394e7bcfb6e
+  [204 (+21600)/sem limite] fila=2033 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/91
+  [205 (+21600)/sem limite] fila=2032 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=e13fe915403e67bbfe1b049bbdc22824536f0ec6
+  [206 (+21600)/sem limite] fila=2031 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [207 (+21600)/sem limite] fila=2030 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5fe32e9c1ae352e54dbfc4df3976f5750b5fcc8f
+  [208 (+21600)/sem limite] fila=2029 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [209 (+21600)/sem limite] fila=2028 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=9549cb07f8a83bb0a633a22e7c7177f69ee3918d
+  [210 (+21600)/sem limite] fila=2027 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [211 (+21600)/sem limite] fila=2026 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=096aada40a87bd86e01d104f4902d51da4169912
+  [212 (+21600)/sem limite] fila=2025 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [213 (+21600)/sem limite] fila=2024 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ee98cca0c290cb316caa8e0dfcefbadc78e6092a
+  [214 (+21600)/sem limite] fila=2023 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [215 (+21600)/sem limite] fila=2022 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=65d61c91f28a3393089b272e34e4d4bc2aef511c
+  [216 (+21600)/sem limite] fila=2021 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/90
+  [217 (+21600)/sem limite] fila=2020 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=4d47c7d271f7cc0aa2147ee0786ce4b2632f0539
+  [218 (+21600)/sem limite] fila=2019 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [219 (+21600)/sem limite] fila=2018 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b4ef53ac754dc18bf54b95b2dd11ce8546bad3bf
+  [220 (+21600)/sem limite] fila=2017 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [221 (+21600)/sem limite] fila=2016 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=dc54b9d3f80829b6919bdd5375f6fb62792ca17d
+  [222 (+21600)/sem limite] fila=2015 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [223 (+21600)/sem limite] fila=2014 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=70e3519cbc6c86a7030c1a014233b1643c485ccd
+  [224 (+21600)/sem limite] fila=2013 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [225 (+21600)/sem limite] fila=2012 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=b576b10e26dbba069336fa47901128ae2fdd0490
+  [226 (+21600)/sem limite] fila=2011 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [227 (+21600)/sem limite] fila=2010 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=40f3ff8ba55d4a7f72d0b5a76484995ee22edcef
+  [228 (+21600)/sem limite] fila=2009 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [229 (+21600)/sem limite] fila=2008 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=644028a28b7d444aef23518887378b8f1896af26
+  [230 (+21600)/sem limite] fila=2007 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [231 (+21600)/sem limite] fila=2006 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5ec8a85dfc9e6296fc9f555d66e85ea412f7f4e6
+  [232 (+21600)/sem limite] fila=2005 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [233 (+21600)/sem limite] fila=2004 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c51ca20bb5e1549e59f6cbd9751e1eb81025ef4a
+  [234 (+21600)/sem limite] fila=2003 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [235 (+21600)/sem limite] fila=2002 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=66005bdfff62983280f09634143a99c90885276f
+  [236 (+21600)/sem limite] fila=2001 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [237 (+21600)/sem limite] fila=2000 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=03be9eebfdbd1d791f3d4404d41b6627acddeb78
+  [238 (+21600)/sem limite] fila=1999 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [239 (+21600)/sem limite] fila=1998 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=efdc8fcf0065c23c07611a2289bac487d0db5d2a
+  [240 (+21600)/sem limite] fila=1997 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [241 (+21600)/sem limite] fila=1996 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6a60d28780ddf2e6c38ea05022388b1905f74455
+  [242 (+21600)/sem limite] fila=1995 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [243 (+21600)/sem limite] fila=1994 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=f0e215f226d1cb267b3fd5545735da9692e5370c
+  [244 (+21600)/sem limite] fila=1993 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [245 (+21600)/sem limite] fila=1992 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=5154f2307e75221e8c2b7ba9b7e99081fb8cde58
+  [246 (+21600)/sem limite] fila=1991 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/89
+  [247 (+21600)/sem limite] fila=1990 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=c592b1c6a5a5d91341d94e2bc12ede86fb7ceefe
+  [248 (+21600)/sem limite] fila=1989 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [249 (+21600)/sem limite] fila=1988 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ebcbf32ad6a219c01f56147fea15af24b5987f02
+  [250 (+21600)/sem limite] fila=1987 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [251 (+21600)/sem limite] fila=1986 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=0e62b3b30f97fb5219bb6b7c956658209bd0230d
+  [252 (+21600)/sem limite] fila=1985 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [253 (+21600)/sem limite] fila=1984 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=7322c1e43d000de5389781a7b27228283d88af14
+  [254 (+21600)/sem limite] fila=1983 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [255 (+21600)/sem limite] fila=1982 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=652ba593f8d926f0d54bb54928890abb5b7931af
+  [256 (+21600)/sem limite] fila=1981 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [257 (+21600)/sem limite] fila=1980 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=79054e5b9f69e71ad905497ae3edfdd13a217f57
+  [258 (+21600)/sem limite] fila=1979 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [259 (+21600)/sem limite] fila=1978 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=6e04eb8a41496148530a579df5995c68d5916aaa
+  [260 (+21600)/sem limite] fila=1977 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [261 (+21600)/sem limite] fila=1976 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=682c308daa9bc4679ca0c36ceec450b72e3148be
+  [262 (+21600)/sem limite] fila=1975 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [263 (+21600)/sem limite] fila=1974 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ad1c3a3fcb3dd3a8aef6eb00ff8be9c74d64fd99
+  [264 (+21600)/sem limite] fila=1973 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [265 (+21600)/sem limite] fila=1972 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=1f41854e8f3499b17b17c4d19e98a7a91391ae84
+  [266 (+21600)/sem limite] fila=1971 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [267 (+21600)/sem limite] fila=1970 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=ee44af05578368d1ec071b87bb77cb3174665880
+  [268 (+21600)/sem limite] fila=1969 | depth=9 | https://telemacoborba.pr.gov.br/index.php/servicos/guia-de-servicos/obituario/88
+  [269 (+21600)/sem limite] fila=1968 | depth=9 | https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&templ
+  🤖 Usando Selenium para: https://telemacoborba.pr.gov.br/index.php/component/mailto/?tmpl=component&template=cloudbase3&link=213d84380c1ed7316638ae67790b87c4d8bb1cc6
