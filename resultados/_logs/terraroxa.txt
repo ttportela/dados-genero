@@ -1343,3 +1343,771 @@ Redirecionamento externo ignorado: https://terraroxa.atende.net/autoatendimento/
   🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
   [675/sem limite] fila=596 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIi
   🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [676/sem limite] fila=595 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [677/sem limite] fila=594 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [678/sem limite] fila=593 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [679/sem limite] fila=592 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [680/sem limite] fila=591 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [681/sem limite] fila=590 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [682/sem limite] fila=589 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [683/sem limite] fila=588 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [684/sem limite] fila=587 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [685/sem limite] fila=586 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [686/sem limite] fila=585 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [687/sem limite] fila=584 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [688/sem limite] fila=583 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [689/sem limite] fila=582 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [690/sem limite] fila=581 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [691/sem limite] fila=580 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [692/sem limite] fila=579 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [693/sem limite] fila=578 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [694/sem limite] fila=577 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [695/sem limite] fila=576 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [696/sem limite] fila=575 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [697/sem limite] fila=574 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [698/sem limite] fila=573 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [699/sem limite] fila=572 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [700/sem limite] fila=571 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [701/sem limite] fila=570 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [702/sem limite] fila=569 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [703/sem limite] fila=568 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [704/sem limite] fila=567 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [705/sem limite] fila=566 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [706/sem limite] fila=565 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6Ijgi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [707/sem limite] fila=564 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [708/sem limite] fila=563 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [709/sem limite] fila=562 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [710/sem limite] fila=561 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [711/sem limite] fila=560 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [712/sem limite] fila=559 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [713/sem limite] fila=558 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEy
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [714/sem limite] fila=557 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [715/sem limite] fila=556 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [716/sem limite] fila=555 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [717/sem limite] fila=554 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [718/sem limite] fila=553 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [719/sem limite] fila=552 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [720/sem limite] fila=551 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [721/sem limite] fila=550 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6Ijki
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [722/sem limite] fila=549 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6Ijki
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [723/sem limite] fila=548 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6Ijki
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [724/sem limite] fila=547 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [725/sem limite] fila=546 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [726/sem limite] fila=545 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [727/sem limite] fila=544 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [728/sem limite] fila=543 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [729/sem limite] fila=542 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [730/sem limite] fila=541 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [731/sem limite] fila=540 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [732/sem limite] fila=539 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [733/sem limite] fila=538 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [734/sem limite] fila=537 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [735/sem limite] fila=536 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [736/sem limite] fila=535 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [737/sem limite] fila=534 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [738/sem limite] fila=533 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [739/sem limite] fila=532 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [740/sem limite] fila=531 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [741/sem limite] fila=530 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?ag
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [742/sem limite] fila=529 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [743/sem limite] fila=528 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [744/sem limite] fila=527 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [745/sem limite] fila=526 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [746/sem limite] fila=525 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [747/sem limite] fila=524 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [748/sem limite] fila=523 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [749/sem limite] fila=522 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [750/sem limite] fila=521 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [751/sem limite] fila=520 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [752/sem limite] fila=519 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [753/sem limite] fila=518 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [754/sem limite] fila=517 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [755/sem limite] fila=516 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [756/sem limite] fila=515 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [757/sem limite] fila=514 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [758/sem limite] fila=513 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [759/sem limite] fila=512 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [760/sem limite] fila=511 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6Ijg
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [761/sem limite] fila=510 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjM
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [762/sem limite] fila=509 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [763/sem limite] fila=508 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [764/sem limite] fila=507 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [765/sem limite] fila=506 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [766/sem limite] fila=505 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [767/sem limite] fila=504 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [768/sem limite] fila=503 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [769/sem limite] fila=502 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [770/sem limite] fila=501 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [771/sem limite] fila=500 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [772/sem limite] fila=499 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [773/sem limite] fila=498 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [774/sem limite] fila=497 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [775/sem limite] fila=496 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [776/sem limite] fila=495 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [777/sem limite] fila=494 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [778/sem limite] fila=493 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [779/sem limite] fila=492 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [780/sem limite] fila=491 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [781/sem limite] fila=490 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [782/sem limite] fila=489 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [783/sem limite] fila=488 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [784/sem limite] fila=487 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [785/sem limite] fila=486 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [786/sem limite] fila=485 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [787/sem limite] fila=484 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [788/sem limite] fila=483 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [789/sem limite] fila=482 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [790/sem limite] fila=481 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [791/sem limite] fila=480 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [792/sem limite] fila=479 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [793/sem limite] fila=478 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [794/sem limite] fila=477 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [795/sem limite] fila=476 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [796/sem limite] fila=475 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [797/sem limite] fila=474 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [798/sem limite] fila=473 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [799/sem limite] fila=472 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [800/sem limite] fila=471 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  18 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  86 links externos registrados.
+  Checkpoint salvo (800 páginas totais | 800 nesta sessão).
+  [801/sem limite] fila=470 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [802/sem limite] fila=469 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [803/sem limite] fila=468 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [804/sem limite] fila=467 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [805/sem limite] fila=466 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [806/sem limite] fila=465 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [807/sem limite] fila=464 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [808/sem limite] fila=463 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [809/sem limite] fila=462 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [810/sem limite] fila=461 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [811/sem limite] fila=460 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [812/sem limite] fila=459 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [813/sem limite] fila=458 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJ
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [814/sem limite] fila=457 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [815/sem limite] fila=456 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [816/sem limite] fila=455 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [817/sem limite] fila=454 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [818/sem limite] fila=453 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [819/sem limite] fila=452 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [820/sem limite] fila=451 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [821/sem limite] fila=450 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [822/sem limite] fila=449 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [823/sem limite] fila=448 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [824/sem limite] fila=447 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [825/sem limite] fila=446 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [826/sem limite] fila=445 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [827/sem limite] fila=444 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [828/sem limite] fila=443 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [829/sem limite] fila=442 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [830/sem limite] fila=441 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [831/sem limite] fila=440 | depth=3 | https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnV
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [832/sem limite] fila=439 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/
+  [833/sem limite] fila=439 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/perguntas-frequentes?pg=t
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/perguntas-frequentes?pg=transparencia
+  [834/sem limite] fila=438 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [835/sem limite] fila=440 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  [836/sem limite] fila=439 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/cadastro-de-fornecedores?pg=trans
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/cadastro-de-fornecedores?pg=transparencia
+  [837/sem limite] fila=438 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/?pg=transparencia
+  [838/sem limite] fila=437 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/compras-vacinas?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/compras-vacinas?pg=transparencia
+  [839/sem limite] fila=436 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/doses-recebidas?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/doses-recebidas?pg=transparencia
+  [840/sem limite] fila=435 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/insumos-adquiridos?pg=transparenc
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/insumos-adquiridos?pg=transparencia
+  [841/sem limite] fila=434 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/salas-de-vacinacao?pg=transparenc
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/salas-de-vacinacao?pg=transparencia
+  [842/sem limite] fila=433 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/sobras-de-vacinas?pg=transparenci
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/sobras-de-vacinas?pg=transparencia
+  [843/sem limite] fila=432 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/vacinometro?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/vacinometro?pg=transparencia
+  [844/sem limite] fila=431 | depth=3 | https://terraroxa.atende.net/transparencia/mapa-do-site
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/mapa-do-site
+  [845/sem limite] fila=688 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao
+  [846/sem limite] fila=705 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais
+  [847/sem limite] fila=722 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/receitas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas
+  [848/sem limite] fila=739 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/despesas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas
+  [849/sem limite] fila=756 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas
+  [850/sem limite] fila=773 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude
+  [851/sem limite] fila=790 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/suprimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos
+  [852/sem limite] fila=807 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/pessoal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal
+  [853/sem limite] fila=824 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19
+  [854/sem limite] fila=841 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas
+  [855/sem limite] fila=858 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/educacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao
+  [856/sem limite] fila=875 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo
+  [857/sem limite] fila=892 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes
+  [858/sem limite] fila=909 | depth=3 | https://terraroxa.atende.net/transparencia/grupo/controle-interno
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno
+  [859/sem limite] fila=926 | depth=3 | https://terraroxa.atende.net/transparencia/item/historico-de-solicitacoes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/historico-de-solicitacoes
+  [860/sem limite] fila=925 | depth=3 | https://terraroxa.atende.net/transparencia/lei
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/lei
+  [861/sem limite] fila=924 | depth=3 | https://terraroxa.atende.net/transparencia/glossario
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/glossario
+  [862/sem limite] fila=923 | depth=3 | https://terraroxa.atende.net/transparencia/item/inventario-de-dados-abertos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/inventario-de-dados-abertos
+  [863/sem limite] fila=922 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/insumos-recebidos?pg=transparenci
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/insumos-recebidos?pg=transparencia
+  [864/sem limite] fila=921 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/denuncias?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/denuncias?pg=transparencia
+  [865/sem limite] fila=920 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/pagina/boletim-coronavirus?pg=transparen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  [866/sem limite] fila=919 | depth=3 | https://terraroxa.atende.net/autoatendimento/mural-de-recados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/mural-de-recados
+  [867/sem limite] fila=918 | depth=3 | https://terraroxa.atende.net/autoatendimento/resultado-da-pesquisa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/resultado-da-pesquisa
+  [868/sem limite] fila=917 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?perfil=false_false
+  [869/sem limite] fila=916 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/e-concurso-publico?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-concurso-publico?perfil=false_false
+  [870/sem limite] fila=915 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=false
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=false_false
+  [871/sem limite] fila=914 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=false_false
+  [872/sem limite] fila=913 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digital?perfil=false_false
+  [873/sem limite] fila=912 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-ac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-acesso?perfil=false_false
+  [874/sem limite] fila=911 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao?perfil
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao?perfil=false_false
+  [875/sem limite] fila=910 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso?perf
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso?perfil=false_false
+  [876/sem limite] fila=909 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos?perfil=f
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos?perfil=false_false
+  [877/sem limite] fila=908 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=false_false
+  [878/sem limite] fila=907 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=false_false
+  [879/sem limite] fila=907 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal?perfil
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal?perfil=false_false
+  [880/sem limite] fila=906 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos?perfil=f
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos?perfil=false_false
+  [881/sem limite] fila=905 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digital?perfil=false_false
+  [882/sem limite] fila=905 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria?perfil=false_false
+  [883/sem limite] fila=904 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais?perfil=false_false
+  [884/sem limite] fila=904 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=false_false
+  [885/sem limite] fila=903 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados?perfil=false_false
+  [886/sem limite] fila=902 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso?perfil=false_false
+  [887/sem limite] fila=901 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referente
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19?perfil=false_false
+  [888/sem limite] fila=901 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos?perfil=false_false
+  [889/sem limite] fila=901 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=false_false
+  [890/sem limite] fila=900 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email?perfil=false_false
+  [891/sem limite] fila=900 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal?p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal?perfil=false_false
+  [892/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=false_false
+  [893/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=false_f
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=false_false
+  [894/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios?perfil=false_false
+  [895/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=false_fa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=false_false
+  [896/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-es
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-escrituracao?perfil=false_false
+  [897/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto?perfil=false_false
+  [898/sem limite] fila=899 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria/detal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria/detalhar/1
+  [899/sem limite] fila=898 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digital/detalhar/1
+  [900/sem limite] fila=897 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos/detalhar/1
+  [901/sem limite] fila=896 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos/detalhar/1
+  [902/sem limite] fila=895 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse/detalhar/1
+  [903/sem limite] fila=894 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/mural-de-recados
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/mural-de-recados
+  [904/sem limite] fila=893 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/resultado-da-pesquisa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/resultado-da-pesquisa
+  [905/sem limite] fila=892 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?perfil=false_false
+  [906/sem limite] fila=891 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-concurso-publico?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-concurso-publico?perfil=false_false
+  [907/sem limite] fila=890 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=fa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=false_false
+  [908/sem limite] fila=889 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=false_false
+  [909/sem limite] fila=888 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-processo-di
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-processo-digital?perfil=false_false
+  [910/sem limite] fila=887 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de-acesso?perfil=false_false
+  [911/sem limite] fila=886 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-a-informacao?per
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-a-informacao?perfil=false_false
+  [912/sem limite] fila=885 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso?p
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso?perfil=false_false
+  [913/sem limite] fila=884 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos?perfil=false_false
+  [914/sem limite] fila=883 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perfil=false_false
+  [915/sem limite] fila=883 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perfil=false_false
+  [916/sem limite] fila=883 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ouvidoria-municipal?per
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ouvidoria-municipal?perfil=false_false
+  [917/sem limite] fila=882 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/carta-de-servicos?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/carta-de-servicos?perfil=false_false
+  [918/sem limite] fila=881 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-dig
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital?perfil=false_false
+  [919/sem limite] fila=881 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria?pe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria?perfil=false_false
+  [920/sem limite] fila=880 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais?perfil=false_false
+  [921/sem limite] fila=880 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=false_false
+  [922/sem limite] fila=879 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados?perfil=false_false
+  [923/sem limite] fila=879 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso?perfil=false_false
+  [924/sem limite] fila=878 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-refere
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19?perfil=false_false
+  [925/sem limite] fila=878 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certid
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos?perfil=false_false
+  [926/sem limite] fila=878 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticida
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=false_false
+  [927/sem limite] fila=877 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email?
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email?perfil=false_false
+  [928/sem limite] fila=877 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fisca
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fiscal?perfil=false_false
+  [929/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=false_false
+  [930/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=fals
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=false_false
+  [931/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-docume
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios?perfil=false_false
+  [932/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=false
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=false_false
+  [933/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para-escrituracao?perfil=false_false
+  [934/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto?perfil=false_false
+  [935/sem limite] fila=876 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria/detalhar/1
+  [936/sem limite] fila=875 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticida
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse/detalhar/1
+  [937/sem limite] fila=874 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?perfil=1_1
+  [938/sem limite] fila=873 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-concurso-publico?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-concurso-publico?perfil=1_1
+  [939/sem limite] fila=872 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=1_
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=1_1
+  [940/sem limite] fila=871 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=1_1
+  [941/sem limite] fila=870 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-processo-di
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-processo-digital?perfil=1_1
+  [942/sem limite] fila=869 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de-acesso?perfil=1_1
+  [943/sem limite] fila=868 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-a-informacao?per
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-a-informacao?perfil=1_1
+  [944/sem limite] fila=867 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso?p
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso?perfil=1_1
+  [945/sem limite] fila=866 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos?perfil=1_1
+  [946/sem limite] fila=865 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perfil=1_1
+  [947/sem limite] fila=864 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perfil=1_1
+  [948/sem limite] fila=863 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ouvidoria-municipal?per
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ouvidoria-municipal?perfil=1_1
+  [949/sem limite] fila=862 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/carta-de-servicos?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/carta-de-servicos?perfil=1_1
+  [950/sem limite] fila=861 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-dig
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital?perfil=1_1
+  [951/sem limite] fila=860 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria?pe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-a-ouvidoria?perfil=1_1
+  [952/sem limite] fila=859 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais?perfil=1_1
+  [953/sem limite] fila=858 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=1_1
+  [954/sem limite] fila=857 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados?perfil=1_1
+  [955/sem limite] fila=856 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso?perfil=1_1
+  [956/sem limite] fila=855 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-refere
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19?perfil=1_1
+  [957/sem limite] fila=854 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certid
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos?perfil=1_1
+  [958/sem limite] fila=853 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticida
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=1_1
+  [959/sem limite] fila=852 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email?
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email?perfil=1_1
+  [960/sem limite] fila=851 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fisca
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fiscal?perfil=1_1
+  [961/sem limite] fila=850 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=1_1
+  [962/sem limite] fila=849 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=1_1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=1_1
+  [963/sem limite] fila=848 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-docume
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios?perfil=1_1
+  [964/sem limite] fila=847 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=1_1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=1_1
+  [965/sem limite] fila=846 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para-escrituracao?perfil=1_1
+  [966/sem limite] fila=845 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto?perfil=1_1
+  [967/sem limite] fila=844 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=2_1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online?perfil=2_1
+  [968/sem limite] fila=843 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=2_1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi?perfil=2_1
+  [969/sem limite] fila=842 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=2_1
+  [970/sem limite] fila=842 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-de-no
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica?perfil=3_1
+  [971/sem limite] fila=841 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=3_1
+  [972/sem limite] fila=840 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perfil=3_1
+  [973/sem limite] fila=839 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=3_1
+  [974/sem limite] fila=838 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=3_1
+  [975/sem limite] fila=837 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=3_1
+  [976/sem limite] fila=836 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servicos-prestados?perfil=3_1
+  [977/sem limite] fila=836 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empres
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas?perfil=3_1
+  [978/sem limite] fila=836 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-de-no
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica?perfil=4_1
+  [979/sem limite] fila=835 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=4_1
+  [980/sem limite] fila=834 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara?perfil=4_1
+  [981/sem limite] fila=833 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa?perfil=4_1
+  [982/sem limite] fila=832 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=4_1
+  [983/sem limite] fila=831 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticida
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=4_1
+  [984/sem limite] fila=830 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=4_1
+  [985/sem limite] fila=829 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais?pe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais?perfil=4_1
+  [986/sem limite] fila=829 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=4_1
+  [987/sem limite] fila=828 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais?perfil=4_1
+  [988/sem limite] fila=828 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-in
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-infracao?perfil=4_1
+  [989/sem limite] fila=828 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-we
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-webservice?perfil=4_1
+  [990/sem limite] fila=828 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servicos-prestados?perfil=4_1
+  [991/sem limite] fila=827 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes?perfil=5_1
+  [992/sem limite] fila=826 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-lici
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-licitacoes?perfil=5_1
+  [993/sem limite] fila=826 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-relacao-de-documentos
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cnpj?perfil=5_1
+  [994/sem limite] fila=825 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-pregao-eletronico-cad
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-pregao-eletronico-cadastro-sicaf?perfil=5_1
+  [995/sem limite] fila=824 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-lote?perfil=5_1
+  [996/sem limite] fila=824 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-pregao-eletronico-com
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-pregao-eletronico-comprasnet?perfil=5_1
+  [997/sem limite] fila=823 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-relacao-de-documentos
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cpf?perfil=5_1
+  [998/sem limite] fila=822 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-1301914?perfil=5_1
+  [999/sem limite] fila=822 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=6_
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu?perfil=6_1
+  [1000/sem limite] fila=821 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=6_1
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  18 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (1000 páginas totais | 1000 nesta sessão).
+  [1001/sem limite] fila=820 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=6_1
+  [1002/sem limite] fila=819 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=6_1
+  [1003/sem limite] fila=818 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=7_1
+  [1004/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=7_1
+  [1005/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-de-servico?perfil=7_1
+  [1006/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletronico?perfil=7_1
+  [1007/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto?perfil=7_1
+  [1008/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-pr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio?perfil=7_1
+  [1009/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=7_1
+  [1010/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho?perfil=7_1
+  [1011/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-f
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=7_1
+  [1012/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos?perfil=7_1
+  [1013/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-d
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto?perfil=7_1
+  [1014/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contri
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=7_1
+  [1015/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos?perfil=7_1
+  [1016/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-ferias?perfil=7_1
+  [1017/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empregaticio?perfil=7_1
+  [1018/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-res
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-rescisao?perfil=7_1
+  [1019/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=7_1
+  [1020/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-cer
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos?perfil=7_1
+  [1021/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias?perfi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias?perfil=7_1
+  [1022/sem limite] fila=817 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=8_1
+  [1023/sem limite] fila=816 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=9_1
+  [1024/sem limite] fila=815 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos?perfil=9_1
+  [1025/sem limite] fila=814 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=9_1
+  [1026/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendiment
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendimento-profissional?perfil=12_1
+  [1027/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social?pe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social?perfil=12_1
+  [1028/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanit
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario?perfil=13_1
+  [1029/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario?perf
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario?perfil=13_1
+  [1030/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica?perfil=13_1
+  [1031/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura?perfil=13_1
+  [1032/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documentos-sanitarios?perfil=13_1
+  [1033/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao?perfil=13_1
+  [1034/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado?perfil=13_1
+  [1035/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-saude?perfil=13_1
+  [1036/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento?perfil=13_1
+  [1037/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-tran
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-transporte?perfil=13_1
+  [1038/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-particip
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-participacao-em-evento?perfil=13_1
+  [1039/sem limite] fila=813 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=107_1
+  [1040/sem limite] fila=812 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=107_1
+  [1041/sem limite] fila=811 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=107_1
+  [1042/sem limite] fila=810 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-f
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=107_1
+  [1043/sem limite] fila=809 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contri
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=107_1
+  [1044/sem limite] fila=808 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=107_1
+  [1045/sem limite] fila=807 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-recibo-de-pagamento/detalhar/1
+  [1046/sem limite] fila=806 | depth=3 | https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=viewFile&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=
+  [1047/sem limite] fila=805 | depth=3 | https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=viewFile&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=
+  [1048/sem limite] fila=804 | depth=3 | https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=viewFile&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=
+  [1049/sem limite] fila=803 | depth=3 | https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=viewFile&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=
+  [1050/sem limite] fila=802 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atende.php?rot=1&aca=11
+  📄 [200] .pdf -> https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atende.php?ro
+  [1051/sem limite] fila=801 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu/detalhar/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu/detalhar/1
+  [1052/sem limite] fila=800 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa
