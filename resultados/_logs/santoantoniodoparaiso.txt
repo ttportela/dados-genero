@@ -7644,12 +7644,3 @@ Redirecionamento externo ignorado: https://www.pmsantoantoniodoparaiso.pr.gov.br
   🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hB-xx/
 
 ============================================================
-  Descoberta de Portais Municipais — PR
-============================================================
-
-Consultando IBGE — municípios de PR (código 41)...
-  399 municípios encontrados.
-  (Filtro: apenas Santo Antônio do Paraíso)
-  Cidades já configuradas: 399
-
-  [1/1] 🔍 Santo Antônio do Paraíso (slug: santoantoniodoparaiso)... 

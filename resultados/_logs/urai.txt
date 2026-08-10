@@ -81881,12 +81881,3 @@ Inventário parcial carregado: 17626 arquivos já registrados.
   🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=12C8871C64ED812B02BB655F6C7D77E4?d-5470-p=2&6578706f7274=1&formulario.exercicio=2026&d-5470-e=9&formulario.mes=FEVEREIRO&formulario.codEntidade=446
 
 ============================================================
-  Descoberta de Portais Municipais — PR
-============================================================
-
-Consultando IBGE — municípios de PR (código 41)...
-  399 municípios encontrados.
-  (Filtro: apenas Uraí)
-  Cidades já configuradas: 399
-
-  [1/1] 🔍 Uraí (slug: urai)...   → buscando no DuckDuckGo (apenas inventário)... 
