@@ -1,0 +1,1275 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRARICA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TERRARICA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.terrarica.pr.gov.br/
+  [2/sem limite] fila=50 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=p0
+  [3/sem limite] fila=49 | depth=1 | http://www.terrarica.pr.gov.br/
+  [4/sem limite] fila=48 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368gab0
+  [5/sem limite] fila=47 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=2042
+  [6/sem limite] fila=53 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=2043
+  [7/sem limite] fila=59 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3371
+  [8/sem limite] fila=60 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3477
+  [9/sem limite] fila=62 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3478
+  [10/sem limite] fila=68 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3980
+  [11/sem limite] fila=69 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3476
+  [12/sem limite] fila=71 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=2047
+  [13/sem limite] fila=77 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3470
+  [14/sem limite] fila=83 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3359
+  [15/sem limite] fila=89 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3373
+  [16/sem limite] fila=95 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3370
+  [17/sem limite] fila=94 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=2044
+  [18/sem limite] fila=100 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3473
+  [19/sem limite] fila=106 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368svb0&id=3471
+  [20/sem limite] fila=112 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368b1b0&id=179
+  [21/sem limite] fila=111 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368b1b0&id=157
+  [22/sem limite] fila=110 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481165
+  [23/sem limite] fila=110 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480772
+  [24/sem limite] fila=109 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480233
+  [25/sem limite] fila=108 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475921
+  [26/sem limite] fila=107 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471532
+  [27/sem limite] fila=106 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473495
+  [28/sem limite] fila=105 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473478
+  [29/sem limite] fila=104 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368ovb0&id=3419
+  [30/sem limite] fila=103 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368ovb0&id=2664
+  [31/sem limite] fila=102 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368ovb0&id=1914
+  [32/sem limite] fila=101 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368ovb0&id=1913
+  [33/sem limite] fila=100 | depth=1 | http://www.terrarica.pr.gov.br/index.php?sessao=b054603368ovb0&id=1912
+  [34/sem limite] fila=99 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368ncb0&id=1763
+  [35/sem limite] fila=98 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368ncb0&id=1762
+  [36/sem limite] fila=97 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368ncb0&id=1764
+  [37/sem limite] fila=96 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=2042
+  [38/sem limite] fila=95 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=2043
+  [39/sem limite] fila=94 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3371
+  [40/sem limite] fila=93 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3477
+  [41/sem limite] fila=92 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3478
+  [42/sem limite] fila=91 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3980
+  [43/sem limite] fila=90 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3476
+  [44/sem limite] fila=89 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=2047
+  [45/sem limite] fila=88 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3470
+  [46/sem limite] fila=87 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3359
+  [47/sem limite] fila=86 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3373
+  [48/sem limite] fila=85 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3370
+  [49/sem limite] fila=84 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=2044
+  [50/sem limite] fila=83 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3473
+  [51/sem limite] fila=82 | depth=1 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368svb0&id=3471
+  [52/sem limite] fila=81 | depth=1 | http://webmail.terrarica.pr.gov.br/
+  [53/sem limite] fila=115 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1458954&id_se
+  [54/sem limite] fila=114 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1457744&id_se
+  [55/sem limite] fila=113 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1457739&id_se
+  [56/sem limite] fila=112 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1454860&id_se
+  [57/sem limite] fila=111 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439558&id_se
+  [58/sem limite] fila=110 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1438265&id_se
+  [59/sem limite] fila=109 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [60/sem limite] fila=162 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480233&id_se
+  [61/sem limite] fila=161 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1454341&id_se
+  [62/sem limite] fila=160 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447678&id_se
+  [63/sem limite] fila=159 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443446&id_se
+  [64/sem limite] fila=158 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443362&id_se
+  [65/sem limite] fila=157 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395445&id_se
+  [66/sem limite] fila=156 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [67/sem limite] fila=210 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445143&id_se
+  [68/sem limite] fila=209 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [69/sem limite] fila=258 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473495&id_se
+  [70/sem limite] fila=257 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449478&id_se
+  [71/sem limite] fila=256 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [72/sem limite] fila=305 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473495&id_se
+  [73/sem limite] fila=304 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1454068&id_se
+  [74/sem limite] fila=303 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1453788&id_se
+  [75/sem limite] fila=302 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449481&id_se
+  [76/sem limite] fila=301 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449477&id_se
+  [77/sem limite] fila=300 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448458&id_se
+  [78/sem limite] fila=299 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [79/sem limite] fila=352 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471532&id_se
+  [80/sem limite] fila=351 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [81/sem limite] fila=400 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1457744&id_se
+  [82/sem limite] fila=399 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440691&id_se
+  [83/sem limite] fila=398 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [84/sem limite] fila=447 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475921&id_se
+  [85/sem limite] fila=446 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471413&id_se
+  [86/sem limite] fila=445 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471314&id_se
+  [87/sem limite] fila=444 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448156&id_se
+  [88/sem limite] fila=443 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442628&id_se
+  [89/sem limite] fila=442 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441012&id_se
+  [90/sem limite] fila=441 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [91/sem limite] fila=494 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471413&id_se
+  [92/sem limite] fila=493 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471314&id_se
+  [93/sem limite] fila=492 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448509&id_se
+  [94/sem limite] fila=491 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442275&id_se
+  [95/sem limite] fila=490 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441345&id_se
+  [96/sem limite] fila=489 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440071&id_se
+  [97/sem limite] fila=488 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [98/sem limite] fila=541 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480772&id_se
+  [99/sem limite] fila=540 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480233&id_se
+  [100/sem limite] fila=539 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471314&id_se
+  [101/sem limite] fila=538 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449030&id_se
+  [102/sem limite] fila=537 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448553&id_se
+  [103/sem limite] fila=536 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448464&id_se
+  [104/sem limite] fila=535 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [105/sem limite] fila=588 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471314&id_se
+  [106/sem limite] fila=587 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446873&id_se
+  [107/sem limite] fila=586 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446672&id_se
+  [108/sem limite] fila=585 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445725&id_se
+  [109/sem limite] fila=584 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445386&id_se
+  [110/sem limite] fila=583 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444641&id_se
+  [111/sem limite] fila=582 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [112/sem limite] fila=635 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471413&id_se
+  [113/sem limite] fila=634 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467327&id_se
+  [114/sem limite] fila=633 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467132&id_se
+  [115/sem limite] fila=632 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466972&id_se
+  [116/sem limite] fila=631 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466970&id_se
+  [117/sem limite] fila=630 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466969&id_se
+  [118/sem limite] fila=629 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [119/sem limite] fila=682 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471213&id_se
+  [120/sem limite] fila=681 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1457744&id_se
+  [121/sem limite] fila=680 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442245&id_se
+  [122/sem limite] fila=679 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441819&id_se
+  [123/sem limite] fila=678 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439430&id_se
+  [124/sem limite] fila=677 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439431&id_se
+  [125/sem limite] fila=676 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [126/sem limite] fila=729 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471532&id_se
+  [127/sem limite] fila=728 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1471413&id_se
+  [128/sem limite] fila=727 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449477&id_se
+  [129/sem limite] fila=726 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448031&id_se
+  [130/sem limite] fila=725 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447340&id_se
+  [131/sem limite] fila=724 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442841&id_se
+  [132/sem limite] fila=723 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [133/sem limite] fila=776 | depth=2 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472971
+  [134/sem limite] fila=775 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ar
+  [135/sem limite] fila=774 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=cs
+  [136/sem limite] fila=773 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=da
+  [137/sem limite] fila=772 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=de
+  [138/sem limite] fila=771 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=el
+  [139/sem limite] fila=770 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=en
+  [140/sem limite] fila=769 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=es
+  [141/sem limite] fila=768 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=es_419
+  [142/sem limite] fila=767 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=es_es
+  [143/sem limite] fila=766 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=fi
+  [144/sem limite] fila=765 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=fil
+  [145/sem limite] fila=764 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=fr
+  [146/sem limite] fila=763 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=he
+  [147/sem limite] fila=762 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=hu
+  [148/sem limite] fila=761 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=i_en
+  [149/sem limite] fila=760 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=id
+  [150/sem limite] fila=759 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=it
+  [151/sem limite] fila=758 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ja
+  [152/sem limite] fila=757 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ko
+  [153/sem limite] fila=756 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ms
+  [154/sem limite] fila=755 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=nb
+  [155/sem limite] fila=754 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=nl
+  [156/sem limite] fila=753 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=pl
+  [157/sem limite] fila=752 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=pt
+  [158/sem limite] fila=751 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=pt_br
+  [159/sem limite] fila=750 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ro
+  [160/sem limite] fila=749 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=ru
+  [161/sem limite] fila=748 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=sv
+  [162/sem limite] fila=747 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=th
+  [163/sem limite] fila=746 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=tr
+  [164/sem limite] fila=745 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=uk
+  [165/sem limite] fila=744 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=vi
+  [166/sem limite] fila=743 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=zh
+  [167/sem limite] fila=742 | depth=2 | http://webmail.terrarica.pr.gov.br/?locale=zh_tw
+  [168/sem limite] fila=741 | depth=2 | http://webmail.terrarica.pr.gov.br/resetpass?start=1
+  [169/sem limite] fila=740 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1428160&id_se
+  [170/sem limite] fila=739 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1411823&id_se
+  [171/sem limite] fila=738 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1411178&id_se
+  [172/sem limite] fila=737 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1402839&id_se
+  [173/sem limite] fila=736 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [174/sem limite] fila=735 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [175/sem limite] fila=744 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [176/sem limite] fila=753 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [177/sem limite] fila=762 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [178/sem limite] fila=761 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [179/sem limite] fila=760 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [180/sem limite] fila=759 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [181/sem limite] fila=758 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [182/sem limite] fila=757 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [183/sem limite] fila=756 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [184/sem limite] fila=755 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [185/sem limite] fila=754 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [186/sem limite] fila=753 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [187/sem limite] fila=752 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [188/sem limite] fila=751 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [189/sem limite] fila=750 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [190/sem limite] fila=749 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [191/sem limite] fila=748 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [192/sem limite] fila=747 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [193/sem limite] fila=746 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [194/sem limite] fila=745 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [195/sem limite] fila=744 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [196/sem limite] fila=743 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [197/sem limite] fila=742 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [198/sem limite] fila=741 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [199/sem limite] fila=740 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [200/sem limite] fila=739 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  389 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=738 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [202/sem limite] fila=737 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [203/sem limite] fila=736 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [204/sem limite] fila=735 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [205/sem limite] fila=734 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [206/sem limite] fila=733 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [207/sem limite] fila=732 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [208/sem limite] fila=731 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [209/sem limite] fila=730 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [210/sem limite] fila=729 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [211/sem limite] fila=728 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [212/sem limite] fila=727 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [213/sem limite] fila=726 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [214/sem limite] fila=725 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [215/sem limite] fila=724 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [216/sem limite] fila=723 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [217/sem limite] fila=722 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [218/sem limite] fila=721 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [219/sem limite] fila=720 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [220/sem limite] fila=719 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [221/sem limite] fila=718 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [222/sem limite] fila=717 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [223/sem limite] fila=716 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1391763&id_se
+  [224/sem limite] fila=715 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382509&id_se
+  [225/sem limite] fila=714 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382510&id_se
+  [226/sem limite] fila=713 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1378894&id_se
+  [227/sem limite] fila=712 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1358638&id_se
+  [228/sem limite] fila=711 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [229/sem limite] fila=710 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [230/sem limite] fila=719 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [231/sem limite] fila=728 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [232/sem limite] fila=735 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [233/sem limite] fila=734 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [234/sem limite] fila=733 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [235/sem limite] fila=732 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [236/sem limite] fila=731 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [237/sem limite] fila=730 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [238/sem limite] fila=729 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [239/sem limite] fila=728 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [240/sem limite] fila=727 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [241/sem limite] fila=726 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [242/sem limite] fila=725 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [243/sem limite] fila=724 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [244/sem limite] fila=723 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [245/sem limite] fila=722 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [246/sem limite] fila=721 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [247/sem limite] fila=720 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [248/sem limite] fila=719 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [249/sem limite] fila=718 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [250/sem limite] fila=717 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [251/sem limite] fila=716 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [252/sem limite] fila=715 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [253/sem limite] fila=714 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [254/sem limite] fila=713 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [255/sem limite] fila=712 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [256/sem limite] fila=711 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [257/sem limite] fila=710 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [258/sem limite] fila=709 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [259/sem limite] fila=708 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [260/sem limite] fila=707 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [261/sem limite] fila=706 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [262/sem limite] fila=705 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [263/sem limite] fila=704 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [264/sem limite] fila=703 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [265/sem limite] fila=702 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [266/sem limite] fila=701 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [267/sem limite] fila=700 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [268/sem limite] fila=699 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [269/sem limite] fila=698 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [270/sem limite] fila=697 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [271/sem limite] fila=696 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [272/sem limite] fila=695 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [273/sem limite] fila=694 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [274/sem limite] fila=693 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [275/sem limite] fila=692 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [276/sem limite] fila=691 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [277/sem limite] fila=690 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [278/sem limite] fila=689 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [279/sem limite] fila=688 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [280/sem limite] fila=687 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [281/sem limite] fila=686 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [282/sem limite] fila=685 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [283/sem limite] fila=684 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [284/sem limite] fila=683 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [285/sem limite] fila=682 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [286/sem limite] fila=681 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [287/sem limite] fila=680 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [288/sem limite] fila=679 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [289/sem limite] fila=678 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [290/sem limite] fila=677 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [291/sem limite] fila=676 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [292/sem limite] fila=675 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [293/sem limite] fila=674 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [294/sem limite] fila=673 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [295/sem limite] fila=672 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [296/sem limite] fila=671 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [297/sem limite] fila=670 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [298/sem limite] fila=669 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [299/sem limite] fila=668 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [300/sem limite] fila=667 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [301/sem limite] fila=666 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [302/sem limite] fila=665 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [303/sem limite] fila=664 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [304/sem limite] fila=663 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [305/sem limite] fila=662 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [306/sem limite] fila=661 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [307/sem limite] fila=660 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [308/sem limite] fila=659 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [309/sem limite] fila=658 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [310/sem limite] fila=657 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [311/sem limite] fila=656 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [312/sem limite] fila=655 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [313/sem limite] fila=654 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [314/sem limite] fila=653 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [315/sem limite] fila=652 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [316/sem limite] fila=651 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [317/sem limite] fila=650 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [318/sem limite] fila=649 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [319/sem limite] fila=648 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [320/sem limite] fila=647 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [321/sem limite] fila=646 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [322/sem limite] fila=645 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [323/sem limite] fila=644 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [324/sem limite] fila=643 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [325/sem limite] fila=642 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [326/sem limite] fila=641 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [327/sem limite] fila=640 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [328/sem limite] fila=639 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [329/sem limite] fila=638 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [330/sem limite] fila=637 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [331/sem limite] fila=636 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [332/sem limite] fila=635 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [333/sem limite] fila=634 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [334/sem limite] fila=633 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [335/sem limite] fila=632 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [336/sem limite] fila=631 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [337/sem limite] fila=630 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [338/sem limite] fila=629 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [339/sem limite] fila=628 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [340/sem limite] fila=627 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [341/sem limite] fila=626 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [342/sem limite] fila=625 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [343/sem limite] fila=624 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [344/sem limite] fila=623 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [345/sem limite] fila=622 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [346/sem limite] fila=621 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [347/sem limite] fila=620 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [348/sem limite] fila=619 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [349/sem limite] fila=618 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [350/sem limite] fila=617 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [351/sem limite] fila=616 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [352/sem limite] fila=615 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [353/sem limite] fila=614 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [354/sem limite] fila=613 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [355/sem limite] fila=612 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [356/sem limite] fila=611 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [357/sem limite] fila=610 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [358/sem limite] fila=609 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [359/sem limite] fila=608 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [360/sem limite] fila=607 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [361/sem limite] fila=606 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [362/sem limite] fila=605 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [363/sem limite] fila=604 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [364/sem limite] fila=603 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [365/sem limite] fila=602 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [366/sem limite] fila=601 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [367/sem limite] fila=600 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [368/sem limite] fila=599 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [369/sem limite] fila=598 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [370/sem limite] fila=597 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [371/sem limite] fila=596 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [372/sem limite] fila=595 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [373/sem limite] fila=594 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [374/sem limite] fila=593 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [375/sem limite] fila=592 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [376/sem limite] fila=591 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [377/sem limite] fila=590 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [378/sem limite] fila=589 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447850&id_se
+  [379/sem limite] fila=588 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447780&id_se
+  [380/sem limite] fila=587 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447779&id_se
+  [381/sem limite] fila=586 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447657&id_se
+  [382/sem limite] fila=585 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [383/sem limite] fila=584 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [384/sem limite] fila=584 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [385/sem limite] fila=583 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [386/sem limite] fila=582 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [387/sem limite] fila=581 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [388/sem limite] fila=580 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [389/sem limite] fila=579 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [390/sem limite] fila=578 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [391/sem limite] fila=577 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [392/sem limite] fila=576 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [393/sem limite] fila=575 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [394/sem limite] fila=574 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [395/sem limite] fila=573 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [396/sem limite] fila=572 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [397/sem limite] fila=571 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [398/sem limite] fila=570 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [399/sem limite] fila=569 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [400/sem limite] fila=568 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  421 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=567 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [402/sem limite] fila=566 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [403/sem limite] fila=565 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [404/sem limite] fila=564 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [405/sem limite] fila=563 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [406/sem limite] fila=562 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [407/sem limite] fila=561 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [408/sem limite] fila=560 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [409/sem limite] fila=559 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [410/sem limite] fila=558 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [411/sem limite] fila=557 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [412/sem limite] fila=556 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [413/sem limite] fila=555 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [414/sem limite] fila=554 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [415/sem limite] fila=553 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [416/sem limite] fila=552 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [417/sem limite] fila=551 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [418/sem limite] fila=550 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [419/sem limite] fila=549 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [420/sem limite] fila=548 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [421/sem limite] fila=547 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [422/sem limite] fila=546 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [423/sem limite] fila=545 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [424/sem limite] fila=544 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [425/sem limite] fila=543 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [426/sem limite] fila=542 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [427/sem limite] fila=541 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [428/sem limite] fila=540 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [429/sem limite] fila=539 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [430/sem limite] fila=538 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [431/sem limite] fila=537 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [432/sem limite] fila=536 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [433/sem limite] fila=535 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [434/sem limite] fila=534 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [435/sem limite] fila=533 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [436/sem limite] fila=532 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [437/sem limite] fila=531 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [438/sem limite] fila=530 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [439/sem limite] fila=529 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [440/sem limite] fila=528 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [441/sem limite] fila=527 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [442/sem limite] fila=526 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [443/sem limite] fila=525 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [444/sem limite] fila=524 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [445/sem limite] fila=523 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [446/sem limite] fila=522 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [447/sem limite] fila=521 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [448/sem limite] fila=520 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [449/sem limite] fila=519 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [450/sem limite] fila=518 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [451/sem limite] fila=517 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [452/sem limite] fila=516 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [453/sem limite] fila=515 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [454/sem limite] fila=514 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [455/sem limite] fila=513 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [456/sem limite] fila=512 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [457/sem limite] fila=511 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [458/sem limite] fila=510 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [459/sem limite] fila=509 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [460/sem limite] fila=508 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [461/sem limite] fila=507 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [462/sem limite] fila=506 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [463/sem limite] fila=505 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [464/sem limite] fila=504 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [465/sem limite] fila=503 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [466/sem limite] fila=502 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [467/sem limite] fila=501 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [468/sem limite] fila=500 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [469/sem limite] fila=499 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [470/sem limite] fila=498 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [471/sem limite] fila=497 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [472/sem limite] fila=496 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [473/sem limite] fila=495 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [474/sem limite] fila=494 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [475/sem limite] fila=493 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [476/sem limite] fila=492 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [477/sem limite] fila=491 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [478/sem limite] fila=490 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [479/sem limite] fila=489 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [480/sem limite] fila=488 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [481/sem limite] fila=487 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=39
+  [482/sem limite] fila=486 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [483/sem limite] fila=485 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [484/sem limite] fila=484 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [485/sem limite] fila=483 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [486/sem limite] fila=482 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [487/sem limite] fila=481 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [488/sem limite] fila=480 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [489/sem limite] fila=479 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [490/sem limite] fila=478 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [491/sem limite] fila=477 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [492/sem limite] fila=476 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [493/sem limite] fila=475 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [494/sem limite] fila=474 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [495/sem limite] fila=473 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [496/sem limite] fila=472 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [497/sem limite] fila=471 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [498/sem limite] fila=470 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [499/sem limite] fila=469 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [500/sem limite] fila=468 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [501/sem limite] fila=467 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [502/sem limite] fila=466 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [503/sem limite] fila=465 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [504/sem limite] fila=464 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [505/sem limite] fila=463 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [506/sem limite] fila=462 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [507/sem limite] fila=461 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [508/sem limite] fila=460 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [509/sem limite] fila=459 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [510/sem limite] fila=458 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [511/sem limite] fila=457 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [512/sem limite] fila=456 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [513/sem limite] fila=455 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [514/sem limite] fila=454 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [515/sem limite] fila=453 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [516/sem limite] fila=452 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [517/sem limite] fila=451 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [518/sem limite] fila=450 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [519/sem limite] fila=449 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [520/sem limite] fila=448 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [521/sem limite] fila=447 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [522/sem limite] fila=446 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [523/sem limite] fila=445 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [524/sem limite] fila=444 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [525/sem limite] fila=443 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [526/sem limite] fila=442 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [527/sem limite] fila=441 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [528/sem limite] fila=440 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [529/sem limite] fila=439 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [530/sem limite] fila=438 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [531/sem limite] fila=437 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [532/sem limite] fila=436 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440034&id_se
+  [533/sem limite] fila=435 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439398&id_se
+  [534/sem limite] fila=434 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1432534&id_se
+  [535/sem limite] fila=433 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395448&id_se
+  [536/sem limite] fila=432 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [537/sem limite] fila=431 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [538/sem limite] fila=440 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [539/sem limite] fila=449 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [540/sem limite] fila=454 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [541/sem limite] fila=453 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [542/sem limite] fila=452 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [543/sem limite] fila=451 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [544/sem limite] fila=450 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [545/sem limite] fila=449 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [546/sem limite] fila=448 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [547/sem limite] fila=447 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [548/sem limite] fila=446 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [549/sem limite] fila=445 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [550/sem limite] fila=444 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [551/sem limite] fila=443 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [552/sem limite] fila=442 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [553/sem limite] fila=441 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [554/sem limite] fila=440 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [555/sem limite] fila=439 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [556/sem limite] fila=438 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [557/sem limite] fila=437 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [558/sem limite] fila=436 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [559/sem limite] fila=435 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [560/sem limite] fila=434 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [561/sem limite] fila=433 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [562/sem limite] fila=432 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [563/sem limite] fila=431 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [564/sem limite] fila=430 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [565/sem limite] fila=429 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [566/sem limite] fila=428 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [567/sem limite] fila=427 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [568/sem limite] fila=426 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [569/sem limite] fila=425 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [570/sem limite] fila=424 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [571/sem limite] fila=423 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [572/sem limite] fila=422 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [573/sem limite] fila=421 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [574/sem limite] fila=420 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [575/sem limite] fila=419 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [576/sem limite] fila=418 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [577/sem limite] fila=417 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [578/sem limite] fila=416 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [579/sem limite] fila=415 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [580/sem limite] fila=414 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [581/sem limite] fila=413 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [582/sem limite] fila=412 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [583/sem limite] fila=411 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [584/sem limite] fila=410 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [585/sem limite] fila=409 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [586/sem limite] fila=408 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439558&id_se
+  [587/sem limite] fila=407 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439452&id_se
+  [588/sem limite] fila=406 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439401&id_se
+  [589/sem limite] fila=405 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439403&id_se
+  [590/sem limite] fila=404 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [591/sem limite] fila=403 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [592/sem limite] fila=403 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [593/sem limite] fila=402 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [594/sem limite] fila=401 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [595/sem limite] fila=400 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [596/sem limite] fila=399 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [597/sem limite] fila=398 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [598/sem limite] fila=397 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [599/sem limite] fila=396 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [600/sem limite] fila=395 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  459 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 600 nesta sessão).
+  [601/sem limite] fila=394 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [602/sem limite] fila=393 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [603/sem limite] fila=392 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [604/sem limite] fila=391 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [605/sem limite] fila=390 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [606/sem limite] fila=389 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [607/sem limite] fila=388 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [608/sem limite] fila=387 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [609/sem limite] fila=386 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [610/sem limite] fila=385 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [611/sem limite] fila=384 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [612/sem limite] fila=383 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [613/sem limite] fila=382 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [614/sem limite] fila=381 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [615/sem limite] fila=380 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [616/sem limite] fila=379 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [617/sem limite] fila=378 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [618/sem limite] fila=377 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [619/sem limite] fila=376 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [620/sem limite] fila=375 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [621/sem limite] fila=374 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [622/sem limite] fila=373 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [623/sem limite] fila=372 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [624/sem limite] fila=371 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [625/sem limite] fila=370 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [626/sem limite] fila=369 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [627/sem limite] fila=368 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [628/sem limite] fila=367 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [629/sem limite] fila=366 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [630/sem limite] fila=365 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [631/sem limite] fila=364 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [632/sem limite] fila=363 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [633/sem limite] fila=362 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [634/sem limite] fila=361 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [635/sem limite] fila=360 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [636/sem limite] fila=359 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [637/sem limite] fila=358 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [638/sem limite] fila=357 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [639/sem limite] fila=356 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [640/sem limite] fila=355 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448354&id_se
+  [641/sem limite] fila=354 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448296&id_se
+  [642/sem limite] fila=353 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448073&id_se
+  [643/sem limite] fila=352 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448071&id_se
+  [644/sem limite] fila=351 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [645/sem limite] fila=350 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [646/sem limite] fila=356 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [647/sem limite] fila=355 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [648/sem limite] fila=354 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [649/sem limite] fila=353 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [650/sem limite] fila=352 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [651/sem limite] fila=351 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [652/sem limite] fila=350 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [653/sem limite] fila=349 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [654/sem limite] fila=348 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [655/sem limite] fila=347 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [656/sem limite] fila=346 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [657/sem limite] fila=345 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [658/sem limite] fila=344 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [659/sem limite] fila=343 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [660/sem limite] fila=342 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [661/sem limite] fila=341 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [662/sem limite] fila=340 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [663/sem limite] fila=339 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [664/sem limite] fila=338 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [665/sem limite] fila=337 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [666/sem limite] fila=336 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [667/sem limite] fila=335 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [668/sem limite] fila=334 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [669/sem limite] fila=333 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [670/sem limite] fila=332 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [671/sem limite] fila=331 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [672/sem limite] fila=330 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [673/sem limite] fila=329 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [674/sem limite] fila=328 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [675/sem limite] fila=327 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [676/sem limite] fila=326 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [677/sem limite] fila=325 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [678/sem limite] fila=324 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [679/sem limite] fila=323 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [680/sem limite] fila=322 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [681/sem limite] fila=321 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [682/sem limite] fila=320 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [683/sem limite] fila=319 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [684/sem limite] fila=318 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [685/sem limite] fila=317 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [686/sem limite] fila=316 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [687/sem limite] fila=315 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [688/sem limite] fila=314 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [689/sem limite] fila=313 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [690/sem limite] fila=312 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [691/sem limite] fila=311 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [692/sem limite] fila=310 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [693/sem limite] fila=309 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [694/sem limite] fila=308 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442462&id_se
+  [695/sem limite] fila=307 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441383&id_se
+  [696/sem limite] fila=306 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440069&id_se
+  [697/sem limite] fila=305 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440067&id_se
+  [698/sem limite] fila=304 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [699/sem limite] fila=303 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [700/sem limite] fila=307 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [701/sem limite] fila=306 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [702/sem limite] fila=305 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [703/sem limite] fila=304 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [704/sem limite] fila=303 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [705/sem limite] fila=302 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [706/sem limite] fila=301 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [707/sem limite] fila=300 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [708/sem limite] fila=299 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [709/sem limite] fila=298 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [710/sem limite] fila=297 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [711/sem limite] fila=296 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [712/sem limite] fila=295 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [713/sem limite] fila=294 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [714/sem limite] fila=293 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [715/sem limite] fila=292 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [716/sem limite] fila=291 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [717/sem limite] fila=290 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [718/sem limite] fila=289 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [719/sem limite] fila=288 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [720/sem limite] fila=287 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [721/sem limite] fila=286 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [722/sem limite] fila=285 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [723/sem limite] fila=284 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [724/sem limite] fila=283 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [725/sem limite] fila=282 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [726/sem limite] fila=281 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [727/sem limite] fila=280 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [728/sem limite] fila=279 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [729/sem limite] fila=278 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [730/sem limite] fila=277 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [731/sem limite] fila=276 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [732/sem limite] fila=275 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [733/sem limite] fila=274 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [734/sem limite] fila=273 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [735/sem limite] fila=272 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [736/sem limite] fila=271 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [737/sem limite] fila=270 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [738/sem limite] fila=269 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [739/sem limite] fila=268 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [740/sem limite] fila=267 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [741/sem limite] fila=266 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [742/sem limite] fila=265 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [743/sem limite] fila=264 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [744/sem limite] fila=263 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [745/sem limite] fila=262 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [746/sem limite] fila=261 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [747/sem limite] fila=260 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=33
+  [748/sem limite] fila=259 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448989&id_se
+  [749/sem limite] fila=258 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448976&id_se
+  [750/sem limite] fila=257 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448975&id_se
+  [751/sem limite] fila=256 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448852&id_se
+  [752/sem limite] fila=255 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [753/sem limite] fila=254 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [754/sem limite] fila=263 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [755/sem limite] fila=272 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [756/sem limite] fila=281 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [757/sem limite] fila=290 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [758/sem limite] fila=299 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [759/sem limite] fila=308 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [760/sem limite] fila=317 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [761/sem limite] fila=326 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [762/sem limite] fila=335 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [763/sem limite] fila=344 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [764/sem limite] fila=353 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [765/sem limite] fila=362 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [766/sem limite] fila=367 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [767/sem limite] fila=366 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [768/sem limite] fila=365 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [769/sem limite] fila=364 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [770/sem limite] fila=363 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [771/sem limite] fila=362 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [772/sem limite] fila=361 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [773/sem limite] fila=360 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [774/sem limite] fila=359 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [775/sem limite] fila=358 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [776/sem limite] fila=357 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [777/sem limite] fila=356 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [778/sem limite] fila=355 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [779/sem limite] fila=354 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [780/sem limite] fila=353 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [781/sem limite] fila=352 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [782/sem limite] fila=351 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [783/sem limite] fila=350 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [784/sem limite] fila=349 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [785/sem limite] fila=348 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [786/sem limite] fila=347 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [787/sem limite] fila=346 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [788/sem limite] fila=345 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [789/sem limite] fila=344 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [790/sem limite] fila=343 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [791/sem limite] fila=342 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [792/sem limite] fila=341 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [793/sem limite] fila=340 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [794/sem limite] fila=339 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [795/sem limite] fila=338 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [796/sem limite] fila=337 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [797/sem limite] fila=336 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [798/sem limite] fila=335 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [799/sem limite] fila=334 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [800/sem limite] fila=333 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  490 links externos registrados.
+  Checkpoint salvo (800 páginas totais | 800 nesta sessão).
+  [801/sem limite] fila=332 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=20
+  [802/sem limite] fila=331 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439405&id_se
+  [803/sem limite] fila=330 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1402839&id_se
+  [804/sem limite] fila=329 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395441&id_se
+  [805/sem limite] fila=328 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395440&id_se
+  [806/sem limite] fila=327 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [807/sem limite] fila=326 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [808/sem limite] fila=325 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [809/sem limite] fila=324 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [810/sem limite] fila=323 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [811/sem limite] fila=322 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [812/sem limite] fila=321 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [813/sem limite] fila=320 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [814/sem limite] fila=319 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [815/sem limite] fila=318 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [816/sem limite] fila=317 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [817/sem limite] fila=316 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [818/sem limite] fila=315 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [819/sem limite] fila=314 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [820/sem limite] fila=313 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [821/sem limite] fila=312 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [822/sem limite] fila=311 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [823/sem limite] fila=310 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [824/sem limite] fila=309 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [825/sem limite] fila=308 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [826/sem limite] fila=307 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [827/sem limite] fila=306 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [828/sem limite] fila=305 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [829/sem limite] fila=304 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [830/sem limite] fila=303 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [831/sem limite] fila=302 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [832/sem limite] fila=301 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [833/sem limite] fila=300 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [834/sem limite] fila=299 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [835/sem limite] fila=298 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [836/sem limite] fila=297 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [837/sem limite] fila=296 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [838/sem limite] fila=295 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [839/sem limite] fila=294 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [840/sem limite] fila=293 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [841/sem limite] fila=292 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [842/sem limite] fila=291 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [843/sem limite] fila=290 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [844/sem limite] fila=289 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [845/sem limite] fila=288 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [846/sem limite] fila=287 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [847/sem limite] fila=286 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [848/sem limite] fila=285 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [849/sem limite] fila=284 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [850/sem limite] fila=283 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [851/sem limite] fila=282 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [852/sem limite] fila=281 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [853/sem limite] fila=280 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [854/sem limite] fila=279 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [855/sem limite] fila=278 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [856/sem limite] fila=277 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395441&id_se
+  [857/sem limite] fila=276 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395438&id_se
+  [858/sem limite] fila=275 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395446&id_se
+  [859/sem limite] fila=274 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395464&id_se
+  [860/sem limite] fila=273 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [861/sem limite] fila=272 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [862/sem limite] fila=272 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [863/sem limite] fila=271 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [864/sem limite] fila=270 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [865/sem limite] fila=269 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [866/sem limite] fila=268 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [867/sem limite] fila=267 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [868/sem limite] fila=266 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [869/sem limite] fila=265 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [870/sem limite] fila=264 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [871/sem limite] fila=263 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [872/sem limite] fila=262 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [873/sem limite] fila=261 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [874/sem limite] fila=260 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [875/sem limite] fila=259 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [876/sem limite] fila=258 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [877/sem limite] fila=257 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [878/sem limite] fila=256 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [879/sem limite] fila=255 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [880/sem limite] fila=254 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [881/sem limite] fila=253 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [882/sem limite] fila=252 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [883/sem limite] fila=251 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [884/sem limite] fila=250 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [885/sem limite] fila=249 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [886/sem limite] fila=248 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [887/sem limite] fila=247 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [888/sem limite] fila=246 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [889/sem limite] fila=245 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [890/sem limite] fila=244 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [891/sem limite] fila=243 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [892/sem limite] fila=242 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [893/sem limite] fila=241 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [894/sem limite] fila=240 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [895/sem limite] fila=239 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [896/sem limite] fila=238 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [897/sem limite] fila=237 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [898/sem limite] fila=236 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [899/sem limite] fila=235 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [900/sem limite] fila=234 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [901/sem limite] fila=233 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [902/sem limite] fila=232 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [903/sem limite] fila=231 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [904/sem limite] fila=230 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [905/sem limite] fila=229 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [906/sem limite] fila=228 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [907/sem limite] fila=227 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [908/sem limite] fila=226 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [909/sem limite] fila=225 | depth=3 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria=34
+  [910/sem limite] fila=224 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1402671&id_se
+  [911/sem limite] fila=223 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382542&id_se
+  [912/sem limite] fila=222 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382522&id_se
+  [913/sem limite] fila=221 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382511&id_se
+  [914/sem limite] fila=220 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382513&id_se
+  [915/sem limite] fila=219 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382515&id_se
+  [916/sem limite] fila=218 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382516&id_se
+  [917/sem limite] fila=217 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1379921&id_se
+  [918/sem limite] fila=216 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1358595&id_se
+  [919/sem limite] fila=215 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1344616&id_se
+  [920/sem limite] fila=214 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1344234&id_se
+  [921/sem limite] fila=213 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1343562&id_se
+  [922/sem limite] fila=212 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1343477&id_se
+  [923/sem limite] fila=211 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340783&id_se
+  [924/sem limite] fila=210 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340787&id_se
+  [925/sem limite] fila=209 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340268&id_se
+  [926/sem limite] fila=208 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339962&id_se
+  [927/sem limite] fila=207 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339276&id_se
+  [928/sem limite] fila=206 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339023&id_se
+  [929/sem limite] fila=205 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1338531&id_se
+  [930/sem limite] fila=204 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337827&id_se
+  [931/sem limite] fila=203 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337326&id_se
+  [932/sem limite] fila=202 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336392&id_se
+  [933/sem limite] fila=201 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334733&id_se
+  [934/sem limite] fila=200 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334153&id_se
+  [935/sem limite] fila=199 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333434&id_se
+  [936/sem limite] fila=198 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333150&id_se
+  [937/sem limite] fila=197 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333125&id_se
+  [938/sem limite] fila=196 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333116&id_se
+  [939/sem limite] fila=195 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331851&id_se
+  [940/sem limite] fila=194 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1357817&id_se
+  [941/sem limite] fila=193 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1345740&id_se
+  [942/sem limite] fila=192 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1344620&id_se
+  [943/sem limite] fila=191 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1343612&id_se
+  [944/sem limite] fila=190 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340782&id_se
+  [945/sem limite] fila=189 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339095&id_se
+  [946/sem limite] fila=188 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339024&id_se
+  [947/sem limite] fila=187 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1338353&id_se
+  [948/sem limite] fila=186 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337755&id_se
+  [949/sem limite] fila=185 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337751&id_se
+  [950/sem limite] fila=184 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337314&id_se
+  [951/sem limite] fila=183 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336948&id_se
+  [952/sem limite] fila=182 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336627&id_se
+  [953/sem limite] fila=181 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336393&id_se
+  [954/sem limite] fila=180 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336382&id_se
+  [955/sem limite] fila=179 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335219&id_se
+  [956/sem limite] fila=178 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335149&id_se
+  [957/sem limite] fila=177 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334571&id_se
+  [958/sem limite] fila=176 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334467&id_se
+  [959/sem limite] fila=175 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334180&id_se
+  [960/sem limite] fila=174 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333130&id_se
+  [961/sem limite] fila=173 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333129&id_se
+  [962/sem limite] fila=172 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333126&id_se
+  [963/sem limite] fila=171 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333119&id_se
+  [964/sem limite] fila=170 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1332153&id_se
+  [965/sem limite] fila=169 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331324&id_se
+  [966/sem limite] fila=168 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331087&id_se
+  [967/sem limite] fila=167 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1330292&id_se
+  [968/sem limite] fila=166 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447295&id_se
+  [969/sem limite] fila=165 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395451&id_se
+  [970/sem limite] fila=164 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395454&id_se
+  [971/sem limite] fila=163 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395452&id_se
+  [972/sem limite] fila=162 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1382508&id_se
+  [973/sem limite] fila=161 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1379099&id_se
+  [974/sem limite] fila=160 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1378886&id_se
+  [975/sem limite] fila=159 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1345469&id_se
+  [976/sem limite] fila=158 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1344617&id_se
+  [977/sem limite] fila=157 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1343479&id_se
+  [978/sem limite] fila=156 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340782&id_se
+  [979/sem limite] fila=155 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340267&id_se
+  [980/sem limite] fila=154 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340263&id_se
+  [981/sem limite] fila=153 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339951&id_se
+  [982/sem limite] fila=152 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339090&id_se
+  [983/sem limite] fila=151 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1338314&id_se
+  [984/sem limite] fila=150 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337754&id_se
+  [985/sem limite] fila=149 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336913&id_se
+  [986/sem limite] fila=148 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336027&id_se
+  [987/sem limite] fila=147 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335889&id_se
+  [988/sem limite] fila=146 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335135&id_se
+  [989/sem limite] fila=145 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335123&id_se
+  [990/sem limite] fila=144 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334465&id_se
+  [991/sem limite] fila=143 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333147&id_se
+  [992/sem limite] fila=142 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333115&id_se
+  [993/sem limite] fila=141 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1332529&id_se
+  [994/sem limite] fila=140 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1330995&id_se
+  [995/sem limite] fila=139 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439407&id_se
+  [996/sem limite] fila=138 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447864&id_se
+  [997/sem limite] fila=137 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446950&id_se
+  [998/sem limite] fila=136 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446932&id_se
+  [999/sem limite] fila=135 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445157&id_se
+  [1000/sem limite] fila=134 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443677&id_se
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  1369 links externos registrados.
+  Checkpoint salvo (1000 páginas totais | 1000 nesta sessão).
+  [1001/sem limite] fila=133 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441383&id_se
+  [1002/sem limite] fila=132 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439435&id_se
+  [1003/sem limite] fila=131 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439778&id_se
+  [1004/sem limite] fila=130 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439558&id_se
+  [1005/sem limite] fila=129 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439468&id_se
+  [1006/sem limite] fila=128 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439430&id_se
+  [1007/sem limite] fila=127 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439431&id_se
+  [1008/sem limite] fila=126 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448851&id_se
+  [1009/sem limite] fila=125 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448561&id_se
+  [1010/sem limite] fila=124 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448463&id_se
+  [1011/sem limite] fila=123 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1448457&id_se
+  [1012/sem limite] fila=122 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447914&id_se
+  [1013/sem limite] fila=121 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447388&id_se
+  [1014/sem limite] fila=120 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447338&id_se
+  [1015/sem limite] fila=119 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447167&id_se
+  [1016/sem limite] fila=118 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447135&id_se
+  [1017/sem limite] fila=117 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447129&id_se
+  [1018/sem limite] fila=116 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1447128&id_se
+  [1019/sem limite] fila=115 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446946&id_se
+  [1020/sem limite] fila=114 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446930&id_se
+  [1021/sem limite] fila=113 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446873&id_se
+  [1022/sem limite] fila=112 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446858&id_se
+  [1023/sem limite] fila=111 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446671&id_se
+  [1024/sem limite] fila=110 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446668&id_se
+  [1025/sem limite] fila=109 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446630&id_se
+  [1026/sem limite] fila=108 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446518&id_se
+  [1027/sem limite] fila=107 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446464&id_se
+  [1028/sem limite] fila=106 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446458&id_se
+  [1029/sem limite] fila=105 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446117&id_se
+  [1030/sem limite] fila=104 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446083&id_se
+  [1031/sem limite] fila=103 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1446079&id_se
+  [1032/sem limite] fila=102 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445953&id_se
+  [1033/sem limite] fila=101 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445952&id_se
+  [1034/sem limite] fila=100 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445903&id_se
+  [1035/sem limite] fila=99 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445734&id_se
+  [1036/sem limite] fila=98 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445679&id_se
+  [1037/sem limite] fila=97 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445383&id_se
+  [1038/sem limite] fila=96 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1445187&id_se
+  [1039/sem limite] fila=95 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444816&id_se
+  [1040/sem limite] fila=94 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444490&id_se
+  [1041/sem limite] fila=93 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444449&id_se
+  [1042/sem limite] fila=92 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444220&id_se
+  [1043/sem limite] fila=91 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444181&id_se
+  [1044/sem limite] fila=90 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1444145&id_se
+  [1045/sem limite] fila=89 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443971&id_se
+  [1046/sem limite] fila=88 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443862&id_se
+  [1047/sem limite] fila=87 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443795&id_se
+  [1048/sem limite] fila=86 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443736&id_se
+  [1049/sem limite] fila=85 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443692&id_se
+  [1050/sem limite] fila=84 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443675&id_se
+  [1051/sem limite] fila=83 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443518&id_se
+  [1052/sem limite] fila=82 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443283&id_se
+  [1053/sem limite] fila=81 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443272&id_se
+  [1054/sem limite] fila=80 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443184&id_se
+  [1055/sem limite] fila=79 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1443176&id_se
+  [1056/sem limite] fila=78 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442986&id_se
+  [1057/sem limite] fila=77 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442972&id_se
+  [1058/sem limite] fila=76 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442926&id_se
+  [1059/sem limite] fila=75 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442912&id_se
+  [1060/sem limite] fila=74 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442740&id_se
+  [1061/sem limite] fila=73 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442605&id_se
+  [1062/sem limite] fila=72 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442592&id_se
+  [1063/sem limite] fila=71 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442434&id_se
+  [1064/sem limite] fila=70 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442252&id_se
+  [1065/sem limite] fila=69 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442160&id_se
+  [1066/sem limite] fila=68 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1442059&id_se
+  [1067/sem limite] fila=67 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441972&id_se
+  [1068/sem limite] fila=66 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441776&id_se
+  [1069/sem limite] fila=65 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441698&id_se
+  [1070/sem limite] fila=64 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441697&id_se
+  [1071/sem limite] fila=63 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441645&id_se
+  [1072/sem limite] fila=62 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441592&id_se
+  [1073/sem limite] fila=61 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441562&id_se
+  [1074/sem limite] fila=60 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441561&id_se
+  [1075/sem limite] fila=59 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441560&id_se
+  [1076/sem limite] fila=58 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441415&id_se
+  [1077/sem limite] fila=57 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441348&id_se
+  [1078/sem limite] fila=56 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441247&id_se
+  [1079/sem limite] fila=55 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441207&id_se
+  [1080/sem limite] fila=54 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441161&id_se
+  [1081/sem limite] fila=53 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1441089&id_se
+  [1082/sem limite] fila=52 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440925&id_se
+  [1083/sem limite] fila=51 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440841&id_se
+  [1084/sem limite] fila=50 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440804&id_se
+  [1085/sem limite] fila=49 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440754&id_se
+  [1086/sem limite] fila=48 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440660&id_se
+  [1087/sem limite] fila=47 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440522&id_se
+  [1088/sem limite] fila=46 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440473&id_se
+  [1089/sem limite] fila=45 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440457&id_se
+  [1090/sem limite] fila=44 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440455&id_se
+  [1091/sem limite] fila=43 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440234&id_se
+  [1092/sem limite] fila=42 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1440137&id_se
+  [1093/sem limite] fila=41 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439960&id_se
+  [1094/sem limite] fila=40 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439886&id_se
+  [1095/sem limite] fila=39 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439791&id_se
+  [1096/sem limite] fila=38 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439693&id_se
+  [1097/sem limite] fila=37 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439686&id_se
+  [1098/sem limite] fila=36 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439613&id_se
+  [1099/sem limite] fila=35 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439396&id_se
+  [1100/sem limite] fila=34 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439433&id_se
+  [1101/sem limite] fila=33 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439408&id_se
+  [1102/sem limite] fila=32 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1439435&id_se
+  [1103/sem limite] fila=31 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1423356&id_se
+  [1104/sem limite] fila=30 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1391733&id_se
+  [1105/sem limite] fila=29 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1378682&id_se
+  [1106/sem limite] fila=28 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1346105&id_se
+  [1107/sem limite] fila=27 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1345472&id_se
+  [1108/sem limite] fila=26 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1345392&id_se
+  [1109/sem limite] fila=25 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1345001&id_se
+  [1110/sem limite] fila=24 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1344237&id_se
+  [1111/sem limite] fila=23 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1341220&id_se
+  [1112/sem limite] fila=22 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1341216&id_se
+  [1113/sem limite] fila=21 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340784&id_se
+  [1114/sem limite] fila=20 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1340782&id_se
+  [1115/sem limite] fila=19 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339956&id_se
+  [1116/sem limite] fila=18 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339954&id_se
+  [1117/sem limite] fila=17 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339273&id_se
+  [1118/sem limite] fila=16 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1339181&id_se
+  [1119/sem limite] fila=15 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1338535&id_se
+  [1120/sem limite] fila=14 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1337866&id_se
+  [1121/sem limite] fila=13 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1336683&id_se
+  [1122/sem limite] fila=12 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335898&id_se
+  [1123/sem limite] fila=11 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335889&id_se
+  [1124/sem limite] fila=10 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335730&id_se
+  [1125/sem limite] fila=9 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1335679&id_se
+  [1126/sem limite] fila=8 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334463&id_se
+  [1127/sem limite] fila=7 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1334148&id_se
+  [1128/sem limite] fila=6 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1333899&id_se
+  [1129/sem limite] fila=5 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331761&id_se
+  [1130/sem limite] fila=4 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331361&id_se
+  [1131/sem limite] fila=3 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1331087&id_se
+  [1132/sem limite] fila=2 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1330665&id_se
+  [1133/sem limite] fila=1 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1330618&id_se
+  [1134/sem limite] fila=0 | depth=4 | http://www.terrarica.pr.gov.br//index.php?sessao=b054603368vfb0&id=1395455&id_se
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  1847 links externos registrados.
+
+  Varredura encerrada: TERRARICA
+  Páginas nesta sessão: 1134
+  Páginas totais (acumulado): 1134
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/terrarica/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Terra Rica)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Terra Rica (slug: terrarica)...   → buscando no DuckDuckGo (apenas inventário)... /home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (DuckDuckGo bloqueou — aguardando 10s...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (tentando Google...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'app.prefeituradecampogrande.net.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'app.prefeituradecampogrande.net.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://app.prefeituradecampogrande.net.br/servicos//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.campogrande.ms.gov.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.campogrande.ms.gov.br//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.prefeituradecampogrande.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.prefeituradecampogrande.org/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRARICA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 1847 links já registrados.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: TERRARICA
+  Páginas já visitadas (checkpoint): 1134
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Nenhum arquivo encontrado para terrarica.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terrarica/inventario_externos.xlsx
+  1847 links externos registrados.
+
+  Varredura encerrada: TERRARICA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 1134
+  Arquivos no inventário: 0
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/terrarica/
+============================================================
+

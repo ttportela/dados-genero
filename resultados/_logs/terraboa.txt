@@ -1,0 +1,707 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRABOA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TERRABOA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.terraboa.pr.gov.br/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/12/2025-_ranking-pre
+  [2/sem limite] fila=54 | depth=1 | https://webmail.terraboa.pr.gov.br/
+  [3/sem limite] fila=88 | depth=1 | https://terraboa.pr.gov.br/telefonia-municipal/%20
+  [4/sem limite] fila=89 | depth=1 | https://terraboa.pr.gov.br
+  [5/sem limite] fila=88 | depth=1 | https://terraboa.pr.gov.br/prefeito-e-vice-prefeito/
+  [6/sem limite] fila=87 | depth=1 | https://terraboa.pr.gov.br/historia/
+  [7/sem limite] fila=86 | depth=1 | https://terraboa.pr.gov.br/brasao/
+  [8/sem limite] fila=85 | depth=1 | https://terraboa.pr.gov.br/bandeira/
+  [9/sem limite] fila=84 | depth=1 | https://terraboa.pr.gov.br/hino/
+  [10/sem limite] fila=83 | depth=1 | https://terraboa.pr.gov.br/localizacao/
+  [11/sem limite] fila=82 | depth=1 | https://terraboa.pr.gov.br/geografia/
+  [12/sem limite] fila=81 | depth=1 | https://terraboa.pr.gov.br/secretaria-administracao-geral/
+  [13/sem limite] fila=80 | depth=1 | https://terraboa.pr.gov.br/secretaria-desenvolvimentosocial-familia/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Plano-Municipal-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/01/PLANO-DECENAL-DA-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/PLANO_MUNICIPAL_D
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/Plano-Municipal-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/Plano-Municipal-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Relatorio-2023-Mo
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Plano-Municipal-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/PLANO-MUNICIPAL-D
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Plano-Decenal-Mun
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/RELATORIO-DE-2022
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/Relatorio-2024-Mo
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/PROTOCOLO-DA-PROT
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/Plano-Municipal-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/RELATORIO-FINAL-C
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/08/Monitoramento-e-A
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/01_130616171002_
+  [14/sem limite] fila=79 | depth=1 | https://terraboa.pr.gov.br/centros-de-convivencias/
+  [15/sem limite] fila=78 | depth=1 | https://terraboa.pr.gov.br/conselhos/
+  [16/sem limite] fila=77 | depth=1 | https://terraboa.pr.gov.br/cras/
+  [17/sem limite] fila=76 | depth=1 | https://terraboa.pr.gov.br/creas/
+  [18/sem limite] fila=75 | depth=1 | https://terraboa.pr.gov.br/portal-da-cidadania/
+  [19/sem limite] fila=74 | depth=1 | https://terraboa.pr.gov.br/unidades-de-acolhimento/
+  [20/sem limite] fila=73 | depth=1 | https://terraboa.pr.gov.br/vigilanciasocioassistencial/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/04/DIAGNOSTICO-SOCIO
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/03/BOLETIM.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/08/BOLETIM-1-SEMESTR
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/1°-Boletim-Terra-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Diagnostico-Socio
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/2°-Boletim-Terra-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/Diagnostico-Socio
+  [21/sem limite] fila=72 | depth=1 | https://terraboa.pr.gov.br/secretaria-educacao-e-cultura/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/item-038-PAR.pdf
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/01_LEI1.pdf
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/02_REL1.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/11/MONOTORAMENTO-PME
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/RELATORIO-AVALIAC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/RELATORIO-DE-MONI
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/AVALIACAO-PME2025
+  [22/sem limite] fila=71 | depth=1 | https://terraboa.pr.gov.br/editais/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/EDITAL-INSTRUTOR-
+  [23/sem limite] fila=70 | depth=1 | https://terraboa.pr.gov.br/aldirblanc/
+  [24/sem limite] fila=74 | depth=1 | https://terraboa.pr.gov.br/leipaulogustavo/
+  [25/sem limite] fila=76 | depth=1 | https://terraboa.pr.gov.br/demanda-educacao/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/05/Anexo-I-Modelo-de
+  [26/sem limite] fila=75 | depth=1 | https://terraboa.pr.gov.br/secretaria-de-esportes/
+  [27/sem limite] fila=74 | depth=1 | https://terraboa.pr.gov.br/secretaria-de-fazenda/
+  [28/sem limite] fila=73 | depth=1 | https://terraboa.pr.gov.br/tributacao/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Laudo-VTN-2026.pd
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/08/VALOR-DE-TERRA-NU
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/PLANO-ANUAL-DE-FI
+  [29/sem limite] fila=72 | depth=1 | https://terraboa.pr.gov.br/secretaria-meio-ambiente/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/PMAU-Terra-Boa-Aj
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/PLANO-REGIONAL-DE
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/2026-PMGIRSU-Terr
+  [30/sem limite] fila=71 | depth=1 | https://terraboa.pr.gov.br/secretaria-de-obras-e-edificacoes/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/03/PLANO-MUNICIPAL-D
+  [31/sem limite] fila=70 | depth=1 | https://terraboa.pr.gov.br/engenharia-eiv/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/04/ESTUDO-DE-IMPACTO
+  [32/sem limite] fila=69 | depth=1 | https://terraboa.pr.gov.br/engenharia-riv/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/04/RELATORIO-DE-IMPA
+  [33/sem limite] fila=68 | depth=1 | https://terraboa.pr.gov.br/secretaria-de-saude/
+  [34/sem limite] fila=67 | depth=1 | https://terraboa.pr.gov.br/secretaria-de-servicos-publicos-e-rodoviarios/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/395_planocontinge
+  [35/sem limite] fila=66 | depth=1 | https://terraboa.pr.gov.br/controle-interno/
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/01_Lei-906-2007-
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/02_LEI-1564-09-A
+  [36/sem limite] fila=65 | depth=1 | https://terraboa.pr.gov.br/transparencia/
+  [37/sem limite] fila=64 | depth=1 | https://terraboa.pr.gov.br/noticias/
+  [38/sem limite] fila=73 | depth=1 | https://terraboa.pr.gov.br/ouvidoria/
+  [39/sem limite] fila=72 | depth=1 | https://terraboa.pr.gov.br/contato/
+  [40/sem limite] fila=71 | depth=1 | https://terraboa.pr.gov.br/concursos-processos-seletivos/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-019-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-018-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-017-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-016-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-015-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-014-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-013-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-012-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/07/Edital-011-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Edital-010-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Edital-009-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Edital-008-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Edital-007-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/Edital-006-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/05/Edital-005-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/05/Edital-004-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/05/Edital-003-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/05/Edital-002-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/04/Edital-001-26-PSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/01/23.1.-Anexo-Unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/01/23.-Edital-n.o-21
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/12/22.-Retificacao-n
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/21.3.-Anexo-III-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/21.2.-Anexo-II-do
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/21.1.-Anexo-I-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/21.-Edital-n.o-20
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/20.3.-Anexo-III-d
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/20.2.-Anexo-II-do
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/20.1.-Anexo-I-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/20.-Edital-n.o-19
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/19.-Edital-n.o-18
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/18.1.-Anexo-unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/18.-Edital-n.o-17
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/17.-Edital-n.o-16
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/16.1.-Anexo-unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/16.-Edital-n.o-15
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/15.1.-Anexo-Unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/15.-Edital-n.o-14
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/14.2.-Anexo-II-do
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/14.1.-Anexo-I-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/14.-Edital-n.o-13
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/13.1.-Anexo-unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/13.-Edital-n.o-12
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/12.1.-Anexo-unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/12.-Edital-n.o-11
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/11.1.-Anexo-unico
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/11.-Edital-n.o-10
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/10/10.-Edital-n.o-09
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/9.3.-Anexo-III-do
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/9.2.-Anexo-II-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/9.1.-Anexo-I-do-E
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/9.-Edital-n.o-08.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/8.1.-Anexo-Unico-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/09/8.-Edital-n.o-07.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/08/7.-Edital-n.o-06.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/6.-Edital-n.o-05.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/5.4.-Anexo-IV-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/5.3.-Anexo-III-do
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/5.2.-Anexo-II-do-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/5.1.-Anexo-I-do-E
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/5.-Edital-n.o-04.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/4.-Edital-n.o-03.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/07/4.1.-Anexo-Unico-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/3.1.-Anexo-Unico-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/3.-Edital-n.o-02.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/2.-Retificacao-n.
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/1.-Edital-de-aber
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/07-CONVOCACAO-APR
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/06-HOMOLOGACAO.pd
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/05-CLASSIFICACAO-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/04-RECURSOS-E-NOV
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/06/03-CLASSIFICACAO-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/PROVA-PSS-ASSISTE
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/PROVA-PSS-CIRURGI
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/PROVA-PSS-ENFERME
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/PROVA-PSS-TECNICO
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/GABARITO-PSS.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/05/02-EDITAL-DE-LOCA
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2025/04/01-EDITAL-DE-ABE
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/021-EDITAL-DE-HOM
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/020-EDITAL-DE-CLA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/019-EDITAL-DE-CLA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/018-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/02/017-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/02/016-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/02/015-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/014-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/013-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/012-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/011-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/010-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/009-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/008-EDITAL-DE-GAB
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/007-EDITAL-DE-GAB
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/006-EDITAL-DE-LOC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/005-EDITAL-DE-HOM
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/004-EDITAL-DE-DEF
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/003-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/02-EDITAL-DE-RESU
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/01-EDITAL-DE-ABER
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/021-EDITAL-DE-HOM
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/020-EDITAL-DE-CLA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/019-EDITAL-DE-CLA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/018-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/02/017-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/02/016-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/015-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/014-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/013-EDITAL-DE-CON
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/01/012-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/011-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/12/010-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/009-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/008-EDITAL-DE-GAB
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/007-EDITAL-DE-GAB
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/006-EDITAL-DE-LOC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/005-EDITAL-DE-HOM
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/10/004-EDITAL-DE-DEF
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/003-EDITAL-DE-RES
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/02-EDITAL-DE-RESU
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/09/01-EDITAL-DE-ABER
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/03/26-EDITAL-1-23-Ho
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/03/EDITAL-1-22-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/03/EDITAL-1-21-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/EDITAL-1-20-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/EDITAL-1-19-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/21-EDITAL-1-18-Di
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/20-EDITAL-1-17-Re
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/19-EDITAL-1-16-Co
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/18-EDITAL-1-15-Co
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/02/17-EDITAL-1-14-Di
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/01/EDITAL-1-13-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/01/EDITAL-1-12-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/01/EDITAL-001-2023-E
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/12/EDITAL-1-10-Divul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/12/EDITAL-1-8-Divulg
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/EDITAL-1-7-Divulg
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/EDITAL_1-6_Ensala
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/6-EDITAL-1-5-Insc
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/EDITAL-1-4-ISENCO
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/EDITAL-1-3-AFRO-D
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/EDITAL-1-2-Altera
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/ERRATA-01-Prof-Ed
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/EDITAL-001-2023-A
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/05-EDITAL-PSS-022
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/04-EDITAL-PSS-022
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/03-EDITAL-PSS-022
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/02-EDITAL-CLASSIF
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/EDITAL-DE-ABERTUR
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/5-EDITAL-05-PSS-2
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/4-EDITAL-04-PSS-2
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/3-EDITAL-03-PSS-0
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/2-EDITAL-002-PSS-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/08/1-EDITAL-ABERTURA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-05-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-04-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-03-PSS-022
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL-02-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL-ABERTURA-P
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-05-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-04-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-03-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-02-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-01-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-05-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/RECLASSIFICACAO-F
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-03-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-02-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-ABERTURA-P
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-05-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-04-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-03-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-02-PSS-202
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-ABERTURA-P
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/11/17-EDITAL_HOMOLOG
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/11/16-EDITAL_RETIFIC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/11/15-EDITAL_CLASSIF
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/11/14-EDITAL_NOTA_TI
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/13-EDITAL_NOTA_TI
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/12-EDITAL_CONVOCA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/11-EDITAL_CONVOCA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/9-EDITAL_RETIFICA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/10-EDITAL_CONVOCA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_NOTA_OBJET
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/GABARITO_PRELIMIN
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_ENSALAMENT
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_RETIFICACA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/5-EDITAL_HOMOLOGA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/4-EDITAL_RESULTAD
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/3-EDITAL_RESULTAD
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_RETIFICACA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_ABERTURA_E
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/9-EDITAL_HOMOLOGA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL_CLASSIFICA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/7-EDITAL_RETIFICA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_NOTA_OBJET
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/GABARITO_PRELIMIN
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_ENSALAMENT
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/4-EDITAL_HOMOLOGA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/3-EDITAL_RESULTAD
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_RETIFICACA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/EDITAL_ABERTURA_C
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/18-EDITAL-DE-HOMO
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/17-EDITAL-DE-CLAS
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/16-EDITAL-DE-LOCA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/15-EDITAL-DE-NOVA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/14-EDITAL-DE-SUSP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/13-EDITAL-DE-LOCA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/12-EDITAL-DE-GRUP
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/11-EDITAL-DE-REAB
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/10-EDITAL-DE-NOVA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/9-EDITAL-DE-REABE
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/8-EDITAL-LOCAL-DE
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/7-EDITAL-HOMOLOGA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/6-EDITAL-DEFERIME
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/5-EDITAL-HOMOLOGA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/4-SEGUNDA-RETIFIC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/2-PRIMEIRA-RETIFI
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/1-EDITAL-DE-ABERT
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/RELACAO-DE-CANDID
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-DE-ABERTUR
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/CLASSIFICACAO.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/10/EDITAL-DE-ABERTUR
+  [41/sem limite] fila=70 | depth=1 | https://terraboa.pr.gov.br/portalcidadania/
+  [42/sem limite] fila=69 | depth=1 | https://terraboa.pr.gov.br/telefonia-municipal/
+  [43/sem limite] fila=68 | depth=1 | https://terraboa.pr.gov.br/oxycidadao/
+  [44/sem limite] fila=67 | depth=1 | https://terraboa.pr.gov.br/transparencia
+  [45/sem limite] fila=66 | depth=1 | https://terraboa.pr.gov.br/lei-geral-de-protecao-de-dados/
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/3188-LGPD.pdf
+  [46/sem limite] fila=66 | depth=1 | https://terraboa.pr.gov.br/plano-diretor
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/3.154-2022.pdf
+  📄 [200] .pdf -> https://terraboa.pr.gov.br/wp-content/uploads/2022/07/Decreto-3161-202
+  [47/sem limite] fila=65 | depth=1 | https://terraboa.pr.gov.br/fundo-municipal-previdencia/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/Calendario-Reunio
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Credenciamento-In
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/Parecer-Conselho-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Calendario-Reunio
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Parecer-Conselho-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/PARECER-CONCLUSIV
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/PARECER-DA-AVALIA
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/ATA-N.o-001-2025-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/03/ATA-N.o-002-2025-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/REUNIAO-CONS-FISC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/12/Ata-Comite-de-Inv
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/12/Ata-Conselho-Deli
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Convocacao-Prova-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/Calendario-Reunio
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/LAUDO-ATUARIAL.pd
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/laudo_atuarial_te
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/LAUDO-ATUARIAL-20
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/CALCULO-ATUARIAL-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/DEMONSTRATIVO-GER
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/DEMONSTRATIVO-GER
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Politica-de-Inves
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Relatorio-de-Gove
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Estudo-de-Viabili
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Lei-1795.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/11/Credenciamento-In
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/Relatorio-de-Gove
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/11/Politica-de-Inves
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2025/12/Minuta-da-Politic
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2022/09/Decreto-de-Progra
+  [48/sem limite] fila=64 | depth=1 | https://terraboa.pr.gov.br/agenda-de-consultas/
+  [49/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/concursos-processos-seletivos
+  [50/sem limite] fila=62 | depth=1 | https://terraboa.pr.gov.br/jogos60/
+  [51/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/educacao-de-terra-boa-e-destaque-no-parana-e-conquist
+  [52/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/jeps2026/
+  [53/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/jogos-escolares2026/
+  [54/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/uniformes2026/
+  [55/sem limite] fila=63 | depth=1 | https://terraboa.pr.gov.br/calendario-municipal/
+  [56/sem limite] fila=62 | depth=1 | https://terraboa.pr.gov.br/mapa-site/
+  [57/sem limite] fila=63 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ar
+  [58/sem limite] fila=62 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=cs
+  [59/sem limite] fila=61 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=da
+  [60/sem limite] fila=60 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=de
+  [61/sem limite] fila=59 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=el
+  [62/sem limite] fila=58 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=en
+  [63/sem limite] fila=57 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=es
+  [64/sem limite] fila=56 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=es_419
+  [65/sem limite] fila=55 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=es_es
+  [66/sem limite] fila=54 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=fi
+  [67/sem limite] fila=53 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=fil
+  [68/sem limite] fila=52 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=fr
+  [69/sem limite] fila=51 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=he
+  [70/sem limite] fila=50 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=hu
+  [71/sem limite] fila=49 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=i_en
+  [72/sem limite] fila=48 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=id
+  [73/sem limite] fila=47 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=it
+  [74/sem limite] fila=46 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ja
+  [75/sem limite] fila=45 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ko
+  [76/sem limite] fila=44 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ms
+  [77/sem limite] fila=43 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=nb
+  [78/sem limite] fila=42 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=nl
+  [79/sem limite] fila=41 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=pl
+  [80/sem limite] fila=40 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=pt
+  [81/sem limite] fila=39 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=pt_br
+  [82/sem limite] fila=38 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ro
+  [83/sem limite] fila=37 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=ru
+  [84/sem limite] fila=36 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=sv
+  [85/sem limite] fila=35 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=th
+  [86/sem limite] fila=34 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=tr
+  [87/sem limite] fila=33 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=uk
+  [88/sem limite] fila=32 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=vi
+  [89/sem limite] fila=31 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=zh
+  [90/sem limite] fila=30 | depth=2 | https://webmail.terraboa.pr.gov.br/?locale=zh_tw
+  [91/sem limite] fila=29 | depth=2 | https://webmail.terraboa.pr.gov.br/resetpass?start=1
+  [92/sem limite] fila=28 | depth=2 | https://terraboa.pr.gov.br/listatelefonica/
+  [93/sem limite] fila=27 | depth=2 | https://terraboa.pr.gov.br/telefonia-fixa/
+  [94/sem limite] fila=26 | depth=2 | https://terraboa.pr.gov.br/aldirblanc1/
+  [95/sem limite] fila=25 | depth=2 | https://terraboa.pr.gov.br/aldirblanc2/
+  [96/sem limite] fila=24 | depth=2 | https://terraboa.pr.gov.br/aldirblanc3/
+  [97/sem limite] fila=23 | depth=2 | https://terraboa.pr.gov.br/leialdirblanc-c1/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/06/Ata-da-Escuta-Pub
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/06/PAAR-TERRA-BOA-PR
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/EDITAL-001-2024-F
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-I-Categoria
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-II-Plano-de
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-III-Criteri
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-IV-Termo-de
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-V-Relatorio
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-VI-Declarac
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-VII-Declara
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/07/ANEXO-VIII-Formul
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/08/Edital-PNAB.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2024/08/EDITAL-004-2024-P
+  [98/sem limite] fila=22 | depth=2 | https://terraboa.pr.gov.br/leialdirblanc-c2
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/REGULAMENTO-DO-FE
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-I-categoria
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-II-Formular
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-III-_plano_
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-IV-CRITERIO
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-V-relatorio
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-VI-termo-de
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-VII-declara
+  📄 [200] .docx -> http://terraboa.pr.gov.br/wp-content/uploads/2026/06/ANEXO-VIII-formul
+  [99/sem limite] fila=21 | depth=2 | https://terraboa.pr.gov.br/festcant2024/
+  [100/sem limite] fila=20 | depth=2 | https://terraboa.pr.gov.br/demaisareasculturais
+  [101/sem limite] fila=19 | depth=2 | https://terraboa.pr.gov.br/leipaulogustavo-doc/
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/EDITAL-001.2023.p
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/EDITAL-002.2023.p
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/10/EDITAL-003_2023.p
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/EDITAL-004.2023.p
+  📄 [200] .docx -> https://terraboa.pr.gov.br/wp-content/uploads/2023/09/MODELOS-DOS-ANEX
+  📄 [200] .docx -> https://terraboa.pr.gov.br/wp-content/uploads/2023/09/MODELO-PROJETO-C
+  📄 [200] .docx -> https://terraboa.pr.gov.br/wp-content/uploads/2023/09/MODELO-PROJETO-C
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/DECRETO-11.453.pd
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/DECRETO-11.525.pd
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/LEI-COMPLEMENTAR-
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/CARTILHA.pdf
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/09/MANUAL-DE-APLICAC
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Edital-No-005-res
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Edital-No-006-res
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Edital-No-007-res
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Edital-No-008-res
+  📄 [200] .pdf -> http://terraboa.pr.gov.br/wp-content/uploads/2023/11/Edital-No-009-res
+  [102/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/novohospital2026/
+  [103/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/empregos2026/
+  [104/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/investiment-tec2026/
+  [105/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/agtrabalhador2026/
+  [106/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/gestaomunicipal/
+  [107/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/uniforme-escolar2026/
+  [108/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/melhores-cidades/
+  [109/sem limite] fila=18 | depth=2 | https://terraboa.pr.gov.br/noticias/page/2/
+  [110/sem limite] fila=30 | depth=2 | https://terraboa.pr.gov.br/noticias/page/3/
+  [111/sem limite] fila=41 | depth=2 | https://terraboa.pr.gov.br/noticias/page/5/
+  [112/sem limite] fila=52 | depth=2 | https://terraboa.pr.gov.br/formulario_lgpd/
+  [113/sem limite] fila=51 | depth=2 | https://terraboa.pr.gov.br/category/sem-categoria/
+  [114/sem limite] fila=53 | depth=2 | https://terraboa.pr.gov.br/2026/07/31/
+  [115/sem limite] fila=52 | depth=2 | https://terraboa.pr.gov.br/2026/07/06/
+  [116/sem limite] fila=51 | depth=2 | https://terraboa.pr.gov.br/2026/06/16/
+  [117/sem limite] fila=50 | depth=2 | https://terraboa.pr.gov.br/2026/06/12/
+  [118/sem limite] fila=49 | depth=2 | https://terraboa.pr.gov.br/2026/05/06/
+  [119/sem limite] fila=48 | depth=2 | https://terraboa.pr.gov.br/
+  [120/sem limite] fila=47 | depth=2 | https://terraboa.pr.gov.br/secretaria-assistencia-social/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/secretaria-assistencia-social/
+  🤖 Usando Selenium para: https://terraboa.pr.gov.br/secretaria-assistencia-social/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/secretaria-assistencia-social/
+  [121/sem limite] fila=46 | depth=3 | https://terraboa.pr.gov.br/2026/04/10/
+  [122/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/2026/04/08/
+  [123/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/2026/03/31/
+  [124/sem limite] fila=43 | depth=3 | https://terraboa.pr.gov.br/2026/03/25/
+  [125/sem limite] fila=42 | depth=3 | https://terraboa.pr.gov.br/2026/03/04/
+  [126/sem limite] fila=41 | depth=3 | https://terraboa.pr.gov.br/2026/02/10/
+  [127/sem limite] fila=40 | depth=3 | https://terraboa.pr.gov.br/2025/12/02/
+  [128/sem limite] fila=39 | depth=3 | https://terraboa.pr.gov.br/ppublicas_mulheres2025/
+  [129/sem limite] fila=39 | depth=3 | https://terraboa.pr.gov.br/novo-cras/
+  [130/sem limite] fila=39 | depth=3 | https://terraboa.pr.gov.br/casafacil2025/
+  [131/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/prefeito-e-vereadores-de-terra-boa-buscam-novas-emend
+  [132/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/frota2025/
+  [133/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/agenda2025-ctba/
+  [134/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/ubs-jardimsena/
+  [135/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/terra-boa-celebra-70-anos-com-emocao-e-patriotismo-no
+  [136/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/empregos2025/
+  [137/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/energiasolar2025/
+  [138/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/inauguracao-receitafederal-terraboa2025/
+  [139/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/ducci-saude2025/
+  [140/sem limite] fila=38 | depth=3 | https://terraboa.pr.gov.br/noticias/page/4/
+  [141/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/festivaljulino2025/
+  [142/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/docarmo-terraboa2025/
+  [143/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/retroescavadeira2025/
+  [144/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/projeto-viario2025/
+  [145/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/higinebucal2025/
+  [146/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/matific2025/
+  [147/sem limite] fila=50 | depth=3 | https://terraboa.pr.gov.br/aprova-parana/
+  [148/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/projetoleei2025/
+  [149/sem limite] fila=49 | depth=3 | https://terraboa.pr.gov.br/ovitrampas2025/
+  [150/sem limite] fila=48 | depth=3 | https://terraboa.pr.gov.br/modernizacao2025/
+  [151/sem limite] fila=48 | depth=3 | https://terraboa.pr.gov.br/terra-boa-realiza-a-1a-conferencia-municipal-da-cidad
+  [152/sem limite] fila=48 | depth=3 | https://terraboa.pr.gov.br/esportequequeremos/
+  [153/sem limite] fila=47 | depth=3 | https://terraboa.pr.gov.br/cantaterraboa2024/
+  [154/sem limite] fila=47 | depth=3 | https://terraboa.pr.gov.br/conscientizacaoautismo2024/
+  [155/sem limite] fila=46 | depth=3 | https://terraboa.pr.gov.br/revitalizacaotrevo/
+  [156/sem limite] fila=46 | depth=3 | https://terraboa.pr.gov.br/superintendenteemterraboa/
+  [157/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/prefeitura-finaliza-projeto-terra-boa-100-led-com-suc
+  [158/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/centro-de-especialidades-medicas-de-terra-boa-comeca-
+  [159/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/patrulhamecanizada2024/
+  [160/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/creas-vulnerabilidadesocial/
+  [161/sem limite] fila=45 | depth=3 | https://terraboa.pr.gov.br/audienciapublica2024/
+  [162/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/retornoescolar2024/
+  [163/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/caixa-terraboa2024/
+  [164/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/posse-conselho2024/
+  [165/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/category/sem-categoria/page/2/
+  [166/sem limite] fila=44 | depth=3 | https://terraboa.pr.gov.br/category/sem-categoria/page/3/
+  [167/sem limite] fila=43 | depth=3 | https://terraboa.pr.gov.br/category/sem-categoria/page/5/
+  [168/sem limite] fila=42 | depth=4 | https://terraboa.pr.gov.br/2025/11/25/
+  [169/sem limite] fila=41 | depth=4 | https://terraboa.pr.gov.br/2025/11/13/
+  [170/sem limite] fila=40 | depth=4 | https://terraboa.pr.gov.br/2025/11/07/
+  [171/sem limite] fila=39 | depth=4 | https://terraboa.pr.gov.br/2025/10/06/
+  [172/sem limite] fila=38 | depth=4 | https://terraboa.pr.gov.br/2025/09/25/
+  [173/sem limite] fila=37 | depth=4 | https://terraboa.pr.gov.br/2025/09/12/
+  [174/sem limite] fila=36 | depth=4 | https://terraboa.pr.gov.br/2025/09/08/
+  [175/sem limite] fila=35 | depth=4 | https://terraboa.pr.gov.br/2025/09/02/
+  [176/sem limite] fila=34 | depth=4 | https://terraboa.pr.gov.br/2025/08/14/
+  [177/sem limite] fila=33 | depth=4 | https://terraboa.pr.gov.br/2025/08/08/
+  [178/sem limite] fila=32 | depth=4 | https://terraboa.pr.gov.br/2025/07/30/
+  [179/sem limite] fila=31 | depth=4 | https://terraboa.pr.gov.br/valtinho_foz2025/
+  [180/sem limite] fila=31 | depth=4 | https://terraboa.pr.gov.br/prefeito-edmilson-moura-autoriza-licitacao-para-const
+  [181/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/terraboa-educacao-ideb82/
+  [182/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/a-prefeitura-de-terra-boa-conquistou-pelo-segundo-ano
+  [183/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/fisioterapia-malu2024/
+  [184/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/prefeitura-de-terra-boa-recebe-titulo-de-gestao-de-ex
+  [185/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/saudemunicipal2024/
+  [186/sem limite] fila=30 | depth=4 | https://terraboa.pr.gov.br/educacaoinfantil2024/
+  [187/sem limite] fila=29 | depth=4 | https://terraboa.pr.gov.br/maiolaranja2024/
+  [188/sem limite] fila=29 | depth=4 | https://terraboa.pr.gov.br/complexoesportivo-terraboa/
+  [189/sem limite] fila=29 | depth=4 | https://terraboa.pr.gov.br/assistenciasocial-tribunalcontas/
+  [190/sem limite] fila=29 | depth=4 | https://terraboa.pr.gov.br/showtrabalhador2024/
+  [191/sem limite] fila=28 | depth=4 | https://terraboa.pr.gov.br/2025/07/23/
+  [192/sem limite] fila=27 | depth=4 | https://terraboa.pr.gov.br/2025/06/17/
+  [193/sem limite] fila=26 | depth=4 | https://terraboa.pr.gov.br/2025/06/04/
+  [194/sem limite] fila=25 | depth=4 | https://terraboa.pr.gov.br/2025/05/30/
+  [195/sem limite] fila=24 | depth=4 | https://terraboa.pr.gov.br/2025/05/29/
+  [196/sem limite] fila=23 | depth=4 | https://terraboa.pr.gov.br/category/noticias/
+  [197/sem limite] fila=25 | depth=4 | https://terraboa.pr.gov.br/2025/05/19/
+  [198/sem limite] fila=24 | depth=4 | https://terraboa.pr.gov.br/2025/05/14/
+  [199/sem limite] fila=23 | depth=4 | https://terraboa.pr.gov.br/2025/05/08/
+  [200/sem limite] fila=22 | depth=4 | https://terraboa.pr.gov.br/2025/04/24/
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_links.xlsx
+  339 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/erros_varredura.xlsx
+  2 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_externos.xlsx
+  54 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=21 | depth=4 | https://terraboa.pr.gov.br/2024/05/02/
+  [202/sem limite] fila=20 | depth=4 | https://terraboa.pr.gov.br/2024/04/19/
+  [203/sem limite] fila=19 | depth=4 | https://terraboa.pr.gov.br/2024/03/25/
+  [204/sem limite] fila=18 | depth=4 | https://terraboa.pr.gov.br/2024/03/13/
+  [205/sem limite] fila=17 | depth=4 | https://terraboa.pr.gov.br/2024/03/12/
+  [206/sem limite] fila=16 | depth=4 | https://terraboa.pr.gov.br/2024/03/04/
+  [207/sem limite] fila=15 | depth=4 | https://terraboa.pr.gov.br/2024/02/08/
+  [208/sem limite] fila=14 | depth=4 | https://terraboa.pr.gov.br/2024/02/02/
+  [209/sem limite] fila=13 | depth=4 | https://terraboa.pr.gov.br/2024/01/16/
+  [210/sem limite] fila=12 | depth=4 | https://terraboa.pr.gov.br/category/sem-categoria/page/4/
+  [211/sem limite] fila=11 | depth=5 | https://terraboa.pr.gov.br/2025/02/24/
+  [212/sem limite] fila=10 | depth=5 | https://terraboa.pr.gov.br/2024/11/22/
+  [213/sem limite] fila=9 | depth=5 | https://terraboa.pr.gov.br/2024/11/14/
+  [214/sem limite] fila=8 | depth=5 | https://terraboa.pr.gov.br/2024/10/24/
+  [215/sem limite] fila=7 | depth=5 | https://terraboa.pr.gov.br/2024/10/07/
+  [216/sem limite] fila=6 | depth=5 | https://terraboa.pr.gov.br/2024/06/13/
+  [217/sem limite] fila=5 | depth=5 | https://terraboa.pr.gov.br/2024/05/24/
+  [218/sem limite] fila=4 | depth=5 | https://terraboa.pr.gov.br/2024/05/22/
+  [219/sem limite] fila=3 | depth=5 | https://terraboa.pr.gov.br/2024/05/14/
+  [220/sem limite] fila=2 | depth=5 | https://terraboa.pr.gov.br/category/noticias/page/2/
+  [221/sem limite] fila=2 | depth=5 | https://terraboa.pr.gov.br/category/noticias/page/3/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/3/
+  🤖 Usando Selenium para: https://terraboa.pr.gov.br/category/noticias/page/3/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/3/
+  [222/sem limite] fila=1 | depth=5 | https://terraboa.pr.gov.br/category/noticias/page/5/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/5/
+  🤖 Usando Selenium para: https://terraboa.pr.gov.br/category/noticias/page/5/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/5/
+  [223/sem limite] fila=0 | depth=6 | https://terraboa.pr.gov.br/category/noticias/page/4/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/4/
+  🤖 Usando Selenium para: https://terraboa.pr.gov.br/category/noticias/page/4/
+ ❌ HTTP_404: https://terraboa.pr.gov.br/category/noticias/page/4/
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_links.xlsx
+  339 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_externos.xlsx
+  54 links externos registrados.
+
+  Varredura encerrada: TERRABOA
+  Páginas nesta sessão: 223
+  Páginas totais (acumulado): 223
+  Arquivos no inventário: 339
+  Erros registrados: 8
+
+
+ Pipeline encerrado. Resultados em: resultados/terraboa/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Terra Boa)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Terra Boa (slug: terraboa)...   → buscando no DuckDuckGo (apenas inventário)... /home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/descobrir_cidades.py:292: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (DuckDuckGo bloqueou — aguardando 10s...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'html.duckduckgo.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+  (tentando Google...)/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.google.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'app.prefeituradecampogrande.net.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+/home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'app.prefeituradecampogrande.net.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://app.prefeituradecampogrande.net.br/servicos//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.campogrande.ms.gov.br'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.campogrande.ms.gov.br//home/tarlis/experimentos/dados-genero/venv/lib/python3.12/site-packages/urllib3/connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.prefeituradecampogrande.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+
+              ✅ https://www.prefeituradecampogrande.org/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRABOA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 339 arquivos já registrados.
+  Links externos parciais carregados: 54 links já registrados.
+  Log de erros parcial carregado: 8 erros já registrados.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 8 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: TERRABOA
+  Páginas já visitadas (checkpoint): 223
+  URLs na fila: 0
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_links.xlsx
+  339 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraboa/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraboa/inventario_externos.xlsx
+  54 links externos registrados.
+
+  Varredura encerrada: TERRABOA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 223
+  Arquivos no inventário: 339
+  Erros registrados: 8
+
+
+ Pipeline encerrado. Resultados em: resultados/terraboa/
+============================================================
+

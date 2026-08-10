@@ -35266,3 +35266,78 @@ Inventário parcial carregado: 10601 arquivos já registrados.
  ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
   🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
  ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2593/governo-municipal-entrega-kit-pedagogico-completo-de-inclusao-especial-para-educacao/
+  [3 (+22432)/sem limite] fila=2668 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/print-noticia/2576/governo-municipal-en
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2576/governo-municipal-entregara-kits-escolares-a-partir-de-30-de-janeiro/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2576/governo-municipal-entregara-kits-escolares-a-partir-de-30-de-janeiro/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2576/governo-municipal-entregara-kits-escolares-a-partir-de-30-de-janeiro/
+  [4 (+22432)/sem limite] fila=2667 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/print-noticia/2571/educacao-municipal-p
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2571/educacao-municipal-premia-alunos-destaques-municipais-e-estaduais-no-agrinho-e-prova-parana-/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2571/educacao-municipal-premia-alunos-destaques-municipais-e-estaduais-no-agrinho-e-prova-parana-/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2571/educacao-municipal-premia-alunos-destaques-municipais-e-estaduais-no-agrinho-e-prova-parana-/
+  [5 (+22432)/sem limite] fila=2666 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/print-noticia/2549/governo-municipal-ad
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2549/governo-municipal-adere-ao-programa-escola-federativa/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2549/governo-municipal-adere-ao-programa-escola-federativa/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/print-noticia/2549/governo-municipal-adere-ao-programa-escola-federativa/
+  [6 (+22432)/sem limite] fila=2665 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2544/eficiencia-e-tecnologia-prefeitura
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2544/eficiencia-e-tecnologia-prefeitura-entrega-tablets-para-trabalho-dos-agente-comunitarios-de-saude/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2544/eficiencia-e-tecnologia-prefeitura-entrega-tablets-para-trabalho-dos-agente-comunitarios-de-saude/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2544/eficiencia-e-tecnologia-prefeitura-entrega-tablets-para-trabalho-dos-agente-comunitarios-de-saude/
+  [7 (+22432)/sem limite] fila=2664 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2536/investimentos-na-educacao-prefeitu
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2536/investimentos-na-educacao-prefeitura-entrega-ampliacao-de-escola-nova-quadra-coberta-e-novo-onibus/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2536/investimentos-na-educacao-prefeitura-entrega-ampliacao-de-escola-nova-quadra-coberta-e-novo-onibus/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2536/investimentos-na-educacao-prefeitura-entrega-ampliacao-de-escola-nova-quadra-coberta-e-novo-onibus/
+  [8 (+22432)/sem limite] fila=2663 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2517/prefeitura-lanca-programa-de-comba
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2517/prefeitura-lanca-programa-de-combate-a-violencia-sexual-e-fisica-a-criancas-e-adolescentes/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2517/prefeitura-lanca-programa-de-combate-a-violencia-sexual-e-fisica-a-criancas-e-adolescentes/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2517/prefeitura-lanca-programa-de-combate-a-violencia-sexual-e-fisica-a-criancas-e-adolescentes/
+  [9 (+22432)/sem limite] fila=2662 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2507/o-ingresso-ao-ensino-superior-esta
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2507/o-ingresso-ao-ensino-superior-esta-ainda-mais-acessivel-em-siqueira-campos/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2507/o-ingresso-ao-ensino-superior-esta-ainda-mais-acessivel-em-siqueira-campos/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2507/o-ingresso-ao-ensino-superior-esta-ainda-mais-acessivel-em-siqueira-campos/
+  [10 (+22432)/sem limite] fila=2661 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2495/inscricoes-abertas-pss-que-visa-a-
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2495/inscricoes-abertas-pss-que-visa-a-contratacao-de-bibliotecario-fonoaudiologo-e-nutricionista/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2495/inscricoes-abertas-pss-que-visa-a-contratacao-de-bibliotecario-fonoaudiologo-e-nutricionista/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2495/inscricoes-abertas-pss-que-visa-a-contratacao-de-bibliotecario-fonoaudiologo-e-nutricionista/
+  [11 (+22432)/sem limite] fila=2660 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2483/bibliosesc-chega-em-siqueira-campo
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2483/bibliosesc-chega-em-siqueira-campos/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2483/bibliosesc-chega-em-siqueira-campos/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2483/bibliosesc-chega-em-siqueira-campos/
+  [12 (+22432)/sem limite] fila=2659 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2476/novo-pss-de-estagiarios-para-educa
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2476/novo-pss-de-estagiarios-para-educacao-022022/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2476/novo-pss-de-estagiarios-para-educacao-022022/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2476/novo-pss-de-estagiarios-para-educacao-022022/
+  [13 (+22432)/sem limite] fila=2658 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/categoria/7/educacao/page/1
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/categoria/7/educacao/page/1
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/categoria/7/educacao/page/1
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/categoria/7/educacao/page/1
+  [14 (+22432)/sem limite] fila=2657 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2459/confira-como-foi-a-semana-pedagogi
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2459/confira-como-foi-a-semana-pedagogica/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2459/confira-como-foi-a-semana-pedagogica/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2459/confira-como-foi-a-semana-pedagogica/
+  [15 (+22432)/sem limite] fila=2656 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2457/tabela-de-itinerarios-e-horarios-d
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2457/tabela-de-itinerarios-e-horarios-dos-onibus-escolares/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2457/tabela-de-itinerarios-e-horarios-dos-onibus-escolares/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2457/tabela-de-itinerarios-e-horarios-dos-onibus-escolares/
+  [16 (+22432)/sem limite] fila=2655 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2452/detalhamento-da-volta-as-aulas-202
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2452/detalhamento-da-volta-as-aulas-2022-e-divulgado/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2452/detalhamento-da-volta-as-aulas-2022-e-divulgado/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2452/detalhamento-da-volta-as-aulas-2022-e-divulgado/
+  [17 (+22432)/sem limite] fila=2654 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2446/volta-as-aulas-2022-estao-confirma
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2446/volta-as-aulas-2022-estao-confirmadas-para-o-dia-07-de-fevereiro/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2446/volta-as-aulas-2022-estao-confirmadas-para-o-dia-07-de-fevereiro/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2446/volta-as-aulas-2022-estao-confirmadas-para-o-dia-07-de-fevereiro/
+  [18 (+22432)/sem limite] fila=2653 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2442/entrega-do-kit-escolar-2022-comeca
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2442/entrega-do-kit-escolar-2022-comeca-dia-02/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2442/entrega-do-kit-escolar-2022-comeca-dia-02/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2442/entrega-do-kit-escolar-2022-comeca-dia-02/
+  [19 (+22432)/sem limite] fila=2652 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2425/oferta-de-complementacao-pedagogic
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2425/oferta-de-complementacao-pedagogica-abrange-dez-polos-de-apoio-presencial-da-ead/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2425/oferta-de-complementacao-pedagogica-abrange-dez-polos-de-apoio-presencial-da-ead/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2425/oferta-de-complementacao-pedagogica-abrange-dez-polos-de-apoio-presencial-da-ead/
+  [20 (+22432)/sem limite] fila=2651 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2420/seed-realiza-entrega-de-kits-de-un
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2420/seed-realiza-entrega-de-kits-de-uniformes-escolares-para-escolas-de-siqueira-campos/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2420/seed-realiza-entrega-de-kits-de-uniformes-escolares-para-escolas-de-siqueira-campos/
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://siqueiracampos.pr.gov.br/noticia/2420/seed-realiza-entrega-de-kits-de-uniformes-escolares-para-escolas-de-siqueira-campos/
+  [21 (+22432)/sem limite] fila=2650 | depth=6 | https://siqueiracampos.pr.gov.br/noticia/2405/escolas-recebem-kits-psicomotores-
+ ❌ TIMEOUT_OU_CONEXAO: https://siqueiracampos.pr.gov.br/noticia/2405/escolas-recebem-kits-psicomotores-interativos-e-mobiliarios/
+  🤖 Usando Selenium para: https://siqueiracampos.pr.gov.br/noticia/2405/escolas-recebem-kits-psicomotores-interativos-e-mobiliarios/

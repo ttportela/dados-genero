@@ -1,0 +1,109 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRAROXA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TERRAROXA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.terraroxa.pr.gov.br/
+  [2/sem limite] fila=75 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/historia-de-terra-roxa
+  [3/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/prefeito
+  [4/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/viceprefeito
+  [5/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretarias
+  [6/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-administr
+  [7/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-educacao-
+  [8/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-familia-e
+  [9/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-fazenda
+  [10/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-saude
+  [11/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-agropecua
+  [12/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-desenvolv
+  [13/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-desenvolv
+  [14/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-esporte-l
+  [15/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-infraestr
+  [16/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-planejame
+  [17/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-do-meio-ambi
+  [18/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/assessoria-juridica
+  [19/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/gestao-20252028
+  [20/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/transparencia/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/
+  [21/sem limite] fila=99 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/sanepar
+  [22/sem limite] fila=99 | depth=1 | https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=viewFile&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/atende.php?rot=1&aca=119&ajax=t&processo=
+  [23/sem limite] fila=98 | depth=1 | https://www.terraroxa.pr.gov.br/subportal/sala-do-empreendedor-digital
+  [24/sem limite] fila=112 | depth=1 | https://www.terraroxa.pr.gov.br/subportal/portal-covid19
+  [25/sem limite] fila=128 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/telefones-uteis
+  [26/sem limite] fila=128 | depth=1 | https://www.terraroxa.pr.gov.br/subportal/iptu
+  [27/sem limite] fila=127 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara
+  [28/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto
+  [29/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto
+  [30/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletroni
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletronico
+  [31/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos-irrf/detalhar/1
+  [32/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagam
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento/detalhar/1
+  [33/sem limite] fila=138 | depth=1 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados/
+  [34/sem limite] fila=139 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/ramais
+  [35/sem limite] fila=139 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-acesso/
+  [36/sem limite] fila=147 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/recuperacao-de-senha-de-acesso
+  [37/sem limite] fila=147 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/
+  [38/sem limite] fila=161 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/meus-favoritos
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/meus-favoritos
+  [39/sem limite] fila=160 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/alterar-senha-de-acesso/detalhar/1
+  [40/sem limite] fila=160 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-licitacoes
+  [41/sem limite] fila=160 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/concurso-publico-e-pss
+  [42/sem limite] fila=160 | depth=1 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/servicos-publicos
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRAROXA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TERRAROXA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.terraroxa.pr.gov.br/
+  [2/sem limite] fila=75 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/historia-de-terra-roxa
+  [3/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/prefeito
+  [4/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/viceprefeito
+  [5/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretarias
+  [6/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-administr
+  [7/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-educacao-
+  [8/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-familia-e
+  [9/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-fazenda
+  [10/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-da-saude
+  [11/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-agropecua
+  [12/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-desenvolv
+  [13/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-desenvolv
+  [14/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-esporte-l
+  [15/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-infraestr
+  [16/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-de-planejame
+  [17/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/secretaria-municipal-do-meio-ambi
+  [18/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/assessoria-juridica
+  [19/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/cidadao/pagina/gestao-20252028
+  [20/sem limite] fila=77 | depth=1 | https://www.terraroxa.pr.gov.br/transparencia/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/
