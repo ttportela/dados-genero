@@ -2111,3 +2111,638 @@ Redirecionamento externo ignorado: https://terraroxa.atende.net/autoatendimento/
   🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-iptu/detalhar/1
   [1052/sem limite] fila=800 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa
   🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa
+  [1053/sem limite] fila=799 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fisca
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fiscal
+  [1054/sem limite] fila=798 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fisca
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/acesso-ao-sistema-fiscal/detalhar/1
+  [1055/sem limite] fila=797 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/
+  [1056/sem limite] fila=797 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/historia-de-terra-roxa?pg=transparen
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/historia-de-terra-roxa?pg=transparencia
+  [1057/sem limite] fila=796 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de
+  [1058/sem limite] fila=798 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/prefeito?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/prefeito?pg=transparencia
+  [1059/sem limite] fila=797 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/viceprefeito?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/viceprefeito?pg=transparencia
+  [1060/sem limite] fila=796 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretarias?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretarias?pg=transparencia
+  [1061/sem limite] fila=795 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-administraca
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-administracao?pg=transparencia
+  [1062/sem limite] fila=794 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-educacao-e-c
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-educacao-e-cultura?pg=transparencia
+  [1063/sem limite] fila=793 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-familia-e-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-familia-e-desenvolvimento-social?pg=transparencia
+  [1064/sem limite] fila=792 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-fazenda?pg=t
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-fazenda?pg=transparencia
+  [1065/sem limite] fila=791 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-saude?pg=tra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-da-saude?pg=transparencia
+  [1066/sem limite] fila=790 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-agropecuaria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-agropecuaria?pg=transparencia
+  [1067/sem limite] fila=789 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-desenvolvime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-desenvolvimento-economico-e-emprego?pg=transparencia
+  [1068/sem limite] fila=788 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-desenvolvime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-desenvolvimento-viario?pg=transparencia
+  [1069/sem limite] fila=787 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-esporte-laze
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-esporte-lazer-e-turismo?pg=transparencia
+  [1070/sem limite] fila=786 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-infraestrutu
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-infraestrutura-e-obras-publicas?pg=transparencia
+  [1071/sem limite] fila=785 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-planejamento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-de-planejamento?pg=transparencia
+  [1072/sem limite] fila=784 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-do-meio-ambient
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/secretaria-municipal-do-meio-ambiente?pg=transparencia
+  [1073/sem limite] fila=783 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/assessoria-juridica?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/assessoria-juridica?pg=transparencia
+  [1074/sem limite] fila=782 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/gestao-20252028?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/gestao-20252028?pg=transparencia
+  [1075/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf
+  [1076/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores
+  [1077/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/compras-vacinas
+  [1078/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/doses-recebidas
+  [1079/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/insumos-adquiridos
+  [1080/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/salas-de-vacinacao
+  [1081/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/sobras-de-vacinas
+  [1082/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/vacinometro
+  [1083/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos
+  [1084/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/denuncias
+  [1085/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus
+  [1086/sem limite] fila=781 | depth=3 | https://terraroxa.atende.net/subportal/portal-covid19/noticia
+  [1087/sem limite] fila=780 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/telefones-uteis?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/telefones-uteis?pg=transparencia
+  [1088/sem limite] fila=779 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/ramais?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/ramais?pg=transparencia
+  [1089/sem limite] fila=778 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/?pg=transparencia
+  [1090/sem limite] fila=777 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso
+  [1091/sem limite] fila=776 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso/deta
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso/detalhar/1
+  [1092/sem limite] fila=775 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-ac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-acesso/detalhar/1
+  [1093/sem limite] fila=774 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso
+  [1094/sem limite] fila=773 | depth=3 | https://terraroxa.atende.net/cidadao/pagina/concurso-publico-e-pss?pg=transparen
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/concurso-publico-e-pss?pg=transparencia
+  [1095/sem limite] fila=772 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos/detalhar/1
+  [1096/sem limite] fila=771 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal/detalh
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal/detalhar/1
+  [1097/sem limite] fila=770 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica/detalhar/1
+  [1098/sem limite] fila=771 | depth=3 | https://terraroxa.atende.net/cidadao/noticia?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia?pg=transparencia
+  [1099/sem limite] fila=770 | depth=3 | https://terraroxa.atende.net/cidadao/video?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video?pg=transparencia
+  [1100/sem limite] fila=769 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/calendario-anual-de-deposicao-para-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/calendario-anual-de-deposicao-para-coleta-de-entulho?pg=transparencia
+  [1101/sem limite] fila=768 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/campanha-lote-limpo-cidade-bonita?p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/campanha-lote-limpo-cidade-bonita?pg=transparencia
+  [1102/sem limite] fila=767 | depth=3 | https://terraroxa.atende.net/cidadao/licitacoes?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/licitacoes?pg=transparencia
+  [1103/sem limite] fila=766 | depth=3 | https://terraroxa.atende.net/hospital/
+  [1104/sem limite] fila=765 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao/detalh
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao/detalhar/1
+  [1105/sem limite] fila=764 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/
+  [1106/sem limite] fila=764 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/consulta-d
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1107/sem limite] fila=763 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [1108/sem limite] fila=765 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/conheca-a-lei?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/conheca-a-lei?pg=transparencia
+  [1109/sem limite] fila=764 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/estatistica?pg=transparen
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/estatistica?pg=transparencia
+  [1110/sem limite] fila=763 | depth=3 | https://terraroxa.atende.net/cidadao/acesso-informacao/obras-acoes?pg=transparen
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/obras-acoes?pg=transparencia
+  [1111/sem limite] fila=762 | depth=3 | https://terraroxa.atende.net/transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia
+  [1112/sem limite] fila=761 | depth=3 | https://terraroxa.atende.net/transparencia/grupo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo
+  [1113/sem limite] fila=760 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoais/detalhar/1
+  [1114/sem limite] fila=760 | depth=3 | https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dad
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dados/detalhar/1
+  [1115/sem limite] fila=760 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/defesa-civil-disponibiliza-numero-d
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/defesa-civil-disponibiliza-numero-de-celular-para-atendimento?pg=transparencia
+  [1116/sem limite] fila=759 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/edital-de-transporte-n-222026?pg=tr
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/edital-de-transporte-n-222026?pg=transparencia
+  [1117/sem limite] fila=758 | depth=3 | https://terraroxa.atende.net/cidadao/noticia/edital-de-chamado-publico-n-0692026
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/edital-de-chamado-publico-n-0692026?pg=transparencia
+  [1118/sem limite] fila=757 | depth=3 | https://terraroxa.atende.net/cidadao/video/
+  [1119/sem limite] fila=757 | depth=3 | https://terraroxa.atende.net/cidadao/video/audiencia-publica-avaliacao-das-metas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/audiencia-publica-avaliacao-das-metas-fiscais-do-2o-quadrimestre-de-2025?pg=transparencia
+  [1120/sem limite] fila=756 | depth=3 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-
+  [1121/sem limite] fila=758 | depth=3 | https://terraroxa.atende.net/cidadao/video/audiencia-publica-lei-de-diretrizes-o
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/audiencia-publica-lei-de-diretrizes-orcamentarias-2027?pg=transparencia
+  [1122/sem limite] fila=757 | depth=3 | https://terraroxa.atende.net/cidadao/video/audiencia-publica-loa-2026?pg=transpa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/audiencia-publica-loa-2026?pg=transparencia
+  [1123/sem limite] fila=756 | depth=3 | https://terraroxa.atende.net/cidadao/video/audiencia-publica-ppa-20262029-e-ldo-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/audiencia-publica-ppa-20262029-e-ldo-2026?pg=transparencia
+  [1124/sem limite] fila=755 | depth=3 | https://terraroxa.atende.net/cidadao/video/audiencia-publica-avaliacao-das-metas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/audiencia-publica-avaliacao-das-metas-fiscais-do-3o-quadrimestre-de-2025?pg=transparencia
+  [1125/sem limite] fila=754 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/noticia/?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/?pg=transparencia
+  [1126/sem limite] fila=753 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/
+  [1127/sem limite] fila=753 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/consult
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1128/sem limite] fila=752 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [1129/sem limite] fila=754 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/?pg=transparencia
+  [1130/sem limite] fila=753 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [1131/sem limite] fila=753 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1132/sem limite] fila=752 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [1133/sem limite] fila=754 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tratamento-de-dados-pes
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tratamento-de-dados-pessoais
+  [1134/sem limite] fila=753 | depth=3 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/requisicao-de-acesso-a-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/requisicao-de-acesso-a-dados
+  [1135/sem limite] fila=752 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/video/?pg=transparencia
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/?pg=transparencia
+  [1136/sem limite] fila=751 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/
+  [1137/sem limite] fila=751 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/consulta-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1138/sem limite] fila=750 | depth=3 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [1139/sem limite] fila=752 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/?pg=tran
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/?pg=transparencia
+  [1140/sem limite] fila=751 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [1141/sem limite] fila=751 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1142/sem limite] fila=750 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [1143/sem limite] fila=752 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/acesso-a-informacao?agg=eyJn
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6ICI4IiwgImlkIjogIjgyXzIifQ%3D%3D
+  [1144/sem limite] fila=751 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/despesas?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/despesas?agg=eyJncnVwbyI6ICIzIiwgImlkIjogIjM1XzIifQ%3D%3D
+  [1145/sem limite] fila=750 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIxMF8yIn0%3D
+  [1146/sem limite] fila=749 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyMF8yIn0%3D
+  [1147/sem limite] fila=748 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICI0NV8yIn0%3D
+  [1148/sem limite] fila=747 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyXzEifQ%3D%3D
+  [1149/sem limite] fila=746 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyMl8yIn0%3D
+  [1150/sem limite] fila=745 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIzNV8yIn0%3D
+  [1151/sem limite] fila=744 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjI5XzEifQ%3D%3D
+  [1152/sem limite] fila=743 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjM1XzEifQ%3D%3D
+  [1153/sem limite] fila=742 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjExXzEifQ%3D%3D
+  [1154/sem limite] fila=741 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjEzXzEifQ%3D%3D
+  [1155/sem limite] fila=740 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjIzXzEifQ%3D%3D
+  [1156/sem limite] fila=739 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjhfMSJ9
+  [1157/sem limite] fila=738 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjdfMSJ9
+  [1158/sem limite] fila=737 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjFfMiJ9
+  [1159/sem limite] fila=736 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjIxXzIifQ%3D%3D
+  [1160/sem limite] fila=735 | depth=4 | https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjExXzIifQ%3D%3D
+  [1161/sem limite] fila=734 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?perfil=1_1
+  [1162/sem limite] fila=733 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-concurso-publico?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-concurso-publico?perfil=1_1
+  [1163/sem limite] fila=732 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=1_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=1_1
+  [1164/sem limite] fila=731 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=1_1
+  [1165/sem limite] fila=730 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-processo-digital?perfil=1_1
+  [1166/sem limite] fila=729 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-ac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/recuperacao-de-senha-de-acesso?perfil=1_1
+  [1167/sem limite] fila=728 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao?perfil
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-a-informacao?perfil=1_1
+  [1168/sem limite] fila=727 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso?perf
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-acesso?perfil=1_1
+  [1169/sem limite] fila=726 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos?perfil=1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/servicos-publicos?perfil=1_1
+  [1170/sem limite] fila=725 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=1_1
+  [1171/sem limite] fila=724 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=1_1
+  [1172/sem limite] fila=723 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal?perfil
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ouvidoria-municipal?perfil=1_1
+  [1173/sem limite] fila=722 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos?perfil=1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/carta-de-servicos?perfil=1_1
+  [1174/sem limite] fila=721 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digital?perfil=1_1
+  [1175/sem limite] fila=720 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-a-ouvidoria?perfil=1_1
+  [1176/sem limite] fila=719 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais?perfil=1_1
+  [1177/sem limite] fila=718 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=1_1
+  [1178/sem limite] fila=717 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados?perfil=1_1
+  [1179/sem limite] fila=716 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/alterar-senha-de-acesso?perfil=1_1
+  [1180/sem limite] fila=715 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referente
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19?perfil=1_1
+  [1181/sem limite] fila=714 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos?perfil=1_1
+  [1182/sem limite] fila=713 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=1_1
+  [1183/sem limite] fila=712 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email?perfil=1_1
+  [1184/sem limite] fila=711 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal?p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal?perfil=1_1
+  [1185/sem limite] fila=710 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=1_1
+  [1186/sem limite] fila=709 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=1_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=1_1
+  [1187/sem limite] fila=708 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios?perfil=1_1
+  [1188/sem limite] fila=707 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=1_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=1_1
+  [1189/sem limite] fila=706 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-es
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-escrituracao?perfil=1_1
+  [1190/sem limite] fila=705 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto?perfil=1_1
+  [1191/sem limite] fila=704 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=2_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/itbi-online?perfil=2_1
+  [1192/sem limite] fila=703 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=2_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi?perfil=2_1
+  [1193/sem limite] fila=702 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=2_1
+  [1194/sem limite] fila=702 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica?perfil=3_1
+  [1195/sem limite] fila=701 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=3_1
+  [1196/sem limite] fila=700 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=3_1
+  [1197/sem limite] fila=699 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=3_1
+  [1198/sem limite] fila=698 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=3_1
+  [1199/sem limite] fila=697 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=3_1
+  [1200/sem limite] fila=696 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados?perfil=3_1
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  23 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (1200 páginas totais | 1200 nesta sessão).
+  [1201/sem limite] fila=696 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas?
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas?perfil=3_1
+  [1202/sem limite] fila=696 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica?perfil=4_1
+  [1203/sem limite] fila=695 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=4_1
+  [1204/sem limite] fila=694 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=4_1
+  [1205/sem limite] fila=693 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=4_1
+  [1206/sem limite] fila=692 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=4_1
+  [1207/sem limite] fila=691 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=4_1
+  [1208/sem limite] fila=690 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=4_1
+  [1209/sem limite] fila=689 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais?perfil=4_1
+  [1210/sem limite] fila=689 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=4_1
+  [1211/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-a
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-ambientais?perfil=4_1
+  [1212/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infracao?perfil=4_1
+  [1213/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webse
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webservice?perfil=4_1
+  [1214/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados?perfil=4_1
+  [1215/sem limite] fila=687 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?perfil=5_1
+  [1216/sem limite] fila=686 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitacoes?perfil=5_1
+  [1217/sem limite] fila=686 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cnpj?perfil=5_1
+  [1218/sem limite] fila=685 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-cadast
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-cadastro-sicaf?perfil=5_1
+  [1219/sem limite] fila=684 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lot
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lote?perfil=5_1
+  [1220/sem limite] fila=684 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-compra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-comprasnet?perfil=5_1
+  [1221/sem limite] fila=683 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cpf?perfil=5_1
+  [1222/sem limite] fila=682 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-130
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-1301914?perfil=5_1
+  [1223/sem limite] fila=682 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=6_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=6_1
+  [1224/sem limite] fila=681 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=6_1
+  [1225/sem limite] fila=680 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=6_1
+  [1226/sem limite] fila=679 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=6_1
+  [1227/sem limite] fila=678 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagam
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=7_1
+  [1228/sem limite] fila=677 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=7_1
+  [1229/sem limite] fila=676 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-servico?perfil=7_1
+  [1230/sem limite] fila=676 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletroni
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletronico?perfil=7_1
+  [1231/sem limite] fila=675 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto?perfil=7_1
+  [1232/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-proba
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-probatorio?perfil=7_1
+  [1233/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=7_1
+  [1234/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho?perfil=7_1
+  [1235/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-func
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=7_1
+  [1236/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos?perfil=7
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos?perfil=7_1
+  [1237/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto?perfil=7_1
+  [1238/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribui
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=7_1
+  [1239/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-tr
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos?perfil=7_1
+  [1240/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-fer
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias?perfil=7_1
+  [1241/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-emprega
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-empregaticio?perfil=7_1
+  [1242/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescisao?perfil=7_1
+  [1243/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=7_1
+  [1244/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certid
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos?perfil=7_1
+  [1245/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias?perfil=7
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias?perfil=7_1
+  [1246/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=8_1
+  [1247/sem limite] fila=672 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=9_1
+  [1248/sem limite] fila=671 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=9_1
+  [1249/sem limite] fila=670 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=9_1
+  [1250/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional?perfil=12_1
+  [1251/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social?perfil=12_1
+  [1252/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitari
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitario?perfil=13_1
+  [1253/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario?perfil=13_1
+  [1254/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-res
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica?perfil=13_1
+  [1255/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura?perfil=13_1
+  [1256/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos-sanitarios?perfil=13_1
+  [1257/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao?perfil=13_1
+  [1258/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-translado?perfil=13_1
+  [1259/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-sau
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-saude?perfil=13_1
+  [1260/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento?perfil=13_1
+  [1261/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transpo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transporte?perfil=13_1
+  [1262/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participaca
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento?perfil=13_1
+  [1263/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagam
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=107_1
+  [1264/sem limite] fila=668 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=107_1
+  [1265/sem limite] fila=667 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=107_1
+  [1266/sem limite] fila=666 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-func
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=107_1
+  [1267/sem limite] fila=665 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribui
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=107_1
+  [1268/sem limite] fila=664 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=107_1
+  [1269/sem limite] fila=663 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atende.php?rot=1&aca=119&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/autoatendimento/servicos/atende.php?rot=1
+  [1270/sem limite] fila=662 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu/detalhar/1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu/detalhar/1
+  [1271/sem limite] fila=661 | depth=4 | https://terraroxa.atende.net/cidadao/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/?pg=transparencia
+  [1272/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/?pg=transparencia
+  [1273/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [1274/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [1275/sem limite] fila=658 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [1276/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjgiLCJpZCI6Ijg
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [1277/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-assistenc
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-assistencia-social
+  [1278/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-das-reunioes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-das-reunioes
+  [1279/sem limite] fila=658 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes
+  [1280/sem limite] fila=657 | depth=4 | https://terraroxa.atende.net/transparencia/item/acesso-a-informacao-sic
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acesso-a-informacao-sic
+  [1281/sem limite] fila=656 | depth=4 | https://terraroxa.atende.net/transparencia/item/rol-de-classificacao-e-desclassi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/rol-de-classificacao-e-desclassificacao-de-documentos
+  [1282/sem limite] fila=655 | depth=4 | https://terraroxa.atende.net/transparencia/item/carta-de-servicos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/carta-de-servicos
+  [1283/sem limite] fila=654 | depth=4 | https://terraroxa.atende.net/transparencia/item/estatistica-de-pedidos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/estatistica-de-pedidos
+  [1284/sem limite] fila=653 | depth=4 | https://terraroxa.atende.net/transparencia/item/estrutura-organizacional-especif
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/estrutura-organizacional-especifico
+  [1285/sem limite] fila=652 | depth=4 | https://terraroxa.atende.net/transparencia/item/legislacao-municipal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/legislacao-municipal
+  [1286/sem limite] fila=651 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-de-assistencia-social
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-de-assistencia-social
+  [1287/sem limite] fila=650 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-de-obras-e-urbanismo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-de-obras-e-urbanismo
+  [1288/sem limite] fila=649 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-municipal-de-educacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-municipal-de-educacao
+  [1289/sem limite] fila=648 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-audiencias-publicas-ppaldol
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-audiencias-publicas-ppaldoloa
+  [1290/sem limite] fila=647 | depth=4 | https://terraroxa.atende.net/transparencia/item/avaliacao-atuarial
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/avaliacao-atuarial
+  [1291/sem limite] fila=646 | depth=4 | https://terraroxa.atende.net/transparencia/item/governo-digital
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/governo-digital
+  [1292/sem limite] fila=645 | depth=4 | https://terraroxa.atende.net/transparencia/item/ouvidoria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ouvidoria
+  [1293/sem limite] fila=644 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorios-de-ouvidoria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorios-de-ouvidoria
+  [1294/sem limite] fila=643 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-fiscalizacao-acompanha
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-fiscalizacao-acompanhamento-apuracao-paar
+  [1295/sem limite] fila=642 | depth=4 | https://terraroxa.atende.net/transparencia/item/regularidade-de-licenciamento-do
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/regularidade-de-licenciamento-do-corpo-de-bombeiros
+  [1296/sem limite] fila=641 | depth=4 | https://terraroxa.atende.net/transparencia/item/controle-interno
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/controle-interno
+  [1297/sem limite] fila=640 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-de-fiscalizacao-e-metas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-de-fiscalizacao-e-metas
+  [1298/sem limite] fila=639 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-procedimentos-de-execu
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-procedimentos-de-execucao-orcamentaria-e-financeira
+  [1299/sem limite] fila=638 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-dados-abertos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-dados-abertos
+  [1300/sem limite] fila=637 | depth=4 | https://terraroxa.atende.net/transparencia/item/metodologia-para-previsao-de-rec
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/metodologia-para-previsao-de-receitas-fundeb
+  [1301/sem limite] fila=636 | depth=4 | https://terraroxa.atende.net/transparencia/item/fluxograma-cda-execucoes-fiscais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/fluxograma-cda-execucoes-fiscais
+  [1302/sem limite] fila=635 | depth=4 | https://terraroxa.atende.net/transparencia/item/transparencia-ativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transparencia-ativa
+  [1303/sem limite] fila=634 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-selecao-de-servidores
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-selecao-de-servidores
+  [1304/sem limite] fila=633 | depth=4 | https://terraroxa.atende.net/transparencia/item/monitoramento-plano-municipal-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/monitoramento-plano-municipal-de-assistencia-social
+  [1305/sem limite] fila=632 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-municipal-de-capacitacao-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-municipal-de-capacitacao-para-servidores-publicos-terra-ro
+  [1306/sem limite] fila=631 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-orientacoes-para-elabo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-orientacoes-para-elaboracao
+  [1307/sem limite] fila=630 | depth=4 | https://terraroxa.atende.net/transparencia/item/extratos-bancarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/extratos-bancarios
+  [1308/sem limite] fila=629 | depth=4 | https://terraroxa.atende.net/transparencia/item/fundeb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/fundeb
+  [1309/sem limite] fila=628 | depth=4 | https://terraroxa.atende.net/transparencia/item/operacoes-financeiras-de-qualque
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/operacoes-financeiras-de-qualquer-natureza
+  [1310/sem limite] fila=627 | depth=4 | https://terraroxa.atende.net/transparencia/item/execucao-orcamentaria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/execucao-orcamentaria
+  [1311/sem limite] fila=626 | depth=4 | https://terraroxa.atende.net/transparencia/item/gestao-fiscal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/gestao-fiscal
+  [1312/sem limite] fila=625 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-plurianual-ppa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-plurianual-ppa
+  [1313/sem limite] fila=624 | depth=4 | https://terraroxa.atende.net/transparencia/item/lei-orcamentaria-anual-loa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lei-orcamentaria-anual-loa
+  [1314/sem limite] fila=623 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-aud-pub-aval-metas-fiscais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-aud-pub-aval-metas-fiscais
+  [1315/sem limite] fila=622 | depth=4 | https://terraroxa.atende.net/transparencia/item/consulta-do-plano-de-contas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consulta-do-plano-de-contas
+  [1316/sem limite] fila=621 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-de-reembolso
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-de-reembolso
+  [1317/sem limite] fila=620 | depth=4 | https://terraroxa.atende.net/transparencia/item/portaria-stn-8282011
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/portaria-stn-8282011
+  [1318/sem limite] fila=619 | depth=4 | https://terraroxa.atende.net/transparencia/item/lei-diretrizes-orcamentarias-ldo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lei-diretrizes-orcamentarias-ldo
+  [1319/sem limite] fila=618 | depth=4 | https://terraroxa.atende.net/transparencia/item/renuncia-de-receitas-estimativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/renuncia-de-receitas-estimativa
+  [1320/sem limite] fila=617 | depth=4 | https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-anual
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-anual
+  [1321/sem limite] fila=616 | depth=4 | https://terraroxa.atende.net/transparencia/item/demonstrativos-contabeis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demonstrativos-contabeis
+  [1322/sem limite] fila=615 | depth=4 | https://terraroxa.atende.net/transparencia/item/monitoramento-do-plano-plurianua
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/monitoramento-do-plano-plurianual
+  [1323/sem limite] fila=614 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-elaboracao-ppa-ldo-loa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-elaboracao-ppa-ldo-loa
+  [1324/sem limite] fila=613 | depth=4 | https://terraroxa.atende.net/transparencia/item/taxa-da-coleta-de-lixo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/taxa-da-coleta-de-lixo
+  [1325/sem limite] fila=612 | depth=4 | https://terraroxa.atende.net/transparencia/item/precatorios-e-requisicoes-de-peq
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/precatorios-e-requisicoes-de-pequenos-valores
+  [1326/sem limite] fila=611 | depth=4 | https://terraroxa.atende.net/transparencia/item/taxa-de-iluminacao-publica-cosip
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/taxa-de-iluminacao-publica-cosip
+  [1327/sem limite] fila=610 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-mensal-de-baixas-manua
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-mensal-de-baixas-manuais
+  [1328/sem limite] fila=609 | depth=4 | https://terraroxa.atende.net/transparencia/item/valores-entregues-pela-uniao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/valores-entregues-pela-uniao
+  [1329/sem limite] fila=608 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-orcamentarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-orcamentarias
+  [1330/sem limite] fila=607 | depth=4 | https://terraroxa.atende.net/transparencia/item/tributos-arrecadados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/tributos-arrecadados
+  [1331/sem limite] fila=606 | depth=4 | https://terraroxa.atende.net/transparencia/item/orcamento-da-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/orcamento-da-receita
+  [1332/sem limite] fila=605 | depth=4 | https://terraroxa.atende.net/transparencia/item/demonstrativos-das-receitas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demonstrativos-das-receitas
+  [1333/sem limite] fila=604 | depth=4 | https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-receita
+  [1334/sem limite] fila=603 | depth=4 | https://terraroxa.atende.net/transparencia/item/convenios-de-receita-estadouniao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/convenios-de-receita-estadouniao-e-emendas
+  [1335/sem limite] fila=602 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-part
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-partir-de-2015
+  [1336/sem limite] fila=601 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-e-despesas-com-multa-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-e-despesas-com-multa-de-transito
+  [1337/sem limite] fila=600 | depth=4 | https://terraroxa.atende.net/transparencia/item/emenda-parlamentar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/emenda-parlamentar
+  [1338/sem limite] fila=599 | depth=4 | https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-receb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-recebidas
+  [1339/sem limite] fila=598 | depth=4 | https://terraroxa.atende.net/transparencia/item/e-beneficios-tributarios-disponi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/e-beneficios-tributarios-disponiveis
+  [1340/sem limite] fila=597 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-extraorcamentarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-extraorcamentarias
+  [1341/sem limite] fila=596 | depth=4 | https://terraroxa.atende.net/transparencia/item/acesso-transferencias-especiais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acesso-transferencias-especiais
+  [1342/sem limite] fila=595 | depth=4 | https://terraroxa.atende.net/transparencia/item/emendas-parlamentares-consulta-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/emendas-parlamentares-consulta-externa
+  [1343/sem limite] fila=594 | depth=4 | https://terraroxa.atende.net/transparencia/item/valores-entregues-pelo-estado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/valores-entregues-pelo-estado
+  [1344/sem limite] fila=593 | depth=4 | https://terraroxa.atende.net/transparencia/item/lista-dos-inscritos-em-divida-at
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lista-dos-inscritos-em-divida-ativa
+  [1345/sem limite] fila=592 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-das-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-das-receitas
+  [1346/sem limite] fila=591 | depth=4 | https://terraroxa.atende.net/transparencia/item/operacoes-de-credito
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/operacoes-de-credito
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRAROXA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 23 arquivos já registrados.
+  Links externos parciais carregados: 97 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+
+============================================================
+  Crawler iniciado: TERRAROXA
+  Páginas já visitadas (checkpoint): 1200
+  URLs na fila: 697
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1200)/sem limite] fila=696 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas?
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas?perfil=3_1
+  [2 (+1200)/sem limite] fila=696 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-de-nota-fiscal-de-servico-eletronica?perfil=4_1
+  [3 (+1200)/sem limite] fila=695 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=4_1
+  [4 (+1200)/sem limite] fila=694 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-issalvara?perfil=4_1
+  [5 (+1200)/sem limite] fila=693 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa?perfil=4_1
+  [6 (+1200)/sem limite] fila=692 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-nota-fiscal-de-servico-eletronica-reforma-tributaria?perfil=4_1
+  [7 (+1200)/sem limite] fila=691 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfse?perfil=4_1
+  [8 (+1200)/sem limite] fila=690 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=4_1
+  [9 (+1200)/sem limite] fila=689 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais?perfil=4_1
+  [10 (+1200)/sem limite] fila=689 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=4_1
+  [11 (+1200)/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-a
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-ambientais?perfil=4_1
+  [12 (+1200)/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infracao?perfil=4_1
+  [13 (+1200)/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webse
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webservice?perfil=4_1
+  [14 (+1200)/sem limite] fila=688 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados?perfil=4_1
+  [15 (+1200)/sem limite] fila=687 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?per
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-licitacoes?perfil=5_1
+  [16 (+1200)/sem limite] fila=686 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitacoes?perfil=5_1
+  [17 (+1200)/sem limite] fila=686 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cnpj?perfil=5_1
+  [18 (+1200)/sem limite] fila=685 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-cadast
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-cadastro-sicaf?perfil=5_1
+  [19 (+1200)/sem limite] fila=684 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lot
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lote?perfil=5_1
+  [20 (+1200)/sem limite] fila=684 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-compra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-pregao-eletronico-comprasnet?perfil=5_1
+  [21 (+1200)/sem limite] fila=683 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/e-relacao-de-documentos-para-cadastro-de-fornecedores-cpf?perfil=5_1
+  [22 (+1200)/sem limite] fila=682 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-130
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-1301914?perfil=5_1
+  [23 (+1200)/sem limite] fila=682 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=6_1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu?perfil=6_1
+  [24 (+1200)/sem limite] fila=681 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=6_1
+  [25 (+1200)/sem limite] fila=680 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=6_1
