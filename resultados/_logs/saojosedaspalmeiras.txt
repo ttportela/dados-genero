@@ -45829,3 +45829,24 @@ Inventário parcial carregado: 19858 arquivos já registrados.
   [157 (+22648)/sem limite] fila=5322 | depth=4 | https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhRelacaoDeSe
   📄 [200] .rtf -> https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhR
   [158 (+22648)/sem limite] fila=5321 | depth=4 | https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhRelacaoDeSe
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOSEDASPALMEIRAS
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 19858 arquivos já registrados.
+  Links externos parciais carregados: 154 links já registrados.
+  Log de erros parcial carregado: 753 erros já registrados.
+
+============================================================
+  Crawler iniciado: SAOJOSEDASPALMEIRAS
+  Páginas já visitadas (checkpoint): 22648
+  URLs na fila: 5040
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+22648)/sem limite] fila=5039 | depth=4 | https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhRelacaoDeSe
+ ❌ TIMEOUT_OU_CONEXAO: https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=C0A70241178FC198458E290D002682D4?d-5470-p=5&formulario.exercicio=2022&formulario.mes=DEZEMBRO&formulario.codEntidade=382
+  🤖 Usando Selenium para: https://saojosedaspalmeiraspr.equiplano.com.br:7382/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=C0A70241178FC198458E290D002682D4?d-5470-p=5&formulario.exercicio=2022&formulario.mes=DEZEMBRO&formulario.codEntidade=382

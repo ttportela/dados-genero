@@ -1,6 +1,6 @@
 {
   "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
-  "_portais_verificados": "Descoberto automaticamente em 10/08/2026",
+  "_portais_verificados": "Descoberto automaticamente em 12/08/2026",
   "almirantetamandare": {
     "sementes": [
       "https://tamandare.pr.gov.br/",
@@ -3279,9 +3279,11 @@
   },
   "saocarlosdoivai": {
     "sementes": [
-      "https://www.saocarlosdoivai.pr.gov.br/"
+      "https://www.saocarlosdoivai.pr.gov.br/",
+      "https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/"
     ],
     "dominios": [
+      "saocarlosdoivai.oxy.elotech.com.br",
       "saocarlosdoivai.pr.gov.br",
       "www.saocarlosdoivai.pr.gov.br"
     ]
@@ -3432,10 +3434,12 @@
   },
   "siqueiracampos": {
     "sementes": [
-      "https://www.siqueiracampos.pr.gov.br/"
+      "https://www.siqueiracampos.pr.gov.br/",
+      "https://transparencia.betha.cloud/"
     ],
     "dominios": [
       "siqueiracampos.pr.gov.br",
+      "transparencia.betha.cloud",
       "www.siqueiracampos.pr.gov.br"
     ]
   },

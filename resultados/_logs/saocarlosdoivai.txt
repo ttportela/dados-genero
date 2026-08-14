@@ -1,0 +1,336 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOCARLOSDOIVAI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOCARLOSDOIVAI
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saocarlosdoivai.pr.gov.br/
+  📄 [200] .pdf -> https://saocarlosdoivai.pr.gov.br/carta_servicos/carta_servico.pdf
+  [2/sem limite] fila=18 | depth=1 | https://www.saocarlosdoivai.pr.gov.br/index.php?sessao=p0
+  [3/sem limite] fila=17 | depth=1 | https://saocarlosdoivai.pr.gov.br/
+  [4/sem limite] fila=16 | depth=1 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368ncb0&id=1934
+  [5/sem limite] fila=15 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368ppb0
+  [6/sem limite] fila=14 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=3824
+  [7/sem limite] fila=21 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=3823
+  [8/sem limite] fila=28 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=4176
+  [9/sem limite] fila=28 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=3827
+  [10/sem limite] fila=35 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=3826
+  [11/sem limite] fila=42 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368svb0&id=3825
+  [12/sem limite] fila=49 | depth=1 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368b4b0
+  [13/sem limite] fila=50 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481795
+  [14/sem limite] fila=54 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481680
+  [15/sem limite] fila=54 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481538
+  [16/sem limite] fila=53 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481519
+  [17/sem limite] fila=52 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481518
+  [18/sem limite] fila=51 | depth=1 | https://saocarlosdoivai.pr.gov.br/index.php?sessao=b054603368vfb0&id=1481462
+  [19/sem limite] fila=50 | depth=1 | https://webmail.saocarlosdoivai.pr.gov.br/
+  [20/sem limite] fila=84 | depth=1 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368ixb0&id=3748
+  [21/sem limite] fila=83 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=3824
+  [22/sem limite] fila=82 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476197&id
+  [23/sem limite] fila=81 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475139&id
+  [24/sem limite] fila=80 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475115&id
+  [25/sem limite] fila=79 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475066&id
+  [26/sem limite] fila=78 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474816&id
+  [27/sem limite] fila=77 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474737&id
+  [28/sem limite] fila=76 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [29/sem limite] fila=91 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=3823
+  [30/sem limite] fila=90 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475899&id
+  [31/sem limite] fila=89 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475115&id
+  [32/sem limite] fila=88 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469824&id
+  [33/sem limite] fila=87 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469805&id
+  [34/sem limite] fila=86 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469804&id
+  [35/sem limite] fila=85 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469445&id
+  [36/sem limite] fila=84 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [37/sem limite] fila=97 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=4176
+  [38/sem limite] fila=96 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=3827
+  [39/sem limite] fila=95 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481680&id
+  [40/sem limite] fila=94 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481213&id
+  [41/sem limite] fila=93 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480437&id
+  [42/sem limite] fila=92 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1480175&id
+  [43/sem limite] fila=91 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479820&id
+  [44/sem limite] fila=90 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479574&id
+  [45/sem limite] fila=89 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [46/sem limite] fila=104 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=3826
+  [47/sem limite] fila=103 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1472241&id
+  [48/sem limite] fila=102 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467104&id
+  [49/sem limite] fila=101 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466960&id
+  [50/sem limite] fila=100 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466958&id
+  [51/sem limite] fila=99 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1465013&id
+  [52/sem limite] fila=98 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1464938&id
+  [53/sem limite] fila=97 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [54/sem limite] fila=110 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368xwb0&id=3825
+  [55/sem limite] fila=109 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469846&id
+  [56/sem limite] fila=108 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467104&id
+  [57/sem limite] fila=107 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467147&id
+  [58/sem limite] fila=106 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467148&id
+  [59/sem limite] fila=105 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466957&id
+  [60/sem limite] fila=104 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1463195&id
+  [61/sem limite] fila=103 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [62/sem limite] fila=117 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368b1b0&id=589
+  [63/sem limite] fila=116 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368b1b0&id=709
+  [64/sem limite] fila=115 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481680
+  [65/sem limite] fila=114 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481538
+  [66/sem limite] fila=113 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481519
+  [67/sem limite] fila=112 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481518
+  [68/sem limite] fila=111 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481462
+  [69/sem limite] fila=110 | depth=2 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1481795
+  [70/sem limite] fila=109 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ar
+  [71/sem limite] fila=108 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=cs
+  [72/sem limite] fila=107 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=da
+  [73/sem limite] fila=106 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=de
+  [74/sem limite] fila=105 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=el
+  [75/sem limite] fila=104 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=en
+  [76/sem limite] fila=103 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=es
+  [77/sem limite] fila=102 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=es_419
+  [78/sem limite] fila=101 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=es_es
+  [79/sem limite] fila=100 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=fi
+  [80/sem limite] fila=99 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=fil
+  [81/sem limite] fila=98 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=fr
+  [82/sem limite] fila=97 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=he
+  [83/sem limite] fila=96 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=hu
+  [84/sem limite] fila=95 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=i_en
+  [85/sem limite] fila=94 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=id
+  [86/sem limite] fila=93 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=it
+  [87/sem limite] fila=92 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ja
+  [88/sem limite] fila=91 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ko
+  [89/sem limite] fila=90 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ms
+  [90/sem limite] fila=89 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=nb
+  [91/sem limite] fila=88 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=nl
+  [92/sem limite] fila=87 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=pl
+  [93/sem limite] fila=86 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=pt
+  [94/sem limite] fila=85 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=pt_br
+  [95/sem limite] fila=84 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ro
+  [96/sem limite] fila=83 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=ru
+  [97/sem limite] fila=82 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=sv
+  [98/sem limite] fila=81 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=th
+  [99/sem limite] fila=80 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=tr
+  [100/sem limite] fila=79 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=uk
+  [101/sem limite] fila=78 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=vi
+  [102/sem limite] fila=77 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=zh
+  [103/sem limite] fila=76 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/?locale=zh_tw
+  [104/sem limite] fila=75 | depth=2 | https://webmail.saocarlosdoivai.pr.gov.br/resetpass?start=1
+  [105/sem limite] fila=74 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474139&id
+  [106/sem limite] fila=73 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469847&id
+  [107/sem limite] fila=72 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469448&id
+  [108/sem limite] fila=71 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467104&id
+  [109/sem limite] fila=70 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [110/sem limite] fila=69 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [111/sem limite] fila=74 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [112/sem limite] fila=73 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [113/sem limite] fila=72 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [114/sem limite] fila=71 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [115/sem limite] fila=70 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [116/sem limite] fila=69 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [117/sem limite] fila=68 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [118/sem limite] fila=67 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [119/sem limite] fila=66 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [120/sem limite] fila=65 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [121/sem limite] fila=64 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467104&id
+  [122/sem limite] fila=63 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1455833&id
+  [123/sem limite] fila=62 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [124/sem limite] fila=61 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [125/sem limite] fila=60 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [126/sem limite] fila=59 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [127/sem limite] fila=58 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [128/sem limite] fila=57 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [129/sem limite] fila=56 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [130/sem limite] fila=55 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [131/sem limite] fila=54 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [132/sem limite] fila=53 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [133/sem limite] fila=52 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [134/sem limite] fila=51 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [135/sem limite] fila=50 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479564&id
+  [136/sem limite] fila=49 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479357&id
+  [137/sem limite] fila=48 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1479302&id
+  [138/sem limite] fila=47 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477958&id
+  [139/sem limite] fila=46 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [140/sem limite] fila=45 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [141/sem limite] fila=54 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [142/sem limite] fila=63 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [143/sem limite] fila=72 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [144/sem limite] fila=79 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [145/sem limite] fila=78 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [146/sem limite] fila=77 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [147/sem limite] fila=76 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [148/sem limite] fila=75 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [149/sem limite] fila=74 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [150/sem limite] fila=73 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [151/sem limite] fila=72 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1464433&id
+  [152/sem limite] fila=71 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1464363&id
+  [153/sem limite] fila=70 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [154/sem limite] fila=69 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [155/sem limite] fila=68 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [156/sem limite] fila=67 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [157/sem limite] fila=66 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [158/sem limite] fila=65 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [159/sem limite] fila=64 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [160/sem limite] fila=63 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [161/sem limite] fila=62 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [162/sem limite] fila=61 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [163/sem limite] fila=60 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [164/sem limite] fila=59 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [165/sem limite] fila=58 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462511&id
+  [166/sem limite] fila=57 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1455833&id
+  [167/sem limite] fila=56 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1449962&id
+  [168/sem limite] fila=55 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [169/sem limite] fila=54 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [170/sem limite] fila=53 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [171/sem limite] fila=52 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [172/sem limite] fila=51 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [173/sem limite] fila=50 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [174/sem limite] fila=49 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [175/sem limite] fila=48 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [176/sem limite] fila=47 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [177/sem limite] fila=46 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [178/sem limite] fila=45 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [179/sem limite] fila=44 | depth=3 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368n5b0&id_secretaria
+  [180/sem limite] fila=43 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466967&id
+  [181/sem limite] fila=42 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466966&id
+  [182/sem limite] fila=41 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466965&id
+  [183/sem limite] fila=40 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466964&id
+  [184/sem limite] fila=39 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466962&id
+  [185/sem limite] fila=38 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1465013&id
+  [186/sem limite] fila=37 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477554&id
+  [187/sem limite] fila=36 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477553&id
+  [188/sem limite] fila=35 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1477078&id
+  [189/sem limite] fila=34 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476946&id
+  [190/sem limite] fila=33 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476284&id
+  [191/sem limite] fila=32 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476127&id
+  [192/sem limite] fila=31 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476126&id
+  [193/sem limite] fila=30 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1476083&id
+  [194/sem limite] fila=29 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1475066&id
+  [195/sem limite] fila=28 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474890&id
+  [196/sem limite] fila=27 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474816&id
+  [197/sem limite] fila=26 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474737&id
+  [198/sem limite] fila=25 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474735&id
+  [199/sem limite] fila=24 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474637&id
+  [200/sem limite] fila=23 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474264&id
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_links.xlsx
+  1 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_externos.xlsx
+  447 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=22 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474260&id
+  [202/sem limite] fila=21 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474259&id
+  [203/sem limite] fila=20 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474257&id
+  [204/sem limite] fila=19 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474233&id
+  [205/sem limite] fila=18 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474232&id
+  [206/sem limite] fila=17 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474231&id
+  [207/sem limite] fila=16 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474139&id
+  [208/sem limite] fila=15 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474113&id
+  [209/sem limite] fila=14 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474111&id
+  [210/sem limite] fila=13 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1474024&id
+  [211/sem limite] fila=12 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473224&id
+  [212/sem limite] fila=11 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1473146&id
+  [213/sem limite] fila=10 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469447&id
+  [214/sem limite] fila=9 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1469445&id
+  [215/sem limite] fila=8 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1468467&id
+  [216/sem limite] fila=7 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467104&id
+  [217/sem limite] fila=6 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1467150&id
+  [218/sem limite] fila=5 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466963&id
+  [219/sem limite] fila=4 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466961&id
+  [220/sem limite] fila=3 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1466959&id
+  [221/sem limite] fila=2 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1462613&id
+  [222/sem limite] fila=1 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1460454&id
+  [223/sem limite] fila=0 | depth=4 | https://saocarlosdoivai.pr.gov.br//index.php?sessao=b054603368vfb0&id=1455833&id
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_links.xlsx
+  1 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_externos.xlsx
+  620 links externos registrados.
+
+  Varredura encerrada: SAOCARLOSDOIVAI
+  Páginas nesta sessão: 223
+  Páginas totais (acumulado): 223
+  Arquivos no inventário: 1
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/saocarlosdoivai/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas São Carlos do Ivaí)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 São Carlos do Ivaí (slug: saocarlosdoivai)...   → buscando no DuckDuckGo (apenas inventário)... 
+           *  ✅ https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/
+              ✅ https://saocarlosdoivai.pr.gov.br/
+              ✅ https://saojoaodoivai.eloweb.net/portaltransparencia/1/servidores/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +1 domínio(s)]
+           → https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOCARLOSDOIVAI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 1 arquivos já registrados.
+  Links externos parciais carregados: 620 links já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: SAOCARLOSDOIVAI
+  Páginas já visitadas (checkpoint): 223
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+223)/sem limite] fila=0 | depth=0 | https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/
+  🤖 Usando Selenium para: https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/
+  ⏭️  CAPTCHA detectado em: https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/ — pulando (sem intervenção manual)
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://saocarlosdoivai.oxy.elotech.com.br/portaltransparencia/1/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_links.xlsx
+  1 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saocarlosdoivai/inventario_externos.xlsx
+  620 links externos registrados.
+
+  Varredura encerrada: SAOCARLOSDOIVAI
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 224
+  Arquivos no inventário: 1
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/saocarlosdoivai/
+============================================================
+

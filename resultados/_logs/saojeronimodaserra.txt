@@ -1,0 +1,1855 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJERONIMODASERRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOJERONIMODASERRA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saojeronimodaserra.pr.gov.br/
+  [2/sem limite] fila=71 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/1/quem-somos
+  [3/sem limite] fila=77 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo?TurismoSearch%5Bid%5D=&TurismoS
+  [4/sem limite] fila=77 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/index?TurismoSearch%5Bid%5D=&Tu
+  [5/sem limite] fila=77 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo
+  [6/sem limite] fila=76 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/1/secretaria-da-adminis
+  [7/sem limite] fila=94 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/2/secretaria-de-agricul
+  [8/sem limite] fila=96 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/3/secretaria-de-assiste
+  [9/sem limite] fila=113 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/4/secretaria-de-esporte
+  [10/sem limite] fila=114 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/5/secretaria-da-educaca
+  [11/sem limite] fila=132 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/6/secretaria-do-meio-am
+  [12/sem limite] fila=133 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/7/secretaria-de-obras-e
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/secretaria/30/_FtTVVx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/secretaria/31/npl6p-5
+  📄 [200] .zip -> https://www.saojeronimodaserra.pr.gov.br/uploads/secretaria/32/3bESNiw
+  [13/sem limite] fila=139 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/8/secretaria-da-saude
+  [14/sem limite] fila=157 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/9/secretaria-de-transpo
+  [15/sem limite] fila=158 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/departamento?DepartamentoSearch%5Bid_se
+  [16/sem limite] fila=158 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/departamento/index?DepartamentoSearch%5
+  [17/sem limite] fila=161 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/entidade
+  [18/sem limite] fila=162 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/escola
+  [19/sem limite] fila=162 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/servico
+  [20/sem limite] fila=162 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/2/carta-de-servicos
+  [21/sem limite] fila=166 | depth=1 | https://saojeronimodaserra.pr.gov.br/documento/view/95?slug=defesa-civil
+  [22/sem limite] fila=216 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/legislacao?LegislacaoSearch%5Bid_legisl
+  [23/sem limite] fila=245 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [24/sem limite] fila=272 | depth=1 | https://saojeronimodaserra.pr.gov.br/pagina/view/4?slug=lei-geral-de-protecao-de
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/4622/f9H_r7Fe7
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/3350/namDxN7Bu
+  [25/sem limite] fila=280 | depth=1 | https://saojeronimodaserra.pr.gov.br/documento/view/83?slug=lei-municipal-n-1752
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3472/Vqp8MAt1mt
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3836/6NHPGoj2zp
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3773/p_pl0_8QaT
+  [26/sem limite] fila=288 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/transparencia
+  [27/sem limite] fila=289 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/contrato
+  [28/sem limite] fila=289 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/obra
+  [29/sem limite] fila=289 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3771/wpN99
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3772/tNCFi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3902/3oLTQ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4622/f9H_r
+  [30/sem limite] fila=299 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/esic
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3901/4QRPZ
+  [31/sem limite] fila=302 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+  [32/sem limite] fila=301 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/faq
+  [33/sem limite] fila=302 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/noticia
+  [34/sem limite] fila=317 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/evento
+  [35/sem limite] fila=318 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/enquete
+  [36/sem limite] fila=319 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/midia-foto
+  [37/sem limite] fila=339 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/midia-video
+  [38/sem limite] fila=340 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/midia-audio
+  [39/sem limite] fila=340 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/conta
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/conta
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/conta
+  [40/sem limite] fila=339 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/conta/logout
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/conta/logout
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/conta/logout
+  [41/sem limite] fila=338 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/3/acessibilidade
+  [42/sem limite] fila=340 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/site/mapa-site
+  [43/sem limite] fila=339 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/4/lei-geral-de-protecao-de-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3350/namDx
+  [44/sem limite] fila=342 | depth=1 | https://webmail.saojeronimodaserra.pr.gov.br/
+  [45/sem limite] fila=375 | depth=1 | https://saojeronimodaserra.pr.gov.br/turismo
+  [46/sem limite] fila=383 | depth=1 | https://saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitacao=EL
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/3771/wpN99gtRV
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/3772/tNCFiPfae
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/3902/3oLTQmWmy
+  [47/sem limite] fila=387 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/contratacao?ContratacaoSearch%5Bid_cont
+  [48/sem limite] fila=401 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/servico/view/4/iss-e-sistema-de-gerenci
+  [49/sem limite] fila=403 | depth=1 | https://saojeronimodaserra.pr.gov.br/formulario/view/7?slug=manutencao-de-ilumin
+  [50/sem limite] fila=403 | depth=1 | https://saojeronimodaserra.pr.gov.br/documento/view/64?slug=itr
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4616/OEnCxktR7F
+  [51/sem limite] fila=407 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [52/sem limite] fila=407 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/documento/index?DocumentoSearch%5Bid_se
+  [53/sem limite] fila=410 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [54/sem limite] fila=413 | depth=1 | https://saojeronimodaserra.pr.gov.br/documento/view/123?slug=telefones-uteis
+  [55/sem limite] fila=415 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/386/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4926/YqZjUsDm
+  [56/sem limite] fila=417 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/385/aviso-de-licitacao-con
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4923/HSzLcKVH
+  [57/sem limite] fila=419 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/384/aviso-de-licitacao-pre
+  📄 [200] .docx -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4920/a4wcmikF
+  [58/sem limite] fila=421 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/383/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4918/c6qyUzij
+  [59/sem limite] fila=423 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2778/portaria-n-2102026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4936/_QtE7
+  [60/sem limite] fila=427 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2777/portaria-n-2092026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4935/r1nly
+  [61/sem limite] fila=431 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/legislacao
+  [62/sem limite] fila=440 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/10/secretaria-de-cultur
+  [63/sem limite] fila=439 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria/view/4/secretaria-de-esporte
+  [64/sem limite] fila=438 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/secretaria
+  [65/sem limite] fila=437 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/6/rio-do-tigre
+  [66/sem limite] fila=439 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/7/cachoeira-joao-nogueira
+  [67/sem limite] fila=441 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/9/cachoeira-do-larini
+  [68/sem limite] fila=443 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/15/salto-do-tamandua-i
+  [69/sem limite] fila=445 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/10/portal-sao-jeronimo-da-
+  📄 [200] .zip -> https://www.saojeronimodaserra.pr.gov.br/uploads/turismo/2390/PBcSU5xa
+  [70/sem limite] fila=447 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/14/cachoeira-borda-do-infi
+  [71/sem limite] fila=449 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/13/morro-do-taff
+  [72/sem limite] fila=451 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/conta/cadastrar?tipo=pf
+  [73/sem limite] fila=451 | depth=1 | https://www.saojeronimodaserra.pr.gov.br/conta/cadastrar?tipo=pj
+  [74/sem limite] fila=450 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=1
+  [75/sem limite] fila=449 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=1
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=1
+  [76/sem limite] fila=448 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=1
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=1
+  [77/sem limite] fila=447 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/370/aviso-de-licitacao-pre
+  📄 [200] .docx -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4842/D2c0FsEm
+  [78/sem limite] fila=449 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/237/aviso-de-licitacao-101
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/3482/tPxCWdzd
+  [79/sem limite] fila=451 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/302/aviso-de-licitacao-152
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4126/ifeVM41c
+  [80/sem limite] fila=453 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/303/paa-indigena
+  [81/sem limite] fila=455 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/index
+  [82/sem limite] fila=454 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/view/11/sao-jeronimo-da-serrapr
+  [83/sem limite] fila=456 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/secretaria/index
+  [84/sem limite] fila=455 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+  [85/sem limite] fila=454 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento
+  [86/sem limite] fila=455 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/8/plano-diretor-3
+  [87/sem limite] fila=457 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/view/10/verba-de-representacao
+  [88/sem limite] fila=459 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretaria%5
+  [89/sem limite] fila=460 | depth=2 | https://saojeronimodaserra.pr.gov.br/legislacao/view/2589?slug=manual-de-orienta
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/4510/hDvpbzdLG
+  [90/sem limite] fila=465 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/131?slug=relatorio-e-parecer
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4665/DyzfN-AYn2
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4761/6-aWo2eHZz
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4762/u48kmKixK5
+  [91/sem limite] fila=473 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [92/sem limite] fila=486 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/20/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3442/mgJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4402/Uaq
+  [93/sem limite] fila=492 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/21/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3574/omL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3645/2nx
+  [94/sem limite] fila=498 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/22/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4399/oIU
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4400/-2q
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4401/bS_
+  [95/sem limite] fila=506 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/382/edital-retificado-avis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4875/bDMwiXnW
+  [96/sem limite] fila=508 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/381/edital-retificado-conc
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4867/T6qDrs4J
+  [97/sem limite] fila=510 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/374/sorteio-de-leiloeiro-4
+  [98/sem limite] fila=512 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/373/aviso-concessao-de-uso
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4853/WSKaCEHH
+  [99/sem limite] fila=514 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index
+  [100/sem limite] fila=513 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/65/bens-em-cessao-2015
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3073/pmgEm3
+  [101/sem limite] fila=517 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/index
+  [102/sem limite] fila=536 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/379/aviso-de-chamada-publi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4866/VxtXB2sH
+  [103/sem limite] fila=540 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/348/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4585/NZdRI5cJ
+  [104/sem limite] fila=542 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/300/aviso-de-licitacao-151
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4118/3u4waC6p
+  [105/sem limite] fila=544 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/8/conselho-municipal-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3150/-6n
+  [106/sem limite] fila=552 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [107/sem limite] fila=552 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [108/sem limite] fila=552 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/90?slug=plano-municipal-de-a
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3864/MCi0RMjoQj
+  [109/sem limite] fila=556 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/91?slug=relatorio-de-ativida
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3880/yOJDrKY6v-
+  [110/sem limite] fila=560 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretaria%5
+  [111/sem limite] fila=561 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/2/conselho-tutelar
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3405/pmF
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/231/8zR1
+  [112/sem limite] fila=570 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/7/conselho-municipal-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/235/zZvn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3151/lu3
+  [113/sem limite] fila=576 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/3/conselho-municipal-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/232/jnGP
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/2617/RDw
+  [114/sem limite] fila=582 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/17/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4646/AfI
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/2619/6dd
+  [115/sem limite] fila=588 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/16/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4049/Q6D
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4453/-Zc
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/2618/c7C
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3226/jSe
+  [116/sem limite] fila=598 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2310/resolucoes-2023
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3709/MrAng
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3708/U6gJn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3707/Ajepk
+  [117/sem limite] fila=606 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index
+  [118/sem limite] fila=605 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/366/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4810/ba7Qggu1
+  [119/sem limite] fila=607 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/335/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4478/dycGPfkd
+  [120/sem limite] fila=609 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/118/escala-de-trabalho-2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4280/tjei32
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4281/ha3cET
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4282/ruXSDK
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4492/h2721-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4597/nx71mi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4895/aMcmHY
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4896/rssYS9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4916/8TNsg4
+  [121/sem limite] fila=627 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/116/resolucao-2025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4229/fcFXgM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4230/0Ew2uj
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4231/LzsB4A
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4232/eAKJeR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4234/t1vGpC
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4235/_5pGCi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4236/CBNufO
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4237/M5eYI7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4238/5dv6UH
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4239/pFMMZ0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4240/Bfv3e1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4241/UN1vUc
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4242/MBYsF9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4243/mykZcu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4244/GyDA0j
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4245/puj1tA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4246/PhMk1k
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4247/_Y-cQu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4248/Py_C_J
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4249/9fgNRX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4250/sPEPn7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4251/5pn_ZA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4252/9VEqbQ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4253/pJLVM9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4254/-NHVkQ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4255/G8_L_q
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4256/FuG4kR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4257/FfP5lB
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4258/4GK1v_
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4259/oGWQTK
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4260/YGCPaE
+  [122/sem limite] fila=691 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/117/resolucao-2026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4429/lIDxdn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4430/AFZqKM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4431/Gkfons
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4432/NGyFnI
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4433/mOZU3S
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4434/AjQR2x
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4435/sxR5tS
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4436/a95_yV
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4437/NuCylV
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4438/aN6PNl
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4439/wsn8IM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4440/vzLkbl
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4441/wNObvo
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4442/WkeJmz
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4443/nrVkh7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4444/x2Su3R
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4445/HNTwEJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4446/k9Mp-c
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4447/hqxlFk
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4448/AZnGQK
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4449/XN_NfE
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4450/qkG3GM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4451/mmPYwa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4452/m_TBBw
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4460/au05aQ
+  [123/sem limite] fila=743 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/282/aviso-de-licitacao-137
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/3925/gpOBuoCp
+  [124/sem limite] fila=745 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/274/aviso-de-licitacao-130
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/3871/LfMfXAHa
+  [125/sem limite] fila=747 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/index?DocumentoSearch%5Bid_se
+  [126/sem limite] fila=750 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/17/plano-municipal-de-ed
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4710/C00T0w
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2706/daz7K0
+  [127/sem limite] fila=756 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [128/sem limite] fila=761 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [129/sem limite] fila=764 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [130/sem limite] fila=778 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/908/portaria-n-1752024
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/1156/y0ila
+  [131/sem limite] fila=782 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/30?slug=politica-educaca
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2719/FXiOet
+  [132/sem limite] fila=786 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [133/sem limite] fila=790 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/55?slug=relatorio-de-avaliac
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/2893/PbT4xG3cmb
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/2897/DH6bNTwNTA
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/2898/5wdB7lr-1F
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/2899/EipDo7KxLN
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4187/qrO72Qm5we
+  [134/sem limite] fila=802 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/57?slug=metas-pme
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/2895/spIDZk7Roy
+  [135/sem limite] fila=806 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/79?slug=plano-plurianual-da-
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3345/5sMwtcX-_h
+  [136/sem limite] fila=810 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/4/conselho-municipal-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/234/uZTQ
+  [137/sem limite] fila=814 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/6/conselho-municipal-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4403/yZF
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/69/wCf8l
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/70/4TbW6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/71/lN1sg
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/72/tu3le
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/73/IQA2J
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/74/mfpvL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/75/72cR4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/76/kSq3Y
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/77/QE2ON
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/78/vo3Vv
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/3149/tnP
+  [138/sem limite] fila=840 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/368/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4815/YLx75HlI
+  [139/sem limite] fila=842 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/367/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4813/pzeuwxvp
+  [140/sem limite] fila=844 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/355/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4681/NVVTOttj
+  [141/sem limite] fila=846 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/105/cardapio-de-2026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4768/kfXk9j
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4769/xp6eve
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4770/ZH4b_F
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4771/KQQ1IN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4772/MnIsSL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4773/EwZe1a
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4774/aQiqFj
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4775/dNL8QU
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4776/kB--_V
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4777/E7fsX7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4778/y3CEn9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4779/ZFvImg
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4780/ht_RmP
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4781/4guMNz
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4782/aFB--O
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4817/5PGQhQ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4844/DdsBr_
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4845/oOiela
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4913/YAfuLG
+  [142/sem limite] fila=886 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/55/relatorios
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2893/PbT4xG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2897/DH6bNT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2898/5wdB7l
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2899/EipDo7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4187/qrO72Q
+  [143/sem limite] fila=898 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/51/instrucao-normativa-n
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2871/73dLkn
+  [144/sem limite] fila=902 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/339/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4535/9w9iRZ7A
+  [145/sem limite] fila=904 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/336/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4479/wbvClexl
+  [146/sem limite] fila=906 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/334/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4475/401v7X62
+  [147/sem limite] fila=908 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/330/aviso-de-licitacao-con
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4376/8y-WBHlp
+  [148/sem limite] fila=910 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/323/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4326/Eow0suFM
+  [149/sem limite] fila=912 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [150/sem limite] fila=911 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fsecretaria%2F30%2F&fileName=_FtTVVx9thP8o1VwulzqCU8lLOcl2dTF.pdf
+  [151/sem limite] fila=910 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [152/sem limite] fila=909 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fsecretaria%2F31%2F&fileName=npl6p-5vnk3xnN2ZUGDOy4lYYer0WBT_.pdf
+  [153/sem limite] fila=908 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/36/plano-municipal-de-sa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3974/b_bZXi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3975/1ivrsN
+  [154/sem limite] fila=914 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/37?slug=escala-funcionar
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4675/iL2Sgk
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2726/ueY2es
+  [155/sem limite] fila=920 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [156/sem limite] fila=920 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [157/sem limite] fila=930 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [158/sem limite] fila=930 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretar
+  [159/sem limite] fila=932 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [160/sem limite] fila=933 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/41/programacao-anual-de-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3976/fe0Lns
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3977/-gbA7e
+  [161/sem limite] fila=939 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/42?slug=procedimentos-op
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2799/ysnuak
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2800/aWrmM7
+  [162/sem limite] fila=945 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/43/protocolos-da-saude
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2802/foeh05
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2803/In0cwU
+  [163/sem limite] fila=951 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/97?slug=plano-de-seguranca-d
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3978/gYTHT5FV2A
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3979/tmBUKhbmNA
+  [164/sem limite] fila=957 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/19/conselho-municipal
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/departamento/4598/QCt
+  [165/sem limite] fila=961 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/35/medicamentos-aten
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2887/E8
+  [166/sem limite] fila=965 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/31/acesso-a-medicame
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2885/GN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/4676/Re
+  [167/sem limite] fila=971 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/36/relatorio-anual-d
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2889/Pj
+  [168/sem limite] fila=975 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/29/medicamentos-comp
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2883/bv
+  [169/sem limite] fila=979 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/index
+  [170/sem limite] fila=978 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/369/aviso-de-licitacao-pre
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4820/qlJ9Spv3
+  [171/sem limite] fila=980 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/97/plano-de-seguranca-de
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3978/gYTHT5
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3979/tmBUKh
+  [172/sem limite] fila=986 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/332/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4404/3qKh8MOW
+  [173/sem limite] fila=988 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/297/aviso-de-licitacao-149
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4063/79SwT2aP
+  [174/sem limite] fila=990 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/index
+  [175/sem limite] fila=989 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/10/departamento-de-as
+  [176/sem limite] fila=991 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/11/departamento-de-tr
+  [177/sem limite] fila=993 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/12/departamento-jurid
+  [178/sem limite] fila=995 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/13/departamento-pesso
+  [179/sem limite] fila=997 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/entidade/view/1/samae
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/5/G2zHSaZxtj
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/6/ZiRY94uwD0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/7/_Iz7SKJOS2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/8/SC8EfFeT-T
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/10/RVJj9b9oN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/11/JNcZg2IOs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/12/ph9tynvFh
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/13/rq8lf3IFY
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/14/CBKljdYzS
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/15/tR0is5-dm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/16/LpKibsz4y
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/17/dU1JxSXu0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/18/YXfFc58xL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/19/GPLsAKshg
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/20/Axp6ohPIj
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/21/mlUyyNbXG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/22/05HdpL_qO
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/23/WJ6OsZBHb
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/24/rOPrepZsR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/25/Ql1LkQPoo
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/26/Yd9DcZ-RR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/27/l02pywh13
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/28/BUiDtkf2o
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/entidade/29/DbBQ8g2PI
+  [180/sem limite] fila=1047 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/entidade/index
+  [181/sem limite] fila=1046 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/escola/index
+  [182/sem limite] fila=1045 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/servico/index
+  [183/sem limite] fila=1044 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=2
+  [184/sem limite] fila=1043 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=2
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=2
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=2
+  [185/sem limite] fila=1042 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=2
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=2
+  [186/sem limite] fila=1041 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/92?slug=taxas-e-tarifas-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4365/yzZ0eB
+  [187/sem limite] fila=1045 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitaca
+  [188/sem limite] fila=1045 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/view/1/quem-somos
+  [189/sem limite] fila=1047 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo?TurismoSearch%5Bid%5D=&TurismoSearc
+  [190/sem limite] fila=1046 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/index?TurismoSearch%5Bid%5D=&Turism
+  [191/sem limite] fila=1045 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/1/secretaria-da-administrac
+  [192/sem limite] fila=1058 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/2/secretaria-de-agricultura
+  [193/sem limite] fila=1060 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/3/secretaria-de-assistencia
+  [194/sem limite] fila=1072 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/4/secretaria-de-esporte-e-c
+  [195/sem limite] fila=1073 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/5/secretaria-da-educacao
+  [196/sem limite] fila=1088 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/6/secretaria-do-meio-ambien
+  [197/sem limite] fila=1089 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/7/secretaria-de-obras-e-ser
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/secretaria/30/_FtTVVx9thP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/secretaria/31/npl6p-5vnk3
+  📄 [200] .zip -> https://saojeronimodaserra.pr.gov.br/uploads/secretaria/32/3bESNiwkk0E
+  [198/sem limite] fila=1095 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/8/secretaria-da-saude
+  [199/sem limite] fila=1114 | depth=2 | https://saojeronimodaserra.pr.gov.br/secretaria/view/9/secretaria-de-transporte-
+  [200/sem limite] fila=1115 | depth=2 | https://saojeronimodaserra.pr.gov.br/departamento?DepartamentoSearch%5Bid_secret
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_links.xlsx
+  245 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_externos.xlsx
+  374 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=1115 | depth=2 | https://saojeronimodaserra.pr.gov.br/departamento/index?DepartamentoSearch%5Bid_
+  [202/sem limite] fila=1118 | depth=2 | https://saojeronimodaserra.pr.gov.br/entidade
+  [203/sem limite] fila=1119 | depth=2 | https://saojeronimodaserra.pr.gov.br/escola
+  [204/sem limite] fila=1119 | depth=2 | https://saojeronimodaserra.pr.gov.br/servico
+  [205/sem limite] fila=1119 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/view/2/carta-de-servicos
+  [206/sem limite] fila=1122 | depth=2 | https://saojeronimodaserra.pr.gov.br/legislacao?LegislacaoSearch%5Bid_legislacao
+  [207/sem limite] fila=1151 | depth=2 | https://saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_legi
+  [208/sem limite] fila=1180 | depth=2 | https://saojeronimodaserra.pr.gov.br/transparencia
+  [209/sem limite] fila=1181 | depth=2 | https://saojeronimodaserra.pr.gov.br/contrato
+  [210/sem limite] fila=1181 | depth=2 | https://saojeronimodaserra.pr.gov.br/obra
+  [211/sem limite] fila=1181 | depth=2 | https://saojeronimodaserra.pr.gov.br/ouvidoria
+  [212/sem limite] fila=1187 | depth=2 | https://saojeronimodaserra.pr.gov.br/esic
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/legislacao/3901/4QRPZoDZG
+  [213/sem limite] fila=1189 | depth=2 | https://saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/formulario/view/4/fale-conosco-2
+  [214/sem limite] fila=1188 | depth=2 | https://saojeronimodaserra.pr.gov.br/faq
+  [215/sem limite] fila=1189 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia
+  [216/sem limite] fila=1204 | depth=2 | https://saojeronimodaserra.pr.gov.br/evento
+  [217/sem limite] fila=1205 | depth=2 | https://saojeronimodaserra.pr.gov.br/enquete
+  [218/sem limite] fila=1206 | depth=2 | https://saojeronimodaserra.pr.gov.br/midia-foto
+  [219/sem limite] fila=1226 | depth=2 | https://saojeronimodaserra.pr.gov.br/midia-video
+  [220/sem limite] fila=1227 | depth=2 | https://saojeronimodaserra.pr.gov.br/midia-audio
+  [221/sem limite] fila=1227 | depth=2 | https://saojeronimodaserra.pr.gov.br/
+  [222/sem limite] fila=1230 | depth=2 | https://saojeronimodaserra.pr.gov.br/conta
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/conta
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/conta
+  [223/sem limite] fila=1229 | depth=2 | https://saojeronimodaserra.pr.gov.br/conta/logout
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/conta/logout
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/conta/logout
+  [224/sem limite] fila=1228 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/view/3/acessibilidade
+  [225/sem limite] fila=1230 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/mapa-site
+  [226/sem limite] fila=1229 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/view/4/lei-geral-de-protecao-de-dado
+  [227/sem limite] fila=1228 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/index
+  [228/sem limite] fila=1245 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=95
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=95
+  [229/sem limite] fila=1244 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=95
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=95
+  [230/sem limite] fila=1243 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=95
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=95
+  [231/sem limite] fila=1242 | depth=2 | https://saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/cdn-cgi/l/email-protection
+  [232/sem limite] fila=1241 | depth=2 | https://saojeronimodaserra.pr.gov.br/contratacao?ContratacaoSearch%5Bid_contrata
+  [233/sem limite] fila=1255 | depth=2 | https://saojeronimodaserra.pr.gov.br/servico/view/4/iss-e-sistema-de-gerenciamen
+  [234/sem limite] fila=1257 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretaria%5
+  [235/sem limite] fila=1257 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/index?DocumentoSearch%5Bid_secret
+  [236/sem limite] fila=1260 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento?DocumentoSearch%5Bid_secretaria%5
+  [237/sem limite] fila=1263 | depth=2 | https://saojeronimodaserra.pr.gov.br/conta/cadastrar?tipo=pf
+  [238/sem limite] fila=1263 | depth=2 | https://saojeronimodaserra.pr.gov.br/conta/cadastrar?tipo=pj
+  [239/sem limite] fila=1262 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2760/decreto-n-1392026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4902/kctFz
+  [240/sem limite] fila=1266 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2759/decreto-n-1372026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4901/BGeEY
+  [241/sem limite] fila=1270 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2748/decreto-n-1282026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4887/5rZ_J
+  [242/sem limite] fila=1274 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2747/decreto-n-1272025-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4886/HdvoR
+  [243/sem limite] fila=1278 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2746/decreto-n-1252026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4885/oaLlF
+  [244/sem limite] fila=1282 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2743/decreto-n-1192026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4881/EAcW1
+  [245/sem limite] fila=1286 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2742/decreto-n-1182026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4880/6RVpK
+  [246/sem limite] fila=1290 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2741/decreto-n-1172026
+  [247/sem limite] fila=1292 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2711/decreto-n-1162026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4821/qkFC2
+  [248/sem limite] fila=1296 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2740/decreto-n-1152026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4879/x9rtA
+  [249/sem limite] fila=1300 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2739/decreto-n-1142026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4878/61Rj1
+  [250/sem limite] fila=1304 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2738/decreto-n-1132026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4877/BoGVf
+  [251/sem limite] fila=1308 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2731/decreto-n-1122026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4841/gtRbA
+  [252/sem limite] fila=1312 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2730/decreto-n-1112026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4840/QpRBX
+  [253/sem limite] fila=1316 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2729/decreto-n-1102026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4839/raNFk
+  [254/sem limite] fila=1320 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2709/decreto-n-1092026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4808/fb0XM
+  [255/sem limite] fila=1324 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2728/decreto-n-1082026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4838/o6w8f
+  [256/sem limite] fila=1328 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2727/decreto-n-1072026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4837/QPCIw
+  [257/sem limite] fila=1332 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2726/decreto-n-1062026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4836/2uDkA
+  [258/sem limite] fila=1336 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2725/decreto-n-1052026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4835/bObOK
+  [259/sem limite] fila=1340 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [260/sem limite] fila=1339 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [261/sem limite] fila=1358 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [262/sem limite] fila=1377 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [263/sem limite] fila=1396 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [264/sem limite] fila=1415 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [265/sem limite] fila=1434 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [266/sem limite] fila=1454 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [267/sem limite] fila=1474 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [268/sem limite] fila=1494 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [269/sem limite] fila=1514 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2776/portaria-n-2082026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4934/GOUTM
+  [270/sem limite] fila=1518 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2775/portaria-n-2072026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4933/rymzN
+  [271/sem limite] fila=1522 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2774/portaria-n-2062026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4932/ZytEq
+  [272/sem limite] fila=1526 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2780/portaria-n-2052026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4938/HD2ys
+  [273/sem limite] fila=1530 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2773/portaria-n-2032026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4931/tyl3G
+  [274/sem limite] fila=1534 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2772/portaria-n-2022026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4930/gPkZj
+  [275/sem limite] fila=1538 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2771/portaria-n-2012026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4929/58Tur
+  [276/sem limite] fila=1542 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2770/portaria-n-2002026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4928/bawOp
+  [277/sem limite] fila=1546 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2767/portaria-n-1992026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4915/jJA3s
+  [278/sem limite] fila=1550 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2769/portaria-n-1982026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4927/tM38x
+  [279/sem limite] fila=1554 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2766/portaria-n-1972026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4911/UqAAP
+  [280/sem limite] fila=1558 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2765/portaria-n-1962026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4910/kZoNW
+  [281/sem limite] fila=1562 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2764/portaria-n-1952026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4909/Dj1qN
+  [282/sem limite] fila=1566 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2763/portaria-n-1942026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4908/k2jB9
+  [283/sem limite] fila=1570 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2762/portaria-n-1932026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4907/sfk9F
+  [284/sem limite] fila=1574 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2761/portaria-n-1922026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4906/RNNQC
+  [285/sem limite] fila=1578 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2758/portaria-n-1912026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4900/JUa4i
+  [286/sem limite] fila=1582 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2757/portaria-n-1902026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/4899/HyoI1
+  [287/sem limite] fila=1586 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [288/sem limite] fila=1585 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [289/sem limite] fila=1604 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [290/sem limite] fila=1623 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [291/sem limite] fila=1642 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [292/sem limite] fila=1661 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [293/sem limite] fila=1680 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [294/sem limite] fila=1700 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [295/sem limite] fila=1720 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [296/sem limite] fila=1740 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [297/sem limite] fila=1760 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+ ❌ TIMEOUT_OU_CONEXAO: https://saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+  [298/sem limite] fila=1759 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=4
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=4
+  [299/sem limite] fila=1758 | depth=2 | https://saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=4
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=4
+  [300/sem limite] fila=1757 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/130?slug=regras-de-utilizaca
+  [301/sem limite] fila=1759 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia/view/370/aviso-de-licitacao-pregao-
+  📄 [200] .docx -> https://saojeronimodaserra.pr.gov.br/uploads/noticia/4842/D2c0FsEmpL1j
+  [302/sem limite] fila=1761 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia/view/237/aviso-de-licitacao-101
+  📄 [200] .doc -> https://saojeronimodaserra.pr.gov.br/uploads/noticia/3482/tPxCWdzdDuHS
+  [303/sem limite] fila=1763 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia/view/383/aviso-de-licitacao-pregao-
+  📄 [200] .doc -> https://saojeronimodaserra.pr.gov.br/uploads/noticia/4918/c6qyUzijafCy
+  [304/sem limite] fila=1765 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia/view/302/aviso-de-licitacao-152
+  📄 [200] .doc -> https://saojeronimodaserra.pr.gov.br/uploads/noticia/4126/ifeVM41cUo4b
+  [305/sem limite] fila=1767 | depth=2 | https://saojeronimodaserra.pr.gov.br/noticia/view/303/paa-indigena
+  [306/sem limite] fila=1769 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=83
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=83
+  [307/sem limite] fila=1768 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=83
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=83
+  [308/sem limite] fila=1767 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=83
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=83
+  [309/sem limite] fila=1766 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [310/sem limite] fila=1765 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3472%2F&fileName=Vqp8MAt1mtHKMz6HgKipqRV7Z3Wru6y-.pdf
+  [311/sem limite] fila=1764 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [312/sem limite] fila=1763 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3773%2F&fileName=p_pl0_8QaT7RuIeC-1Gm5nh8OWEzcc49.pdf
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fap
+  [313/sem limite] fila=1762 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [314/sem limite] fila=1761 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3836%2F&fileName=6NHPGoj2zpGHVpFS4Ru0F6WW2Frpkgw5.pdf
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fap
+  [315/sem limite] fila=1760 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [316/sem limite] fila=1759 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/transparencia/filtro?TransparenciaSearc
+  [317/sem limite] fila=1760 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contrato/index
+  [318/sem limite] fila=1759 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/obra/index
+  [319/sem limite] fila=1758 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/site
+  [320/sem limite] fila=1758 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/site/login
+  [321/sem limite] fila=1758 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/esqueci
+  [322/sem limite] fila=1757 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitaca
+  [323/sem limite] fila=1756 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitaca
+  [324/sem limite] fila=1755 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitaca
+  [325/sem limite] fila=1754 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/contato/index?tipo_solicitaca
+  [326/sem limite] fila=1753 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria/relatorio/index
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/relatorio_ouvidoria/4
+  [327/sem limite] fila=1757 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/85?slug=o-que-e-a-ouvido
+  [328/sem limite] fila=1759 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/86?slug=instrucoes-minim
+  [329/sem limite] fila=1761 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/ouvidoria@saojeronimodaserra.pr.gov.br
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/ouvidoria@saojeronimodaserra.pr.gov.br
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/ouvidoria@saojeronimodaserra.pr.gov.br
+  [330/sem limite] fila=1760 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/83?slug=lei-municipal-n-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3472/Vqp8MA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3836/6NHPGo
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3773/p_pl0_
+  [331/sem limite] fila=1768 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/88?slug=como-fazer-uma-s
+  [332/sem limite] fila=1770 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/128?slug=informacoes-cla
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4624/45UQg1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4625/ZxURxR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4626/00OaEs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4627/xcHvhC
+  [333/sem limite] fila=1780 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/esic/relatorio
+  [334/sem limite] fila=1785 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/faq/index?FaqSearch%5Bid_faq_categoria%
+  [335/sem limite] fila=1785 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/faq/index
+  [336/sem limite] fila=1784 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/378/aviso-de-licitacao-con
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4862/WfwmiPfZ
+  [337/sem limite] fila=1786 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/377/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4860/mwJkoDZY
+  [338/sem limite] fila=1788 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/376/aviso-de-licitacao-pre
+  📄 [200] .docx -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4858/4jxxROG1
+  [339/sem limite] fila=1790 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/372/aviso-de-licitacao-dis
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4851/EUnHfvyQ
+  [340/sem limite] fila=1792 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/371/concurso-rainha-serraf
+  📄 [200] .doc -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4846/r-IPttEd
+  [341/sem limite] fila=1794 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/375/aviso-de-licitacao-pre
+  📄 [200] .docx -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/4855/8BfGLhjd
+  [342/sem limite] fila=1796 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=1
+  [343/sem limite] fila=1795 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=2
+  [344/sem limite] fila=1812 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=3
+  [345/sem limite] fila=1825 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=4
+  [346/sem limite] fila=1842 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=5
+  [347/sem limite] fila=1858 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=6
+  [348/sem limite] fila=1875 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=7
+  [349/sem limite] fila=1895 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=8
+  [350/sem limite] fila=1913 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=9
+  [351/sem limite] fila=1933 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/index?page=10
+  [352/sem limite] fila=1953 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/evento/view/2?slug=
+  [353/sem limite] fila=1955 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/evento/index
+  [354/sem limite] fila=1954 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/enquete/index?finalizado=0
+  [355/sem limite] fila=1953 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/enquete/index?finalizado=1
+  [356/sem limite] fila=1954 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/9/2-mostra-da-cultura-i
+  [357/sem limite] fila=1956 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/11/arrastao-contra-deng
+  [358/sem limite] fila=1958 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/3/merenda-escolar-mes-d
+  [359/sem limite] fila=1960 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/6/v-seminario-de-turism
+  [360/sem limite] fila=1962 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/5/inauguracao-da-sala-d
+  [361/sem limite] fila=1964 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/15/campanha-de-castraca
+  [362/sem limite] fila=1966 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/10/distribuicao-de-kits
+  [363/sem limite] fila=1968 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/12/arrastao-contra-a-de
+  [364/sem limite] fila=1970 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/17/distribuicao-das-rou
+  [365/sem limite] fila=1972 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/18/evento-mulheres-que-
+  [366/sem limite] fila=1974 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/19/entrega-de-material-
+  [367/sem limite] fila=1976 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/20/programa-talento-tec
+  [368/sem limite] fila=1978 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/21/peca-teatral-contra-
+  [369/sem limite] fila=1980 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/1/audiencia-publica-ref
+  [370/sem limite] fila=1982 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/14/entregas-de-ovos-da-
+  [371/sem limite] fila=1984 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/13/pavimentacao-realiza
+  [372/sem limite] fila=1986 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/7/encerramento-do-curso
+  [373/sem limite] fila=1988 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/4/apresentacoes-mes-de-
+  [374/sem limite] fila=1990 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/2/consorcio-intermunici
+  [375/sem limite] fila=1992 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/view/8/cozinha-central-alime
+  [376/sem limite] fila=1994 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-foto/index
+  [377/sem limite] fila=1993 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-video/view/4/reestruturacao-da-bi
+  [378/sem limite] fila=1995 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-video/index
+  [379/sem limite] fila=1994 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/midia-audio/index
+  [380/sem limite] fila=1993 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=3
+  [381/sem limite] fila=1992 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=3
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=3
+  [382/sem limite] fila=1991 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=3
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=3
+  [383/sem limite] fila=1990 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+ ❌ TIMEOUT_OU_CONEXAO: https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=4
+  [384/sem limite] fila=1989 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=4
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=4
+  [385/sem limite] fila=1988 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=4
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=4
+  [386/sem limite] fila=1987 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/130?slug=regras-de-utili
+  [387/sem limite] fila=1989 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ar
+  [388/sem limite] fila=1988 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=cs
+  [389/sem limite] fila=1987 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=da
+  [390/sem limite] fila=1986 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=de
+  [391/sem limite] fila=1985 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=el
+  [392/sem limite] fila=1984 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=en
+  [393/sem limite] fila=1983 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=es
+  [394/sem limite] fila=1982 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=es_419
+  [395/sem limite] fila=1981 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=es_es
+  [396/sem limite] fila=1980 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=fi
+  [397/sem limite] fila=1979 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=fil
+  [398/sem limite] fila=1978 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=fr
+  [399/sem limite] fila=1977 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=he
+  [400/sem limite] fila=1976 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=hu
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_links.xlsx
+  315 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/erros_varredura.xlsx
+  12 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_externos.xlsx
+  626 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=1975 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=id
+  [402/sem limite] fila=1974 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=it
+  [403/sem limite] fila=1973 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ja
+  [404/sem limite] fila=1972 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ko
+  [405/sem limite] fila=1971 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ms
+  [406/sem limite] fila=1970 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=nb
+  [407/sem limite] fila=1969 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=nl
+  [408/sem limite] fila=1968 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=pl
+  [409/sem limite] fila=1967 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=pt
+  [410/sem limite] fila=1966 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=pt_br
+  [411/sem limite] fila=1965 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ro
+  [412/sem limite] fila=1964 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=ru
+  [413/sem limite] fila=1963 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=sv
+  [414/sem limite] fila=1962 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=th
+  [415/sem limite] fila=1961 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=tr
+  [416/sem limite] fila=1960 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=uk
+  [417/sem limite] fila=1959 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=vi
+  [418/sem limite] fila=1958 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=zh
+  [419/sem limite] fila=1957 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/?locale=zh_tw
+  [420/sem limite] fila=1956 | depth=2 | https://webmail.saojeronimodaserra.pr.gov.br/resetpass?start=1
+  [421/sem limite] fila=1955 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/6/rio-do-tigre
+  [422/sem limite] fila=1957 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/7/cachoeira-joao-nogueira
+  [423/sem limite] fila=1959 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/9/cachoeira-do-larini
+  [424/sem limite] fila=1961 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/10/portal-sao-jeronimo-da-serr
+  📄 [200] .zip -> https://saojeronimodaserra.pr.gov.br/uploads/turismo/2390/PBcSU5xawxkc
+  [425/sem limite] fila=1963 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/11/sao-jeronimo-da-serrapr-2
+  [426/sem limite] fila=1965 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/13/morro-do-taff
+  [427/sem limite] fila=1967 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/14/cachoeira-borda-do-infinito
+  [428/sem limite] fila=1969 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/view/15/salto-do-tamandua-i
+  [429/sem limite] fila=1971 | depth=2 | https://saojeronimodaserra.pr.gov.br/turismo/index
+  [430/sem limite] fila=1970 | depth=2 | https://saojeronimodaserra.pr.gov.br/ouvidoria/site
+  [431/sem limite] fila=1970 | depth=2 | https://saojeronimodaserra.pr.gov.br/ouvidoria/site/login
+  [432/sem limite] fila=1970 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/85?slug=o-que-e-a-ouvidoria-
+  [433/sem limite] fila=1972 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/view/86?slug=instrucoes-minimas-o
+  [434/sem limite] fila=1974 | depth=2 | https://saojeronimodaserra.pr.gov.br/ouvidoria/contato/ouvidoria@saojeronimodase
+ ❌ HTTP_404: https://saojeronimodaserra.pr.gov.br/ouvidoria/contato/ouvidoria@saojeronimodaserra.pr.gov.br
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/ouvidoria/contato/ouvidoria@saojeronimodaserra.pr.gov.br
+  [435/sem limite] fila=1973 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/18/termo-de-desistenci
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4912/hoat
+  [436/sem limite] fila=1977 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/17/editais-de-convocac
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4905/8-vm
+  [437/sem limite] fila=1981 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/16/contrato-de-trabalh
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4720/C1fB
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4721/w1ID
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4722/q9dH
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4723/_Vif
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4724/deZX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4725/MvlA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4726/2KXy
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4727/nL_I
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4728/NPsE
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4729/TIRq
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4789/H2Qx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4802/dUX6
+  [438/sem limite] fila=2007 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/15/nao-comparecimento-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4674/d09v
+  [439/sem limite] fila=2011 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/13/editais-de-convocac
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4648/wzEs
+  [440/sem limite] fila=2015 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/14/editais-de-convocac
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4649/3QJ3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4745/YjE6
+  [441/sem limite] fila=2021 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/12/editais-de-convocac
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4607/BjI9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4617/YI7N
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4618/XQw5
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4660/IbNs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4661/AcxJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4904/H82O
+  [442/sem limite] fila=2035 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/10/pss-processo-seleti
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4547/2-YM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4544/z-D2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4545/_FPI
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4561/Ojh2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4579/W5wm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4548/sdVy
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4549/qJL8
+  [443/sem limite] fila=2051 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/11/processo-seletivo-s
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4550/WcU1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4552/DsLn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4551/uZNr
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4562/qisT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4553/-L4N
+  [444/sem limite] fila=2063 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/8/edital-n-0012026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4307/09WE
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4461/WP2G
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4462/GhlN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4464/xNPJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4482/AcK7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4483/EFdn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4484/KCki
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4486/H6jq
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4518/Nk8f
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4590/Pcib
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4591/V9xm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4594/MQfs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4595/kiZs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4596/sf8P
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4613/oXTr
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4614/DrlX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4615/RKHf
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4652/Zmdz
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4653/RfrZ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4688/chQd
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4689/DhJD
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4690/NHK8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4715/IuVv
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4765/BBKk
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4783/AvHq
+  [445/sem limite] fila=2115 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/6/editais-de-desistenc
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3277/3VSA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3278/ceXY
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3279/mkXO
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3280/gljW
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3281/L_Ho
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3282/Zicc
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3283/oHmg
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3284/Q_0t
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3285/Uz9A
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3286/t3Ce
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3287/D8X3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3288/roRa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3289/LFNA
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3290/Kp11
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3291/jnnQ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3292/802H
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3293/GEOy
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3294/fb3X
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3295/Q9N3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3296/JMaw
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3297/kYdf
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3298/UjrX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3299/ydFa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3300/dWRU
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3301/XAAo
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3302/yoQe
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3303/5TnT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3304/TAIi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3305/ht18
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3306/s_lO
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3307/5yVG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3308/xn-7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3309/hA8f
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3640/K7JX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3735/iWJC
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3736/kwe8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3749/jbmt
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3796/Z62j
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3832/Rcr0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3921/mSXx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4083/uBL5
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4120/CEoE
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4134/BVlx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4328/heRG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4329/xwWx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4338/zOg0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4420/8kaC
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4458/maCJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4487/0nfT
+  [446/sem limite] fila=2215 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/7/editais-de-nao-compa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4087/GAc_
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3273/msXY
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3274/ZgCE
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3275/HBZp
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3276/Qnys
+  [447/sem limite] fila=2227 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/5/editais-de-convocaca
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3237/nPTD
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3238/_jIh
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3239/9qzp
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3240/2mP1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3241/lUg6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3242/hkZT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3243/EYp6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3244/nEQm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3245/pl6w
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3246/oTce
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3247/Bjw2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3248/gqK0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3249/OgMH
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3250/ADEw
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3251/feTw
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3252/0FuG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3253/rgxx
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3254/Codt
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3255/BVlu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3256/7WZu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3257/9I0v
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3258/PKii
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3259/53-M
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3260/FaBv
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3261/OUj8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3262/0bWF
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3263/TnKm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3264/GRQa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3265/1YGK
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3266/BscI
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3267/93A6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3268/T4ue
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3269/Up2O
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3270/V0ug
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3271/T6wr
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3272/0MhV
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3324/FjR-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3325/OaBs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3326/G1KH
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3327/0Cvi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3328/MUv6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3329/G7MH
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3330/zvGs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3331/1Uq_
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3552/lW2i
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3639/OR1m
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3737/KxTs
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3738/eLQv
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3750/RT9F
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3766/USe8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3794/T9tZ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3795/Rqxe
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3833/Cwq2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3834/Uca7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3835/BIZm
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3886/Wanl
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3887/Y8pz
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4084/c4BM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4088/GPHu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4223/jR8r
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4224/6v-P
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4225/Lo5P
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4287/qPel
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4288/VXEL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4310/QUO-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4311/uX4K
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4375/3H4S
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4456/5HtC
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4457/S2Kt
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4565/J0Iq
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4566/69oF
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4608/_NK_
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4903/tAEJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/4914/SAo7
+  [448/sem limite] fila=2377 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/view/4/concurso-publico-n-0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3428/EwBa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3911/X5Kq
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3912/sn1V
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3913/ovwd
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3914/KEx8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3915/GHzf
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3916/ES9g
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3917/3rde
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3918/XUu3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3919/ZjhY
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/contratacao/3920/1gSy
+  [449/sem limite] fila=2401 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/contratacao/index
+  [450/sem limite] fila=2400 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/servico/impressao?id=4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/servico/impressao?id=4
+  [451/sem limite] fila=2399 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/servico/exportar-txt?id=4
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/servico/exportar-txt?id=4
+  [452/sem limite] fila=2398 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/servico/exportar-csv?id=4
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/servico/exportar-csv?id=4
+  [453/sem limite] fila=2397 | depth=2 | https://saojeronimodaserra.pr.gov.br/formulario/index
+  [454/sem limite] fila=2398 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=64
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=64
+  [455/sem limite] fila=2397 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=64
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=64
+  [456/sem limite] fila=2396 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=64
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=64
+  [457/sem limite] fila=2395 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [458/sem limite] fila=2394 | depth=2 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4616%2F&fileName=OEnCxktR7FAEYcGa9U9-rdlaf9OsUU_w.pdf
+  [459/sem limite] fila=2393 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/5/desapropriacao-pedreir
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2405/bkDnO0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2406/JWGso4
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2407/NF6I0E
+  [460/sem limite] fila=2401 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/94/legislacao-item-02-pa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3942/EhoBIO
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3943/9UDDda
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3944/8j4w5g
+  [461/sem limite] fila=2409 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/93/legislacao-item-01-pa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3937/ObXWj7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3938/tRbPkB
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3939/PTvI9C
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3941/iwzgck
+  [462/sem limite] fila=2419 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/4/item-2-padronizacao-de
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2404/7fdb3d
+  [463/sem limite] fila=2423 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/3/item-1-padronizacao-de
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2901/KAHUR-
+  [464/sem limite] fila=2427 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/63/consorcio-parana-saud
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3028/-Akzsj
+  [465/sem limite] fila=2431 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/60/consorcio-municipal-a
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2929/EFvoCG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2930/1gtC1P
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2931/k4neGa
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2932/FltjoX
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2933/htw0RP
+  [466/sem limite] fila=2443 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/61/consorcio-municipal-c
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2935/I9epMn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2936/G_zNQR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2937/kP92Is
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2938/f26qk7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2939/663Flp
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2940/XP-w0X
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/2941/MSOVDB
+  [467/sem limite] fila=2459 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/documento/view/62/consorcio-municipal-c
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3130/FFWESi
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3131/7YfgB3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3132/npgjgG
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3133/HoCNWu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3134/1R8P6G
+  [468/sem limite] fila=2471 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=123
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=123
+  [469/sem limite] fila=2470 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=123
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=123
+  [470/sem limite] fila=2469 | depth=2 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=123
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=123
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=123
+  [471/sem limite] fila=2468 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=386
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=386
+  [472/sem limite] fila=2467 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=386
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=386
+  [473/sem limite] fila=2466 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=386
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=386
+  [474/sem limite] fila=2465 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=385
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=385
+  [475/sem limite] fila=2464 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=385
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=385
+  [476/sem limite] fila=2463 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=385
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=385
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=385
+  [477/sem limite] fila=2462 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=384
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=384
+  [478/sem limite] fila=2461 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=384
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=384
+  [479/sem limite] fila=2460 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=384
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=384
+  [480/sem limite] fila=2459 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=383
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=383
+  [481/sem limite] fila=2458 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=383
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=383
+  [482/sem limite] fila=2457 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=383
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=383
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=383
+  [483/sem limite] fila=2456 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2778
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2778
+  [484/sem limite] fila=2455 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2778
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2778
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=27
+  [485/sem limite] fila=2454 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2778
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2778
+  [486/sem limite] fila=2453 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [487/sem limite] fila=2452 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4936%2F&fileName=_QtE7rC3VCkFo02OBife773lYiwW1g11.pdf
+  [488/sem limite] fila=2451 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2777
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2777
+  [489/sem limite] fila=2450 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2777
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2777
+  [490/sem limite] fila=2449 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2777
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2777
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=27
+  [491/sem limite] fila=2448 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [492/sem limite] fila=2447 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4935%2F&fileName=r1nlyCPY8ubzQLrXvocvPOc4O2J0BltU.pdf
+  [493/sem limite] fila=2446 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=1
+  [494/sem limite] fila=2445 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=2
+  [495/sem limite] fila=2444 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=3
+  [496/sem limite] fila=2443 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=4
+  [497/sem limite] fila=2442 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=5
+  [498/sem limite] fila=2441 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=6
+  [499/sem limite] fila=2440 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=7
+  [500/sem limite] fila=2440 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=8
+  [501/sem limite] fila=2440 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=9
+  [502/sem limite] fila=2441 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?page=10
+  [503/sem limite] fila=2441 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=6
+  [504/sem limite] fila=2440 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=6
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=6
+  [505/sem limite] fila=2439 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=6
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=6
+  [506/sem limite] fila=2438 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=7
+  [507/sem limite] fila=2437 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=7
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=7
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=7
+  [508/sem limite] fila=2436 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=7
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=7
+  [509/sem limite] fila=2435 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=9
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=9
+  [510/sem limite] fila=2434 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=9
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=9
+  [511/sem limite] fila=2433 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=9
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=9
+  [512/sem limite] fila=2432 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=15
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=15
+  [513/sem limite] fila=2431 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=15
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=15
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=15
+  [514/sem limite] fila=2430 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=15
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=15
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=15
+  [515/sem limite] fila=2429 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=10
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=10
+  [516/sem limite] fila=2428 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=10
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=10
+  [517/sem limite] fila=2427 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=10
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=10
+  [518/sem limite] fila=2426 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=14
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=14
+  [519/sem limite] fila=2425 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=14
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=14
+  [520/sem limite] fila=2424 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=14
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=14
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=14
+  [521/sem limite] fila=2423 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=13
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=13
+  [522/sem limite] fila=2422 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=13
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=13
+  [523/sem limite] fila=2421 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=13
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=13
+  [524/sem limite] fila=2420 | depth=2 | https://www.saojeronimodaserra.pr.gov.br/conta/index
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/conta/index
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/conta/index
+  [525/sem limite] fila=2419 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=370
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=370
+  [526/sem limite] fila=2418 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=370
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=370
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=370
+  [527/sem limite] fila=2417 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=370
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=370
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=370
+  [528/sem limite] fila=2416 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=237
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=237
+  [529/sem limite] fila=2415 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=237
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=237
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=237
+  [530/sem limite] fila=2414 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=237
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=237
+  [531/sem limite] fila=2413 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=302
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=302
+  [532/sem limite] fila=2412 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=302
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=302
+  [533/sem limite] fila=2411 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=302
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=302
+  [534/sem limite] fila=2410 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=303
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=303
+  [535/sem limite] fila=2409 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=303
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=303
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=303
+  [536/sem limite] fila=2408 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=303
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=303
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=303
+  [537/sem limite] fila=2407 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=11
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/turismo/impressao?id=11
+  [538/sem limite] fila=2406 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=11
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-txt?id=11
+  [539/sem limite] fila=2405 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=11
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/turismo/exportar-csv?id=11
+  [540/sem limite] fila=2404 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/14/paco-municipal
+  [541/sem limite] fila=2406 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/view/15/paco-municipal-2
+  [542/sem limite] fila=2408 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=8
+  [543/sem limite] fila=2407 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=8
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=8
+  [544/sem limite] fila=2406 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=8
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=8
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=8
+  [545/sem limite] fila=2405 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=10
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/pagina/impressao?id=10
+  [546/sem limite] fila=2404 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=10
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-txt?id=10
+  [547/sem limite] fila=2403 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=10
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/pagina/exportar-csv?id=10
+  [548/sem limite] fila=2402 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/115/emendas-parlamentares-fe
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4655/AsqgA3_zWF
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4656/HcE1znLmrC
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4657/eyXu8y4PUP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4658/2NVZyJnhvk
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4659/pfLbRC2L7C
+  [549/sem limite] fila=2414 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/113/emendas-parlamentares-es
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4208/9w2krN3cU5
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4209/4GtFDRFhCV
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4210/nYBYQNtOES
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4211/BnLWnxxYxh
+  [550/sem limite] fila=2424 | depth=3 | https://saojeronimodaserra.pr.gov.br/legislacao/index
+  [551/sem limite] fila=2433 | depth=3 | https://saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2589
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2589
+  [552/sem limite] fila=2432 | depth=3 | https://saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2589
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2589
+  [553/sem limite] fila=2431 | depth=3 | https://saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2589
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2589
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2589
+  [554/sem limite] fila=2430 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [555/sem limite] fila=2429 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4510%2F&fileName=hDvpbzdLGunhnm4h3iX0LDH87PtZGTmy.pdf
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fap
+  [556/sem limite] fila=2428 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=131
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=131
+  [557/sem limite] fila=2427 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=131
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=131
+  [558/sem limite] fila=2426 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=131
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=131
+  [559/sem limite] fila=2425 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [560/sem limite] fila=2424 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4665%2F&fileName=DyzfN-AYn2rA9HTxfE9LlHbItfMjJ-af.pdf
+  [561/sem limite] fila=2423 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [562/sem limite] fila=2422 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4761%2F&fileName=6-aWo2eHZzL3RrjGSvuSqhKe91uBtR9p.pdf
+  [563/sem limite] fila=2421 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [564/sem limite] fila=2420 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4762%2F&fileName=u48kmKixK5M6aSbl5TvsUC83CYFW-huY.pdf
+  [565/sem limite] fila=2419 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/79/plano-plurianual-da-e
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3345/5sMwtc
+  [566/sem limite] fila=2423 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/78/autorizacao-de-uso-pr
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3087/6uSWYI
+  [567/sem limite] fila=2427 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/77/bens-em-cessao-2025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3086/D5ulHO
+  [568/sem limite] fila=2431 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/76/bens-em-cessao-2024
+  [569/sem limite] fila=2433 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/75/bens-em-cessao-2023
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3081/ycWs9j
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3082/VXs5So
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3083/HK_AyV
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3084/1tIQlp
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3085/9mhu74
+  [570/sem limite] fila=2445 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/74/bens-em-cessao-2022
+  [571/sem limite] fila=2447 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/73/bens-em-cessao-2021
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3080/JML8ef
+  [572/sem limite] fila=2451 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/72/bens-em-cessao-2020
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3079/0NvSYu
+  [573/sem limite] fila=2455 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/71/bens-em-cessao-2019
+  [574/sem limite] fila=2457 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/70/bens-em-cessao-2018
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3078/4-mTrE
+  [575/sem limite] fila=2461 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/68/bens-em-cessao-2017
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3075/ftmGAb
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3076/Jj7J8J
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3077/kMCvZ6
+  [576/sem limite] fila=2469 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/67/bens-em-cessao-2016
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3074/Vwo9_s
+  [577/sem limite] fila=2473 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/69/bens-em-cessao-2014
+  [578/sem limite] fila=2475 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/66/bens-em-cessao-2013
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3069/WJUZCl
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3070/srOaW6
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3071/P1iBdk
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/3072/L4u7tZ
+  [579/sem limite] fila=2485 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=20
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=20
+  [580/sem limite] fila=2484 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=20
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=20
+  [581/sem limite] fila=2483 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=20
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=20
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=
+  [582/sem limite] fila=2482 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [583/sem limite] fila=2481 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3442%2F&fileName=mgJBM29gvssMucerYggOdnc1eQOPJ0Ld.pdf
+  [584/sem limite] fila=2480 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [585/sem limite] fila=2479 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4402%2F&fileName=Uaq-fRPH62BfAWrKLDVHauDrXc1DL_X0.pdf
+  [586/sem limite] fila=2478 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=21
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=21
+  [587/sem limite] fila=2477 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=21
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=21
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=21
+  [588/sem limite] fila=2476 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=21
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=21
+  [589/sem limite] fila=2475 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [590/sem limite] fila=2474 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3574%2F&fileName=omLWjHE77BqTdTuLqsyvWz4Y-p9xLOHg.pdf
+  [591/sem limite] fila=2473 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [592/sem limite] fila=2472 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3645%2F&fileName=2nxi_oofOgOV5IRl1LT05LIu2hp-q6LU.pdf
+  [593/sem limite] fila=2471 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=22
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=22
+  [594/sem limite] fila=2470 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=22
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=22
+  [595/sem limite] fila=2469 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=22
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=22
+  [596/sem limite] fila=2468 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [597/sem limite] fila=2467 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4399%2F&fileName=oIUV72u7uBdYQw93cojFCEe_ZrDiLb48.pdf
+  [598/sem limite] fila=2466 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [599/sem limite] fila=2465 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4400%2F&fileName=-2qLrhUFTKQHhSnAO2RhQRYyfNOb04i9.pdf
+  [600/sem limite] fila=2464 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_links.xlsx
+  634 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/erros_varredura.xlsx
+  15 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_externos.xlsx
+  780 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 600 nesta sessão).
+  [601/sem limite] fila=2463 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4401%2F&fileName=bS_cTwguhgRN3mVp3jFVQfwVLb8KfbgH.pdf
+  [602/sem limite] fila=2462 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=382
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=382
+  [603/sem limite] fila=2461 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=382
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=382
+  [604/sem limite] fila=2460 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=382
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=382
+  [605/sem limite] fila=2459 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=381
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=381
+  [606/sem limite] fila=2458 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=381
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=381
+  [607/sem limite] fila=2457 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=381
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=381
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=381
+  [608/sem limite] fila=2456 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=374
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=374
+  [609/sem limite] fila=2455 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=374
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=374
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=374
+  [610/sem limite] fila=2454 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=374
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=374
+  [611/sem limite] fila=2453 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=373
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=373
+  [612/sem limite] fila=2452 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=373
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=373
+  [613/sem limite] fila=2451 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=373
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=373
+  [614/sem limite] fila=2450 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=65
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=65
+  [615/sem limite] fila=2449 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=65
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=65
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=65
+  [616/sem limite] fila=2448 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=65
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=65
+  [617/sem limite] fila=2447 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [618/sem limite] fila=2446 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3073%2F&fileName=pmgEm3pvNMrsmZby-_kg8twcjot6Fqwg.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [619/sem limite] fila=2445 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/42/procedimentos-operaci
+  [620/sem limite] fila=2444 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/37/escala-funcionarios-d
+  [621/sem limite] fila=2443 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/126/lista-de-espera-de-c
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4611/zN0N_C
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4888/Ob1hRR
+  [622/sem limite] fila=2449 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/11/mudanca-de-cep-no-mun
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4592/ea8CjA
+  [623/sem limite] fila=2453 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/132/instrucao-normativa-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4806/U5bDsU
+  [624/sem limite] fila=2457 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/131/controle-interno
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4665/DyzfN-
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4761/6-aWo2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4762/u48kmK
+  [625/sem limite] fila=2465 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/130/regras-de-utilizacao
+  [626/sem limite] fila=2464 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/128/informacoes-classifi
+  [627/sem limite] fila=2463 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/125/lista-de-espera-de-c
+  [628/sem limite] fila=2465 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/123/telefones-uteis
+  [629/sem limite] fila=2467 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/120/lista-de-espera-2026
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4284/Hg7CNL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4572/11Bm-v
+  [630/sem limite] fila=2473 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/115/emendas-parlamentare
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4655/AsqgA3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4656/HcE1zn
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4657/eyXu8y
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4658/2NVZyJ
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4659/pfLbRC
+  [631/sem limite] fila=2485 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/113/emendas-parlamentare
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4208/9w2krN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4209/4GtFDR
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4210/nYBYQN
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4211/BnLWnx
+  [632/sem limite] fila=2495 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/view/107/calendario-escolar-2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/documento/4188/zdu_xn
+  [633/sem limite] fila=2499 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=1
+  [634/sem limite] fila=2498 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=2
+  [635/sem limite] fila=2504 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=3
+  [636/sem limite] fila=2510 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=4
+  [637/sem limite] fila=2510 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=5
+  [638/sem limite] fila=2512 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/index?page=6
+  [639/sem limite] fila=2511 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=379
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=379
+  [640/sem limite] fila=2510 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=379
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=379
+  [641/sem limite] fila=2509 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=379
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=379
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=379
+  [642/sem limite] fila=2508 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [643/sem limite] fila=2507 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fnoticia%2F4866%2F&fileName=VxtXB2sHMWb8mkdjV0HP0p2j-qllPgpa.pdf
+  [644/sem limite] fila=2506 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=348
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=348
+  [645/sem limite] fila=2505 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=348
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=348
+  [646/sem limite] fila=2504 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=348
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=348
+  [647/sem limite] fila=2503 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=300
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=300
+  [648/sem limite] fila=2502 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=300
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=300
+  [649/sem limite] fila=2501 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=300
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=300
+  [650/sem limite] fila=2500 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2091/resolucao-n-001202
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2091/resolucao-n-0012023
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2091/resolucao-n-0012023
+  [651/sem limite] fila=2499 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2090/resolucao-n-002202
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2090/resolucao-n-0022023
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2090/resolucao-n-0022023
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2090/resolucao-n-0022023
+  [652/sem limite] fila=2498 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2089/resolucao-n-003202
+ ❌ HTTP_404: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2089/resolucao-n-0032023
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2089/resolucao-n-0032023
+  [653/sem limite] fila=2497 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=8
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=8
+  [654/sem limite] fila=2496 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=8
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=8
+  [655/sem limite] fila=2495 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=8
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=8
+  [656/sem limite] fila=2494 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [657/sem limite] fila=2493 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3150%2F&fileName=-6nVX5CU__Ns09A99VDnsfMSUHMnRBOL.pdf
+  [658/sem limite] fila=2492 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/view/227/o-scfv-esta-com-muitas
+  📄 [200] .docx -> https://www.saojeronimodaserra.pr.gov.br/uploads/noticia/3385/cFsJYXIn
+  [659/sem limite] fila=2494 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/11/bolsa-familia-rel
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2592/EV
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2593/Yl
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2591/4E
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2597/MM
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2595/Lu
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2596/X0
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2594/NI
+  [660/sem limite] fila=2510 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/transparencia/view/12/auxilio-brasil-re
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2604/nL
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2601/v1
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2600/cT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2599/zh
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2603/2P
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2602/gT
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2598/Na
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/transparencia/2605/mZ
+  [661/sem limite] fila=2528 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=90
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=90
+  [662/sem limite] fila=2527 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=90
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=90
+  [663/sem limite] fila=2526 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=90
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=90
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=90
+  [664/sem limite] fila=2525 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [665/sem limite] fila=2524 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3864%2F&fileName=MCi0RMjoQjy1hgqqUGibY00XnQqgVS9e.pdf
+  [666/sem limite] fila=2523 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/impressao?id=91
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/documento/impressao?id=91
+  [667/sem limite] fila=2522 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=91
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=91
+  [668/sem limite] fila=2521 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=91
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=91
+  [669/sem limite] fila=2520 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffronte
+  📄 [200] .txt -> https://saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fap
+  [670/sem limite] fila=2519 | depth=3 | https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffronte
+  🤖 Usando Selenium para: https://saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F3880%2F&fileName=yOJDrKY6v-FrMoThPIyjXcVrEOxAUrmm.pdf
+  [671/sem limite] fila=2518 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/116/resolucao-2025
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4229/fcFXgM4dsY
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4230/0Ew2ujA8hx
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4231/LzsB4AyHFr
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4232/eAKJeRzgad
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4234/t1vGpCuCmq
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4235/_5pGCib2go
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4236/CBNufOZpKq
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4237/M5eYI7WR2k
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4238/5dv6UH0hjh
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4239/pFMMZ0IbUm
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4240/Bfv3e1GTWE
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4241/UN1vUcYyVf
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4242/MBYsF9vxXU
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4243/mykZcu6Xda
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4244/GyDA0jrqyJ
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4245/puj1tAjUPK
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4246/PhMk1kib1D
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4247/_Y-cQuqae2
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4248/Py_C_JToOh
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4249/9fgNRXWdCA
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4250/sPEPn7tPX9
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4251/5pn_ZANnju
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4252/9VEqbQ5ljP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4253/pJLVM9tmdi
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4254/-NHVkQJxd-
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4255/G8_L_q2BZH
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4256/FuG4kRaMKr
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4257/FfP5lBmCJJ
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4258/4GK1v_Rs0i
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4259/oGWQTK2IUX
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4260/YGCPaEPB9y
+  [672/sem limite] fila=2582 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/117/resolucao-2026
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4429/lIDxdn91TM
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4430/AFZqKM_wvM
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4431/GkfonsWoTB
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4432/NGyFnI0GoI
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4433/mOZU3SF_Wf
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4434/AjQR2x9h9M
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4435/sxR5tSWtVx
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4436/a95_yVwvKb
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4437/NuCylVCGpU
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4438/aN6PNle6FD
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4439/wsn8IM0Koj
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4440/vzLkbl0cfi
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4441/wNObvokygU
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4442/WkeJmzZX9i
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4443/nrVkh7w0jZ
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4444/x2Su3RTUNO
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4445/HNTwEJRXQu
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4446/k9Mp-c3Qt2
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4447/hqxlFk05MR
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4448/AZnGQKKTHP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4449/XN_NfE6u9Z
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4450/qkG3GMculK
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4451/mmPYwa2PAp
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4452/m_TBBwPLxH
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4460/au05aQljK3
+  [673/sem limite] fila=2634 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/81?slug=escala-de-trabalho-2
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3406/qHMQxwTDBP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3407/OID-OtXDLx
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3408/MgSLbu2PmM
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3409/opTWHnYMd1
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3410/xWs8-ppgPy
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3411/I19EKZUftP
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3412/PiXnc-Marx
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3413/GJ7eH6jLhQ
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3414/YPioXmywRU
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3415/AEu-NNLJ69
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3416/-IZ7iyf9wN
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3417/vUnQezADTX
+  [674/sem limite] fila=2660 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/82?slug=escala-de-trabalho-2
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3418/lzRSdyzaPF
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3419/zmb09QY8EX
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3420/ym1SH9B3jy
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3421/m-u6l0WlnW
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3422/irkl3yPzjL
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3423/whlH7lg3Sb
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3424/V74LdWcra3
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3425/V0AE4oLNyz
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3426/eytM84Z2E0
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3542/Hcc1xEhF_h
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/3932/TroHHZofOd
+  [675/sem limite] fila=2684 | depth=3 | https://saojeronimodaserra.pr.gov.br/documento/view/118?slug=escala-de-trabalho-
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4280/tjei32VpyS
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4281/ha3cETl3ON
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4282/ruXSDK4tB6
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4492/h2721-eOB7
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4597/nx71mi_cvQ
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4895/aMcmHYGPft
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4896/rssYS9Iaoj
+  📄 [200] .pdf -> https://saojeronimodaserra.pr.gov.br/uploads/documento/4916/8TNsg4Hbv6
+  [676/sem limite] fila=2702 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=2
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=2
+  [677/sem limite] fila=2701 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=2
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=2
+  [678/sem limite] fila=2700 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=2
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=2
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=2
+  [679/sem limite] fila=2699 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+ ❌ HTTP_500: https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3405%2F&fileName=pmFqq6BSkiCnJx0AQLWaAfZzCQ1pDBfM.pdf
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3405%2F&fileName=pmFqq6BSkiCnJx0AQLWaAfZzCQ1pDBfM.pdf
+ ❌ HTTP_500: https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3405%2F&fileName=pmFqq6BSkiCnJx0AQLWaAfZzCQ1pDBfM.pdf
+  [680/sem limite] fila=2698 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+ ❌ HTTP_500: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3405%2F&fileName=pmFqq6BSkiCnJx0AQLWaAfZzCQ1pDBfM.pdf
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3405%2F&fileName=pmFqq6BSkiCnJx0AQLWaAfZzCQ1pDBfM.pdf
+  [681/sem limite] fila=2697 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [682/sem limite] fila=2696 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F231%2F&fileName=8zR1PYmtfTRNhvd2xvpcPN7oIpaL8qBs.pdf
+  [683/sem limite] fila=2695 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=7
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=7
+  [684/sem limite] fila=2694 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=7
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=7
+  [685/sem limite] fila=2693 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=7
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=7
+  [686/sem limite] fila=2692 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [687/sem limite] fila=2691 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F235%2F&fileName=zZvntSVacFyUGDl_U5of-AQDV1R-qZJa.pdf
+  [688/sem limite] fila=2690 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [689/sem limite] fila=2689 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3151%2F&fileName=lu3xk3zyyNqMPh6jBy1EAZmiYDalzW5H.pdf
+  [690/sem limite] fila=2688 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=3
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=3
+  [691/sem limite] fila=2687 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=3
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=3
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=
+  [692/sem limite] fila=2686 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=3
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=3
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=
+  [693/sem limite] fila=2685 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [694/sem limite] fila=2684 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F232%2F&fileName=jnGP3IVxq7nha0Ktg9pBJbHlWWv7t-c6.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [695/sem limite] fila=2683 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [696/sem limite] fila=2682 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F2617%2F&fileName=RDwSxLJUtldD1OfUS3-ZoVSfRDwgtQXM.pdf
+  [697/sem limite] fila=2681 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=17
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=17
+  [698/sem limite] fila=2680 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=17
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=17
+  [699/sem limite] fila=2679 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=17
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=17
+  [700/sem limite] fila=2678 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [701/sem limite] fila=2677 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4646%2F&fileName=AfIwZDPJ4H-jW3VZ0XiphzRaHTilLnYJ.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [702/sem limite] fila=2676 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [703/sem limite] fila=2675 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F2619%2F&fileName=6ddqreva8mnLGJslBZNtP4_QniHe5MOT.pdf
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F2619%2F&fileName=6ddqreva8mnLGJslBZNtP4_QniHe5MOT.pdf
+  [704/sem limite] fila=2674 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=16
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/departamento/impressao?id=16
+  [705/sem limite] fila=2673 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=16
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-txt?id=16
+  [706/sem limite] fila=2672 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=16
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/departamento/exportar-csv?id=16
+  [707/sem limite] fila=2671 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [708/sem limite] fila=2670 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4049%2F&fileName=Q6Dr3ohTa0BHxHtiLoNpEI-g1ofD1kSZ.pdf
+  [709/sem limite] fila=2669 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [710/sem limite] fila=2668 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F4453%2F&fileName=-Zc0r8DhMIbPbYrqK3Fzqt3bDtw07qOu.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [711/sem limite] fila=2667 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [712/sem limite] fila=2666 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F2618%2F&fileName=c7CesgstoyZ2Vmjj2TfQ54aI1gmIo0hD.pdf
+  [713/sem limite] fila=2665 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [714/sem limite] fila=2664 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdepartamento%2F3226%2F&fileName=jSe3VLugb8NjU6dfKVelIRKo6PA0FEGO.pdf
+  [715/sem limite] fila=2663 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2310
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2310
+  [716/sem limite] fila=2662 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2310
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2310
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [717/sem limite] fila=2661 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2310
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2310
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [718/sem limite] fila=2660 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [719/sem limite] fila=2659 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3709%2F&fileName=MrAngIGluE1Ch_LOcIa4v1PNucdHY_IN.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [720/sem limite] fila=2658 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [721/sem limite] fila=2657 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3708%2F&fileName=U6gJn_mylvxvNoBNhjqrfwtJyqtMZ0F5.pdf
+  [722/sem limite] fila=2656 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [723/sem limite] fila=2655 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3707%2F&fileName=AjepkuF_6DD-9yk2VPwdlfnlM4l-3hlc.pdf
+  [724/sem limite] fila=2654 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=366
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=366
+  [725/sem limite] fila=2653 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=366
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=366
+  [726/sem limite] fila=2652 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=366
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=366
+ ❌ SELENIUM_ERRO: InvalidSessionIdException: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=366
+  [727/sem limite] fila=2651 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=335
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/noticia/impressao?id=335
+  [728/sem limite] fila=2650 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=335
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=335
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-txt?id=335
+  [729/sem limite] fila=2649 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=335
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=335
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/noticia/exportar-csv?id=335
+  [730/sem limite] fila=2648 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=118
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=118
+  [731/sem limite] fila=2647 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=118
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=118
+  [732/sem limite] fila=2646 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=118
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=118
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas São Jerônimo da Serra)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 São Jerônimo da Serra (slug: saojeronimodaserra)... 
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJERONIMODASERRA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 811 arquivos já registrados.
+  Links externos parciais carregados: 780 links já registrados.
+  Log de erros parcial carregado: 15 erros já registrados.
+
+============================================================
+  Crawler iniciado: SAOJERONIMODASERRA
+  Páginas já visitadas (checkpoint): 732
+  URLs na fila: 2646
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+732)/sem limite] fila=2645 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [2 (+732)/sem limite] fila=2644 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4280%2F&fileName=tjei32VpySiwoQ83imdS4QRLFiNObZsk.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [3 (+732)/sem limite] fila=2643 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [4 (+732)/sem limite] fila=2642 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4281%2F&fileName=ha3cETl3ONhokAGAPeJcFoAR1blgzVuX.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5 (+732)/sem limite] fila=2641 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [6 (+732)/sem limite] fila=2640 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4282%2F&fileName=ruXSDK4tB6kn5xH4kX1jtMDVZYtF4Y_M.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [7 (+732)/sem limite] fila=2639 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [8 (+732)/sem limite] fila=2638 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4492%2F&fileName=h2721-eOB76UO9znEtGdt36Kr0242-xF.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [9 (+732)/sem limite] fila=2637 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [10 (+732)/sem limite] fila=2636 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4597%2F&fileName=nx71mi_cvQZ4gzhPrd7hwucD0jrfjL4R.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [11 (+732)/sem limite] fila=2635 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [12 (+732)/sem limite] fila=2634 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4895%2F&fileName=aMcmHYGPft0MVwvIR3QkD9dnALdBsnov.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [13 (+732)/sem limite] fila=2633 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [14 (+732)/sem limite] fila=2632 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4896%2F&fileName=rssYS9IaojdTIvIHyVarcuaVgsvoG0Ur.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [15 (+732)/sem limite] fila=2631 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [16 (+732)/sem limite] fila=2630 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4916%2F&fileName=8TNsg4Hbv6C2Y_73N347sBqRsMv6Z4kr.pdf
+  [17 (+732)/sem limite] fila=2629 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=116
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/documento/impressao?id=116
+  [18 (+732)/sem limite] fila=2628 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=116
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-txt?id=116
+  [19 (+732)/sem limite] fila=2627 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=116
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=116
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/documento/exportar-csv?id=116
+  [20 (+732)/sem limite] fila=2626 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [21 (+732)/sem limite] fila=2625 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4229%2F&fileName=fcFXgM4dsYJSIqa8uv7EGlZEdTuWBRmS.pdf
+  [22 (+732)/sem limite] fila=2624 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [23 (+732)/sem limite] fila=2623 | depth=3 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Fdocumento%2F4230%2F&fileName=0Ew2ujA8hx2pLbN_IAjLYD9BJpUrihP5.pdf

@@ -81881,3 +81881,24 @@ Inventário parcial carregado: 17626 arquivos já registrados.
   🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=12C8871C64ED812B02BB655F6C7D77E4?d-5470-p=2&6578706f7274=1&formulario.exercicio=2026&d-5470-e=9&formulario.mes=FEVEREIRO&formulario.codEntidade=446
 
 ============================================================
+
+============================================================
+  TCC - Pipeline de Dados Publicos | URAI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 34502 arquivos já registrados.
+  Links externos parciais carregados: 5549 links já registrados.
+  Log de erros parcial carregado: 734 erros já registrados.
+
+============================================================
+  Crawler iniciado: URAI
+  Páginas já visitadas (checkpoint): 80604
+  URLs na fila: 283794
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+80604)/sem limite] fila=283793 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+ ❌ TIMEOUT_OU_CONEXAO: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=10DC0C773FFC4303AEAC6F34582EABC6?d-5470-p=2&6578706f7274=1&formulario.exercicio=2022&d-5470-e=10&formulario.mes=FEVEREIRO&formulario.codEntidade=446
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=10DC0C773FFC4303AEAC6F34582EABC6?d-5470-p=2&6578706f7274=1&formulario.exercicio=2022&d-5470-e=10&formulario.mes=FEVEREIRO&formulario.codEntidade=446

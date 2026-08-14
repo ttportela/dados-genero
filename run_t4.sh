@@ -1,0 +1,33 @@
+./run_pipeline.sh saojeronimodaserra
+./run_pipeline.sh xambre
+./run_pipeline.sh urai
+./run_pipeline.sh saojosedaspalmeiras
+# -----------------------------
+# FIM DA PRIMEIRA FASE
+# -----------------------------
+
+./run_pipeline.sh saojoao
+./run_pipeline.sh santoantoniodoparaiso
+./run_pipeline.sh tresbarrasdoparana
+./run_pipeline.sh terraroxa
+
+./run_pipeline.sh saojoaodocaiua
+./run_pipeline.sh saojoaodoivai
+./run_pipeline.sh santoantoniodosudoeste
+./run_pipeline.sh sulina
+./run_pipeline.sh tunasdoparana
+./run_pipeline.sh tibagi
+./run_pipeline.sh tijucasdosul
+./run_pipeline.sh toledo
+./run_pipeline.sh sapopema
+./run_pipeline.sh sarandi
+./run_pipeline.sh saudadedoiguacu
+./run_pipeline.sh senges
+./run_pipeline.sh serranopolisdoiguacu
+./run_pipeline.sh sertaneja
+./run_pipeline.sh saomigueldoiguacu
+./run_pipeline.sh saopedrodoiguacu
+./run_pipeline.sh saopedrodoivai
+./run_pipeline.sh saopedrodoparana
+./run_pipeline.sh saosebastiaodaamoreira
+./run_pipeline.sh saotome

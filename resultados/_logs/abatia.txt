@@ -17538,3 +17538,39 @@ Inventário parcial carregado: 5855 arquivos já registrados.
   [114 (+9266)/sem limite] fila=9709 | depth=5 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
   📄 [200] .csv -> https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAt
   [115 (+9266)/sem limite] fila=9708 | depth=5 | https://abatia.metajuris.com.br/transparencia/srhRelacaoDeServidoresAtivos/listD
+
+============================================================
+  TCC - Pipeline de Dados Publicos | ABATIA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 17202 arquivos já registrados.
+  Links externos parciais carregados: 1218 links já registrados.
+  Log de erros parcial carregado: 810 erros já registrados.
+
+============================================================
+  Crawler iniciado: ABATIA
+  Páginas já visitadas (checkpoint): 21223
+  URLs na fila: 0
+============================================================
+
+  Modo: SEM LIMITE de páginas
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/abatia/inventario_links.xlsx
+  17202 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/abatia/erros_varredura.xlsx
+  810 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/abatia/inventario_externos.xlsx
+  1218 links externos registrados.
+
+  Varredura encerrada: ABATIA
+  Páginas nesta sessão: 0
+  Páginas totais (acumulado): 21223
+  Arquivos no inventário: 17202
+  Erros registrados: 810
+
+
+ Pipeline encerrado. Resultados em: resultados/abatia/
+============================================================
+
