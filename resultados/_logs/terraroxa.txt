@@ -2746,3 +2746,1308 @@ Inventário parcial carregado: 23 arquivos já registrados.
   🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=6_1
   [25 (+1200)/sem limite] fila=680 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
   🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=6_1
+  [26 (+1200)/sem limite] fila=679 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=6_1
+  [27 (+1200)/sem limite] fila=678 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagam
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=7_1
+  [28 (+1200)/sem limite] fila=677 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=7_1
+  [29 (+1200)/sem limite] fila=676 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-servico?perfil=7_1
+  [30 (+1200)/sem limite] fila=676 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletroni
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/registro-de-ponto-eletronico?perfil=7_1
+  [31 (+1200)/sem limite] fila=675 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-espelho-ponto?perfil=7_1
+  [32 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-proba
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-probatorio?perfil=7_1
+  [33 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=7_1
+  [34 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho?pe
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho?perfil=7_1
+  [35 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-func
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=7_1
+  [36 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos?perfil=7
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos?perfil=7_1
+  [37 (+1200)/sem limite] fila=674 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto?perfil=7_1
+  [38 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribui
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=7_1
+  [39 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-tr
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos?perfil=7_1
+  [40 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-fer
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias?perfil=7_1
+  [41 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-emprega
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-empregaticio?perfil=7_1
+  [42 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescisao?perfil=7_1
+  [43 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=7_1
+  [44 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certid
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos?perfil=7_1
+  [45 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias?perfil=7
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias?perfil=7_1
+  [46 (+1200)/sem limite] fila=673 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=8_1
+  [47 (+1200)/sem limite] fila=672 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debit
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/certidao-negativa-de-debitos?perfil=9_1
+  [48 (+1200)/sem limite] fila=671 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos?perfil=9_1
+  [49 (+1200)/sem limite] fila=670 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura?perfil=9_1
+  [50 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional?perfil=12_1
+  [51 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social?perfi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social?perfil=12_1
+  [52 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitari
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitario?perfil=13_1
+  [53 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario?perfil=
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario?perfil=13_1
+  [54 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-res
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica?perfil=13_1
+  [55 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura?perfil=13_1
+  [56 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos-sanitarios?perfil=13_1
+  [57 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao?perfil=13_1
+  [58 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-translado?perfil=13_1
+  [59 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-sau
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-saude?perfil=13_1
+  [60 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento?perfil=13_1
+  [61 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transpo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transporte?perfil=13_1
+  [62 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participaca
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento?perfil=13_1
+  [63 (+1200)/sem limite] fila=669 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagam
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-recibo-de-pagamento?perfil=107_1
+  [64 (+1200)/sem limite] fila=668 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/comprovante-de-rendimentos-irrf?perfil=107_1
+  [65 (+1200)/sem limite] fila=667 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento?perfil=107_1
+  [66 (+1200)/sem limite] fila=666 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-func
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-funcionario?perfil=107_1
+  [67 (+1200)/sem limite] fila=665 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribui
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia?perfil=107_1
+  [68 (+1200)/sem limite] fila=664 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados?perfil=107_1
+  [69 (+1200)/sem limite] fila=663 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/atende.php?rot=1&aca=119&a
+  📄 [200] .pdf -> https://terraroxa.atende.net/autoatendimento/servicos/atende.php?rot=1
+  [70 (+1200)/sem limite] fila=662 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu/detalhar/1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-iptu/detalhar/1
+  [71 (+1200)/sem limite] fila=661 | depth=4 | https://terraroxa.atende.net/cidadao/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/?pg=transparencia
+  [72 (+1200)/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/?pg=transparencia
+  [73 (+1200)/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [74 (+1200)/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [75 (+1200)/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [76 (+1200)/sem limite] fila=661 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjgiLCJpZCI6Ijg
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [77 (+1200)/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-assistenc
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-assistencia-social
+  [78 (+1200)/sem limite] fila=660 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-das-reunioes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-das-reunioes
+  [79 (+1200)/sem limite] fila=659 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes
+  [80 (+1200)/sem limite] fila=658 | depth=4 | https://terraroxa.atende.net/transparencia/item/acesso-a-informacao-sic
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acesso-a-informacao-sic
+  [81 (+1200)/sem limite] fila=657 | depth=4 | https://terraroxa.atende.net/transparencia/item/rol-de-classificacao-e-desclassi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/rol-de-classificacao-e-desclassificacao-de-documentos
+  [82 (+1200)/sem limite] fila=656 | depth=4 | https://terraroxa.atende.net/transparencia/item/carta-de-servicos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/carta-de-servicos
+  [83 (+1200)/sem limite] fila=655 | depth=4 | https://terraroxa.atende.net/transparencia/item/estatistica-de-pedidos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/estatistica-de-pedidos
+  [84 (+1200)/sem limite] fila=654 | depth=4 | https://terraroxa.atende.net/transparencia/item/estrutura-organizacional-especif
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/estrutura-organizacional-especifico
+  [85 (+1200)/sem limite] fila=653 | depth=4 | https://terraroxa.atende.net/transparencia/item/legislacao-municipal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/legislacao-municipal
+  [86 (+1200)/sem limite] fila=652 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-de-assistencia-social
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-de-assistencia-social
+  [87 (+1200)/sem limite] fila=651 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-de-obras-e-urbanismo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-de-obras-e-urbanismo
+  [88 (+1200)/sem limite] fila=650 | depth=4 | https://terraroxa.atende.net/transparencia/item/secretaria-municipal-de-educacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/secretaria-municipal-de-educacao
+  [89 (+1200)/sem limite] fila=649 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-audiencias-publicas-ppaldol
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-audiencias-publicas-ppaldoloa
+  [90 (+1200)/sem limite] fila=648 | depth=4 | https://terraroxa.atende.net/transparencia/item/avaliacao-atuarial
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/avaliacao-atuarial
+  [91 (+1200)/sem limite] fila=647 | depth=4 | https://terraroxa.atende.net/transparencia/item/governo-digital
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/governo-digital
+  [92 (+1200)/sem limite] fila=646 | depth=4 | https://terraroxa.atende.net/transparencia/item/ouvidoria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ouvidoria
+  [93 (+1200)/sem limite] fila=645 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorios-de-ouvidoria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorios-de-ouvidoria
+  [94 (+1200)/sem limite] fila=644 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-fiscalizacao-acompanha
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-fiscalizacao-acompanhamento-apuracao-paar
+  [95 (+1200)/sem limite] fila=643 | depth=4 | https://terraroxa.atende.net/transparencia/item/regularidade-de-licenciamento-do
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/regularidade-de-licenciamento-do-corpo-de-bombeiros
+  [96 (+1200)/sem limite] fila=642 | depth=4 | https://terraroxa.atende.net/transparencia/item/controle-interno
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/controle-interno
+  [97 (+1200)/sem limite] fila=641 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-de-fiscalizacao-e-metas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-de-fiscalizacao-e-metas
+  [98 (+1200)/sem limite] fila=640 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-procedimentos-de-execu
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-procedimentos-de-execucao-orcamentaria-e-financeira
+  [99 (+1200)/sem limite] fila=639 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-dados-abertos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-dados-abertos
+  [100 (+1200)/sem limite] fila=638 | depth=4 | https://terraroxa.atende.net/transparencia/item/metodologia-para-previsao-de-rec
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/metodologia-para-previsao-de-receitas-fundeb
+  [101 (+1200)/sem limite] fila=637 | depth=4 | https://terraroxa.atende.net/transparencia/item/fluxograma-cda-execucoes-fiscais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/fluxograma-cda-execucoes-fiscais
+  [102 (+1200)/sem limite] fila=636 | depth=4 | https://terraroxa.atende.net/transparencia/item/transparencia-ativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transparencia-ativa
+  [103 (+1200)/sem limite] fila=635 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-selecao-de-servidores
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-selecao-de-servidores
+  [104 (+1200)/sem limite] fila=634 | depth=4 | https://terraroxa.atende.net/transparencia/item/monitoramento-plano-municipal-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/monitoramento-plano-municipal-de-assistencia-social
+  [105 (+1200)/sem limite] fila=633 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-municipal-de-capacitacao-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-municipal-de-capacitacao-para-servidores-publicos-terra-ro
+  [106 (+1200)/sem limite] fila=632 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-orientacoes-para-elabo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-orientacoes-para-elaboracao
+  [107 (+1200)/sem limite] fila=631 | depth=4 | https://terraroxa.atende.net/transparencia/item/extratos-bancarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/extratos-bancarios
+  [108 (+1200)/sem limite] fila=630 | depth=4 | https://terraroxa.atende.net/transparencia/item/fundeb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/fundeb
+  [109 (+1200)/sem limite] fila=629 | depth=4 | https://terraroxa.atende.net/transparencia/item/operacoes-financeiras-de-qualque
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/operacoes-financeiras-de-qualquer-natureza
+  [110 (+1200)/sem limite] fila=628 | depth=4 | https://terraroxa.atende.net/transparencia/item/execucao-orcamentaria
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/execucao-orcamentaria
+  [111 (+1200)/sem limite] fila=627 | depth=4 | https://terraroxa.atende.net/transparencia/item/gestao-fiscal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/gestao-fiscal
+  [112 (+1200)/sem limite] fila=626 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-plurianual-ppa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-plurianual-ppa
+  [113 (+1200)/sem limite] fila=625 | depth=4 | https://terraroxa.atende.net/transparencia/item/lei-orcamentaria-anual-loa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lei-orcamentaria-anual-loa
+  [114 (+1200)/sem limite] fila=624 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-aud-pub-aval-metas-fiscais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-aud-pub-aval-metas-fiscais
+  [115 (+1200)/sem limite] fila=623 | depth=4 | https://terraroxa.atende.net/transparencia/item/consulta-do-plano-de-contas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consulta-do-plano-de-contas
+  [116 (+1200)/sem limite] fila=622 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-de-reembolso
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-de-reembolso
+  [117 (+1200)/sem limite] fila=621 | depth=4 | https://terraroxa.atende.net/transparencia/item/portaria-stn-8282011
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/portaria-stn-8282011
+  [118 (+1200)/sem limite] fila=620 | depth=4 | https://terraroxa.atende.net/transparencia/item/lei-diretrizes-orcamentarias-ldo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lei-diretrizes-orcamentarias-ldo
+  [119 (+1200)/sem limite] fila=619 | depth=4 | https://terraroxa.atende.net/transparencia/item/renuncia-de-receitas-estimativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/renuncia-de-receitas-estimativa
+  [120 (+1200)/sem limite] fila=618 | depth=4 | https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-anual
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-anual
+  [121 (+1200)/sem limite] fila=617 | depth=4 | https://terraroxa.atende.net/transparencia/item/demonstrativos-contabeis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demonstrativos-contabeis
+  [122 (+1200)/sem limite] fila=616 | depth=4 | https://terraroxa.atende.net/transparencia/item/monitoramento-do-plano-plurianua
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/monitoramento-do-plano-plurianual
+  [123 (+1200)/sem limite] fila=615 | depth=4 | https://terraroxa.atende.net/transparencia/item/manual-de-elaboracao-ppa-ldo-loa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/manual-de-elaboracao-ppa-ldo-loa
+  [124 (+1200)/sem limite] fila=614 | depth=4 | https://terraroxa.atende.net/transparencia/item/taxa-da-coleta-de-lixo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/taxa-da-coleta-de-lixo
+  [125 (+1200)/sem limite] fila=613 | depth=4 | https://terraroxa.atende.net/transparencia/item/precatorios-e-requisicoes-de-peq
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/precatorios-e-requisicoes-de-pequenos-valores
+  [126 (+1200)/sem limite] fila=612 | depth=4 | https://terraroxa.atende.net/transparencia/item/taxa-de-iluminacao-publica-cosip
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/taxa-de-iluminacao-publica-cosip
+  [127 (+1200)/sem limite] fila=611 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-mensal-de-baixas-manua
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-mensal-de-baixas-manuais
+  [128 (+1200)/sem limite] fila=610 | depth=4 | https://terraroxa.atende.net/transparencia/item/valores-entregues-pela-uniao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/valores-entregues-pela-uniao
+  [129 (+1200)/sem limite] fila=609 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-orcamentarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-orcamentarias
+  [130 (+1200)/sem limite] fila=608 | depth=4 | https://terraroxa.atende.net/transparencia/item/tributos-arrecadados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/tributos-arrecadados
+  [131 (+1200)/sem limite] fila=607 | depth=4 | https://terraroxa.atende.net/transparencia/item/orcamento-da-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/orcamento-da-receita
+  [132 (+1200)/sem limite] fila=606 | depth=4 | https://terraroxa.atende.net/transparencia/item/demonstrativos-das-receitas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demonstrativos-das-receitas
+  [133 (+1200)/sem limite] fila=605 | depth=4 | https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-receita
+  [134 (+1200)/sem limite] fila=604 | depth=4 | https://terraroxa.atende.net/transparencia/item/convenios-de-receita-estadouniao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/convenios-de-receita-estadouniao-e-emendas
+  [135 (+1200)/sem limite] fila=603 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-part
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-partir-de-2015
+  [136 (+1200)/sem limite] fila=602 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-e-despesas-com-multa-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-e-despesas-com-multa-de-transito
+  [137 (+1200)/sem limite] fila=601 | depth=4 | https://terraroxa.atende.net/transparencia/item/emenda-parlamentar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/emenda-parlamentar
+  [138 (+1200)/sem limite] fila=600 | depth=4 | https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-receb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-recebidas
+  [139 (+1200)/sem limite] fila=599 | depth=4 | https://terraroxa.atende.net/transparencia/item/e-beneficios-tributarios-disponi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/e-beneficios-tributarios-disponiveis
+  [140 (+1200)/sem limite] fila=598 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-extraorcamentarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-extraorcamentarias
+  [141 (+1200)/sem limite] fila=597 | depth=4 | https://terraroxa.atende.net/transparencia/item/acesso-transferencias-especiais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acesso-transferencias-especiais
+  [142 (+1200)/sem limite] fila=596 | depth=4 | https://terraroxa.atende.net/transparencia/item/emendas-parlamentares-consulta-e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/emendas-parlamentares-consulta-externa
+  [143 (+1200)/sem limite] fila=595 | depth=4 | https://terraroxa.atende.net/transparencia/item/valores-entregues-pelo-estado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/valores-entregues-pelo-estado
+  [144 (+1200)/sem limite] fila=594 | depth=4 | https://terraroxa.atende.net/transparencia/item/lista-dos-inscritos-em-divida-at
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lista-dos-inscritos-em-divida-ativa
+  [145 (+1200)/sem limite] fila=593 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-das-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-das-receitas
+  [146 (+1200)/sem limite] fila=592 | depth=4 | https://terraroxa.atende.net/transparencia/item/operacoes-de-credito
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/operacoes-de-credito
+  [147 (+1200)/sem limite] fila=591 | depth=4 | https://terraroxa.atende.net/transparencia/item/total-de-gastos-tributarios-bene
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/total-de-gastos-tributarios-beneficiarios
+  [148 (+1200)/sem limite] fila=590 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-part
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-lancadas-e-pagas-a-partir-de-2015-mensal
+  [149 (+1200)/sem limite] fila=589 | depth=4 | https://terraroxa.atende.net/transparencia/item/beneficios-tributarios-disponive
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/beneficios-tributarios-disponiveis
+  [150 (+1200)/sem limite] fila=588 | depth=4 | https://terraroxa.atende.net/transparencia/item/divida-ativa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/divida-ativa
+  [151 (+1200)/sem limite] fila=587 | depth=4 | https://terraroxa.atende.net/transparencia/item/renuncias-projeto-de-incentivo-a
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/renuncias-projeto-de-incentivo-a-cultura-e-ao-esporte
+  [152 (+1200)/sem limite] fila=586 | depth=4 | https://terraroxa.atende.net/transparencia/item/total-de-gastos-tributarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/total-de-gastos-tributarios
+  [153 (+1200)/sem limite] fila=585 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [154 (+1200)/sem limite] fila=584 | depth=4 | https://terraroxa.atende.net/transparencia/item/tabela-valores-de-diarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/tabela-valores-de-diarias
+  [155 (+1200)/sem limite] fila=584 | depth=4 | https://terraroxa.atende.net/transparencia/item/despesas-com-diarias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/despesas-com-diarias
+  [156 (+1200)/sem limite] fila=583 | depth=4 | https://terraroxa.atende.net/transparencia/item/ajuda-de-custos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ajuda-de-custos
+  [157 (+1200)/sem limite] fila=582 | depth=4 | https://terraroxa.atende.net/transparencia/item/ajuda-de-custos-adiantamento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ajuda-de-custos-adiantamento
+  [158 (+1200)/sem limite] fila=581 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-da-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-da-despesa
+  [159 (+1200)/sem limite] fila=580 | depth=4 | https://terraroxa.atende.net/transparencia/item/demonstrativo-das-despesas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demonstrativo-das-despesas
+  [160 (+1200)/sem limite] fila=579 | depth=4 | https://terraroxa.atende.net/transparencia/item/despesas-com-pessoal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/despesas-com-pessoal
+  [161 (+1200)/sem limite] fila=578 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenho-emitido
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenho-emitido
+  [162 (+1200)/sem limite] fila=577 | depth=4 | https://terraroxa.atende.net/transparencia/item/liquidacao-de-empenhos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/liquidacao-de-empenhos
+  [163 (+1200)/sem limite] fila=576 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-a-pagar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-a-pagar
+  [164 (+1200)/sem limite] fila=575 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-anuladosrestos-cancelad
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-anuladosrestos-cancelados
+  [165 (+1200)/sem limite] fila=574 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-emitidos-despesa-com-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-emitidos-despesa-com-passagens
+  [166 (+1200)/sem limite] fila=573 | depth=4 | https://terraroxa.atende.net/transparencia/item/despesas-com-substituicao-de-mao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/despesas-com-substituicao-de-maodeobra
+  [167 (+1200)/sem limite] fila=572 | depth=4 | https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/execucao-do-orcamento-da-despesa
+  [168 (+1200)/sem limite] fila=571 | depth=4 | https://terraroxa.atende.net/transparencia/item/orcamento-da-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/orcamento-da-despesa
+  [169 (+1200)/sem limite] fila=570 | depth=4 | https://terraroxa.atende.net/transparencia/item/ordem-cronologica-para-pagamento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ordem-cronologica-para-pagamento
+  [170 (+1200)/sem limite] fila=569 | depth=4 | https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-de-recursos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/prestacao-de-contas-de-recursos-antecipados
+  [171 (+1200)/sem limite] fila=568 | depth=4 | https://terraroxa.atende.net/transparencia/item/programas-e-acoes-de-governo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/programas-e-acoes-de-governo
+  [172 (+1200)/sem limite] fila=567 | depth=4 | https://terraroxa.atende.net/transparencia/item/restos-a-pagar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/restos-a-pagar
+  [173 (+1200)/sem limite] fila=566 | depth=4 | https://terraroxa.atende.net/transparencia/item/transf-terceiros-convenios-com-r
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transf-terceiros-convenios-com-repasse
+  [174 (+1200)/sem limite] fila=565 | depth=4 | https://terraroxa.atende.net/transparencia/item/transf-terceiros-convenios-sem-r
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transf-terceiros-convenios-sem-repasse
+  [175 (+1200)/sem limite] fila=564 | depth=4 | https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-conce
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/transferencias-financeiras-concedidas
+  [176 (+1200)/sem limite] fila=563 | depth=4 | https://terraroxa.atende.net/transparencia/item/pagamentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/pagamentos
+  [177 (+1200)/sem limite] fila=562 | depth=4 | https://terraroxa.atende.net/transparencia/item/verbas-de-representacao-e-de-gab
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/verbas-de-representacao-e-de-gabinete
+  [178 (+1200)/sem limite] fila=561 | depth=4 | https://terraroxa.atende.net/transparencia/item/movimentacao-dos-fundos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/movimentacao-dos-fundos
+  [179 (+1200)/sem limite] fila=560 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-de-adequacao-siafic
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-de-adequacao-siafic
+  [180 (+1200)/sem limite] fila=559 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorios-de-receitas-e-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorios-de-receitas-e-despesas-dos-recursos-do-fundeb
+  [181 (+1200)/sem limite] fila=558 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-circunstanciado-de-ges
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-circunstanciado-de-gestao
+  [182 (+1200)/sem limite] fila=557 | depth=4 | https://terraroxa.atende.net/transparencia/item/recursos-recebidos-da-uniao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/recursos-recebidos-da-uniao
+  [183 (+1200)/sem limite] fila=556 | depth=4 | https://terraroxa.atende.net/transparencia/item/recursos-recebidos-do-estado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/recursos-recebidos-do-estado
+  [184 (+1200)/sem limite] fila=555 | depth=4 | https://terraroxa.atende.net/transparencia/item/recursos-recebidos-instrumentos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/recursos-recebidos-instrumentos-celebrados
+  [185 (+1200)/sem limite] fila=554 | depth=4 | https://terraroxa.atende.net/transparencia/item/orcamento-anual-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/orcamento-anual-receita
+  [186 (+1200)/sem limite] fila=553 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-arrecadadas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-arrecadadas
+  [187 (+1200)/sem limite] fila=552 | depth=4 | https://terraroxa.atende.net/transparencia/item/despesas-executadas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/despesas-executadas
+  [188 (+1200)/sem limite] fila=551 | depth=4 | https://terraroxa.atende.net/transparencia/item/contratos-e-seus-aditivos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/contratos-e-seus-aditivos
+  [189 (+1200)/sem limite] fila=550 | depth=4 | https://terraroxa.atende.net/transparencia/item/compras
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/compras
+  [190 (+1200)/sem limite] fila=549 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-resultado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-resultado
+  [191 (+1200)/sem limite] fila=548 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-de-gestao-e-atividades
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-de-gestao-e-atividades
+  [192 (+1200)/sem limite] fila=547 | depth=4 | https://terraroxa.atende.net/transparencia/item/recursos-oriundos-de-acoes-e-pro
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/recursos-oriundos-de-acoes-e-programas-do-governo-federal
+  [193 (+1200)/sem limite] fila=546 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-despesa
+  [194 (+1200)/sem limite] fila=545 | depth=4 | https://terraroxa.atende.net/transparencia/item/tributo-arrecadado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/tributo-arrecadado
+  [195 (+1200)/sem limite] fila=544 | depth=4 | https://terraroxa.atende.net/transparencia/item/recursos-recebidos-transferencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/recursos-recebidos-transferencias-voluntarias
+  [196 (+1200)/sem limite] fila=543 | depth=4 | https://terraroxa.atende.net/transparencia/item/orcamento-anual-despesa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/orcamento-anual-despesa
+  [197 (+1200)/sem limite] fila=542 | depth=4 | https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-receita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/balanco-orcamentario-receita
+  [198 (+1200)/sem limite] fila=541 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-estrategico-institucional
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-estrategico-institucional
+  [199 (+1200)/sem limite] fila=540 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [200 (+1200)/sem limite] fila=539 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (1400 páginas totais | 200 nesta sessão).
+  [201 (+1200)/sem limite] fila=538 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2026
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2026
+  [202 (+1200)/sem limite] fila=539 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2025
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2025
+  [203 (+1200)/sem limite] fila=538 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2024
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2024
+  [204 (+1200)/sem limite] fila=537 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2023
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2023
+  [205 (+1200)/sem limite] fila=536 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2022
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2022
+  [206 (+1200)/sem limite] fila=535 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2021
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2021
+  [207 (+1200)/sem limite] fila=534 | depth=4 | https://terraroxa.atende.net/transparencia/item/resolucoes-2020
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resolucoes-2020
+  [208 (+1200)/sem limite] fila=533 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [209 (+1200)/sem limite] fila=532 | depth=4 | https://terraroxa.atende.net/transparencia/item/calendario-das-reunioes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/calendario-das-reunioes
+  [210 (+1200)/sem limite] fila=532 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2026
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2026
+  [211 (+1200)/sem limite] fila=531 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2025
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2025
+  [212 (+1200)/sem limite] fila=530 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2024
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2024
+  [213 (+1200)/sem limite] fila=529 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2023
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2023
+  [214 (+1200)/sem limite] fila=528 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2022
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2022
+  [215 (+1200)/sem limite] fila=527 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2021
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2021
+  [216 (+1200)/sem limite] fila=526 | depth=4 | https://terraroxa.atende.net/transparencia/item/reunioes-2020
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/reunioes-2020
+  [217 (+1200)/sem limite] fila=525 | depth=4 | https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-saude
+  [218 (+1200)/sem limite] fila=524 | depth=4 | https://terraroxa.atende.net/transparencia/item/formacao-para-o-controle-social
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/formacao-para-o-controle-social
+  [219 (+1200)/sem limite] fila=523 | depth=4 | https://terraroxa.atende.net/transparencia/item/parecer-do-conselho-de-saude-rag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/parecer-do-conselho-de-saude-rag
+  [220 (+1200)/sem limite] fila=522 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [221 (+1200)/sem limite] fila=521 | depth=4 | https://terraroxa.atende.net/transparencia/item/consultar-protocolo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consultar-protocolo
+  [222 (+1200)/sem limite] fila=521 | depth=4 | https://terraroxa.atende.net/transparencia/item/consultas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consultas
+  [223 (+1200)/sem limite] fila=520 | depth=4 | https://terraroxa.atende.net/transparencia/item/procedimentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/procedimentos
+  [224 (+1200)/sem limite] fila=519 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [225 (+1200)/sem limite] fila=518 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-municipal-de-saude-2018202
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-municipal-de-saude-20182021
+  [226 (+1200)/sem limite] fila=518 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-municipal-de-saude-2022202
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-municipal-de-saude-20222025
+  [227 (+1200)/sem limite] fila=517 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [228 (+1200)/sem limite] fila=516 | depth=4 | https://terraroxa.atende.net/transparencia/item/caf
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/caf
+  [229 (+1200)/sem limite] fila=516 | depth=4 | https://terraroxa.atende.net/transparencia/item/farmacia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/farmacia
+  [230 (+1200)/sem limite] fila=515 | depth=4 | https://terraroxa.atende.net/transparencia/item/medicamentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/medicamentos
+  [231 (+1200)/sem limite] fila=514 | depth=4 | https://terraroxa.atende.net/transparencia/item/programacao-anual-de-saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/programacao-anual-de-saude
+  [232 (+1200)/sem limite] fila=513 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-anual-de-gestao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-anual-de-gestao
+  [233 (+1200)/sem limite] fila=512 | depth=4 | https://terraroxa.atende.net/transparencia/item/aps-atencao-primaria-em-saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/aps-atencao-primaria-em-saude
+  [234 (+1200)/sem limite] fila=511 | depth=4 | https://terraroxa.atende.net/transparencia/item/acesso-a-medicamentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acesso-a-medicamentos
+  [235 (+1200)/sem limite] fila=510 | depth=4 | https://terraroxa.atende.net/transparencia/item/escala-de-profissionais-de-saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/escala-de-profissionais-de-saude-e-especialidades
+  [236 (+1200)/sem limite] fila=509 | depth=4 | https://terraroxa.atende.net/transparencia/item/atencao-especializada
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atencao-especializada
+  [237 (+1200)/sem limite] fila=508 | depth=4 | https://terraroxa.atende.net/transparencia/item/audiencias-publicas-saude
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/audiencias-publicas-saude
+  [238 (+1200)/sem limite] fila=507 | depth=4 | https://terraroxa.atende.net/transparencia/item/consorcios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consorcios
+  [239 (+1200)/sem limite] fila=506 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [240 (+1200)/sem limite] fila=505 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [241 (+1200)/sem limite] fila=504 | depth=4 | https://terraroxa.atende.net/transparencia/item/inexigibilidade
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/inexigibilidade
+  [242 (+1200)/sem limite] fila=505 | depth=4 | https://terraroxa.atende.net/transparencia/item/dispensa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/dispensa
+  [243 (+1200)/sem limite] fila=504 | depth=4 | https://terraroxa.atende.net/transparencia/item/chamamento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/chamamento
+  [244 (+1200)/sem limite] fila=503 | depth=4 | https://terraroxa.atende.net/transparencia/item/parceria-em-aberto
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/parceria-em-aberto
+  [245 (+1200)/sem limite] fila=502 | depth=4 | https://terraroxa.atende.net/transparencia/item/parceria-finalizada
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/parceria-finalizada
+  [246 (+1200)/sem limite] fila=501 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [247 (+1200)/sem limite] fila=500 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [248 (+1200)/sem limite] fila=499 | depth=4 | https://terraroxa.atende.net/transparencia/item/dispensavel
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/dispensavel
+  [249 (+1200)/sem limite] fila=500 | depth=4 | https://terraroxa.atende.net/transparencia/item/por-licitacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/por-licitacao
+  [250 (+1200)/sem limite] fila=499 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [251 (+1200)/sem limite] fila=498 | depth=4 | https://terraroxa.atende.net/transparencia/item/pessoas-terceirizadas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/pessoas-terceirizadas
+  [252 (+1200)/sem limite] fila=498 | depth=4 | https://terraroxa.atende.net/transparencia/item/gestorfiscal-de-contratos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/gestorfiscal-de-contratos
+  [253 (+1200)/sem limite] fila=497 | depth=4 | https://terraroxa.atende.net/transparencia/item/licitacoes-gerais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/licitacoes-gerais
+  [254 (+1200)/sem limite] fila=496 | depth=4 | https://terraroxa.atende.net/transparencia/item/gastos-processo-licitatorio
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/gastos-processo-licitatorio
+  [255 (+1200)/sem limite] fila=495 | depth=4 | https://terraroxa.atende.net/transparencia/item/contratos-gerais
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/contratos-gerais
+  [256 (+1200)/sem limite] fila=494 | depth=4 | https://terraroxa.atende.net/transparencia/item/credenciamentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/credenciamentos
+  [257 (+1200)/sem limite] fila=493 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6Ijh
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [258 (+1200)/sem limite] fila=492 | depth=4 | https://terraroxa.atende.net/transparencia/item/bens
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/bens
+  [259 (+1200)/sem limite] fila=492 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6Ijd
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [260 (+1200)/sem limite] fila=491 | depth=4 | https://terraroxa.atende.net/transparencia/item/veiculo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/veiculo
+  [261 (+1200)/sem limite] fila=491 | depth=4 | https://terraroxa.atende.net/transparencia/item/almoxarifado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/almoxarifado
+  [262 (+1200)/sem limite] fila=490 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-de-cessoes-permutas-e-do
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-de-cessoes-permutas-e-doacao-de-bens
+  [263 (+1200)/sem limite] fila=489 | depth=4 | https://terraroxa.atende.net/transparencia/item/sancoes-e-impeditivos-do-fornece
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/sancoes-e-impeditivos-do-fornecedor
+  [264 (+1200)/sem limite] fila=488 | depth=4 | https://terraroxa.atende.net/transparencia/item/consulta-externa-sancionados-adm
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/consulta-externa-sancionados-administrativamente
+  [265 (+1200)/sem limite] fila=487 | depth=4 | https://terraroxa.atende.net/transparencia/item/licitacon-obras
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/licitacon-obras
+  [266 (+1200)/sem limite] fila=486 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-anual-de-contratacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-anual-de-contratacao
+  [267 (+1200)/sem limite] fila=485 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionario-efetivo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionario-efetivo
+  [268 (+1200)/sem limite] fila=484 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-de-profissionais-terceir
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-de-profissionais-terceirizados
+  [269 (+1200)/sem limite] fila=483 | depth=4 | https://terraroxa.atende.net/transparencia/item/gastos-com-cartoes-corporativos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/gastos-com-cartoes-corporativos
+  [270 (+1200)/sem limite] fila=482 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionarios-em-gozo-ferias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionarios-em-gozo-ferias
+  [271 (+1200)/sem limite] fila=481 | depth=4 | https://terraroxa.atende.net/transparencia/item/lista-de-estagiarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lista-de-estagiarios
+  [272 (+1200)/sem limite] fila=480 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-matricula-x-cargo-x-sala
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-matricula-x-cargo-x-salario
+  [273 (+1200)/sem limite] fila=479 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionario-x-centro-de-custos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionario-x-centro-de-custos
+  [274 (+1200)/sem limite] fila=478 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionarios-demitidosexonerados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionarios-demitidosexonerados
+  [275 (+1200)/sem limite] fila=477 | depth=4 | https://terraroxa.atende.net/transparencia/item/agente-politico
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/agente-politico
+  [276 (+1200)/sem limite] fila=476 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionario-x-lotacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionario-x-lotacao
+  [277 (+1200)/sem limite] fila=475 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-de-cargos-e-salarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-de-cargos-e-salarios
+  [278 (+1200)/sem limite] fila=474 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionarios-afastados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionarios-afastados
+  [279 (+1200)/sem limite] fila=473 | depth=4 | https://terraroxa.atende.net/transparencia/item/resumo-funcionario-por-regime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/resumo-funcionario-por-regime
+  [280 (+1200)/sem limite] fila=472 | depth=4 | https://terraroxa.atende.net/transparencia/item/agente-publico
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/agente-publico
+  [281 (+1200)/sem limite] fila=471 | depth=4 | https://terraroxa.atende.net/transparencia/item/cargos-em-comissao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/cargos-em-comissao
+  [282 (+1200)/sem limite] fila=470 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-funcionario-x-salario
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-funcionario-x-salario
+  [283 (+1200)/sem limite] fila=469 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionario-comissionado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionario-comissionado
+  [284 (+1200)/sem limite] fila=468 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-funcionario-x-pagamentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-funcionario-x-pagamentos
+  [285 (+1200)/sem limite] fila=467 | depth=4 | https://terraroxa.atende.net/transparencia/item/contrato-prazo-determinado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/contrato-prazo-determinado
+  [286 (+1200)/sem limite] fila=466 | depth=4 | https://terraroxa.atende.net/transparencia/item/funcionarios-cedidos-e-recebidos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/funcionarios-cedidos-e-recebidos
+  [287 (+1200)/sem limite] fila=465 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-de-funcionarios
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-de-funcionarios
+  [288 (+1200)/sem limite] fila=464 | depth=4 | https://terraroxa.atende.net/transparencia/item/servidores-cedidos-por-outros-or
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/servidores-cedidos-por-outros-orgaos
+  [289 (+1200)/sem limite] fila=463 | depth=4 | https://terraroxa.atende.net/transparencia/item/indicador-de-gastos-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/indicador-de-gastos-covid19
+  [290 (+1200)/sem limite] fila=462 | depth=4 | https://terraroxa.atende.net/transparencia/item/ordens-de-compra-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/ordens-de-compra-covid19
+  [291 (+1200)/sem limite] fila=461 | depth=4 | https://terraroxa.atende.net/transparencia/item/licitacoes-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/licitacoes-covid19
+  [292 (+1200)/sem limite] fila=460 | depth=4 | https://terraroxa.atende.net/transparencia/item/contratos-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/contratos-covid19
+  [293 (+1200)/sem limite] fila=459 | depth=4 | https://terraroxa.atende.net/transparencia/item/fornecedores-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/fornecedores-covid19
+  [294 (+1200)/sem limite] fila=458 | depth=4 | https://terraroxa.atende.net/transparencia/item/produtos-covid19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/produtos-covid19
+  [295 (+1200)/sem limite] fila=457 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-liquidados
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-liquidados
+  [296 (+1200)/sem limite] fila=456 | depth=4 | https://terraroxa.atende.net/transparencia/item/legislacao-municipal-covid-19
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/legislacao-municipal-covid-19
+  [297 (+1200)/sem limite] fila=455 | depth=4 | https://terraroxa.atende.net/transparencia/item/acoes-de-contingenciamentoreplan
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acoes-de-contingenciamentoreplanejamento-orcamentario
+  [298 (+1200)/sem limite] fila=454 | depth=4 | https://terraroxa.atende.net/transparencia/item/medidas-relacionadas-a-pandemia-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/medidas-relacionadas-a-pandemia-na-area-da-educacao
+  [299 (+1200)/sem limite] fila=453 | depth=4 | https://terraroxa.atende.net/transparencia/item/receitas-recebidas-enfrentamento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/receitas-recebidas-enfrentamento-covid19
+  [300 (+1200)/sem limite] fila=452 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-emitidos-covid
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-emitidos-covid
+  [301 (+1200)/sem limite] fila=451 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-especifico-covid19-rec
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-especifico-covid19-receita-x-despesa
+  [302 (+1200)/sem limite] fila=450 | depth=4 | https://terraroxa.atende.net/transparencia/item/empenhos-pagos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/empenhos-pagos
+  [303 (+1200)/sem limite] fila=449 | depth=4 | https://terraroxa.atende.net/transparencia/item/relacao-de-funcionarios-no-enfre
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relacao-de-funcionarios-no-enfrentamento-da-pandemia
+  [304 (+1200)/sem limite] fila=448 | depth=4 | https://terraroxa.atende.net/transparencia/item/obras
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/obras
+  [305 (+1200)/sem limite] fila=447 | depth=4 | https://terraroxa.atende.net/transparencia/item/obras-paralisadas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/obras-paralisadas
+  [306 (+1200)/sem limite] fila=446 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjF
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [307 (+1200)/sem limite] fila=445 | depth=4 | https://terraroxa.atende.net/transparencia/item/cardapio-escolar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/cardapio-escolar
+  [308 (+1200)/sem limite] fila=445 | depth=4 | https://terraroxa.atende.net/transparencia/item/acoes-decorrentes-da-pandemia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/acoes-decorrentes-da-pandemia
+  [309 (+1200)/sem limite] fila=444 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [310 (+1200)/sem limite] fila=443 | depth=4 | https://terraroxa.atende.net/transparencia/item/membros-do-conselho-fundeb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/membros-do-conselho-fundeb
+  [311 (+1200)/sem limite] fila=443 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-das-reunioes-do-conselho
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-das-reunioes-do-conselho
+  [312 (+1200)/sem limite] fila=442 | depth=4 | https://terraroxa.atende.net/transparencia/item/agenda-das-reunioes-do-fundeb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/agenda-das-reunioes-do-fundeb
+  [313 (+1200)/sem limite] fila=441 | depth=4 | https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [314 (+1200)/sem limite] fila=440 | depth=4 | https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-educacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/membros-do-conselho-de-educacao
+  [315 (+1200)/sem limite] fila=440 | depth=4 | https://terraroxa.atende.net/transparencia/item/atas-das-reunioes-do-conselho-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/atas-das-reunioes-do-conselho-de-educacao
+  [316 (+1200)/sem limite] fila=439 | depth=4 | https://terraroxa.atende.net/transparencia/item/agenda-das-reunioes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/agenda-das-reunioes
+  [317 (+1200)/sem limite] fila=438 | depth=4 | https://terraroxa.atende.net/transparencia/item/edital-resultado-preliminar-bols
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/edital-resultado-preliminar-bolsa-auxilio-transporte
+  [318 (+1200)/sem limite] fila=437 | depth=4 | https://terraroxa.atende.net/transparencia/item/lista-de-espera-das-unidades-esc
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lista-de-espera-das-unidades-escolares
+  [319 (+1200)/sem limite] fila=436 | depth=4 | https://terraroxa.atende.net/transparencia/item/medidas-relacionadas-a-pandemia-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/medidas-relacionadas-a-pandemia-na-area-da-educacao-2
+  [320 (+1200)/sem limite] fila=435 | depth=4 | https://terraroxa.atende.net/transparencia/item/plano-municipal-de-educacao
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plano-municipal-de-educacao
+  [321 (+1200)/sem limite] fila=434 | depth=4 | https://terraroxa.atende.net/transparencia/item/plite-plano-local-de-inovacao-e-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/plite-plano-local-de-inovacao-e-tecnologia-educacional
+  [322 (+1200)/sem limite] fila=433 | depth=4 | https://terraroxa.atende.net/transparencia/item/lista-de-espera-cmeis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/lista-de-espera-cmeis
+  [323 (+1200)/sem limite] fila=432 | depth=4 | https://terraroxa.atende.net/transparencia/item/demanda-x-vagas-escolas-e-cmeis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/demanda-x-vagas-escolas-e-cmeis
+  [324 (+1200)/sem limite] fila=431 | depth=4 | https://terraroxa.atende.net/transparencia/item/expansao-de-vagas
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/expansao-de-vagas
+  [325 (+1200)/sem limite] fila=430 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-de-avaliacoes-diagnost
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-de-avaliacoes-diagnosticas
+  [326 (+1200)/sem limite] fila=429 | depth=4 | https://terraroxa.atende.net/transparencia/item/proposta-pedagogica-curricular
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/proposta-pedagogica-curricular
+  [327 (+1200)/sem limite] fila=428 | depth=4 | https://terraroxa.atende.net/transparencia/item/programas-e-acoes
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/programas-e-acoes
+  [328 (+1200)/sem limite] fila=427 | depth=4 | https://terraroxa.atende.net/transparencia/item/agenda-de-licitacoes-2
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/agenda-de-licitacoes-2
+  [329 (+1200)/sem limite] fila=426 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorio-circunstanciado
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorio-circunstanciado
+  [330 (+1200)/sem limite] fila=425 | depth=4 | https://terraroxa.atende.net/transparencia/item/relatorios-do-controle-interno
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/relatorios-do-controle-interno
+  [331 (+1200)/sem limite] fila=424 | depth=4 | https://terraroxa.atende.net/transparencia/item/arquivos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/arquivos-diversos
+  [332 (+1200)/sem limite] fila=423 | depth=4 | https://terraroxa.atende.net/transparencia/item/auditorias
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/auditorias
+  [333 (+1200)/sem limite] fila=422 | depth=4 | https://terraroxa.atende.net/transparencia/item/documentos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/item/documentos-diversos
+  [334 (+1200)/sem limite] fila=421 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [335 (+1200)/sem limite] fila=420 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [336 (+1200)/sem limite] fila=419 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [337 (+1200)/sem limite] fila=418 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [338 (+1200)/sem limite] fila=417 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [339 (+1200)/sem limite] fila=416 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [340 (+1200)/sem limite] fila=415 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [341 (+1200)/sem limite] fila=414 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [342 (+1200)/sem limite] fila=413 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [343 (+1200)/sem limite] fila=412 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [344 (+1200)/sem limite] fila=411 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [345 (+1200)/sem limite] fila=410 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [346 (+1200)/sem limite] fila=409 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [347 (+1200)/sem limite] fila=408 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [348 (+1200)/sem limite] fila=407 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [349 (+1200)/sem limite] fila=406 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [350 (+1200)/sem limite] fila=405 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [351 (+1200)/sem limite] fila=404 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [352 (+1200)/sem limite] fila=403 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [353 (+1200)/sem limite] fila=402 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [354 (+1200)/sem limite] fila=401 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [355 (+1200)/sem limite] fila=400 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [356 (+1200)/sem limite] fila=399 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [357 (+1200)/sem limite] fila=398 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [358 (+1200)/sem limite] fila=397 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [359 (+1200)/sem limite] fila=396 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [360 (+1200)/sem limite] fila=395 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [361 (+1200)/sem limite] fila=394 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [362 (+1200)/sem limite] fila=393 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [363 (+1200)/sem limite] fila=392 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [364 (+1200)/sem limite] fila=391 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [365 (+1200)/sem limite] fila=390 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [366 (+1200)/sem limite] fila=389 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [367 (+1200)/sem limite] fila=388 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [368 (+1200)/sem limite] fila=387 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [369 (+1200)/sem limite] fila=386 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwb
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/relatorios-legais?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [370 (+1200)/sem limite] fila=385 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjgiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [371 (+1200)/sem limite] fila=384 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjMiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [372 (+1200)/sem limite] fila=383 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [373 (+1200)/sem limite] fila=382 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [374 (+1200)/sem limite] fila=381 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [375 (+1200)/sem limite] fila=380 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [376 (+1200)/sem limite] fila=379 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [377 (+1200)/sem limite] fila=378 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [378 (+1200)/sem limite] fila=377 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [379 (+1200)/sem limite] fila=376 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [380 (+1200)/sem limite] fila=375 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [381 (+1200)/sem limite] fila=374 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [382 (+1200)/sem limite] fila=373 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [383 (+1200)/sem limite] fila=372 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [384 (+1200)/sem limite] fila=371 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [385 (+1200)/sem limite] fila=370 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [386 (+1200)/sem limite] fila=369 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [387 (+1200)/sem limite] fila=368 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/receitas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [388 (+1200)/sem limite] fila=367 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjgiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [389 (+1200)/sem limite] fila=366 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjMiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [390 (+1200)/sem limite] fila=365 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [391 (+1200)/sem limite] fila=364 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [392 (+1200)/sem limite] fila=363 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [393 (+1200)/sem limite] fila=362 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [394 (+1200)/sem limite] fila=361 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [395 (+1200)/sem limite] fila=360 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [396 (+1200)/sem limite] fila=359 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [397 (+1200)/sem limite] fila=358 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [398 (+1200)/sem limite] fila=357 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [399 (+1200)/sem limite] fila=356 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [400 (+1200)/sem limite] fila=355 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (1600 páginas totais | 400 nesta sessão).
+  [401 (+1200)/sem limite] fila=354 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [402 (+1200)/sem limite] fila=353 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [403 (+1200)/sem limite] fila=352 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [404 (+1200)/sem limite] fila=351 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [405 (+1200)/sem limite] fila=350 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [406 (+1200)/sem limite] fila=349 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [407 (+1200)/sem limite] fila=348 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [408 (+1200)/sem limite] fila=347 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [409 (+1200)/sem limite] fila=346 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [410 (+1200)/sem limite] fila=345 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [411 (+1200)/sem limite] fila=344 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [412 (+1200)/sem limite] fila=343 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [413 (+1200)/sem limite] fila=342 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [414 (+1200)/sem limite] fila=341 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [415 (+1200)/sem limite] fila=340 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [416 (+1200)/sem limite] fila=339 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [417 (+1200)/sem limite] fila=338 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [418 (+1200)/sem limite] fila=337 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [419 (+1200)/sem limite] fila=336 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [420 (+1200)/sem limite] fila=335 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [421 (+1200)/sem limite] fila=334 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [422 (+1200)/sem limite] fila=333 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [423 (+1200)/sem limite] fila=332 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/contas-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [424 (+1200)/sem limite] fila=331 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjgiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [425 (+1200)/sem limite] fila=330 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjMiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [426 (+1200)/sem limite] fila=329 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [427 (+1200)/sem limite] fila=328 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [428 (+1200)/sem limite] fila=327 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [429 (+1200)/sem limite] fila=326 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [430 (+1200)/sem limite] fila=325 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [431 (+1200)/sem limite] fila=324 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [432 (+1200)/sem limite] fila=323 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [433 (+1200)/sem limite] fila=322 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [434 (+1200)/sem limite] fila=321 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [435 (+1200)/sem limite] fila=320 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [436 (+1200)/sem limite] fila=319 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [437 (+1200)/sem limite] fila=318 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [438 (+1200)/sem limite] fila=317 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [439 (+1200)/sem limite] fila=316 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [440 (+1200)/sem limite] fila=315 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [441 (+1200)/sem limite] fila=314 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [442 (+1200)/sem limite] fila=313 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6Ijg
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [443 (+1200)/sem limite] fila=312 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjM
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [444 (+1200)/sem limite] fila=311 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [445 (+1200)/sem limite] fila=310 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [446 (+1200)/sem limite] fila=309 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [447 (+1200)/sem limite] fila=308 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [448 (+1200)/sem limite] fila=307 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [449 (+1200)/sem limite] fila=306 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [450 (+1200)/sem limite] fila=305 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [451 (+1200)/sem limite] fila=304 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [452 (+1200)/sem limite] fila=303 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [453 (+1200)/sem limite] fila=302 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [454 (+1200)/sem limite] fila=301 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [455 (+1200)/sem limite] fila=300 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [456 (+1200)/sem limite] fila=299 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjE
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [457 (+1200)/sem limite] fila=298 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [458 (+1200)/sem limite] fila=297 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [459 (+1200)/sem limite] fila=296 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6Ijk
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [460 (+1200)/sem limite] fila=295 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjgiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [461 (+1200)/sem limite] fila=294 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjMiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [462 (+1200)/sem limite] fila=293 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [463 (+1200)/sem limite] fila=292 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [464 (+1200)/sem limite] fila=291 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [465 (+1200)/sem limite] fila=290 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [466 (+1200)/sem limite] fila=289 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [467 (+1200)/sem limite] fila=288 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiw
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [468 (+1200)/sem limite] fila=287 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [469 (+1200)/sem limite] fila=286 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [470 (+1200)/sem limite] fila=285 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [471 (+1200)/sem limite] fila=284 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [472 (+1200)/sem limite] fila=283 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [473 (+1200)/sem limite] fila=282 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [474 (+1200)/sem limite] fila=281 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [475 (+1200)/sem limite] fila=280 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [476 (+1200)/sem limite] fila=279 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [477 (+1200)/sem limite] fila=278 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJ
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/pessoal?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [478 (+1200)/sem limite] fila=277 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [479 (+1200)/sem limite] fila=276 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [480 (+1200)/sem limite] fila=275 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [481 (+1200)/sem limite] fila=274 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [482 (+1200)/sem limite] fila=273 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [483 (+1200)/sem limite] fila=272 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [484 (+1200)/sem limite] fila=271 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [485 (+1200)/sem limite] fila=270 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [486 (+1200)/sem limite] fila=269 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [487 (+1200)/sem limite] fila=268 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [488 (+1200)/sem limite] fila=267 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [489 (+1200)/sem limite] fila=266 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [490 (+1200)/sem limite] fila=265 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [491 (+1200)/sem limite] fila=264 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [492 (+1200)/sem limite] fila=263 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [493 (+1200)/sem limite] fila=262 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [494 (+1200)/sem limite] fila=261 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [495 (+1200)/sem limite] fila=260 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=e
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/gastos-e-receitas-covid19?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [496 (+1200)/sem limite] fila=259 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [497 (+1200)/sem limite] fila=258 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [498 (+1200)/sem limite] fila=257 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [499 (+1200)/sem limite] fila=256 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [500 (+1200)/sem limite] fila=255 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [501 (+1200)/sem limite] fila=254 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [502 (+1200)/sem limite] fila=253 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [503 (+1200)/sem limite] fila=252 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [504 (+1200)/sem limite] fila=251 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [505 (+1200)/sem limite] fila=250 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [506 (+1200)/sem limite] fila=249 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [507 (+1200)/sem limite] fila=248 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [508 (+1200)/sem limite] fila=247 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [509 (+1200)/sem limite] fila=246 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [510 (+1200)/sem limite] fila=245 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [511 (+1200)/sem limite] fila=244 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [512 (+1200)/sem limite] fila=243 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [513 (+1200)/sem limite] fila=242 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/obras-publicas?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [514 (+1200)/sem limite] fila=241 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjgiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [515 (+1200)/sem limite] fila=240 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjMiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [516 (+1200)/sem limite] fila=239 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [517 (+1200)/sem limite] fila=238 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [518 (+1200)/sem limite] fila=237 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [519 (+1200)/sem limite] fila=236 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [520 (+1200)/sem limite] fila=235 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [521 (+1200)/sem limite] fila=234 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [522 (+1200)/sem limite] fila=233 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [523 (+1200)/sem limite] fila=232 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [524 (+1200)/sem limite] fila=231 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [525 (+1200)/sem limite] fila=230 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [526 (+1200)/sem limite] fila=229 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [527 (+1200)/sem limite] fila=228 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [528 (+1200)/sem limite] fila=227 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [529 (+1200)/sem limite] fila=226 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [530 (+1200)/sem limite] fila=225 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [531 (+1200)/sem limite] fila=224 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLC
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [532 (+1200)/sem limite] fila=223 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [533 (+1200)/sem limite] fila=222 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [534 (+1200)/sem limite] fila=221 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [535 (+1200)/sem limite] fila=220 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [536 (+1200)/sem limite] fila=219 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [537 (+1200)/sem limite] fila=218 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [538 (+1200)/sem limite] fila=217 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [539 (+1200)/sem limite] fila=216 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [540 (+1200)/sem limite] fila=215 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [541 (+1200)/sem limite] fila=214 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [542 (+1200)/sem limite] fila=213 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [543 (+1200)/sem limite] fila=212 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [544 (+1200)/sem limite] fila=211 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [545 (+1200)/sem limite] fila=210 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [546 (+1200)/sem limite] fila=209 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [547 (+1200)/sem limite] fila=208 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [548 (+1200)/sem limite] fila=207 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [549 (+1200)/sem limite] fila=206 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?ag
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/programas-e-acoes-de-governo?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [550 (+1200)/sem limite] fila=205 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [551 (+1200)/sem limite] fila=204 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [552 (+1200)/sem limite] fila=203 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [553 (+1200)/sem limite] fila=202 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [554 (+1200)/sem limite] fila=201 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [555 (+1200)/sem limite] fila=200 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [556 (+1200)/sem limite] fila=199 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [557 (+1200)/sem limite] fila=198 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [558 (+1200)/sem limite] fila=197 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [559 (+1200)/sem limite] fila=196 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [560 (+1200)/sem limite] fila=195 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [561 (+1200)/sem limite] fila=194 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [562 (+1200)/sem limite] fila=193 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [563 (+1200)/sem limite] fila=192 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [564 (+1200)/sem limite] fila=191 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [565 (+1200)/sem limite] fila=190 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [566 (+1200)/sem limite] fila=189 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [567 (+1200)/sem limite] fila=188 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncn
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/agenda-de-licitacoes?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [568 (+1200)/sem limite] fila=187 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjgiLCJpZCI6IjgyXzIifQ%3D%3D
+  [569 (+1200)/sem limite] fila=186 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjMiLCJpZCI6IjM1XzIifQ%3D%3D
+  [570 (+1200)/sem limite] fila=185 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIxMF8yIn0%3D
+  [571 (+1200)/sem limite] fila=184 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMF8yIn0%3D
+  [572 (+1200)/sem limite] fila=183 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiI0NV8yIn0%3D
+  [573 (+1200)/sem limite] fila=182 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyXzEifQ%3D%3D
+  [574 (+1200)/sem limite] fila=181 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIyMl8yIn0%3D
+  [575 (+1200)/sem limite] fila=180 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEyIiwiaWQiOiIzNV8yIn0%3D
+  [576 (+1200)/sem limite] fila=179 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjI5XzEifQ%3D%3D
+  [577 (+1200)/sem limite] fila=178 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjM1XzEifQ%3D%3D
+  [578 (+1200)/sem limite] fila=177 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjExXzEifQ%3D%3D
+  [579 (+1200)/sem limite] fila=176 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjEzXzEifQ%3D%3D
+  [580 (+1200)/sem limite] fila=175 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjIzXzEifQ%3D%3D
+  [581 (+1200)/sem limite] fila=174 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjhfMSJ9
+  [582 (+1200)/sem limite] fila=173 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjEiLCJpZCI6IjdfMSJ9
+  [583 (+1200)/sem limite] fila=172 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjFfMiJ9
+  [584 (+1200)/sem limite] fila=171 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjIxXzIifQ%3D%3D
+  [585 (+1200)/sem limite] fila=170 | depth=4 | https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwby
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/controle-interno?agg=eyJncnVwbyI6IjkiLCJpZCI6IjExXzIifQ%3D%3D
+  [586 (+1200)/sem limite] fila=169 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa/detalha
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-divida-ativa/detalhar/1
+  [587 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digital/detalhar/1
+  [588 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais/detalhar/1
+  [589 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referente
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19/detalhar/1
+  [590 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+  [591 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email/det
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email/detalhar/1
+  [592 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos/detalhar/1
+  [593 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/itbi-online/detalhar/1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/itbi-online/detalhar/1
+  [594 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios/detalhar/1
+  [595 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi/detalhar/1
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi/detalhar/1
+  [596 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-es
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-escrituracao/detalhar/1
+  [597 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto/de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto/detalhar/1
+  [598 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara/deta
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara/detalhar/1
+  [599 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa/deta
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa/detalhar/1
+  [600 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-dig
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital/detalhar/1
+
+  Inventário salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /home/tarlis/experimentos/dados-genero/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (1800 páginas totais | 600 nesta sessão).
+  [601 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais/detalhar/1
+  [602 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados/detalhar/1
+  [603 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-refere
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19/detalhar/1
+  [604 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certid
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+  [605 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email/detalhar/1
+  [606 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos/detalhar/1
+  [607 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online/detalhar/1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online/detalhar/1
+  [608 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-docume
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios/detalhar/1
+  [609 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi/detalhar/1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi/detalhar/1
+  [610 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para-escrituracao/detalhar/1
+  [611 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto/detalhar/1
+  [612 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura/detalhar/1
+  [613 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servicos-prestados/detalhar/1
+  [614 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empres
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+  [615 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+  [616 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+  [617 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-in
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-infracao/detalhar/1
+  [618 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-we
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-webservice/detalhar/1
+  [619 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-lici
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-licitacoes/detalhar/1
+  [620 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-lote/detalhar/1
+  [621 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-1301914/detalhar/1
+  [622 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimentos-irrf/detalhar/1
+  [623 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+  [624 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletronico/detalhar/1
+  [625 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto/detalhar/1
+  [626 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-pr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+  [627 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+  [628 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho/detalhar/1
+  [629 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-f
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario/detalhar/1
+  [630 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detalhar/1
+  [631 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-d
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto/detalhar/1
+  [632 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contri
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia/detalhar/1
+  [633 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos/detalhar/1
+  [634 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+  [635 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empregaticio/detalhar/1
+  [636 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-res
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-rescisao/detalhar/1
+  [637 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+  [638 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-cer
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos/detalhar/1
+  [639 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detalhar/1
+  [640 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendiment
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendimento-profissional/detalhar/1
+  [641 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social/detalhar/1
+  [642 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanit
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario/detalhar/1
+  [643 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/deta
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/detalhar/1
+  [644 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica/detalhar/1
+  [645 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura/detalhar/1
+  [646 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documentos-sanitarios/detalhar/1
+  [647 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao/detalhar/1
+  [648 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado/detalhar/1
+  [649 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-saude/detalhar/1
+  [650 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+  [651 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-tran
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+  [652 (+1200)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-particip
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+  [653 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  [654 (+1200)/sem limite] fila=167 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/
+  [655 (+1200)/sem limite] fila=167 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [656 (+1200)/sem limite] fila=166 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [657 (+1200)/sem limite] fila=168 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  [658 (+1200)/sem limite] fila=167 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transparencia
+  [659 (+1200)/sem limite] fila=166 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/compras-vacinas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/compras-vacinas?pg=transparencia
+  [660 (+1200)/sem limite] fila=165 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  [661 (+1200)/sem limite] fila=164 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/insumos-adquiridos?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/insumos-adquiridos?pg=transparencia
+  [662 (+1200)/sem limite] fila=163 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/salas-de-vacinacao?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/salas-de-vacinacao?pg=transparencia
+  [663 (+1200)/sem limite] fila=162 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/sobras-de-vacinas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/sobras-de-vacinas?pg=transparencia
+  [664 (+1200)/sem limite] fila=161 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  [665 (+1200)/sem limite] fila=160 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  [666 (+1200)/sem limite] fila=159 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  [667 (+1200)/sem limite] fila=158 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+
