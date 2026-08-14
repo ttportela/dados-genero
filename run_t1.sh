@@ -11,3 +11,4 @@
 ./run_pipeline.sh senges
 ./run_pipeline.sh serranopolisdoiguacu
 ./run_pipeline.sh sertaneja
+

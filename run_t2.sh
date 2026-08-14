@@ -9,3 +9,4 @@
 ./run_pipeline.sh saopedrodoparana
 ./run_pipeline.sh saosebastiaodaamoreira
 ./run_pipeline.sh saotome
+
