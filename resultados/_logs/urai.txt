@@ -117897,3 +117897,160 @@ Inventário parcial carregado: 34502 arquivos já registrados.
   [19285 (+80633)/sem limite] fila=2 | depth=10 | https://urai.pr.gov.br/legislacoes/?pag=T0RNPU9UZz1PVFk9T0RnPU9EWT1ObVE9T1RBPU9U
   [19286 (+80633)/sem limite] fila=1 | depth=10 | https://urai.pr.gov.br/legislacoes/?pag=T0RNPU9UZz1PVFk9T0RnPU9EWT1ObVE9T1RBPU9U
   [19287 (+80633)/sem limite] fila=0 | depth=10 | https://urai.pr.gov.br/legislacoes/?pag=T0RNPU9UZz1PVFk9T0RnPU9EWT1ObVE9T1RBPU9U
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/inventario_links.xlsx
+  48864 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/erros_varredura.xlsx
+  767 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/inventario_externos.xlsx
+  5872 links externos registrados.
+
+  Varredura encerrada: URAI
+  Páginas nesta sessão: 19287
+  Páginas totais (acumulado): 99920
+  Arquivos no inventário: 48864
+  Erros registrados: 767
+
+
+ Pipeline encerrado. Resultados em: resultados/urai/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Uraí)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Uraí (slug: urai)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://urai.pr.gov.br/
+           *  ✅ https://uraipr.equiplano.com.br:7446/transparencia/
+              ✅ https://www.transparencia.pr.gov.br/
+            + ✅ https://www.urai.pr.gov.br/?pag=T1RVPU9EZz1PV0k9T1RrPU9UUT1OMlE9T0dNPU9XST1PR1U9T0dNPU9HWT1PV009T1dZPQ==&id=254&idmenu=223/
+1 URL(s) encontrada(s) ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | URAI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 48864 arquivos já registrados.
+  Links externos parciais carregados: 5872 links já registrados.
+  Log de erros parcial carregado: 767 erros já registrados.
+  Reprocessar erros: 29 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 738 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: URAI
+  Páginas já visitadas (checkpoint): 99892
+  URLs na fila: 29
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+99892)/sem limite] fila=28 | depth=2 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos;
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos;jsessionid=C3856C011F9CAA213AA60397EC3F91E1?6578706f7274=1&d-5470-e=9
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [2 (+99892)/sem limite] fila=27 | depth=2 | https://uraipr.equiplano.com.br:7446/transparencia/menuCustomizavel/downloadDocu
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/menuCustomizavel/downloadDocumento?formulario.idAnexo=117
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/menuCustomizavel/do
+  [3 (+99892)/sem limite] fila=26 | depth=2 | https://uraipr.equiplano.com.br:7446/transparencia/menuCustomizavel/downloadDocu
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/menuCustomizavel/downloadDocumento?formulario.idAnexo=119
+  [4 (+99892)/sem limite] fila=25 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .rtf -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [5 (+99892)/sem limite] fila=24 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .xls -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [6 (+99892)/sem limite] fila=23 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .csv -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [7 (+99892)/sem limite] fila=22 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .rtf -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [8 (+99892)/sem limite] fila=21 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=37528008661605A6B890F7FFBDCBE1B2?d-5470-p=8&6578706f7274=1&formulario.exercicio=2021&d-5470-e=9&formulario.mes=JUNHO&formulario.codEntidade=446
+  [9 (+99892)/sem limite] fila=20 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=5E01D012A5937A08DE67316C899B0AF2?d-5470-p=7&6578706f7274=1&formulario.exercicio=2020&d-5470-e=9&formulario.mes=NOVEMBRO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [10 (+99892)/sem limite] fila=19 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=63687EF061A9B26EA17196A7BBA62CB9?d-5470-p=8&6578706f7274=1&formulario.exercicio=2020&d-5470-e=9&formulario.mes=NOVEMBRO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [11 (+99892)/sem limite] fila=18 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=EDAED7803B3C3C5EB2815E70F28DF3FE?d-5470-p=5&6578706f7274=1&formulario.exercicio=2020&d-5470-e=9&formulario.mes=DEZEMBRO&formulario.codEntidade=446
+  [12 (+99892)/sem limite] fila=17 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .rtf -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [13 (+99892)/sem limite] fila=16 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  📄 [200] .csv -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [14 (+99892)/sem limite] fila=15 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=6FA27A18A11FFA49885A2672C270D91F?d-5470-p=1&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=ABRIL&formulario.codEntidade=446
+  [15 (+99892)/sem limite] fila=14 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=EF37DC8C4EEC2CAC2EB1D3111305CA52?d-5470-p=2&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=ABRIL&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [16 (+99892)/sem limite] fila=13 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=F9C18FD53ABC1575B5EBC1EB7D9B8D96?d-5470-p=1&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=MAIO&formulario.codEntidade=446
+  [17 (+99892)/sem limite] fila=12 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=F2A9BAB0A44666C169D5E792CCF436A1?d-5470-p=3&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=MAIO&formulario.codEntidade=446
+  [18 (+99892)/sem limite] fila=11 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=D3F3E72399EFCB5A4F170F7950DC9045?d-5470-p=5&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=MAIO&formulario.codEntidade=446
+  [19 (+99892)/sem limite] fila=10 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=9E1A83C4A9D4A6856C6701FAA8AC8EC9?d-5470-p=4&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=JUNHO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [20 (+99892)/sem limite] fila=9 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=CF5BB62CBB0FD2F47A4B5E9B864A47D5?d-5470-p=3&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [21 (+99892)/sem limite] fila=8 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=565086279675C8E043406EC56A904D06?d-5470-p=2&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=446
+  [22 (+99892)/sem limite] fila=7 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=CBD05DF5E2ACD659B88C33786758D859?d-5470-p=1&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=AGOSTO&formulario.codEntidade=446
+  [23 (+99892)/sem limite] fila=6 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=968C83CA6310EA95D7ED3E406036DF68?d-5470-p=4&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=AGOSTO&formulario.codEntidade=446
+  [24 (+99892)/sem limite] fila=5 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=4740F50B4D99D24EEB0855D92611CECD?d-5470-p=3&6578706f7274=1&formulario.exercicio=2019&d-5470-e=9&formulario.mes=SETEMBRO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [25 (+99892)/sem limite] fila=4 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=EC5575C4D89E1DE0F6CB170A72DB263A?d-5470-p=2&6578706f7274=1&formulario.exercicio=2017&d-5470-e=9&formulario.mes=SETEMBRO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [26 (+99892)/sem limite] fila=3 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=D01CDFEE13CE2B473098F08B2B1B68FF?d-5470-p=6&6578706f7274=1&formulario.exercicio=2016&d-5470-e=9&formulario.mes=SETEMBRO&formulario.codEntidade=446
+  [27 (+99892)/sem limite] fila=2 | depth=6 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=99A3B033EC8D7CB0A3A68BA47E51AEEE?d-5470-p=3&6578706f7274=1&formulario.exercicio=2013&d-5470-e=9&formulario.mes=JULHO&formulario.codEntidade=446
+  [28 (+99892)/sem limite] fila=1 | depth=7 | https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/
+  🤖 Usando Selenium para: https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServidoresAtivos/listData;jsessionid=D78270496672EA6908651A2B975AD2BE?d-5470-p=3&6578706f7274=1&formulario.exercicio=2024&d-5470-e=9&formulario.mes=FEVEREIRO&formulario.codEntidade=446
+  📄 [200] .txt -> https://uraipr.equiplano.com.br:7446/transparencia/srhRelacaoDeServido
+  [29 (+99892)/sem limite] fila=0 | depth=8 | https://urai.pr.gov.br/indexAjax.php?pag=T0RnPU9EZz1PVFU9T0RZPU56Yz1PR009T1RNPU9
+  🤖 Usando Selenium para: https://urai.pr.gov.br/indexAjax.php?pag=T0RnPU9EZz1PVFU9T0RZPU56Yz1PR009T1RNPU9HRT1PV1E9T1dFPU9XUT1PVFk9T1dNPU56RT1ZVFE9WVRRPU9UUT1PVFE9TnpZPVlUUT1ZVE09WVdJPVlUaz1PV0U9WVdRPVlXRT1ZV1U9&tipoRel=csv&ano=2024&ementa=&numero=&data=&empresa=&origem=&situacao=&designacao=
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/inventario_links.xlsx
+  48880 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/erros_varredura.xlsx
+  738 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/urai/inventario_externos.xlsx
+  5872 links externos registrados.
+
+  Varredura encerrada: URAI
+  Páginas nesta sessão: 29
+  Páginas totais (acumulado): 99921
+  Arquivos no inventário: 48880
+  Erros registrados: 738
+
+
+ Pipeline encerrado. Resultados em: resultados/urai/
+============================================================
+

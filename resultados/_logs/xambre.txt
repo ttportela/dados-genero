@@ -159551,3 +159551,664 @@ Inventário parcial carregado: 31011 arquivos já registrados.
   🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24785
   [2835 (+36981)/sem limite] fila=4090 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24785
   🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24785
+  [2836 (+36981)/sem limite] fila=4089 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24839
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24839
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24839
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24839
+  [2837 (+36981)/sem limite] fila=4088 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24839
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24839
+  [2838 (+36981)/sem limite] fila=4087 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24839
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24839
+  [2839 (+36981)/sem limite] fila=4086 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24784
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24784
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24784
+  [2840 (+36981)/sem limite] fila=4085 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24784
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24784
+  [2841 (+36981)/sem limite] fila=4084 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24784
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24784
+  [2842 (+36981)/sem limite] fila=4083 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24838
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24838
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24838
+  [2843 (+36981)/sem limite] fila=4082 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24838
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24838
+  [2844 (+36981)/sem limite] fila=4081 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24838
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24838
+  [2845 (+36981)/sem limite] fila=4080 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24836
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24836
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24836
+  [2846 (+36981)/sem limite] fila=4079 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24836
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24836
+  [2847 (+36981)/sem limite] fila=4078 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24836
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24836
+  [2848 (+36981)/sem limite] fila=4077 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24652
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24652
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24652
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24652
+  [2849 (+36981)/sem limite] fila=4076 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24652
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24652
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24652
+  [2850 (+36981)/sem limite] fila=4075 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24652
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24652
+  [2851 (+36981)/sem limite] fila=4074 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24615
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24615
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24615
+  [2852 (+36981)/sem limite] fila=4073 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24615
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24615
+  [2853 (+36981)/sem limite] fila=4072 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24615
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24615
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24615
+  [2854 (+36981)/sem limite] fila=4071 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24614
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24614
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24614
+  [2855 (+36981)/sem limite] fila=4070 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24614
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24614
+  [2856 (+36981)/sem limite] fila=4069 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24614
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24614
+  [2857 (+36981)/sem limite] fila=4068 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24613
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24613
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24613
+  [2858 (+36981)/sem limite] fila=4067 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24613
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24613
+  [2859 (+36981)/sem limite] fila=4066 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24613
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24613
+  [2860 (+36981)/sem limite] fila=4065 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24612
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24612
+  [2861 (+36981)/sem limite] fila=4064 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24612
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24612
+  [2862 (+36981)/sem limite] fila=4063 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24612
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24612
+  [2863 (+36981)/sem limite] fila=4062 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24749
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24749
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24749
+  [2864 (+36981)/sem limite] fila=4061 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24749
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24749
+  [2865 (+36981)/sem limite] fila=4060 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24749
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24749
+  [2866 (+36981)/sem limite] fila=4059 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24548
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24548
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24548
+  [2867 (+36981)/sem limite] fila=4058 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24548
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24548
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24548
+  [2868 (+36981)/sem limite] fila=4057 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24548
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24548
+  [2869 (+36981)/sem limite] fila=4056 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24547
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24547
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24547
+  [2870 (+36981)/sem limite] fila=4055 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24547
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24547
+  [2871 (+36981)/sem limite] fila=4054 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24547
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24547
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24547
+  [2872 (+36981)/sem limite] fila=4053 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24473
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24473
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24473
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24473
+  [2873 (+36981)/sem limite] fila=4052 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24473
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24473
+  [2874 (+36981)/sem limite] fila=4051 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24473
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24473
+  [2875 (+36981)/sem limite] fila=4050 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=27920
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=27920
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=27920
+  [2876 (+36981)/sem limite] fila=4049 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=27920
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=27920
+  [2877 (+36981)/sem limite] fila=4048 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=27920
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=27920
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=27920
+  [2878 (+36981)/sem limite] fila=4047 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24474
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24474
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24474
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24474
+  [2879 (+36981)/sem limite] fila=4046 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24474
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24474
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24474
+  [2880 (+36981)/sem limite] fila=4045 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24474
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24474
+  [2881 (+36981)/sem limite] fila=4044 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24418
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24418
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24418
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.xambre.pr.gov.br/contrato/impressao?id=24418
+  [2882 (+36981)/sem limite] fila=4043 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24418
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24418
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24418
+  [2883 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24418
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24418
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24418
+  [2884 (+36981)/sem limite] fila=4041 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24447
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24447
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24447
+  [2885 (+36981)/sem limite] fila=4040 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24447
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24447
+  [2886 (+36981)/sem limite] fila=4039 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24447
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24447
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24447
+  [2887 (+36981)/sem limite] fila=4038 | depth=8 | https://www.xambre.pr.gov.br/contrato/impressao?id=24509
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/contrato/impressao?id=24509
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/impressao?id=24509
+  [2888 (+36981)/sem limite] fila=4037 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24509
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-txt?id=24509
+  [2889 (+36981)/sem limite] fila=4036 | depth=8 | https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24509
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/contrato/exportar-csv?id=24509
+  [2890 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AB&page=14
+  [2891 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AB&page=15
+  [2892 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AB&page=29
+  [2893 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AB&page=28
+  [2894 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FI&page=14
+  [2895 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FI&page=15
+  [2896 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FI&page=29
+  [2897 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FI&page=28
+  [2898 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FR&page=14
+  [2899 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FR&page=15
+  [2900 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FR&page=29
+  [2901 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=FR&page=28
+  [2902 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=DE&page=14
+  [2903 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=DE&page=15
+  [2904 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=DE&page=29
+  [2905 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=DE&page=28
+  [2906 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RI&page=14
+  [2907 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RI&page=15
+  [2908 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RI&page=29
+  [2909 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RI&page=28
+  [2910 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RE&page=14
+  [2911 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RE&page=15
+  [2912 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RE&page=29
+  [2913 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=RE&page=28
+  [2914 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=SS&page=14
+  [2915 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=SS&page=15
+  [2916 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=SS&page=29
+  [2917 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=SS&page=28
+  [2918 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=EA&page=14
+  [2919 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=EA&page=15
+  [2920 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=EA&page=29
+  [2921 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=EA&page=28
+  [2922 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AN&page=14
+  [2923 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AN&page=15
+  [2924 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AN&page=29
+  [2925 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?status=AN&page=28
+  [2926 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=AB
+  [2927 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=FI
+  [2928 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=FR
+  [2929 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=DE
+  [2930 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=RI
+  [2931 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=RE
+  [2932 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=SS
+  [2933 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=EA
+  [2934 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=14&status=AN
+  [2935 (+36981)/sem limite] fila=4035 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=612
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=612
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=612
+  [2936 (+36981)/sem limite] fila=4034 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=612
+  [2937 (+36981)/sem limite] fila=4033 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=612
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=612
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=612
+  [2938 (+36981)/sem limite] fila=4032 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=611
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=611
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=611
+  [2939 (+36981)/sem limite] fila=4031 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=611
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=611
+  [2940 (+36981)/sem limite] fila=4030 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=611
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=611
+  [2941 (+36981)/sem limite] fila=4029 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=610
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=610
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=610
+  [2942 (+36981)/sem limite] fila=4028 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=610
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=610
+  [2943 (+36981)/sem limite] fila=4027 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=610
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=610
+  [2944 (+36981)/sem limite] fila=4026 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=609
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=609
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=609
+  [2945 (+36981)/sem limite] fila=4025 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=609
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=609
+  [2946 (+36981)/sem limite] fila=4024 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=609
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=609
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=609
+  [2947 (+36981)/sem limite] fila=4023 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=608
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=608
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=608
+  [2948 (+36981)/sem limite] fila=4022 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=608
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=608
+  [2949 (+36981)/sem limite] fila=4021 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=608
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=608
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=608
+  [2950 (+36981)/sem limite] fila=4020 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=607
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=607
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=607
+  [2951 (+36981)/sem limite] fila=4019 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=607
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=607
+  [2952 (+36981)/sem limite] fila=4018 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=607
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=607
+  [2953 (+36981)/sem limite] fila=4017 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=604
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=604
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=604
+  [2954 (+36981)/sem limite] fila=4016 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=604
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=604
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=604
+  [2955 (+36981)/sem limite] fila=4015 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=604
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=604
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=604
+  [2956 (+36981)/sem limite] fila=4014 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=603
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=603
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=603
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=603
+  [2957 (+36981)/sem limite] fila=4013 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=603
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=603
+  [2958 (+36981)/sem limite] fila=4012 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=603
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=603
+  [2959 (+36981)/sem limite] fila=4011 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=602
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=602
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=602
+  [2960 (+36981)/sem limite] fila=4010 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=602
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=602
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=602
+  [2961 (+36981)/sem limite] fila=4009 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=602
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=602
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=602
+  [2962 (+36981)/sem limite] fila=4008 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=601
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=601
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=601
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=601
+  [2963 (+36981)/sem limite] fila=4007 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=601
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=601
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=601
+  [2964 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=601
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=601
+  [2965 (+36981)/sem limite] fila=4005 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=600
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=600
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=600
+  [2966 (+36981)/sem limite] fila=4004 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=600
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=600
+  [2967 (+36981)/sem limite] fila=4003 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=600
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=600
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=600
+  [2968 (+36981)/sem limite] fila=4002 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=605
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=605
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=605
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=605
+  [2969 (+36981)/sem limite] fila=4001 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=605
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=605
+  [2970 (+36981)/sem limite] fila=4000 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=605
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=605
+  [2971 (+36981)/sem limite] fila=3999 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=599
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=599
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=599
+  [2972 (+36981)/sem limite] fila=3998 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=599
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=599
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=599
+  [2973 (+36981)/sem limite] fila=3997 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=599
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=599
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=599
+  [2974 (+36981)/sem limite] fila=3996 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=598
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=598
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=598
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=598
+  [2975 (+36981)/sem limite] fila=3995 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=598
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=598
+  [2976 (+36981)/sem limite] fila=3994 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=598
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=598
+  [2977 (+36981)/sem limite] fila=3993 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=596
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=596
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=596
+  [2978 (+36981)/sem limite] fila=3992 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=596
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=596
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=596
+  [2979 (+36981)/sem limite] fila=3991 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=596
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=596
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=596
+  [2980 (+36981)/sem limite] fila=3990 | depth=8 | https://www.xambre.pr.gov.br/model/view/585/ata-de-registro-de-precos-n-0322023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/585/ata-de-registro-de-precos-n-0322023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/585/ata-de-registro-de-precos-n-0322023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/585/ata-de-registro-de-precos-n-0322023
+  [2981 (+36981)/sem limite] fila=3989 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/585/ata-de-registro-de-precos-n-0322
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8065/-vhljptu9n_RGyRhSf
+  [2982 (+36981)/sem limite] fila=3991 | depth=8 | https://www.xambre.pr.gov.br/model/view/584/ata-de-registro-de-precos-n-0312023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/584/ata-de-registro-de-precos-n-0312023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/584/ata-de-registro-de-precos-n-0312023
+  [2983 (+36981)/sem limite] fila=3990 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/584/ata-de-registro-de-precos-n-0312
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8064/OMvF6fZLVvlOyng5bv
+  [2984 (+36981)/sem limite] fila=3992 | depth=8 | https://www.xambre.pr.gov.br/model/view/582/ata-de-registro-de-precos-n-0292023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/582/ata-de-registro-de-precos-n-0292023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/582/ata-de-registro-de-precos-n-0292023
+  [2985 (+36981)/sem limite] fila=3991 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/582/ata-de-registro-de-precos-n-0292
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8062/iJkI-5MbfPl1K8tDhF
+  [2986 (+36981)/sem limite] fila=3993 | depth=8 | https://www.xambre.pr.gov.br/model/view/581/ata-de-registro-de-precos-n-0282023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/581/ata-de-registro-de-precos-n-0282023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/581/ata-de-registro-de-precos-n-0282023
+  [2987 (+36981)/sem limite] fila=3992 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/581/ata-de-registro-de-precos-n-0282
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8061/SXtU-YiG94wCEIf-82
+  [2988 (+36981)/sem limite] fila=3994 | depth=8 | https://www.xambre.pr.gov.br/model/view/583/ata-de-registro-de-precos-n-0302023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/583/ata-de-registro-de-precos-n-0302023
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/583/ata-de-registro-de-precos-n-0302023
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/583/ata-de-registro-de-precos-n-0302023
+  [2989 (+36981)/sem limite] fila=3993 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/583/ata-de-registro-de-precos-n-0302
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8063/0T4Vf67TipcDnX-ZSu
+  [2990 (+36981)/sem limite] fila=3995 | depth=8 | https://www.xambre.pr.gov.br/model/view/626/ata-de-registro-de-precos-n-0172022
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/626/ata-de-registro-de-precos-n-0172022
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/626/ata-de-registro-de-precos-n-0172022
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/626/ata-de-registro-de-precos-n-0172022
+  [2991 (+36981)/sem limite] fila=3994 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/626/ata-de-registro-de-precos-n-0172
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8127/9k42IE51m213gUrYOi
+  [2992 (+36981)/sem limite] fila=3996 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=16
+  [2993 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=AB
+  [2994 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=FI
+  [2995 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=FR
+  [2996 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=DE
+  [2997 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=RI
+  [2998 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=RE
+  [2999 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=SS
+  [3000 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=EA
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_links.xlsx
+  32012 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/erros_varredura.xlsx
+  28432 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/xambre/inventario_externos.xlsx
+  26521 links externos registrados.
+  Checkpoint salvo (39981 páginas totais | 3000 nesta sessão).
+  [3001 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=15&status=AN
+  [3002 (+36981)/sem limite] fila=4006 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=595
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=595
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=595
+  [3003 (+36981)/sem limite] fila=4005 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=595
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=595
+  [3004 (+36981)/sem limite] fila=4004 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=595
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=595
+  [3005 (+36981)/sem limite] fila=4003 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=597
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=597
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=597
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=597
+  [3006 (+36981)/sem limite] fila=4002 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=597
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=597
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=597
+  [3007 (+36981)/sem limite] fila=4001 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=597
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=597
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=597
+  [3008 (+36981)/sem limite] fila=4000 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=594
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=594
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=594
+  [3009 (+36981)/sem limite] fila=3999 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=594
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=594
+  [3010 (+36981)/sem limite] fila=3998 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=594
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=594
+  [3011 (+36981)/sem limite] fila=3997 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=593
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=593
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=593
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=593
+  [3012 (+36981)/sem limite] fila=3996 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=593
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=593
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=593
+  [3013 (+36981)/sem limite] fila=3995 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=593
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=593
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=593
+  [3014 (+36981)/sem limite] fila=3994 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=592
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=592
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=592
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=592
+  [3015 (+36981)/sem limite] fila=3993 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=592
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=592
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=592
+  [3016 (+36981)/sem limite] fila=3992 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=592
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=592
+  [3017 (+36981)/sem limite] fila=3991 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=606
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=606
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=606
+  [3018 (+36981)/sem limite] fila=3990 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=606
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=606
+  [3019 (+36981)/sem limite] fila=3989 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=606
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=606
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=606
+  [3020 (+36981)/sem limite] fila=3988 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=591
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=591
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=591
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=591
+  [3021 (+36981)/sem limite] fila=3987 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=591
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=591
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=591
+  [3022 (+36981)/sem limite] fila=3986 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=591
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=591
+  [3023 (+36981)/sem limite] fila=3985 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=590
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=590
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=590
+  [3024 (+36981)/sem limite] fila=3984 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=590
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=590
+  [3025 (+36981)/sem limite] fila=3983 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=590
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=590
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=590
+  [3026 (+36981)/sem limite] fila=3982 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=589
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=589
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=589
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=589
+  [3027 (+36981)/sem limite] fila=3981 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=589
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=589
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=589
+  [3028 (+36981)/sem limite] fila=3980 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=589
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=589
+  [3029 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=588
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=588
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=588
+  [3030 (+36981)/sem limite] fila=3978 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=588
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=588
+  [3031 (+36981)/sem limite] fila=3977 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=588
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=588
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=588
+  [3032 (+36981)/sem limite] fila=3976 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=632
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=632
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=632
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=632
+  [3033 (+36981)/sem limite] fila=3975 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=632
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=632
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=632
+  [3034 (+36981)/sem limite] fila=3974 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=632
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=632
+  [3035 (+36981)/sem limite] fila=3973 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=587
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=587
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=587
+  [3036 (+36981)/sem limite] fila=3972 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=587
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=587
+  [3037 (+36981)/sem limite] fila=3971 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=587
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=587
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=587
+  [3038 (+36981)/sem limite] fila=3970 | depth=8 | https://www.xambre.pr.gov.br/licitacao/impressao?id=586
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=586
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/impressao?id=586
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/licitacao/impressao?id=586
+  [3039 (+36981)/sem limite] fila=3969 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=586
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=586
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/licitacao/exportar-txt?id=586
+  [3040 (+36981)/sem limite] fila=3968 | depth=8 | https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=586
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/licitacao/exportar-csv?id=586
+  [3041 (+36981)/sem limite] fila=3967 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=17
+  [3042 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=AB
+  [3043 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=AB
+  [3044 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=FI
+  [3045 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=FI
+  [3046 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=FR
+  [3047 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=FR
+  [3048 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=DE
+  [3049 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=DE
+  [3050 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=RI
+  [3051 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=RI
+  [3052 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=RE
+  [3053 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=RE
+  [3054 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=SS
+  [3055 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=SS
+  [3056 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=EA
+  [3057 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=EA
+  [3058 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=29&status=AN
+  [3059 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=28&status=AN
+  [3060 (+36981)/sem limite] fila=3979 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=27
+  [3061 (+36981)/sem limite] fila=4011 | depth=8 | https://www.xambre.pr.gov.br/model/view/675/ata-de-registro-de-precos-n-0082021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/675/ata-de-registro-de-precos-n-0082021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/675/ata-de-registro-de-precos-n-0082021
+  [3062 (+36981)/sem limite] fila=4010 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/675/ata-de-registro-de-precos-n-0082
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8177/RJ0_1jWYNVBycPIXaw
+  [3063 (+36981)/sem limite] fila=4012 | depth=8 | https://www.xambre.pr.gov.br/model/view/682/ata-de-registro-de-precos-n-0162021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/682/ata-de-registro-de-precos-n-0162021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/682/ata-de-registro-de-precos-n-0162021
+  [3064 (+36981)/sem limite] fila=4011 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/682/ata-de-registro-de-precos-n-0162
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8184/0bhOi1INwFWLusiDkY
+  [3065 (+36981)/sem limite] fila=4013 | depth=8 | https://www.xambre.pr.gov.br/model/view/674/ata-de-registro-de-precos-n-0072021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/674/ata-de-registro-de-precos-n-0072021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/674/ata-de-registro-de-precos-n-0072021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/674/ata-de-registro-de-precos-n-0072021
+  [3066 (+36981)/sem limite] fila=4012 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/674/ata-de-registro-de-precos-n-0072
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8176/Kf7EHjV-9r6VMO5ZiP
+  [3067 (+36981)/sem limite] fila=4014 | depth=8 | https://www.xambre.pr.gov.br/model/view/673/ata-de-registro-de-precos-n-0062021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/673/ata-de-registro-de-precos-n-0062021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/673/ata-de-registro-de-precos-n-0062021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/673/ata-de-registro-de-precos-n-0062021
+  [3068 (+36981)/sem limite] fila=4013 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/673/ata-de-registro-de-precos-n-0062
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8175/YITBHSEZK7MThSMCkJ
+  [3069 (+36981)/sem limite] fila=4015 | depth=8 | https://www.xambre.pr.gov.br/model/view/672/ata-de-registro-de-precos-n-0052021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/672/ata-de-registro-de-precos-n-0052021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/672/ata-de-registro-de-precos-n-0052021
+  [3070 (+36981)/sem limite] fila=4014 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/672/ata-de-registro-de-precos-n-0052
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8174/4HAY_rj9S-t1q37b3Z
+  [3071 (+36981)/sem limite] fila=4016 | depth=8 | https://www.xambre.pr.gov.br/model/view/676/ata-de-registro-de-precos-n-0042021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/676/ata-de-registro-de-precos-n-0042021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/676/ata-de-registro-de-precos-n-0042021
+  [3072 (+36981)/sem limite] fila=4015 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/676/ata-de-registro-de-precos-n-0042
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8178/lV-dsEArzv169tucvD
+  [3073 (+36981)/sem limite] fila=4017 | depth=8 | https://www.xambre.pr.gov.br/model/view/670/ata-de-registro-de-precos-n-0022021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/670/ata-de-registro-de-precos-n-0022021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/670/ata-de-registro-de-precos-n-0022021
+  [3074 (+36981)/sem limite] fila=4016 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/670/ata-de-registro-de-precos-n-0022
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8172/WeNLLnvUHqUq9GsmpM
+  [3075 (+36981)/sem limite] fila=4018 | depth=8 | https://www.xambre.pr.gov.br/model/view/669/ata-de-registro-de-precos-n-0012021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/669/ata-de-registro-de-precos-n-0012021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/model/view/669/ata-de-registro-de-precos-n-0012021
+ ❌ HTTP_404: https://www.xambre.pr.gov.br/model/view/669/ata-de-registro-de-precos-n-0012021
+  [3076 (+36981)/sem limite] fila=4017 | depth=8 | https://www.xambre.pr.gov.br/licitacao/view/669/ata-de-registro-de-precos-n-0012
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/licitacao/8171/LupdfMCroS_FkTHz8R
+  [3077 (+36981)/sem limite] fila=4019 | depth=8 | https://www.xambre.pr.gov.br/licitacao/index?page=26
+  [3078 (+36981)/sem limite] fila=4043 | depth=8 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626063
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626063
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626063
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626063
+  [3079 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626063
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626063
+  [3080 (+36981)/sem limite] fila=4041 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626063
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626063
+  [3081 (+36981)/sem limite] fila=4040 | depth=8 | https://www.xambre.pr.gov.br/legislacao/view/2626004/decreto-n-672025
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/legislacao/8294/8pxV7jZH3tGrCwx4t
+  [3082 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/legislacao/index?page=31
+  [3083 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/legislacao/index?page=32
+  [3084 (+36981)/sem limite] fila=4044 | depth=8 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626028
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626028
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626028
+  [3085 (+36981)/sem limite] fila=4043 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626028
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626028
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626028
+  [3086 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626028
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626028
+  📄 [200] .txt -> https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626028
+  [3087 (+36981)/sem limite] fila=4041 | depth=8 | https://www.xambre.pr.gov.br/legislacao/index?page=33
+  [3088 (+36981)/sem limite] fila=4042 | depth=8 | https://www.xambre.pr.gov.br/legislacao/impressao?id=2626021
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626021
+ ❌ HTTP_500: https://www.xambre.pr.gov.br/legislacao/impressao?id=2626021
+  [3089 (+36981)/sem limite] fila=4041 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-txt?id=2626021
+  [3090 (+36981)/sem limite] fila=4040 | depth=8 | https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626021
+  🤖 Usando Selenium para: https://www.xambre.pr.gov.br/legislacao/exportar-csv?id=2626021
+  [3091 (+36981)/sem limite] fila=4039 | depth=8 | https://www.xambre.pr.gov.br/legislacao/view/2625924/resolucao-n-0032025
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/legislacao/7509/KIeF6pt1aTn83TcY5
+  [3092 (+36981)/sem limite] fila=4041 | depth=8 | https://www.xambre.pr.gov.br/legislacao/view/2625923/resolucao-n-0022025
+  📄 [200] .pdf -> https://www.xambre.pr.gov.br/uploads/legislacao/7508/nRXZd5UwyonYttQv1
+  [3093 (+36981)/sem limite] fila=4043 | depth=8 | https://www.xambre.pr.gov.br/legislacao/index?page=34
+  [3094 (+36981)/sem limite] fila=4046 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492051
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492051
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492051
+  [3095 (+36981)/sem limite] fila=4045 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492051
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492051
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492051
+  [3096 (+36981)/sem limite] fila=4044 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492051
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492051
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492051
+  [3097 (+36981)/sem limite] fila=4043 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492052
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492052
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492052
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492052
+  [3098 (+36981)/sem limite] fila=4042 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492052
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492052
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492052
+  [3099 (+36981)/sem limite] fila=4041 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492052
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492052
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492052
+  [3100 (+36981)/sem limite] fila=4040 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492053
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492053
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492053
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492053
+  [3101 (+36981)/sem limite] fila=4039 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492053
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492053
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492053
+  [3102 (+36981)/sem limite] fila=4038 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492053
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492053
+  [3103 (+36981)/sem limite] fila=4037 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492054
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492054
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492054
+  [3104 (+36981)/sem limite] fila=4036 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492054
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492054
+  [3105 (+36981)/sem limite] fila=4035 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492054
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492054
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492054
+  [3106 (+36981)/sem limite] fila=4034 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492055
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492055
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492055
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492055
+  [3107 (+36981)/sem limite] fila=4033 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492055
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492055
+  [3108 (+36981)/sem limite] fila=4032 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492055
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492055
+  [3109 (+36981)/sem limite] fila=4031 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492056
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492056
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492056
+  [3110 (+36981)/sem limite] fila=4030 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492056
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492056
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492056
+  [3111 (+36981)/sem limite] fila=4029 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492056
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492056
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492056
+  [3112 (+36981)/sem limite] fila=4028 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492057
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492057
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492057
+  [3113 (+36981)/sem limite] fila=4027 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492057
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492057
+  [3114 (+36981)/sem limite] fila=4026 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492057
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492057
+  [3115 (+36981)/sem limite] fila=4025 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492113
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492113
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492113
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492113
+  [3116 (+36981)/sem limite] fila=4024 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492113
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492113
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492113
+  [3117 (+36981)/sem limite] fila=4023 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492113
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492113
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492113
+  [3118 (+36981)/sem limite] fila=4022 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492114
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492114
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492114
+  [3119 (+36981)/sem limite] fila=4021 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492114
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492114
+  [3120 (+36981)/sem limite] fila=4020 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492114
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492114
+  [3121 (+36981)/sem limite] fila=4019 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492115
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492115
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492115
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492115
+  [3122 (+36981)/sem limite] fila=4018 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492115
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492115
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-txt?id=2492115
+  [3123 (+36981)/sem limite] fila=4017 | depth=8 | http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492115
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492115
+  📄 [200] .txt -> http://www.xambre.pr.gov.br/documento/exportar-csv?id=2492115
+  [3124 (+36981)/sem limite] fila=4016 | depth=8 | http://www.xambre.pr.gov.br/documento/impressao?id=2492116
+ ❌ HTTP_500: http://www.xambre.pr.gov.br/documento/impressao?id=2492116
+  🤖 Usando Selenium para: http://www.xambre.pr.gov.br/documento/impressao?id=2492116

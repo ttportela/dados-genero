@@ -14532,3 +14532,853 @@ Inventário parcial carregado: 1272 arquivos já registrados.
   📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
   [5163 (+1227)/sem limite] fila=5350 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
   🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3984%2F&fileName=LO-NzblGEwyQBBRpLNn93UE6H--Z8TBJ.pdf
+  [5164 (+1227)/sem limite] fila=5349 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2409
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2409
+  [5165 (+1227)/sem limite] fila=5348 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2409
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2409
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=24
+  [5166 (+1227)/sem limite] fila=5347 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2409
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2409
+  [5167 (+1227)/sem limite] fila=5346 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5168 (+1227)/sem limite] fila=5345 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3983%2F&fileName=_EAW3Vwg0xFFMzhu_XDWx1AZ7FKqCnLu.pdf
+  [5169 (+1227)/sem limite] fila=5344 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2408
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2408
+  [5170 (+1227)/sem limite] fila=5343 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2408
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2408
+  [5171 (+1227)/sem limite] fila=5342 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2408
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2408
+  [5172 (+1227)/sem limite] fila=5341 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5173 (+1227)/sem limite] fila=5340 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3982%2F&fileName=HWG4XS43OQE9OD0ReUMQK5AtPUvANViN.pdf
+  [5174 (+1227)/sem limite] fila=5339 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2407
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2407
+  [5175 (+1227)/sem limite] fila=5338 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2407
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2407
+  [5176 (+1227)/sem limite] fila=5337 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2407
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2407
+  [5177 (+1227)/sem limite] fila=5336 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5178 (+1227)/sem limite] fila=5335 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3981%2F&fileName=pfUIT19BOnp0zK5U6rIZ-PqxObwsR0FU.pdf
+  [5179 (+1227)/sem limite] fila=5334 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2406
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2406
+  [5180 (+1227)/sem limite] fila=5333 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2406
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2406
+  [5181 (+1227)/sem limite] fila=5332 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2406
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2406
+  [5182 (+1227)/sem limite] fila=5331 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5183 (+1227)/sem limite] fila=5330 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3980%2F&fileName=xh1ZxafeNsPpaieVHvgxjK03kMUQwZ9X.pdf
+  [5184 (+1227)/sem limite] fila=5329 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2430
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2430
+  [5185 (+1227)/sem limite] fila=5328 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2430
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2430
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=24
+  [5186 (+1227)/sem limite] fila=5327 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2430
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2430
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=24
+  [5187 (+1227)/sem limite] fila=5326 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5188 (+1227)/sem limite] fila=5325 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4011%2F&fileName=iNwhwl7st-4lADZdppAEEIuwo1u9BN1Z.pdf
+  [5189 (+1227)/sem limite] fila=5324 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2429
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2429
+  [5190 (+1227)/sem limite] fila=5323 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2429
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2429
+  [5191 (+1227)/sem limite] fila=5322 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2429
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2429
+  [5192 (+1227)/sem limite] fila=5321 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5193 (+1227)/sem limite] fila=5320 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4010%2F&fileName=oz2KF7-8CfiLGUdr6zDQHR8Y1isSyk7c.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5194 (+1227)/sem limite] fila=5319 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2400
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2400
+  [5195 (+1227)/sem limite] fila=5318 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2400
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2400
+  [5196 (+1227)/sem limite] fila=5317 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2400
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2400
+  [5197 (+1227)/sem limite] fila=5316 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5198 (+1227)/sem limite] fila=5315 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3966%2F&fileName=C4c_nEm5L1HSS3NlcsjhpkI4bfk4q2JI.pdf
+  [5199 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2421
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2421
+  [5200 (+1227)/sem limite] fila=5313 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2421
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2421
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_links.xlsx
+  5198 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/erros_varredura.xlsx
+  112 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_externos.xlsx
+  4939 links externos registrados.
+  Checkpoint salvo (6427 páginas totais | 5200 nesta sessão).
+  [5201 (+1227)/sem limite] fila=5312 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2421
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2421
+  [5202 (+1227)/sem limite] fila=5311 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5203 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4002%2F&fileName=NLlt3i3zERBJMZFxhrj6kXf74Py1QtPk.pdf
+  [5204 (+1227)/sem limite] fila=5309 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2420
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2420
+  [5205 (+1227)/sem limite] fila=5308 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2420
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2420
+  [5206 (+1227)/sem limite] fila=5307 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2420
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2420
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=24
+  [5207 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5208 (+1227)/sem limite] fila=5305 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4001%2F&fileName=CnR5aiEHNHK6r41CEgxeQMWZTn6Ox0iK.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5209 (+1227)/sem limite] fila=5304 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2419
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2419
+  [5210 (+1227)/sem limite] fila=5303 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2419
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2419
+  [5211 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2419
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2419
+  [5212 (+1227)/sem limite] fila=5301 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5213 (+1227)/sem limite] fila=5300 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4000%2F&fileName=4nys94YnxkmeGNCPR4g7GnOUo7hQq6Sr.pdf
+  [5214 (+1227)/sem limite] fila=5299 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2418
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2418
+  [5215 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2418
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2418
+  [5216 (+1227)/sem limite] fila=5297 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2418
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2418
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=24
+  [5217 (+1227)/sem limite] fila=5296 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5218 (+1227)/sem limite] fila=5295 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3999%2F&fileName=RmiL3DuEdZs3GtyU8z4b8y9LY135sYob.pdf
+  [5219 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2417
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2417
+  [5220 (+1227)/sem limite] fila=5293 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2417
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2417
+  [5221 (+1227)/sem limite] fila=5292 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2417
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2417
+  [5222 (+1227)/sem limite] fila=5291 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5223 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3998%2F&fileName=3BHuzuPnH6ZKxLUtdOWu7Fc-vjGKN87N.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5224 (+1227)/sem limite] fila=5289 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2416
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2416
+  [5225 (+1227)/sem limite] fila=5288 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2416
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2416
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=24
+  [5226 (+1227)/sem limite] fila=5287 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2416
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2416
+  [5227 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5228 (+1227)/sem limite] fila=5285 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3997%2F&fileName=LB3UuilYSGlPhDLyAVxg1XPKzecwiIzX.pdf
+  [5229 (+1227)/sem limite] fila=5284 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2415
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2415
+  [5230 (+1227)/sem limite] fila=5283 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2415
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2415
+  [5231 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2415
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2415
+  [5232 (+1227)/sem limite] fila=5281 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5233 (+1227)/sem limite] fila=5280 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3996%2F&fileName=mR_SHDfElvlv3avRUTvNp81cP8TNlmbM.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5234 (+1227)/sem limite] fila=5279 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2414
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2414
+  [5235 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2414
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2414
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=24
+  [5236 (+1227)/sem limite] fila=5277 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2414
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2414
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=24
+  [5237 (+1227)/sem limite] fila=5276 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5238 (+1227)/sem limite] fila=5275 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3995%2F&fileName=Sd0BMzg7SU-ycmcqM_eGt-S_odgj_FW3.pdf
+  [5239 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2437
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2437
+  [5240 (+1227)/sem limite] fila=5273 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2437
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2437
+ ❌ SELENIUM_ERRO: ReadTimeoutError: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2437
+  [5241 (+1227)/sem limite] fila=5272 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2437
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2437
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=24
+  [5242 (+1227)/sem limite] fila=5271 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5243 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4018%2F&fileName=MMnQ0yRsyNaiQKRL-nt-G01e9IyZsP9e.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5244 (+1227)/sem limite] fila=5269 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2413
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2413
+  [5245 (+1227)/sem limite] fila=5268 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2413
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2413
+  [5246 (+1227)/sem limite] fila=5267 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2413
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2413
+  [5247 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5248 (+1227)/sem limite] fila=5265 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3994%2F&fileName=fBdylX6fKzlVdRxYrMDnfLrc0b0yklSa.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5249 (+1227)/sem limite] fila=5264 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2412
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2412
+  [5250 (+1227)/sem limite] fila=5263 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2412
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2412
+  [5251 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2412
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2412
+  [5252 (+1227)/sem limite] fila=5261 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5253 (+1227)/sem limite] fila=5260 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3993%2F&fileName=CShguYRgSLDTTIQ7b-2VZ8tfdw564xXz.pdf
+  [5254 (+1227)/sem limite] fila=5259 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2411
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2411
+  [5255 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2411
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2411
+  [5256 (+1227)/sem limite] fila=5257 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2411
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2411
+  [5257 (+1227)/sem limite] fila=5256 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5258 (+1227)/sem limite] fila=5255 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3992%2F&fileName=DhlEnBeILMGyLjk5AsmWSafAFpBgisOL.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5259 (+1227)/sem limite] fila=5254 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2339/decreto-n-2032025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3793/ZiVAq
+  [5260 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2331/decreto-n-2022025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3785/vf4wt
+  [5261 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2330/decreto-n-2012025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3784/ou2iP
+  [5262 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2369/decreto-n-2002025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3900/tML2a
+  [5263 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2312/decreto-n-1992025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3739/aJlRo
+  [5264 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2329/decreto-n-1982025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3783/vCfEp
+  [5265 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2328/decreto-n-1972025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3782/w1gM2
+  [5266 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2327/decreto-n-1962025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3781/GOxHi
+  [5267 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2326/decreto-n-1952025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3780/Sekt4
+  [5268 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2301/decreto-n-1942025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3568/H8c80
+  [5269 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2300/decreto-n-1932025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3567/8SxYo
+  [5270 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2299/decreto-n-1922025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3566/OSVnY
+  [5271 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2298/decreto-n-1912025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3565/tS4oJ
+  [5272 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2297/decreto-n-1902025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3564/EhRJ-
+  [5273 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2281/decreto-n-1892025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3519/3HrBJ
+  [5274 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [5275 (+1227)/sem limite] fila=5334 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2399
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2399
+  [5276 (+1227)/sem limite] fila=5333 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2399
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2399
+  [5277 (+1227)/sem limite] fila=5332 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2399
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2399
+  [5278 (+1227)/sem limite] fila=5331 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5279 (+1227)/sem limite] fila=5330 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3965%2F&fileName=f3V0wQAagLanfvmz3o6LAuda03kAzZCo.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5280 (+1227)/sem limite] fila=5329 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2398
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2398
+  [5281 (+1227)/sem limite] fila=5328 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2398
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2398
+  [5282 (+1227)/sem limite] fila=5327 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2398
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2398
+  [5283 (+1227)/sem limite] fila=5326 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5284 (+1227)/sem limite] fila=5325 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3964%2F&fileName=SZEmBriq7lAZv7HaOw9OWYLkQ3XFsQ-K.pdf
+  [5285 (+1227)/sem limite] fila=5324 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2397
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2397
+  [5286 (+1227)/sem limite] fila=5323 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2397
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2397
+  [5287 (+1227)/sem limite] fila=5322 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2397
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2397
+  [5288 (+1227)/sem limite] fila=5321 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5289 (+1227)/sem limite] fila=5320 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3963%2F&fileName=yzv_2NORwhHYLD8kEMr2up-Dz4b008x9.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5290 (+1227)/sem limite] fila=5319 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2396
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2396
+  [5291 (+1227)/sem limite] fila=5318 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2396
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2396
+  [5292 (+1227)/sem limite] fila=5317 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2396
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2396
+  [5293 (+1227)/sem limite] fila=5316 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5294 (+1227)/sem limite] fila=5315 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3962%2F&fileName=BKB6XnXF6m6tLsrWi6SNhQZSpoFaZCT7.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5295 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2375
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2375
+  [5296 (+1227)/sem limite] fila=5313 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2375
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2375
+  [5297 (+1227)/sem limite] fila=5312 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2375
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2375
+  [5298 (+1227)/sem limite] fila=5311 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5299 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3909%2F&fileName=B0MvXjlP7X43eXafwBuWFgFeiytLe1-p.pdf
+  [5300 (+1227)/sem limite] fila=5309 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2395
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2395
+  [5301 (+1227)/sem limite] fila=5308 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2395
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2395
+  [5302 (+1227)/sem limite] fila=5307 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2395
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2395
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5303 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5304 (+1227)/sem limite] fila=5305 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3961%2F&fileName=ASt_9W4mK3xQ_m0OP2T3LfLz3-Vho1kT.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5305 (+1227)/sem limite] fila=5304 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2394
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2394
+  [5306 (+1227)/sem limite] fila=5303 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2394
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2394
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5307 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2394
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2394
+  [5308 (+1227)/sem limite] fila=5301 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5309 (+1227)/sem limite] fila=5300 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3959%2F&fileName=qC8yFah1fhBpWqN-TosMa9Lssrbns0Xk.pdf
+  [5310 (+1227)/sem limite] fila=5299 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2371
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2371
+  [5311 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2371
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2371
+  [5312 (+1227)/sem limite] fila=5297 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2371
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2371
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5313 (+1227)/sem limite] fila=5296 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5314 (+1227)/sem limite] fila=5295 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3902%2F&fileName=3oLTQmWmy0wNi8OUQwRN-XigTh7YommI.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5315 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2370
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2370
+  [5316 (+1227)/sem limite] fila=5293 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2370
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2370
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5317 (+1227)/sem limite] fila=5292 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2370
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2370
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5318 (+1227)/sem limite] fila=5291 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5319 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3901%2F&fileName=4QRPZoDZGV3ANzl97WlhhRTsV5s-8j3B.pdf
+  [5320 (+1227)/sem limite] fila=5289 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2393
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2393
+  [5321 (+1227)/sem limite] fila=5288 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2393
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2393
+  [5322 (+1227)/sem limite] fila=5287 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2393
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2393
+  [5323 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5324 (+1227)/sem limite] fila=5285 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3958%2F&fileName=8MF3EK2IFwCABRpVVdOvXUUz-4Dn9_Gs.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5325 (+1227)/sem limite] fila=5284 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2368
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2368
+  [5326 (+1227)/sem limite] fila=5283 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2368
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2368
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5327 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2368
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2368
+  [5328 (+1227)/sem limite] fila=5281 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5329 (+1227)/sem limite] fila=5280 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3899%2F&fileName=uC_V_h8q84K_WSlsSJfpq3pS5HQg1TWs.pdf
+  [5330 (+1227)/sem limite] fila=5279 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2366
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2366
+  [5331 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2366
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2366
+  [5332 (+1227)/sem limite] fila=5277 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2366
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2366
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5333 (+1227)/sem limite] fila=5276 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5334 (+1227)/sem limite] fila=5275 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3884%2F&fileName=gUb8XakEJwIX1VBM1oJ6cLGMKA_cE6KK.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5335 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2367
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2367
+  [5336 (+1227)/sem limite] fila=5273 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2367
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2367
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5337 (+1227)/sem limite] fila=5272 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2367
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2367
+  [5338 (+1227)/sem limite] fila=5271 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5339 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3885%2F&fileName=6h4sIJRKhhczqviBT8tq9OE1QCCLq00H.pdf
+  [5340 (+1227)/sem limite] fila=5269 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2392
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2392
+  [5341 (+1227)/sem limite] fila=5268 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2392
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2392
+  [5342 (+1227)/sem limite] fila=5267 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2392
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2392
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5343 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5344 (+1227)/sem limite] fila=5265 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3957%2F&fileName=E_FQpvvuoVCNrCp92sLdYctL-TTxKSZL.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5345 (+1227)/sem limite] fila=5264 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2391
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2391
+  [5346 (+1227)/sem limite] fila=5263 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2391
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2391
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5347 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2391
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2391
+  [5348 (+1227)/sem limite] fila=5261 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5349 (+1227)/sem limite] fila=5260 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3956%2F&fileName=BpZ4J_nCS8rqSkKliMSl2SFk6oqJeiSr.pdf
+  [5350 (+1227)/sem limite] fila=5259 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2390
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2390
+  [5351 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2390
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2390
+  [5352 (+1227)/sem limite] fila=5257 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2390
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2390
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5353 (+1227)/sem limite] fila=5256 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5354 (+1227)/sem limite] fila=5255 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3955%2F&fileName=9S_o54ewekkYhQRfdwgUYyiHgM2jZ6ze.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5355 (+1227)/sem limite] fila=5254 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2389
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2389
+  [5356 (+1227)/sem limite] fila=5253 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2389
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2389
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5357 (+1227)/sem limite] fila=5252 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2389
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2389
+  [5358 (+1227)/sem limite] fila=5251 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5359 (+1227)/sem limite] fila=5250 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3954%2F&fileName=ZKPgLFA84WaVIb9Jpbdd7lPLLVaW6lgG.pdf
+  [5360 (+1227)/sem limite] fila=5249 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2388
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2388
+  [5361 (+1227)/sem limite] fila=5248 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2388
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2388
+  [5362 (+1227)/sem limite] fila=5247 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2388
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2388
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5363 (+1227)/sem limite] fila=5246 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5364 (+1227)/sem limite] fila=5245 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3953%2F&fileName=QrW4wJLExAzMOWlE8Rj-duWQKIdYkQWK.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5365 (+1227)/sem limite] fila=5244 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2387
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2387
+  [5366 (+1227)/sem limite] fila=5243 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2387
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2387
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5367 (+1227)/sem limite] fila=5242 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2387
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2387
+  [5368 (+1227)/sem limite] fila=5241 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5369 (+1227)/sem limite] fila=5240 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3952%2F&fileName=9rLYoQdh4YtBu97Jwfvk4nhZtF06_VAj.pdf
+  [5370 (+1227)/sem limite] fila=5239 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2386
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2386
+  [5371 (+1227)/sem limite] fila=5238 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2386
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2386
+  [5372 (+1227)/sem limite] fila=5237 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2386
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2386
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5373 (+1227)/sem limite] fila=5236 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5374 (+1227)/sem limite] fila=5235 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3951%2F&fileName=-KSb0EthR6OOA59m--Hc44t5r5x5qijD.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5375 (+1227)/sem limite] fila=5234 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2296/decreto-n-1882025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3563/Modc1
+  [5376 (+1227)/sem limite] fila=5238 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2280/decreto-n-1872025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3518/QL7lL
+  [5377 (+1227)/sem limite] fila=5242 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2295/decreto-n-1862025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3562/JxGL6
+  [5378 (+1227)/sem limite] fila=5246 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2294/decreto-n-1852025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3561/BWzkj
+  [5379 (+1227)/sem limite] fila=5250 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2293/decreto-n-1842025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3560/rz52B
+  [5380 (+1227)/sem limite] fila=5254 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2292/decreto-n-1832025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3559/IaNFf
+  [5381 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2291/decreto-n-1822025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3558/i3urt
+  [5382 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2263/decreto-n-1812025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3464/7xnyC
+  [5383 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2278/decreto-n-1802025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3514/gHBZX
+  [5384 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2277/decreto-n-1792025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3513/C5tv3
+  [5385 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2276/decreto-n-1782025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3512/Z3n70
+  [5386 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2275/decreto-n-1772025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3511/q2mI-
+  [5387 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2274/decreto-n-1762025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3510/Spc6W
+  [5388 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2253/decreto-n-1752025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3449/kZcSC
+  [5389 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2249/decreto-n-1742025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3441/ok41Y
+  [5390 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2273/decreto-n-1732025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3509/OWzGo
+  [5391 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2272/decreto-n-1722025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3508/QxBRE
+  [5392 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2248/decreto-n-1712025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3440/P4Lix
+  [5393 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2247/decreto-n-1702025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3439/XCIMa
+  [5394 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2246/decreto-n-1692025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3438/Rh4KK
+  [5395 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [5396 (+1227)/sem limite] fila=5334 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2385
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2385
+  [5397 (+1227)/sem limite] fila=5333 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2385
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2385
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5398 (+1227)/sem limite] fila=5332 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2385
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2385
+  [5399 (+1227)/sem limite] fila=5331 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5400 (+1227)/sem limite] fila=5330 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3950%2F&fileName=S8ckyT3wkDRMmTbxMzlBKa9F3U_zjVbN.pdf
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_links.xlsx
+  5337 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/erros_varredura.xlsx
+  113 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojeronimodaserra/inventario_externos.xlsx
+  5044 links externos registrados.
+  Checkpoint salvo (6627 páginas totais | 5400 nesta sessão).
+  [5401 (+1227)/sem limite] fila=5329 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2384
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2384
+  [5402 (+1227)/sem limite] fila=5328 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2384
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2384
+  [5403 (+1227)/sem limite] fila=5327 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2384
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2384
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5404 (+1227)/sem limite] fila=5326 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5405 (+1227)/sem limite] fila=5325 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3949%2F&fileName=0nRqvTbwLU-sRaqfRMVTM1WZLQyv9n4E.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5406 (+1227)/sem limite] fila=5324 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2355
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2355
+  [5407 (+1227)/sem limite] fila=5323 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2355
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2355
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5408 (+1227)/sem limite] fila=5322 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2355
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2355
+  [5409 (+1227)/sem limite] fila=5321 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5410 (+1227)/sem limite] fila=5320 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3854%2F&fileName=H6ycjl72oecbNKUZW3stRVTsq1jJ5L9T.pdf
+  [5411 (+1227)/sem limite] fila=5319 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2354
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2354
+  [5412 (+1227)/sem limite] fila=5318 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2354
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2354
+  [5413 (+1227)/sem limite] fila=5317 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2354
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2354
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5414 (+1227)/sem limite] fila=5316 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5415 (+1227)/sem limite] fila=5315 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3853%2F&fileName=_Za3qFdYQ7jV0ass8Q3RW9lY3i-VEih2.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5416 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2353
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2353
+  [5417 (+1227)/sem limite] fila=5313 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2353
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2353
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5418 (+1227)/sem limite] fila=5312 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2353
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2353
+  [5419 (+1227)/sem limite] fila=5311 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5420 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3852%2F&fileName=12F0i_ObSTK_3S9kJavD8wrcnWc-iEWy.pdf
+  [5421 (+1227)/sem limite] fila=5309 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2352
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2352
+  [5422 (+1227)/sem limite] fila=5308 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2352
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2352
+  [5423 (+1227)/sem limite] fila=5307 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2352
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2352
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5424 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5425 (+1227)/sem limite] fila=5305 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3851%2F&fileName=R6mddk7mbEeH1HTaXNmM27mVzEXgjiCC.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5426 (+1227)/sem limite] fila=5304 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2351
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2351
+  [5427 (+1227)/sem limite] fila=5303 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2351
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2351
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5428 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2351
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2351
+  [5429 (+1227)/sem limite] fila=5301 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5430 (+1227)/sem limite] fila=5300 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3850%2F&fileName=Qe__CTIGLI_mUhliSKi9rAAHvEzONq71.pdf
+  [5431 (+1227)/sem limite] fila=5299 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2350
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2350
+  [5432 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2350
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2350
+  [5433 (+1227)/sem limite] fila=5297 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2350
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2350
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5434 (+1227)/sem limite] fila=5296 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5435 (+1227)/sem limite] fila=5295 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3849%2F&fileName=1woonomXOeOC7KYvG54dLByxjQjsB7jW.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5436 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2349
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2349
+  [5437 (+1227)/sem limite] fila=5293 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2349
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2349
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5438 (+1227)/sem limite] fila=5292 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2349
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2349
+  [5439 (+1227)/sem limite] fila=5291 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5440 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3848%2F&fileName=267IkkuYwKOwCMFQGMB1AczLgTPkXDnA.pdf
+  [5441 (+1227)/sem limite] fila=5289 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2348
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2348
+  [5442 (+1227)/sem limite] fila=5288 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2348
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2348
+  [5443 (+1227)/sem limite] fila=5287 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2348
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2348
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5444 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5445 (+1227)/sem limite] fila=5285 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3847%2F&fileName=Fc94jfjfBfzfU2y42bnbt3mLnlXUUIse.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5446 (+1227)/sem limite] fila=5284 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2347
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2347
+  [5447 (+1227)/sem limite] fila=5283 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2347
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2347
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5448 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2347
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2347
+  [5449 (+1227)/sem limite] fila=5281 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5450 (+1227)/sem limite] fila=5280 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3846%2F&fileName=WvLrguxPssgbIWirmgcJ4LPFIXXkUqq0.pdf
+  [5451 (+1227)/sem limite] fila=5279 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2346
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2346
+  [5452 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2346
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2346
+  [5453 (+1227)/sem limite] fila=5277 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2346
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2346
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5454 (+1227)/sem limite] fila=5276 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5455 (+1227)/sem limite] fila=5275 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3845%2F&fileName=xO3hK8V_HyxZuewo4D2iIEN3micKju_v.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5456 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2345
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2345
+  [5457 (+1227)/sem limite] fila=5273 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2345
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2345
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5458 (+1227)/sem limite] fila=5272 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2345
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2345
+  [5459 (+1227)/sem limite] fila=5271 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5460 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3844%2F&fileName=Jtpc_VHz1H6ogoCJXytrXyh7XstQmwky.pdf
+  [5461 (+1227)/sem limite] fila=5269 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2344
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2344
+  [5462 (+1227)/sem limite] fila=5268 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2344
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2344
+  [5463 (+1227)/sem limite] fila=5267 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2344
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2344
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5464 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5465 (+1227)/sem limite] fila=5265 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3843%2F&fileName=tEHc7RJ8_nn4GPxUAQXuJ-0yqeI_N6Vj.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5466 (+1227)/sem limite] fila=5264 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2336
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2336
+  [5467 (+1227)/sem limite] fila=5263 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2336
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2336
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5468 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2336
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2336
+  [5469 (+1227)/sem limite] fila=5261 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5470 (+1227)/sem limite] fila=5260 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3790%2F&fileName=a0Vc68kI9VRNO_bEaHV-v4AGyutphaWD.pdf
+  [5471 (+1227)/sem limite] fila=5259 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2337
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2337
+  [5472 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2337
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2337
+  [5473 (+1227)/sem limite] fila=5257 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2337
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2337
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5474 (+1227)/sem limite] fila=5256 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5475 (+1227)/sem limite] fila=5255 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3791%2F&fileName=wNrxSx42GNSbmIN-zHNMjx0GfX6WNXvn.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5476 (+1227)/sem limite] fila=5254 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2338
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2338
+  [5477 (+1227)/sem limite] fila=5253 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2338
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2338
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5478 (+1227)/sem limite] fila=5252 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2338
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2338
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5479 (+1227)/sem limite] fila=5251 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5480 (+1227)/sem limite] fila=5250 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3792%2F&fileName=U1HCfduW3IoNhpMoY2DKyrIqFeZ-26zU.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5481 (+1227)/sem limite] fila=5249 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2318
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2318
+  [5482 (+1227)/sem limite] fila=5248 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2318
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2318
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5483 (+1227)/sem limite] fila=5247 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2318
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2318
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=23
+  [5484 (+1227)/sem limite] fila=5246 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5485 (+1227)/sem limite] fila=5245 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3768%2F&fileName=wp1TdwcyBa92Raxd4ZNFKR3tvi1HqVGJ.pdf
+  [5486 (+1227)/sem limite] fila=5244 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2334
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2334
+  [5487 (+1227)/sem limite] fila=5243 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2334
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2334
+  [5488 (+1227)/sem limite] fila=5242 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2334
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2334
+  [5489 (+1227)/sem limite] fila=5241 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5490 (+1227)/sem limite] fila=5240 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3788%2F&fileName=esR3nR3ks3KLhWThmLjIV3EPZH8VpSHc.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5491 (+1227)/sem limite] fila=5239 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2333
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2333
+  [5492 (+1227)/sem limite] fila=5238 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2333
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2333
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=23
+  [5493 (+1227)/sem limite] fila=5237 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2333
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2333
+  [5494 (+1227)/sem limite] fila=5236 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5495 (+1227)/sem limite] fila=5235 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F3787%2F&fileName=x1iWLY5KA73fPvYy1gFZJAbQVX1UavEe.pdf
+  [5496 (+1227)/sem limite] fila=5234 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2245/decreto-n-1682025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3437/CdLos
+  [5497 (+1227)/sem limite] fila=5238 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2244/decreto-n-1672025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3436/l4VCb
+  [5498 (+1227)/sem limite] fila=5242 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2243/decreto-n-1662025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3435/HF_UJ
+  [5499 (+1227)/sem limite] fila=5246 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2242/decreto-n-1652025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3434/AdCkb
+  [5500 (+1227)/sem limite] fila=5250 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2241/decreto-n-1642025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3433/cN8dB
+  [5501 (+1227)/sem limite] fila=5254 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2240/decreto-n-1632025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3432/UwJVh
+  [5502 (+1227)/sem limite] fila=5258 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2239/decreto-n-1622025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3431/1XcGM
+  [5503 (+1227)/sem limite] fila=5262 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2228/decreto-n-1612025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3343/vQhYd
+  [5504 (+1227)/sem limite] fila=5266 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2269/decreto-n-1602025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3496/LeR8D
+  [5505 (+1227)/sem limite] fila=5270 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2238/decreto-n-1592025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3430/4TQKp
+  [5506 (+1227)/sem limite] fila=5274 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2225/decreto-n-1582025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3323/pW_ho
+  [5507 (+1227)/sem limite] fila=5278 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2227/decreto-n-1572025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3342/iqLNR
+  [5508 (+1227)/sem limite] fila=5282 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2224/decreto-n-1562025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3322/j2gKY
+  [5509 (+1227)/sem limite] fila=5286 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2223/decreto-n-1552025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3321/nkVLY
+  [5510 (+1227)/sem limite] fila=5290 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2222/decreto-n-1542025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3320/zOye_
+  [5511 (+1227)/sem limite] fila=5294 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2221/decreto-n-1532025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3319/lUS6g
+  [5512 (+1227)/sem limite] fila=5298 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2220/decreto-n-1522025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3318/esRjz
+  [5513 (+1227)/sem limite] fila=5302 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2219/decreto-n-1512025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3317/WpYkT
+  [5514 (+1227)/sem limite] fila=5306 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2218/decreto-n-1502025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3316/Afjy5
+  [5515 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/view/2217/decreto-n-1492025
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/uploads/legislacao/3315/-ITva
+  [5516 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/index?LegislacaoSearch%5Bid_
+  [5517 (+1227)/sem limite] fila=5334 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2754
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2754
+  [5518 (+1227)/sem limite] fila=5333 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2754
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2754
+  [5519 (+1227)/sem limite] fila=5332 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2754
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2754
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=27
+  [5520 (+1227)/sem limite] fila=5331 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5521 (+1227)/sem limite] fila=5330 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4894%2F&fileName=Kp2vamyWH9WFLqRvDxhWsKG2Wbq5q9NX.pdf
+  [5522 (+1227)/sem limite] fila=5329 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2756
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2756
+  [5523 (+1227)/sem limite] fila=5328 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2756
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2756
+  [5524 (+1227)/sem limite] fila=5327 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2756
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2756
+  [5525 (+1227)/sem limite] fila=5326 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5526 (+1227)/sem limite] fila=5325 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4898%2F&fileName=A3K8bejZU5eSB-8rJkG7GVIZO8_pQy3i.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5527 (+1227)/sem limite] fila=5324 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2753
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2753
+  [5528 (+1227)/sem limite] fila=5323 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2753
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2753
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=27
+  [5529 (+1227)/sem limite] fila=5322 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2753
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2753
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=27
+  [5530 (+1227)/sem limite] fila=5321 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5531 (+1227)/sem limite] fila=5320 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4893%2F&fileName=__gEX3tetFDQyRLsEGuJ2ZNvsPjHqJkx.pdf
+  [5532 (+1227)/sem limite] fila=5319 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2752
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2752
+  [5533 (+1227)/sem limite] fila=5318 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2752
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2752
+  [5534 (+1227)/sem limite] fila=5317 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2752
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2752
+  [5535 (+1227)/sem limite] fila=5316 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5536 (+1227)/sem limite] fila=5315 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4892%2F&fileName=CqE6AkphFaq-_C0aMDYIGr0U9638W7-p.pdf
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%
+  [5537 (+1227)/sem limite] fila=5314 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2751
+  📄 [200] .pdf -> https://www.saojeronimodaserra.pr.gov.br/legislacao/impressao?id=2751
+  [5538 (+1227)/sem limite] fila=5313 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2751
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=2751
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-txt?id=27
+  [5539 (+1227)/sem limite] fila=5312 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2751
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=2751
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/legislacao/exportar-csv?id=27
+  [5540 (+1227)/sem limite] fila=5311 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%2Fapp%2Ffr
+  📄 [200] .txt -> https://www.saojeronimodaserra.pr.gov.br/site/download?type=txt&path=%
+  [5541 (+1227)/sem limite] fila=5310 | depth=4 | https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffr
+  🤖 Usando Selenium para: https://www.saojeronimodaserra.pr.gov.br/site/download?type=csv&path=%2Fapp%2Ffrontend%2Fweb%2Fuploads%2Flegislacao%2F4891%2F&fileName=CVGZIthJm7ekGTMDwJdAEp-HJU0n9CiI.pdf

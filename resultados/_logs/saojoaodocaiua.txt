@@ -1,0 +1,763 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOAODOCAIUA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOJOAODOCAIUA
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saojoaodocaiua.pr.gov.br/
+  [2/sem limite] fila=18 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/curiosidades-sobre-a-cidade-de-sao-joao-do-
+  [3/sem limite] fila=17 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/hino-da-cidade/
+  [4/sem limite] fila=16 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/conheca-o-prefeito/
+  [5/sem limite] fila=15 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/galeria-de-prefeitos/
+  [6/sem limite] fila=14 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/secretarias
+  [7/sem limite] fila=24 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/conselhos
+  [8/sem limite] fila=64 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/hospitais
+  [9/sem limite] fila=63 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/instituicoes-de-ensino
+  [10/sem limite] fila=62 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/links-uteis
+  [11/sem limite] fila=61 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/plano-diretor
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/08/300726
+  [12/sem limite] fila=60 | depth=1 | https://webmail.saojoaodocaiua.pr.gov.br/
+  [13/sem limite] fila=93 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/noticias
+  [14/sem limite] fila=102 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/aldir-blanki-resultado-final/
+  [15/sem limite] fila=102 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/novo-plano-diretor/
+  [16/sem limite] fila=103 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/numero-novo-hospital/
+  [17/sem limite] fila=103 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/todas-as-galerias
+  [18/sem limite] fila=105 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/galerias/execucao-projetos-lei-paulo-gustav
+  [19/sem limite] fila=104 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/galerias/execucao-projetos-lei-aldir-blanc/
+  [20/sem limite] fila=103 | depth=1 | https://www.saojoaodocaiua.pr.gov.br/galerias/portal-de-entrada-do-municipio/
+  [21/sem limite] fila=102 | depth=2 | https://www.saojoaodocaiua.pr.gov.br
+  [22/sem limite] fila=101 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/assessoria-de-comunicacao/
+  [23/sem limite] fila=101 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-de-municipal-de-admi
+  [24/sem limite] fila=100 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-agricul
+  [25/sem limite] fila=99 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-desenvo
+  [26/sem limite] fila=100 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-educaca
+  [27/sem limite] fila=100 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-industr
+  [28/sem limite] fila=99 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-meio-am
+  [29/sem limite] fila=98 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-patrimo
+  [30/sem limite] fila=97 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-saude/
+  [31/sem limite] fila=96 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/secretarias/secretaria-municipal-de-viacao-
+  [32/sem limite] fila=96 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/agente-de-contratacao-pregoeiro-e
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [33/sem limite] fila=96 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/camara-intersetorial-municipal-de
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [34/sem limite] fila=95 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-adm-fisc-de-locao-e-uso-d
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [35/sem limite] fila=94 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-de-monitoramento-e-avalia
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [36/sem limite] fila=93 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-intersetorial-da-rede-de-
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [37/sem limite] fila=92 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-intersetorial-do-programa
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [38/sem limite] fila=91 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-organizadora-do-processo-
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [39/sem limite] fila=90 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-municipal-de-defesa-civi
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [40/sem limite] fila=89 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-permanente-de-gesto-e-aco
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [41/sem limite] fila=88 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-siafic/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [42/sem limite] fila=87 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-de-avaliacao-de-desempen
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/ERRATA
+  [43/sem limite] fila=86 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-de-avaliacao-de-imoveis-
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [44/sem limite] fila=85 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-de-enquadramento-para-afe
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [45/sem limite] fila=84 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-de-recebimento-de-bens/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [46/sem limite] fila=83 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-especial-de-avaliacao-de
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [47/sem limite] fila=82 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-municipal-de-educacao-an
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [48/sem limite] fila=81 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comisso-tcnica-para-elaboracao-do
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [49/sem limite] fila=80 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-temporaria-gestora-de-cu
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [50/sem limite] fila=79 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comissao-temporaria-gestora-de-cu
+  [51/sem limite] fila=78 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comite-municipal-programa-nossa-g
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [52/sem limite] fila=77 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comite-gestor-integrado-de-dengue
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [53/sem limite] fila=76 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comite-local-programa-nossa-gente
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [54/sem limite] fila=75 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/comit-municipal-de-transporte-esc
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [55/sem limite] fila=74 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-comunitrio-de-seguranca-
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/Conseg
+  [56/sem limite] fila=73 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-da-alimentao-escolar-cae
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/Decret
+  [57/sem limite] fila=72 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-da-cidade/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [58/sem limite] fila=71 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-assistencia
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [59/sem limite] fila=70 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-educacao/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [60/sem limite] fila=69 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-esporte/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [61/sem limite] fila=68 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-politica-cu
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [62/sem limite] fila=67 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-saude/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [63/sem limite] fila=66 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-de-seguranca-a
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [64/sem limite] fila=65 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-dos-direitos-d
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [65/sem limite] fila=64 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-municipal-dos-direitos-d
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [66/sem limite] fila=63 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/conselho-tutelar-remunerado/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [67/sem limite] fila=62 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/coordenacao-municipal-do-programa
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [68/sem limite] fila=61 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/equipe-tecnica-municipal-de-elabo
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [69/sem limite] fila=60 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/equipe-tecnica-resp-politica-da-e
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [70/sem limite] fila=59 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/fundeb-fundo-de-manutencao-e-dese
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [71/sem limite] fila=58 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/grupo-gestor-do-ndice-ambiental-m
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/DECRET
+  [72/sem limite] fila=57 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/conselhos/grupo-tecnico-permanente-para-fin
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/PORTAR
+  [73/sem limite] fila=56 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ar
+  [74/sem limite] fila=55 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=cs
+  [75/sem limite] fila=54 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=da
+  [76/sem limite] fila=53 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=de
+  [77/sem limite] fila=52 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=el
+  [78/sem limite] fila=51 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=en
+  [79/sem limite] fila=50 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=es
+  [80/sem limite] fila=49 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=es_419
+  [81/sem limite] fila=48 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=es_es
+  [82/sem limite] fila=47 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=fi
+  [83/sem limite] fila=46 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=fil
+  [84/sem limite] fila=45 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=fr
+  [85/sem limite] fila=44 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=he
+  [86/sem limite] fila=43 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=hu
+  [87/sem limite] fila=42 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=id
+  [88/sem limite] fila=41 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=it
+  [89/sem limite] fila=40 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ja
+  [90/sem limite] fila=39 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ko
+  [91/sem limite] fila=38 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ms
+  [92/sem limite] fila=37 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=nb
+  [93/sem limite] fila=36 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=nl
+  [94/sem limite] fila=35 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=pl
+  [95/sem limite] fila=34 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=pt
+  [96/sem limite] fila=33 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=pt_br
+  [97/sem limite] fila=32 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ro
+  [98/sem limite] fila=31 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=ru
+  [99/sem limite] fila=30 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=sv
+  [100/sem limite] fila=29 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=th
+  [101/sem limite] fila=28 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=tr
+  [102/sem limite] fila=27 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=uk
+  [103/sem limite] fila=26 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=vi
+  [104/sem limite] fila=25 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=zh
+  [105/sem limite] fila=24 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/?locale=zh_tw
+  [106/sem limite] fila=23 | depth=2 | https://webmail.saojoaodocaiua.pr.gov.br/resetpass?start=1
+  [107/sem limite] fila=22 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/plano-diretor-conferncia-final/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/271125
+  [108/sem limite] fila=22 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/ouvidoria-municipal-de-sade/
+  [109/sem limite] fila=21 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/ateno-onde-tem-gua-parada-pode-ter-dengue/
+  [110/sem limite] fila=20 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/12-conferncia-municipal-de-assistncia-socia
+  [111/sem limite] fila=20 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/agosto-azul-preveno-de-doenas-e-promoo-da-s
+  [112/sem limite] fila=19 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-25-07-2023/
+  [113/sem limite] fila=18 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/iii-conferncia-municipal-de-segurana-alimen
+  [114/sem limite] fila=17 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/2/
+  [115/sem limite] fila=25 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/3/
+  [116/sem limite] fila=35 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/57/
+  [117/sem limite] fila=42 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-educacao-c
+  [118/sem limite] fila=49 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-de-municipal-de-adminis
+  [119/sem limite] fila=48 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/plano-diretor/
+  [120/sem limite] fila=47 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/
+  [121/sem limite] fila=49 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/galerias/complexo-esportivo-ver-servillo-vi
+  [122/sem limite] fila=48 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/galerias/hospital-municipal-nossa-senhora-a
+  [123/sem limite] fila=47 | depth=2 | https://www.saojoaodocaiua.pr.gov.br/galerias/sao-joao-do-caiua-e-comtemplado-co
+  [124/sem limite] fila=46 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/secretarias/
+  [125/sem limite] fila=45 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/violncia-contra-criana-e-adolescente-denunc
+  [126/sem limite] fila=44 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/prazo-prorrogado-inscries-para-eleio-do-con
+  [127/sem limite] fila=43 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/70-festa-do-padroeiro-so-joo-batista/
+  [128/sem limite] fila=42 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/aviso-3/
+  [129/sem limite] fila=41 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/conselhos/
+  [130/sem limite] fila=40 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-viacao-urb
+  [131/sem limite] fila=39 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-desenvolvi
+  [132/sem limite] fila=45 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/hepatites-virais-previna-se-faa-o-teste-vac
+  [133/sem limite] fila=44 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/vacinmetro-junho-de-2023/
+  [134/sem limite] fila=43 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-28-06-2023/
+  [135/sem limite] fila=42 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/vacinmetro-maio-2023/
+  [136/sem limite] fila=41 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/32-concurso-da-sinhazinha-e-do-sinhozinho/
+  [137/sem limite] fila=40 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/maio-verde-conscientizao-sobre-a-doena-cela
+  [138/sem limite] fila=39 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/alistamento-militar-prazo-final-at-30-de-ju
+  [139/sem limite] fila=39 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/1/
+  [140/sem limite] fila=38 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/4/
+  [141/sem limite] fila=48 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/prorrogao-prazo-de-pagamento-parcela-nica-d
+  [142/sem limite] fila=47 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/licitao-aviso-importante-sobre-o-credenciam
+  [143/sem limite] fila=46 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-10-04-2023/
+  [144/sem limite] fila=45 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-05-04-2023/
+  [145/sem limite] fila=44 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/eleies-unificadas-para-o-conselho-tutelar-q
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/030423
+  [146/sem limite] fila=43 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/convocao-pss/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/100223
+  [147/sem limite] fila=42 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/recado-universitrios/
+  [148/sem limite] fila=41 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/nota-do-produtor-aviso-importante/
+  [149/sem limite] fila=40 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/boletim-covid-13-12-2022/
+  [150/sem limite] fila=39 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/boletim-covid-19-07-12-2022/
+  [151/sem limite] fila=38 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/5/
+  [152/sem limite] fila=48 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/vacinacao-contra-hpv/
+  [153/sem limite] fila=47 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/28o-rodeio-sao-joao-do-caiua/
+  [154/sem limite] fila=46 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/primeiro-encontro-de-ex-moradores-de-sao-jo
+  [155/sem limite] fila=46 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/a-e-r-semel-de-paranavai-venceu-torneio-em-
+  [156/sem limite] fila=45 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/prefeitura-ira-recuperar-o-parque-de-rodeio
+  [157/sem limite] fila=44 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/sao-joao-do-caiua-esta-ganhando-130-novas-c
+  [158/sem limite] fila=43 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/56/
+  [159/sem limite] fila=53 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/55/
+  [160/sem limite] fila=63 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/departamento-de-educao-informa/
+  [161/sem limite] fila=62 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/matrcula-escola-cmei-menino-jesus/
+  [162/sem limite] fila=61 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/matrcula-e-rematrcula-escolar/
+  [163/sem limite] fila=60 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/o-municpio-de-so-joo-do-caiu-contemplado-pe
+  [164/sem limite] fila=59 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/o-municpio-de-so-joo-do-caiu-contemplado-pe
+  [165/sem limite] fila=58 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-educacao-c
+  [166/sem limite] fila=68 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-educacao-c
+  [167/sem limite] fila=77 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-educacao-c
+  [168/sem limite] fila=76 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [169/sem limite] fila=76 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [170/sem limite] fila=76 | depth=3 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [171/sem limite] fila=79 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entregas-das-cestas-de-natal-para-os-alunos
+  [172/sem limite] fila=78 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/ii-encontro-temtico-da-pessoa-com-deficinci
+  [173/sem limite] fila=77 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/capacitao-com-toda-a-rede-de-proteo-dos-dir
+  [174/sem limite] fila=76 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-certificados-do-curso-tcnicas-de
+  [175/sem limite] fila=75 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/edital-de-convocao-de-assemblia-geral-ordin
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/221019
+  [176/sem limite] fila=74 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/2-torneio-interestadual-de-karat-paranapoem
+  [177/sem limite] fila=73 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-desenvolvi
+  [178/sem limite] fila=76 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-administra
+  [179/sem limite] fila=80 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-covid-19-05-12-2022/
+  [180/sem limite] fila=79 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-covid-19-01-12-2022/
+  [181/sem limite] fila=78 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-01-12-2022/
+  [182/sem limite] fila=77 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dengue-25-10-2022/
+  [183/sem limite] fila=76 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-363/
+  [184/sem limite] fila=75 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-362/
+  [185/sem limite] fila=74 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-361/
+  [186/sem limite] fila=73 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-360/
+  [187/sem limite] fila=72 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-359/
+  [188/sem limite] fila=71 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-358/
+  [189/sem limite] fila=70 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/6/
+  [190/sem limite] fila=80 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-357/
+  [191/sem limite] fila=79 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/comunicado-2/
+  [192/sem limite] fila=78 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-356/
+  [193/sem limite] fila=77 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-355/
+  [194/sem limite] fila=76 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-354/
+  [195/sem limite] fila=75 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/vacinometro-4/
+  [196/sem limite] fila=74 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-353/
+  [197/sem limite] fila=73 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-352/
+  [198/sem limite] fila=72 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-351/
+  [199/sem limite] fila=71 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-350/
+  [200/sem limite] fila=70 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/7/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_links.xlsx
+  54 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_externos.xlsx
+  371 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=80 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/null/
+  [202/sem limite] fila=91 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-veculos-para-setores-da-sade-e-e
+  [203/sem limite] fila=90 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/perodo-eleitoral/
+  [204/sem limite] fila=89 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/posse-dos-novos-conselheiros-tutelares/
+  📄 [200] .docx -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/140116
+  [205/sem limite] fila=88 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/posse-do-conselho-tutelar-de-so-joo-do-caiu
+  [206/sem limite] fila=87 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/5766-2/
+  📄 [200] .docx -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/161015
+  [207/sem limite] fila=86 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/5765-2/
+  [208/sem limite] fila=85 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/municpio-est-investindo-em-infraestrutura/
+  [209/sem limite] fila=84 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/5763-2/
+  [210/sem limite] fila=83 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/5762-2/
+  [211/sem limite] fila=82 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/vacinacao-contra-hpv-2/
+  [212/sem limite] fila=81 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/54/
+  [213/sem limite] fila=89 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/dia-do-desafio-2019/
+  [214/sem limite] fila=88 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/prorrogao-das-inscries-do-conselho-tutelar-
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/280519
+  [215/sem limite] fila=87 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/edital-de-convocao-concelho-municipal-dos-d
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/060519
+  [216/sem limite] fila=86 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-veculos-para-os-setores-de-admin
+  [217/sem limite] fila=86 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/reinaugurao-do-cmei-menino-jesus/
+  [218/sem limite] fila=85 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-caminho-para-o-servio-de-coleta-
+  [219/sem limite] fila=84 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-equipamentos-para-a-separao-de-l
+  [220/sem limite] fila=83 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/reunio-sobre-segurana-pblica-no-municpio/
+  [221/sem limite] fila=82 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-alistamento-militar-juramento-e-
+  [222/sem limite] fila=81 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-uniformes-escolares-aos-alunos-d
+  [223/sem limite] fila=80 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/53/
+  [224/sem limite] fila=85 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/o-municpio-de-so-joo-do-caiu-contemplado-pe
+  [225/sem limite] fila=84 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/dia-do-desafio-vem-ai-dia-27-05-2020/
+  [226/sem limite] fila=83 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/o-departamento-municipal-de-educao-informa-
+  [227/sem limite] fila=82 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/1-2/
+  [228/sem limite] fila=81 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/33-2/
+  [229/sem limite] fila=80 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-de-kits-de-alimentos-com-itens-da-m
+  [230/sem limite] fila=79 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/orientaes-ao-pais-e-responsveis-sobre-a-rot
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/170420
+  [231/sem limite] fila=78 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/comunicado-importante-2/
+  [232/sem limite] fila=77 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/aviso-da-secretaria-municipal-de-educao-cul
+  [233/sem limite] fila=76 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/comunicado-e-telefones/
+  [234/sem limite] fila=75 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-educacao-c
+  [235/sem limite] fila=74 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/volta-s-aulas-5-de-fevereiro/
+  [236/sem limite] fila=73 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/formatura-do-proerd-2019/
+  [237/sem limite] fila=72 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/noite-cultural/
+  [238/sem limite] fila=71 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/final-do-jogos-da-juventude/
+  [239/sem limite] fila=70 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/torneio-em-comemorao-do-dia-da-independncia
+  [240/sem limite] fila=69 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/as-comemoraes-da-independncia-do-brasil-201
+  [241/sem limite] fila=68 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/entrega-do-nibus-da-apae/
+  [242/sem limite] fila=67 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/oportunidade-de-qualificao-curso-de-eletric
+  [243/sem limite] fila=66 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/convite-dia-da-independncia-2/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/030919
+  [244/sem limite] fila=65 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/convite-dia-da-independncia/
+  [245/sem limite] fila=64 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [246/sem limite] fila=64 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [247/sem limite] fila=64 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/ms-de-cuidado-e-preveno-com-a-sade-do-homem
+  [248/sem limite] fila=63 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/prevenir-um-ato-de-amor-com-voc-com-seu-cor
+  [249/sem limite] fila=62 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [250/sem limite] fila=72 | depth=4 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [251/sem limite] fila=82 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/1-exame-de-graduao-de-karat-cras/
+  [252/sem limite] fila=81 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/rua-de-recreio-cras/
+  [253/sem limite] fila=80 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/kits-de-higiene-pessoal-para-as-crianas-e-a
+  [254/sem limite] fila=79 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/1-feira-meu-corpinho-uma-joia-realizado-nos
+  [255/sem limite] fila=78 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/memorando-interno/
+  [256/sem limite] fila=77 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/vacinmetro-idosos-acima-80-a-84-anos-4/
+  [257/sem limite] fila=76 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/oportunidade-de-emprego-acesse-o-site-e-sai
+  [258/sem limite] fila=75 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/funcionamento-da-prefeitura/
+  [259/sem limite] fila=74 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-de-administra
+  [260/sem limite] fila=75 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-349/
+  [261/sem limite] fila=74 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-348/
+  [262/sem limite] fila=73 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-347/
+  [263/sem limite] fila=72 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-346/
+  [264/sem limite] fila=71 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-345/
+  [265/sem limite] fila=70 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-344/
+  [266/sem limite] fila=69 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-343/
+  [267/sem limite] fila=68 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-342/
+  [268/sem limite] fila=67 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/vacinometro-3/
+  [269/sem limite] fila=66 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-341/
+  [270/sem limite] fila=65 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/8/
+  [271/sem limite] fila=75 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-340/
+  [272/sem limite] fila=74 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-339/
+  [273/sem limite] fila=73 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-338/
+  [274/sem limite] fila=72 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-337/
+  [275/sem limite] fila=71 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-336/
+  [276/sem limite] fila=70 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/vacinometro-2/
+  [277/sem limite] fila=69 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-335/
+  [278/sem limite] fila=68 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-334/
+  [279/sem limite] fila=67 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-333/
+  [280/sem limite] fila=66 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-332/
+  [281/sem limite] fila=65 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/9/
+  [282/sem limite] fila=75 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/chegada-do-papai-noel-com-entrega-de-brinqu
+  [283/sem limite] fila=74 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/conferncia-municipal-de-educao-conae-2022-1
+  [284/sem limite] fila=73 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/evento-cultural-em-comemorao-ao-aniversrio-
+  [285/sem limite] fila=72 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/aviso/
+  [286/sem limite] fila=71 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/segunda-feira-25-de-outubro-de-2021-ocorreu
+  [287/sem limite] fila=70 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/vacinometro-de-doses-aplicadas/
+  [288/sem limite] fila=69 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-118/
+  [289/sem limite] fila=68 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-117/
+  [290/sem limite] fila=67 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/matrcula-da-pre-escola-alda-de-aguiar-silve
+  [291/sem limite] fila=66 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-53/
+  [292/sem limite] fila=65 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/null/page/2/
+  [293/sem limite] fila=68 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/null/page/3/
+  [294/sem limite] fila=67 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/comunicado-importante/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/030719
+  [295/sem limite] fila=66 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/casal-vencedor-do-concurso-sinhazinha-e-sin
+  [296/sem limite] fila=65 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/jogos-escolares-do-paran-2019/
+  [297/sem limite] fila=64 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/cica-realiza-coleta-de-lixo-eletrnico-em-vr
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/190619
+  [298/sem limite] fila=63 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/dia-do-desafio/
+  [299/sem limite] fila=62 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/torneio-de-futsal-feminino-2019/
+  [300/sem limite] fila=61 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/ii-conferncia-municipal-de-segurana-aliment
+  [301/sem limite] fila=60 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/determinar-o-cumprimento-de-exigncias-em-re
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/110619
+  [302/sem limite] fila=59 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/52/
+  [303/sem limite] fila=60 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/departamento-de-viacao-urbanizacao
+  [304/sem limite] fila=60 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/convite-dia-da-independncia-5/
+  [305/sem limite] fila=59 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/convite-dia-da-independncia-4/
+  📄 [200] .docx -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/030919
+  [306/sem limite] fila=58 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/convite-dia-da-independncia-3/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/030919
+  [307/sem limite] fila=57 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/o-microcrdito-melhorando-o-ambiente-de-negc
+  [308/sem limite] fila=56 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/est-aberto-o-perodo-para-o-recadastramento-
+  [309/sem limite] fila=55 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/51/
+  [310/sem limite] fila=55 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [311/sem limite] fila=55 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [312/sem limite] fila=55 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-6/
+  [313/sem limite] fila=54 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-2/
+  [314/sem limite] fila=53 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-3/
+  [315/sem limite] fila=52 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-4/
+  [316/sem limite] fila=51 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio/
+  [317/sem limite] fila=50 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/plano-de-contingencia-do-paran-covid-19/
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/010420
+  📄 [200] .pdf -> https://www.saojoaodocaiua.pr.gov.br/wp-content/uploads/2026/06/010420
+  [318/sem limite] fila=49 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/informaes-essenciaisa-sobre-a-covid-19-e-os
+  [319/sem limite] fila=48 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/comunicado-covid-19/
+  [320/sem limite] fila=47 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/telefones/
+  [321/sem limite] fila=46 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/campanha-ficaemcasa/
+  [322/sem limite] fila=45 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [323/sem limite] fila=55 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-14/
+  [324/sem limite] fila=54 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-15/
+  [325/sem limite] fila=53 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-16/
+  [326/sem limite] fila=52 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/municpio-recebe-doao-de-oxmetro/
+  [327/sem limite] fila=51 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/ubs-professor-wilson-pedrazzoli-recebe-ao-d
+  [328/sem limite] fila=50 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-10/
+  [329/sem limite] fila=49 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-7/
+  [330/sem limite] fila=48 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-8/
+  [331/sem limite] fila=47 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-9/
+  [332/sem limite] fila=46 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-5/
+  [333/sem limite] fila=45 | depth=5 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [334/sem limite] fila=55 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/resduos-slidos/
+  [335/sem limite] fila=54 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/reunio-para-implantao-da-nota-fiscal-eletrn
+  [336/sem limite] fila=53 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-331/
+  [337/sem limite] fila=52 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-330/
+  [338/sem limite] fila=51 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/vacinometro/
+  [339/sem limite] fila=50 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-329/
+  [340/sem limite] fila=49 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-328/
+  [341/sem limite] fila=48 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-327/
+  [342/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-326/
+  [343/sem limite] fila=46 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-325/
+  [344/sem limite] fila=45 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-324/
+  [345/sem limite] fila=44 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-323/
+  [346/sem limite] fila=43 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/10/
+  [347/sem limite] fila=53 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-322/
+  [348/sem limite] fila=52 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-321/
+  [349/sem limite] fila=51 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-320/
+  [350/sem limite] fila=50 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-319/
+  [351/sem limite] fila=49 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-318/
+  [352/sem limite] fila=48 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-317/
+  [353/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-316/
+  [354/sem limite] fila=46 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-315/
+  [355/sem limite] fila=45 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-314/
+  [356/sem limite] fila=44 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-313/
+  [357/sem limite] fila=43 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/11/
+  [358/sem limite] fila=53 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-11/
+  [359/sem limite] fila=52 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-12/
+  [360/sem limite] fila=51 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/o-departamento-municipal-de-educao-est-disp
+  [361/sem limite] fila=50 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/o-frum-eleitoral-estar-aberto-dia-07-de-set
+  [362/sem limite] fila=49 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/coleta-de-reciclagem/
+  [363/sem limite] fila=48 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/50/
+  [364/sem limite] fila=48 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/prefeitura-disponibiliza-a-populao-sacos-pa
+  [365/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/49/
+  [366/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [367/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [368/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-24/
+  [369/sem limite] fila=46 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-25/
+  [370/sem limite] fila=45 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-22/
+  [371/sem limite] fila=44 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-23/
+  [372/sem limite] fila=43 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-18/
+  [373/sem limite] fila=42 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-19/
+  [374/sem limite] fila=41 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-20/
+  [375/sem limite] fila=40 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-21/
+  [376/sem limite] fila=39 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-17/
+  [377/sem limite] fila=38 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-13/
+  [378/sem limite] fila=37 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [379/sem limite] fila=47 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-32/
+  [380/sem limite] fila=46 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-33/
+  [381/sem limite] fila=45 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-34/
+  [382/sem limite] fila=44 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-35/
+  [383/sem limite] fila=43 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-31/
+  [384/sem limite] fila=42 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-30/
+  [385/sem limite] fila=41 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-29/
+  [386/sem limite] fila=40 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-26/
+  [387/sem limite] fila=39 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-27/
+  [388/sem limite] fila=38 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-28/
+  [389/sem limite] fila=37 | depth=6 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [390/sem limite] fila=47 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-312/
+  [391/sem limite] fila=46 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-311/
+  [392/sem limite] fila=45 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-310/
+  [393/sem limite] fila=44 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-309/
+  [394/sem limite] fila=43 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-308/
+  [395/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-307/
+  [396/sem limite] fila=41 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-306/
+  [397/sem limite] fila=40 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-305/
+  [398/sem limite] fila=39 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-304/
+  [399/sem limite] fila=38 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-303/
+  [400/sem limite] fila=37 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/12/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_links.xlsx
+  67 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_externos.xlsx
+  1069 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=43 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-302/
+  [402/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-301/
+  [403/sem limite] fila=41 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-300/
+  [404/sem limite] fila=40 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-299/
+  [405/sem limite] fila=39 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-298/
+  [406/sem limite] fila=38 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-297/
+  [407/sem limite] fila=37 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-296/
+  [408/sem limite] fila=36 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-295/
+  [409/sem limite] fila=35 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-294/
+  [410/sem limite] fila=34 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-293/
+  [411/sem limite] fila=33 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/13/
+  [412/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/48/
+  [413/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/47/
+  [414/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [415/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [416/sem limite] fila=44 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-45/
+  [417/sem limite] fila=43 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-44/
+  [418/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-43/
+  [419/sem limite] fila=41 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-39/
+  [420/sem limite] fila=40 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-40/
+  [421/sem limite] fila=39 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-41/
+  [422/sem limite] fila=38 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-42/
+  [423/sem limite] fila=37 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-36/
+  [424/sem limite] fila=36 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-37/
+  [425/sem limite] fila=35 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-38/
+  [426/sem limite] fila=34 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [427/sem limite] fila=44 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-56/
+  [428/sem limite] fila=43 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-52/
+  [429/sem limite] fila=42 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-54/
+  [430/sem limite] fila=41 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-55/
+  [431/sem limite] fila=40 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-51/
+  [432/sem limite] fila=39 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-46/
+  [433/sem limite] fila=38 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-47/
+  [434/sem limite] fila=37 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-48/
+  [435/sem limite] fila=36 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-49/
+  [436/sem limite] fila=35 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-50/
+  [437/sem limite] fila=34 | depth=7 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [438/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-292/
+  [439/sem limite] fila=43 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-291/
+  [440/sem limite] fila=42 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-290/
+  [441/sem limite] fila=41 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-289/
+  [442/sem limite] fila=40 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-288/
+  [443/sem limite] fila=39 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-287/
+  [444/sem limite] fila=38 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/14/
+  [445/sem limite] fila=45 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-286/
+  [446/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-285/
+  [447/sem limite] fila=43 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-284/
+  [448/sem limite] fila=42 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-283/
+  [449/sem limite] fila=41 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-282/
+  [450/sem limite] fila=40 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-281/
+  [451/sem limite] fila=39 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-280/
+  [452/sem limite] fila=38 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/aviso-2/
+  [453/sem limite] fila=37 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-279/
+  [454/sem limite] fila=36 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/15/
+  [455/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/46/
+  [456/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/45/
+  [457/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [458/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-covid/
+  [459/sem limite] fila=43 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-278/
+  [460/sem limite] fila=42 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [461/sem limite] fila=47 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-66/
+  [462/sem limite] fila=46 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-67/
+  [463/sem limite] fila=45 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-68/
+  [464/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-60/
+  [465/sem limite] fila=43 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-61/
+  [466/sem limite] fila=42 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-62/
+  [467/sem limite] fila=41 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-63/
+  [468/sem limite] fila=40 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-57/
+  [469/sem limite] fila=39 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-58/
+  [470/sem limite] fila=38 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-59/
+  [471/sem limite] fila=37 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [472/sem limite] fila=47 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-71/
+  [473/sem limite] fila=46 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-72/
+  [474/sem limite] fila=45 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-73/
+  [475/sem limite] fila=44 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-74/
+  [476/sem limite] fila=43 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-75/
+  [477/sem limite] fila=42 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-76/
+  [478/sem limite] fila=41 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-69/
+  [479/sem limite] fila=40 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-70/
+  [480/sem limite] fila=39 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-64/
+  [481/sem limite] fila=38 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-65/
+  [482/sem limite] fila=37 | depth=8 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [483/sem limite] fila=47 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-277/
+  [484/sem limite] fila=46 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-276/
+  [485/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-275/
+  [486/sem limite] fila=44 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-274/
+  [487/sem limite] fila=43 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-273/
+  [488/sem limite] fila=42 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-272/
+  [489/sem limite] fila=41 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-271/
+  [490/sem limite] fila=40 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/16/
+  [491/sem limite] fila=43 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-270/
+  [492/sem limite] fila=42 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-269/
+  [493/sem limite] fila=41 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-268/
+  [494/sem limite] fila=40 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-267/
+  [495/sem limite] fila=39 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-266/
+  [496/sem limite] fila=38 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/comunicado/
+  [497/sem limite] fila=37 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-265/
+  [498/sem limite] fila=36 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-264/
+  [499/sem limite] fila=35 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/17/
+  [500/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/44/
+  [501/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/43/
+  [502/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [503/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-263/
+  [504/sem limite] fila=44 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/vacinometro-quantidade-de-doses-aplicadas-6
+  [505/sem limite] fila=43 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-262/
+  [506/sem limite] fila=42 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-261/
+  [507/sem limite] fila=41 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-260/
+  [508/sem limite] fila=40 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [509/sem limite] fila=47 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-81/
+  [510/sem limite] fila=46 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-82/
+  [511/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-83/
+  [512/sem limite] fila=44 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-84/
+  [513/sem limite] fila=43 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-85/
+  [514/sem limite] fila=42 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-86/
+  [515/sem limite] fila=41 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-87/
+  [516/sem limite] fila=40 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-88/
+  [517/sem limite] fila=39 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-89/
+  [518/sem limite] fila=38 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-90/
+  [519/sem limite] fila=37 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [520/sem limite] fila=47 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-94/
+  [521/sem limite] fila=46 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-93/
+  [522/sem limite] fila=45 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/18-11-2020/
+  [523/sem limite] fila=44 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/aviso-importante-a-comunidade-referente-a-c
+  [524/sem limite] fila=43 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-92/
+  [525/sem limite] fila=42 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-91/
+  [526/sem limite] fila=41 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-77/
+  [527/sem limite] fila=40 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-78/
+  [528/sem limite] fila=39 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-79/
+  [529/sem limite] fila=38 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-80/
+  [530/sem limite] fila=37 | depth=9 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [531/sem limite] fila=47 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-259/
+  [532/sem limite] fila=46 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-258/
+  [533/sem limite] fila=45 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-257/
+  [534/sem limite] fila=44 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/18/
+  [535/sem limite] fila=43 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-256/
+  [536/sem limite] fila=42 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-255/
+  [537/sem limite] fila=41 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-254/
+  [538/sem limite] fila=40 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-253/
+  [539/sem limite] fila=39 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-252/
+  [540/sem limite] fila=38 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-251/
+  [541/sem limite] fila=37 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-250/
+  [542/sem limite] fila=36 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-249/
+  [543/sem limite] fila=35 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-248/
+  [544/sem limite] fila=34 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-247/
+  [545/sem limite] fila=33 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/19/
+  [546/sem limite] fila=32 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/42/
+  [547/sem limite] fila=31 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/noticias/page/41/
+  [548/sem limite] fila=30 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [549/sem limite] fila=29 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-246/
+  [550/sem limite] fila=28 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-245/
+  [551/sem limite] fila=27 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-243/
+  [552/sem limite] fila=26 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-244/
+  [553/sem limite] fila=25 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-242/
+  [554/sem limite] fila=24 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-241/
+  [555/sem limite] fila=23 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-239/
+  [556/sem limite] fila=22 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [557/sem limite] fila=21 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-99/
+  [558/sem limite] fila=20 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-100/
+  [559/sem limite] fila=19 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-101/
+  [560/sem limite] fila=18 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-102/
+  [561/sem limite] fila=17 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-103/
+  [562/sem limite] fila=16 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-98/
+  [563/sem limite] fila=15 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/plano-intermunicipal-de-gesto-integrada-de-
+  [564/sem limite] fila=14 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-96/
+  [565/sem limite] fila=13 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-97/
+  [566/sem limite] fila=12 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-95/
+  [567/sem limite] fila=11 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+  [568/sem limite] fila=10 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-115/
+  [569/sem limite] fila=9 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-116/
+  [570/sem limite] fila=8 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-111/
+  [571/sem limite] fila=7 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-110/
+  [572/sem limite] fila=6 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-109/
+  [573/sem limite] fila=5 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-108/
+  [574/sem limite] fila=4 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-107/
+  [575/sem limite] fila=3 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-106/
+  [576/sem limite] fila=2 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-104/
+  [577/sem limite] fila=1 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/boletim-dirio-105/
+  [578/sem limite] fila=0 | depth=10 | https://www.saojoaodocaiua.pr.gov.br/category/secretaria-municipal-da-saude/page
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_links.xlsx
+  67 arquivos registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_externos.xlsx
+  1657 links externos registrados.
+
+  Varredura encerrada: SAOJOAODOCAIUA
+  Páginas nesta sessão: 578
+  Páginas totais (acumulado): 578
+  Arquivos no inventário: 67
+  Erros registrados: 0
+
+
+ Pipeline encerrado. Resultados em: resultados/saojoaodocaiua/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas São João do Caiuá)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 São João do Caiuá (slug: saojoaodocaiua)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://saojoaodocaiua.eloweb.net/portaltransparencia/
+           *  ✅ https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/
+            + ✅ https://www.saojoaodocaiua.pr.gov.br/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +1 domínio(s)]
+           → https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOJOAODOCAIUA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 67 arquivos já registrados.
+  Links externos parciais carregados: 1657 links já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: nenhum erro no log — nada a re-enfileirar.
+
+============================================================
+  Crawler iniciado: SAOJOAODOCAIUA
+  Páginas já visitadas (checkpoint): 578
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+578)/sem limite] fila=0 | depth=0 | https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/
+  🤖 Usando Selenium para: https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/
+  ⏭️  CAPTCHA detectado em: https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/ — pulando (sem intervenção manual)
+ ❌ CAPTCHA_NAO_RESOLVIDO: https://saojoaodocaiua.oxy.elotech.com.br/portaltransparencia/1/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_links.xlsx
+  67 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/erros_varredura.xlsx
+  1 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/saojoaodocaiua/inventario_externos.xlsx
+  1657 links externos registrados.
+
+  Varredura encerrada: SAOJOAODOCAIUA
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 579
+  Arquivos no inventário: 67
+  Erros registrados: 1
+
+
+ Pipeline encerrado. Resultados em: resultados/saojoaodocaiua/
+============================================================
+
