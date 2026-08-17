@@ -1,0 +1,392 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TIJUCASDOSUL
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TIJUCASDOSUL
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.tijucasdosul.pr.gov.br/
+  [2/sem limite] fila=66 | depth=1 | https://www.tijucasdosul.pr.gov.br/acessibilidade
+  [3/sem limite] fila=65 | depth=1 | https://www.tijucasdosul.pr.gov.br/mapa-do-site
+  [4/sem limite] fila=75 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade
+  [5/sem limite] fila=74 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/panorama-do-municipio
+  [6/sem limite] fila=73 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/politica
+  [7/sem limite] fila=72 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/etimologia-e-gentilico
+  [8/sem limite] fila=71 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/simbolos
+  [9/sem limite] fila=70 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/hidrografia
+  [10/sem limite] fila=69 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/clima-e-temperatura
+  [11/sem limite] fila=68 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/localizacao
+  [12/sem limite] fila=67 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/turismo
+  [13/sem limite] fila=66 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/turismo/turismo-em-tijucas-do-sul
+  [14/sem limite] fila=65 | depth=1 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/
+  [15/sem limite] fila=108 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/turismo/cadastro-cultural
+  [16/sem limite] fila=107 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidade/turismo/ebooks
+  [17/sem limite] fila=106 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade
+  [18/sem limite] fila=105 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/planos-diretor
+  [19/sem limite] fila=104 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/leis-vigentes-
+  [20/sem limite] fila=103 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/audiencias-pub
+  [21/sem limite] fila=102 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/minutas-de-lei
+  [22/sem limite] fila=101 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/produtos
+  [23/sem limite] fila=100 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/grupo-de-acomp
+  [24/sem limite] fila=99 | depth=1 | https://www.tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/noticias
+  [25/sem limite] fila=98 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias
+  [26/sem limite] fila=97 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/administracao-e-planejamento
+  [27/sem limite] fila=96 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/agricultura
+  [28/sem limite] fila=95 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/assistencia-social-e-politicas-pu
+  [29/sem limite] fila=94 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/educacao
+  [30/sem limite] fila=93 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/financas
+  [31/sem limite] fila=92 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/secretaria-de-governo
+  [32/sem limite] fila=91 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/desenvolvimento-economico
+  [33/sem limite] fila=90 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/obras-e-viacao
+  [34/sem limite] fila=89 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/saude
+  [35/sem limite] fila=88 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/meio-ambiente-e-servicos-publicos
+  [36/sem limite] fila=87 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/urbanismo-seguranca-e-transito
+  [37/sem limite] fila=86 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/gabinete-do-prefeito
+  [38/sem limite] fila=85 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/esporte-lazer-e-juventude
+  [39/sem limite] fila=84 | depth=1 | https://www.tijucasdosul.pr.gov.br/secretarias/cultura-e-turismo
+  [40/sem limite] fila=83 | depth=1 | https://www.tijucasdosul.pr.gov.br/1000-dias-de-governo
+  [41/sem limite] fila=82 | depth=1 | https://www.tijucasdosul.pr.gov.br/servicos
+  [42/sem limite] fila=81 | depth=1 | https://www.tijucasdosul.pr.gov.br/servicos/sala-do-empreendedor
+  [43/sem limite] fila=80 | depth=1 | https://www.tijucasdosul.pr.gov.br/fale-conosco
+  [44/sem limite] fila=79 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidadao/transporte-cidadao-e-intermunicipal
+  [45/sem limite] fila=78 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidadao/coleta-de-lixo
+  [46/sem limite] fila=77 | depth=1 | https://www.tijucasdosul.pr.gov.br/cidadao/tutoriais
+  [47/sem limite] fila=76 | depth=1 | https://exchange.tijucasdosul.pr.gov.br/
+  [48/sem limite] fila=75 | depth=1 | https://www.tijucasdosul.pr.gov.br/servidor/portal-do-servidor
+  [49/sem limite] fila=74 | depth=1 | https://www.tijucasdosul.pr.gov.br/servidor/protocolo-rh
+  [50/sem limite] fila=73 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/avisos
+  [51/sem limite] fila=72 | depth=1 | https://www.tijucasdosul.pr.gov.br/processos-seletivos
+  [52/sem limite] fila=71 | depth=1 | https://www.tijucasdosul.pr.gov.br/concursos-publicos
+  [53/sem limite] fila=70 | depth=1 | https://www.tijucasdosul.pr.gov.br/acesso-a-informacao
+  [54/sem limite] fila=69 | depth=1 | https://tijucasdosul.pr.gov.br/sim-servico-de-inspecao-municipal
+  [55/sem limite] fila=113 | depth=1 | https://www.tijucasdosul.pr.gov.br/horarios-de-onibus
+  [56/sem limite] fila=112 | depth=1 | https://www.tijucasdosul.pr.gov.br/projetos-culturais
+  [57/sem limite] fila=111 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias
+  [58/sem limite] fila=110 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/geral/o-processo-suplementar-de-esco
+  [59/sem limite] fila=109 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/geral/atencao-moradores
+  [60/sem limite] fila=108 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/geral/ampliacao-da-biblioteca-public
+  [61/sem limite] fila=107 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/geral/prefeitura-solicita-estudos-de
+  [62/sem limite] fila=106 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico/prefeitura
+  [63/sem limite] fila=105 | depth=1 | https://www.tijucasdosul.pr.gov.br/noticias/cultura-e-turismo/gestores-e-empresa
+  [64/sem limite] fila=104 | depth=1 | https://www.tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-comer
+  [65/sem limite] fila=103 | depth=1 | https://www.tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ficar
+  [66/sem limite] fila=102 | depth=1 | https://www.tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ir
+  [67/sem limite] fila=101 | depth=1 | https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  [68/sem limite] fila=100 | depth=1 | https://www.tijucasdosul.pr.gov.br/politica-de-privacidade
+  [69/sem limite] fila=99 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/geral
+  [70/sem limite] fila=98 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/agricultura
+  [71/sem limite] fila=97 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/assistencia-social
+  [72/sem limite] fila=96 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico
+  [73/sem limite] fila=95 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/educacao
+  [74/sem limite] fila=94 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/esportes
+  [75/sem limite] fila=93 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/cultura
+  [76/sem limite] fila=92 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/saude
+  [77/sem limite] fila=91 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/cultura-e-turismo
+  [78/sem limite] fila=90 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/obras-e-viacao
+  [79/sem limite] fila=89 | depth=2 | https://www.tijucasdosul.pr.gov.br/noticias/urbanismo
+  [80/sem limite] fila=88 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/página-inicial
+  [81/sem limite] fila=87 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/rota
+  [82/sem limite] fila=86 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/rota/tijucas-do-sul
+  [83/sem limite] fila=85 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/rota/sergius-erdelyi
+  [84/sem limite] fila=84 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/rota/rota-rural-sergius-e
+  [85/sem limite] fila=83 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/rota/rota-rural-sergius-e
+  [86/sem limite] fila=82 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos
+  [87/sem limite] fila=81 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [88/sem limite] fila=80 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [89/sem limite] fila=79 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [90/sem limite] fila=78 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [91/sem limite] fila=77 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [92/sem limite] fila=76 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/igreja-e-capela
+  [93/sem limite] fila=75 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/espaço-sergius-
+  [94/sem limite] fila=74 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/espaço-sergius-
+  [95/sem limite] fila=73 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/espaço-sergius-
+  [96/sem limite] fila=72 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/lazer-e-eventos
+  [97/sem limite] fila=71 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/lazer-e-eventos
+  [98/sem limite] fila=70 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/lazer-e-eventos
+  [99/sem limite] fila=69 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/lazer-e-eventos
+  [100/sem limite] fila=68 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/lazer-e-eventos
+  [101/sem limite] fila=67 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer
+  [102/sem limite] fila=66 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/erli
+  [103/sem limite] fila=65 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/espa
+  [104/sem limite] fila=64 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/pesq
+  [105/sem limite] fila=63 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/ajr-
+  [106/sem limite] fila=62 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/lili
+  [107/sem limite] fila=61 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-comer/seu-
+  [108/sem limite] fila=60 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-ficar
+  [109/sem limite] fila=59 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-ficar/espa
+  [110/sem limite] fila=58 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/onde-ficar/ranc
+  [111/sem limite] fila=57 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [112/sem limite] fila=56 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [113/sem limite] fila=55 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [114/sem limite] fila=54 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [115/sem limite] fila=53 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [116/sem limite] fila=52 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/hortifrutigranj
+  [117/sem limite] fila=51 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/artesanatos
+  [118/sem limite] fila=50 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/artesanatos/lem
+  [119/sem limite] fila=49 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/artesanatos/art
+  [120/sem limite] fila=48 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/artesanatos/rec
+  [121/sem limite] fila=47 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/artesanatos/sít
+  [122/sem limite] fila=46 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/atrativos/agência-de-rece
+  [123/sem limite] fila=45 | depth=2 | https://rotaruralsergiuserdelyi.tijucasdosul.pr.gov.br/localização
+  [124/sem limite] fila=44 | depth=2 | https://tijucasdosul.pr.gov.br/acessibilidade
+  [125/sem limite] fila=43 | depth=2 | https://tijucasdosul.pr.gov.br/mapa-do-site
+  [126/sem limite] fila=59 | depth=2 | https://tijucasdosul.pr.gov.br/
+  [127/sem limite] fila=72 | depth=2 | https://tijucasdosul.pr.gov.br/cidade
+  [128/sem limite] fila=71 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/panorama-do-municipio
+  [129/sem limite] fila=70 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/politica
+  [130/sem limite] fila=69 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/etimologia-e-gentilico
+  [131/sem limite] fila=68 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/simbolos
+  [132/sem limite] fila=67 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/hidrografia
+  [133/sem limite] fila=66 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/clima-e-temperatura
+  [134/sem limite] fila=65 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/localizacao
+  [135/sem limite] fila=64 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/turismo
+  [136/sem limite] fila=63 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/turismo/turismo-em-tijucas-do-sul
+  [137/sem limite] fila=62 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/turismo/cadastro-cultural
+  [138/sem limite] fila=61 | depth=2 | https://tijucasdosul.pr.gov.br/cidade/turismo/ebooks
+  [139/sem limite] fila=60 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade
+  [140/sem limite] fila=59 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/planos-diretor
+  [141/sem limite] fila=58 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/leis-vigentes-do-p
+  [142/sem limite] fila=57 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/audiencias-publica
+  [143/sem limite] fila=56 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/minutas-de-lei
+  [144/sem limite] fila=55 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/produtos
+  [145/sem limite] fila=54 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/grupo-de-acompanha
+  [146/sem limite] fila=53 | depth=2 | https://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/noticias
+  [147/sem limite] fila=52 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias
+  [148/sem limite] fila=51 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/administracao-e-planejamento
+  [149/sem limite] fila=50 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/agricultura
+  [150/sem limite] fila=49 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/assistencia-social-e-politicas-public
+  [151/sem limite] fila=48 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/educacao
+  [152/sem limite] fila=47 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/financas
+  [153/sem limite] fila=46 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/secretaria-de-governo
+  [154/sem limite] fila=45 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/desenvolvimento-economico
+  [155/sem limite] fila=44 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/obras-e-viacao
+  [156/sem limite] fila=88 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/saude
+  [157/sem limite] fila=87 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/meio-ambiente-e-servicos-publicos
+  [158/sem limite] fila=86 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/urbanismo-seguranca-e-transito
+  [159/sem limite] fila=85 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/gabinete-do-prefeito
+  [160/sem limite] fila=84 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/esporte-lazer-e-juventude
+  [161/sem limite] fila=83 | depth=2 | https://tijucasdosul.pr.gov.br/secretarias/cultura-e-turismo
+  [162/sem limite] fila=82 | depth=2 | https://tijucasdosul.pr.gov.br/1000-dias-de-governo
+  [163/sem limite] fila=81 | depth=2 | https://tijucasdosul.pr.gov.br/servicos
+  [164/sem limite] fila=80 | depth=2 | https://tijucasdosul.pr.gov.br/servicos/sala-do-empreendedor
+  [165/sem limite] fila=79 | depth=2 | https://tijucasdosul.pr.gov.br/fale-conosco
+  [166/sem limite] fila=78 | depth=2 | https://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  [167/sem limite] fila=77 | depth=2 | https://tijucasdosul.pr.gov.br/cidadao/tutoriais
+  [168/sem limite] fila=76 | depth=2 | https://tijucasdosul.pr.gov.br/politica-de-privacidade
+  [169/sem limite] fila=75 | depth=3 | https://tijucasdosul.pr.gov.br/processos-seletivos
+  [170/sem limite] fila=74 | depth=3 | https://tijucasdosul.pr.gov.br/concursos-publicos
+  [171/sem limite] fila=73 | depth=3 | https://tijucasdosul.pr.gov.br/acesso-a-informacao
+  [172/sem limite] fila=72 | depth=3 | https://tijucasdosul.pr.gov.br/horarios-de-onibus
+  [173/sem limite] fila=71 | depth=3 | https://tijucasdosul.pr.gov.br/projetos-culturais
+  [174/sem limite] fila=70 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/geral
+  [175/sem limite] fila=69 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/avisos
+  [176/sem limite] fila=68 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/agricultura
+  [177/sem limite] fila=67 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/assistencia-social
+  [178/sem limite] fila=66 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico
+  [179/sem limite] fila=65 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/educacao
+  [180/sem limite] fila=64 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/esportes
+  [181/sem limite] fila=63 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/cultura
+  [182/sem limite] fila=62 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/saude
+  [183/sem limite] fila=61 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/cultura-e-turismo
+  [184/sem limite] fila=60 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/obras-e-viacao
+  [185/sem limite] fila=59 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/urbanismo
+  [186/sem limite] fila=58 | depth=3 | https://tijucasdosul.pr.gov.br/cidadao/transporte-cidadao-e-intermunicipal
+  [187/sem limite] fila=57 | depth=3 | https://tijucasdosul.pr.gov.br/cidadao/coleta-de-lixo
+  [188/sem limite] fila=56 | depth=3 | https://tijucasdosul.pr.gov.br/servidor/portal-do-servidor
+  [189/sem limite] fila=55 | depth=3 | https://tijucasdosul.pr.gov.br/servidor/protocolo-rh
+  [190/sem limite] fila=54 | depth=3 | https://tijucasdosul.pr.gov.br/noticias
+  [191/sem limite] fila=53 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/geral/o-processo-suplementar-de-escolha-
+  [192/sem limite] fila=52 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/geral/atencao-moradores
+  [193/sem limite] fila=51 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/geral/ampliacao-da-biblioteca-publica-mu
+  [194/sem limite] fila=50 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/geral/prefeitura-solicita-estudos-de-mel
+  [195/sem limite] fila=49 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico/prefeitura-inv
+  [196/sem limite] fila=48 | depth=3 | https://tijucasdosul.pr.gov.br/noticias/cultura-e-turismo/gestores-e-empresarios
+  [197/sem limite] fila=47 | depth=3 | https://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-comer
+  [198/sem limite] fila=46 | depth=3 | https://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ficar
+  [199/sem limite] fila=45 | depth=3 | https://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ir
+  [200/sem limite] fila=44 | depth=3 | http://tijucasdosul.pr.gov.br/acessibilidade
+
+  Nenhum arquivo encontrado para tijucasdosul.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/erros_varredura.xlsx
+  3 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/inventario_externos.xlsx
+  19 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=43 | depth=3 | http://tijucasdosul.pr.gov.br/mapa-do-site
+  [202/sem limite] fila=59 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/obras-e-viacao
+  [203/sem limite] fila=58 | depth=3 | http://tijucasdosul.pr.gov.br/
+  [204/sem limite] fila=71 | depth=3 | http://tijucasdosul.pr.gov.br/cidade
+  [205/sem limite] fila=70 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/panorama-do-municipio
+  [206/sem limite] fila=69 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/politica
+  [207/sem limite] fila=68 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/etimologia-e-gentilico
+  [208/sem limite] fila=67 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/simbolos
+  [209/sem limite] fila=66 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/hidrografia
+  [210/sem limite] fila=65 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/clima-e-temperatura
+  [211/sem limite] fila=64 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/localizacao
+  [212/sem limite] fila=63 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/turismo
+  [213/sem limite] fila=62 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/turismo/turismo-em-tijucas-do-sul
+  [214/sem limite] fila=61 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/turismo/cadastro-cultural
+  [215/sem limite] fila=60 | depth=3 | http://tijucasdosul.pr.gov.br/cidade/turismo/ebooks
+  [216/sem limite] fila=59 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade
+  [217/sem limite] fila=58 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/planos-diretor
+  [218/sem limite] fila=57 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/leis-vigentes-do-pl
+  [219/sem limite] fila=56 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/audiencias-publicas
+  [220/sem limite] fila=55 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/minutas-de-lei
+  [221/sem limite] fila=54 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/produtos
+  [222/sem limite] fila=53 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/grupo-de-acompanham
+  [223/sem limite] fila=52 | depth=3 | http://tijucasdosul.pr.gov.br/planos-diretor-e-de-mobilidade/noticias
+  [224/sem limite] fila=51 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias
+  [225/sem limite] fila=50 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/administracao-e-planejamento
+  [226/sem limite] fila=49 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/agricultura
+  [227/sem limite] fila=48 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/assistencia-social-e-politicas-publica
+  [228/sem limite] fila=47 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/educacao
+  [229/sem limite] fila=46 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/financas
+  [230/sem limite] fila=45 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/secretaria-de-governo
+  [231/sem limite] fila=44 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/desenvolvimento-economico
+  [232/sem limite] fila=43 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/saude
+  [233/sem limite] fila=42 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/meio-ambiente-e-servicos-publicos
+  [234/sem limite] fila=41 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/urbanismo-seguranca-e-transito
+  [235/sem limite] fila=40 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/gabinete-do-prefeito
+  [236/sem limite] fila=39 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/esporte-lazer-e-juventude
+  [237/sem limite] fila=38 | depth=3 | http://tijucasdosul.pr.gov.br/secretarias/cultura-e-turismo
+  [238/sem limite] fila=37 | depth=3 | http://tijucasdosul.pr.gov.br/1000-dias-de-governo
+  [239/sem limite] fila=36 | depth=3 | http://tijucasdosul.pr.gov.br/servicos
+  [240/sem limite] fila=35 | depth=3 | http://tijucasdosul.pr.gov.br/servicos/sala-do-empreendedor
+  [241/sem limite] fila=34 | depth=3 | http://tijucasdosul.pr.gov.br/fale-conosco
+  [242/sem limite] fila=33 | depth=3 | http://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: http://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: http://tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  [243/sem limite] fila=32 | depth=3 | http://tijucasdosul.pr.gov.br/cidadao/tutoriais
+  [244/sem limite] fila=31 | depth=3 | http://tijucasdosul.pr.gov.br/politica-de-privacidade
+  [245/sem limite] fila=30 | depth=4 | http://tijucasdosul.pr.gov.br/processos-seletivos
+  [246/sem limite] fila=29 | depth=4 | http://tijucasdosul.pr.gov.br/concursos-publicos
+  [247/sem limite] fila=28 | depth=4 | http://tijucasdosul.pr.gov.br/acesso-a-informacao
+  [248/sem limite] fila=27 | depth=4 | http://tijucasdosul.pr.gov.br/horarios-de-onibus
+  [249/sem limite] fila=26 | depth=4 | http://tijucasdosul.pr.gov.br/projetos-culturais
+  [250/sem limite] fila=25 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/geral
+  [251/sem limite] fila=24 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/avisos
+  [252/sem limite] fila=23 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/agricultura
+  [253/sem limite] fila=22 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/assistencia-social
+  [254/sem limite] fila=21 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico
+  [255/sem limite] fila=20 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/educacao
+  [256/sem limite] fila=19 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/esportes
+  [257/sem limite] fila=18 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/cultura
+  [258/sem limite] fila=17 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/saude
+  [259/sem limite] fila=16 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/cultura-e-turismo
+  [260/sem limite] fila=15 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/obras-e-viacao
+  [261/sem limite] fila=14 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/urbanismo
+  [262/sem limite] fila=13 | depth=4 | http://tijucasdosul.pr.gov.br/cidadao/transporte-cidadao-e-intermunicipal
+  [263/sem limite] fila=12 | depth=4 | http://tijucasdosul.pr.gov.br/cidadao/coleta-de-lixo
+  [264/sem limite] fila=11 | depth=4 | http://tijucasdosul.pr.gov.br/servidor/portal-do-servidor
+  [265/sem limite] fila=10 | depth=4 | http://tijucasdosul.pr.gov.br/servidor/protocolo-rh
+  [266/sem limite] fila=9 | depth=4 | http://tijucasdosul.pr.gov.br/noticias
+  [267/sem limite] fila=8 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/geral/o-processo-suplementar-de-escolha-d
+  [268/sem limite] fila=7 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/geral/atencao-moradores
+  [269/sem limite] fila=6 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/geral/ampliacao-da-biblioteca-publica-mun
+  [270/sem limite] fila=5 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/geral/prefeitura-solicita-estudos-de-melh
+  [271/sem limite] fila=4 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/desenvolvimento-economico/prefeitura-inve
+  [272/sem limite] fila=3 | depth=4 | http://tijucasdosul.pr.gov.br/noticias/cultura-e-turismo/gestores-e-empresarios-
+  [273/sem limite] fila=2 | depth=4 | http://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-comer
+  [274/sem limite] fila=1 | depth=4 | http://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ficar
+  [275/sem limite] fila=0 | depth=4 | http://tijucasdosul.pr.gov.br/quem-voce-e/turista/onde-ir
+
+  Nenhum arquivo encontrado para tijucasdosul.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/inventario_externos.xlsx
+  19 links externos registrados.
+
+  Varredura encerrada: TIJUCASDOSUL
+  Páginas nesta sessão: 275
+  Páginas totais (acumulado): 275
+  Arquivos no inventário: 0
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/tijucasdosul/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Tijucas do Sul)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Tijucas do Sul (slug: tijucasdosul)...   → buscando no DuckDuckGo (apenas inventário)... 
+           *  ✗ https://tijucasdosulpr.equiplano.com.br:7025/transparencia/
+              ✅ https://tijucasdosulprev.pr.gov.br/transparencia/
+            + ✅ https://www.tijucasdosul.pr.gov.br/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TIJUCASDOSUL
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+  Links externos parciais carregados: 19 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+  Reprocessar erros: 1 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 3 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: TIJUCASDOSUL
+  Páginas já visitadas (checkpoint): 274
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+274)/sem limite] fila=0 | depth=1 | https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://www.tijucasdosul.pr.gov.br/cdn-cgi/l/email-protection
+
+  Nenhum arquivo encontrado para tijucasdosul.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/erros_varredura.xlsx
+  4 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tijucasdosul/inventario_externos.xlsx
+  19 links externos registrados.
+
+  Varredura encerrada: TIJUCASDOSUL
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 275
+  Arquivos no inventário: 0
+  Erros registrados: 4
+
+
+ Pipeline encerrado. Resultados em: resultados/tijucasdosul/
+============================================================
+

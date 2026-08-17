@@ -1,0 +1,1073 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTATEREZADOOESTE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SANTATEREZADOOESTE
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.santatereza.pr.gov.br/site/
+  [2/sem limite] fila=50 | depth=1 | https://www.santatereza.pr.gov.br/
+  [3/sem limite] fila=49 | depth=1 | https://www.santatereza.pr.gov.br/pagina/739_PRESTACAO-DE-CONTAS.html
+  [4/sem limite] fila=48 | depth=1 | https://www.santatereza.pr.gov.br/pagina/533_PLANO-DIRETOR.html
+  [5/sem limite] fila=47 | depth=1 | https://www.santatereza.pr.gov.br/pagina/690_APRESENTACAO.html
+  [6/sem limite] fila=46 | depth=1 | https://www.santatereza.pr.gov.br/pagina/688_HISTORICO.html
+  [7/sem limite] fila=45 | depth=1 | https://www.santatereza.pr.gov.br/pagina/689_HINO-MUNICIPAL.html
+  [8/sem limite] fila=44 | depth=1 | https://www.santatereza.pr.gov.br/pagina/691_ILUMINACAO-PUBLICA.html
+  [9/sem limite] fila=43 | depth=1 | https://www.santatereza.pr.gov.br/secretarias/
+  ⚠️ [404] . -> https://www.santatereza.pr.gov.br/secretarias/Av.
+  [10/sem limite] fila=61 | depth=1 | https://www.santatereza.pr.gov.br/pagina/734_REGULAMENTACAO.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-No-0
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/FORMULARIO-D
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/FORMULARIO-D
+  [11/sem limite] fila=60 | depth=1 | https://www.santatereza.pr.gov.br/pagina/750_LGPD.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-N-11
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ANEXO-II-MOD
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ANEXO-I-MODE
+  [12/sem limite] fila=59 | depth=1 | https://www.santatereza.pr.gov.br/pagina/710_CONCURSO-2026.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ANEXO-UNICO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDITAL-001-2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDITAL-001-2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDITAL-001-2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDITAL-DE-RE
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ENSALAMENTO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/HOMOLOGACAO-
+  [13/sem limite] fila=58 | depth=1 | https://www.santatereza.pr.gov.br/pagina/728_CARTA-DE-SERVICOS.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/formularioat
+  [14/sem limite] fila=57 | depth=1 | https://www.santatereza.pr.gov.br/pagina/720_COMPETENCIAS-ATRIBUICOES.html
+  [15/sem limite] fila=56 | depth=1 | https://www.santatereza.pr.gov.br/pagina/525_ESTRUTURA-ORGANIZACIONAL.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-2058-REE
+  [16/sem limite] fila=55 | depth=1 | https://www.santatereza.pr.gov.br/pagina/522_ENDERECOS.html
+  [17/sem limite] fila=54 | depth=1 | https://www.santatereza.pr.gov.br/pagina/528_TELEFONES-DE-CONTATO.html
+  [18/sem limite] fila=56 | depth=1 | https://www.santatereza.pr.gov.br/pagina/731_SAUDE.html
+  [19/sem limite] fila=55 | depth=1 | https://www.santatereza.pr.gov.br/pagina/721_SECRETARIAS.html
+  [20/sem limite] fila=54 | depth=1 | https://www.santatereza.pr.gov.br/pagina/729_PORTAL.html
+  [21/sem limite] fila=53 | depth=1 | https://www.santatereza.pr.gov.br/pagina/727_2026.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-UFM-
+  [22/sem limite] fila=52 | depth=1 | https://www.santatereza.pr.gov.br/pagina/556_SALA-DO-EMPREENDEDOR.html
+  [23/sem limite] fila=51 | depth=1 | https://www.santatereza.pr.gov.br/pagina/521_LAUDO-VTN.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/SANTATEREZAD
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LAUDO-TECNIC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LAUDO-TECNIC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/TEXTO-PARA-S
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LAudo-deVTN-
+  [24/sem limite] fila=50 | depth=1 | https://www.santatereza.pr.gov.br/contato/
+  [25/sem limite] fila=49 | depth=1 | https://www.santatereza.pr.gov.br/localizacao/
+  [26/sem limite] fila=48 | depth=1 | https://www.santatereza.pr.gov.br/faq/
+  [27/sem limite] fila=47 | depth=1 | https://www.santatereza.pr.gov.br/faq
+  [28/sem limite] fila=46 | depth=1 | https://www.santatereza.pr.gov.br/pagina/562_Mapa.html
+  [29/sem limite] fila=45 | depth=1 | https://www.santatereza.pr.gov.br/pagina/518_Covid.html
+  [30/sem limite] fila=44 | depth=1 | https://www.santatereza.pr.gov.br/noticias/
+  [31/sem limite] fila=98 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1937
+  [32/sem limite] fila=97 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1936
+  [33/sem limite] fila=96 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1928
+  [34/sem limite] fila=95 | depth=1 | https://www.santatereza.pr.gov.br/servicos/
+  [35/sem limite] fila=94 | depth=1 | https://www.santatereza.pr.gov.br/pagina/502_Lista-de-Espera-Cmeis.html
+  📄 [200] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/2139ae97-54b
+  📄 [200] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/833bc23e-926
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Chamamento-I
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Chamamento-I
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Chamamento-I
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Design-sem-n
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Design-sem-n
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Criterios-de
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Normativa-Ed
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-CRIANCA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-MARIANO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-VERCIDI
+  [36/sem limite] fila=93 | depth=1 | https://www.santatereza.pr.gov.br/pagina/515_Endereco-de-Escolas.html
+  [37/sem limite] fila=92 | depth=1 | https://www.santatereza.pr.gov.br/pagina/514_Plano-Municipal.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-06-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-01-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-01-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-02-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-03-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-04-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-05-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-07-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-08-DE-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-208-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-156-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-157-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/diario-ofici
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-No-0
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-nome
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Decreto-200-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ELEICAODIRET
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-DE-REEST
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-NACION
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-MUNICIPA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANOACAO202
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PME-ATUALIZA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/diario-ofici
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PROJETOESCOL
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-MUNICI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PlanoMunicip
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RELATORIOCON
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RelatoriodeM
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Relatorio-de
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Relatorio-de
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Relatorio-de
+  [38/sem limite] fila=91 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1927
+  [39/sem limite] fila=90 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1926
+  [40/sem limite] fila=89 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1930
+  [41/sem limite] fila=88 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1923
+  [42/sem limite] fila=87 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1922
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/noticia/arquivos/Edital-Plan
+  [43/sem limite] fila=86 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1921
+  [44/sem limite] fila=86 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+  [45/sem limite] fila=85 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1919
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/noticia/arquivos/RESOLUCAO-N
+  [46/sem limite] fila=84 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1918
+  [47/sem limite] fila=83 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1917
+  [48/sem limite] fila=82 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1916
+  [49/sem limite] fila=81 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1915
+  [50/sem limite] fila=80 | depth=1 | https://www.santatereza.pr.gov.br/contato
+  [51/sem limite] fila=79 | depth=1 | https://www.santatereza.pr.gov.br/localizacao
+  [52/sem limite] fila=78 | depth=1 | https://www.santatereza.pr.gov.br/pagina/457_LGPD-Politica-de-Privacidade.html
+  [53/sem limite] fila=77 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/45_SECRETARIA-DE-TECNOLOGIA-DA-
+  [54/sem limite] fila=78 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/48_SECRETARIA-DE-SEGURANCA-PUBL
+  [55/sem limite] fila=77 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/51_SECRETARIA-DE-ASSISTENCIA-SO
+  ⚠️ [404] . -> https://www.santatereza.pr.gov.br/secretariaView/Av.
+  [56/sem limite] fila=158 | depth=2 | https://www.santatereza.pr.gov.br/secretarias/</li
+ ❌ HTTP_404: https://www.santatereza.pr.gov.br/secretarias/</li
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/secretarias/</li
+ ❌ HTTP_404: https://www.santatereza.pr.gov.br/secretarias/</li
+  [57/sem limite] fila=157 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/52_SECRETARIA-DE-ADMINISTRACAO.
+  [58/sem limite] fila=171 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/54_SECRETARIA-DE-EDUCACAO.html
+  [59/sem limite] fila=199 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/55_SECRETARIA-DE-PLANEJAMENTO.h
+  [60/sem limite] fila=204 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/56_SECRETARIA-DE-INFRAESTRUTURA
+  [61/sem limite] fila=203 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/58_SECRETARIA-DE-ESPORTES-E-LAZ
+  [62/sem limite] fila=208 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/59_SECRETARIA-DE-CULTURA-E-TURI
+  [63/sem limite] fila=223 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/60_SECRETARIA-DE-AGRICULTURA.ht
+  [64/sem limite] fila=240 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/62_SECRETARIA-DE-MEIO-AMBIENTE.
+  [65/sem limite] fila=246 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/63_SECRETARIA-DE-SAUDE.html
+  [66/sem limite] fila=246 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/66_SECRETARIA-DE-TRANSITO.html
+  [67/sem limite] fila=257 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/67_SECRETARIA-DE-PATRIMONIO.htm
+  [68/sem limite] fila=256 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/68_SECRETARIA-DA-MULHER-E-IGUAL
+  [69/sem limite] fila=264 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/69_DEPARTAMENTO-DE-CONTROLE-INT
+  [70/sem limite] fila=269 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/70_SECRETARIA-DE-COMUNICACAO.ht
+  [71/sem limite] fila=268 | depth=2 | https://www.santatereza.pr.gov.br/secretariaView/72_SECRETARIA-DE-DESENVOLVIMENT
+  [72/sem limite] fila=267 | depth=2 | https://www.santatereza.pr.gov.br/pagina/519_Unidades-de-Saude.html
+  [73/sem limite] fila=266 | depth=2 | https://www.santatereza.pr.gov.br/pagina/527_listafoneeducacao.html
+  [74/sem limite] fila=265 | depth=2 | https://www.santatereza.pr.gov.br/pagina/530_Lista-Fones-Secretarias.html
+  [75/sem limite] fila=264 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=54
+  [76/sem limite] fila=264 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=52
+  [77/sem limite] fila=270 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=60
+  [78/sem limite] fila=295 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=51
+  [79/sem limite] fila=294 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=59
+  [80/sem limite] fila=295 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=62
+  [81/sem limite] fila=297 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=55
+  [82/sem limite] fila=296 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=45
+  [83/sem limite] fila=295 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?secretaria=66
+  [84/sem limite] fila=295 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1937_FORTALECENDO-A-PARCERIA-JUNT
+  [85/sem limite] fila=294 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1936_4-CORRIDA-CORRESTO.html
+  [86/sem limite] fila=293 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1928_13o-RODEIO-FESTA-DO-PEAO-DE-
+  [87/sem limite] fila=292 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1927_O-SOM-DA-FANFARRA-VOLTOU-A-F
+  [88/sem limite] fila=291 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1926_CULTIVAR-A-TERRA-TAMBEM-E-UM
+  [89/sem limite] fila=290 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1930_Produtos-comercializados-na-
+  [90/sem limite] fila=289 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1923_DIVULGA-OS-FERIADOS-E-PONTOS
+  [91/sem limite] fila=288 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1922_Plano-de-Acao-Transferencia-
+  [92/sem limite] fila=287 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1921_Dispoe-sobre-o-Plano-Municip
+  [93/sem limite] fila=286 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-recon
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-reconhece-os-avancos-na-alfabetizacao-dos-estudantes-dos-2o-anos.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-reconhece-os-avancos-na-alfabetizacao-dos-estudantes-dos-2o-anos.html
+  [94/sem limite] fila=285 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1919_Resolucao-0012025-Grupo-de-t
+  [95/sem limite] fila=284 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1918_MAIS-MELHORIAS-PARA-AS-ESTRA
+  [96/sem limite] fila=283 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1917_VOLTA-AS-AULAS-REDE-MUNICIPA
+  [97/sem limite] fila=282 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1916_21o-FERMOP.html
+  [98/sem limite] fila=281 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1915_Prefeito-e-Secretaria-de-Cul
+  [99/sem limite] fila=280 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1914_Aniversario-de-emancipacao-p
+  [100/sem limite] fila=279 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1913_7-Feira-Municipal-da-Industr
+  [101/sem limite] fila=278 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1912_15-Pesca-no-Lago-.html
+  [102/sem limite] fila=277 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1911_2o-Encontro-de-Mulheres.html
+  [103/sem limite] fila=276 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1910_NESTA-SEXTA-FEIRA-TEM-FEIRA-
+  [104/sem limite] fila=275 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1909_TRABALHO-PARCERIA-E-COMPROMI
+  [105/sem limite] fila=274 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1908_UM-PASSO-IMPORTANTE-PARA-UMA
+  [106/sem limite] fila=273 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1907_PLANEJAMENTO-E-ORGANIZACAO-P
+  [107/sem limite] fila=272 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1906_DIALOGO-E-PLANEJAMENTO-PARA-
+  [108/sem limite] fila=271 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1905_ATENCAO-AS-CONDICOES-CLIMATI
+  [109/sem limite] fila=270 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1934_Conservacao-de-solo.html
+  [110/sem limite] fila=269 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1935_Fazendo-visita-tecnica-ao-pr
+  [111/sem limite] fila=268 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1932_Fazendo-visita-tecnica-ao-pr
+  [112/sem limite] fila=267 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprend
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estudantes-da-Rede-Municipal.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estudantes-da-Rede-Municipal.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estudantes-da-Rede-Municipal.html
+  [113/sem limite] fila=266 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1901_O-agro-de-Santa-Tereza-do-Oe
+  [114/sem limite] fila=265 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1902_A-Prefeitura-de-Santa-Tereza
+  [115/sem limite] fila=264 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tere
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edicao-nos-dias-19-e-20-de-maio.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edicao-nos-dias-19-e-20-de-maio.html
+  [116/sem limite] fila=263 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1896_Fluencia-Parana-2026-fortale
+  [117/sem limite] fila=262 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-m
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-materiais-didaticos-do-programa-Educa-Juntos.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-materiais-didaticos-do-programa-Educa-Juntos.html
+  [118/sem limite] fila=261 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1893_MAIO-AMARELO-.html
+  [119/sem limite] fila=260 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1933_Fazendo-visita-tecnica-ao-pr
+  [120/sem limite] fila=259 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1892_Educacao-que-gera-resultados
+  [121/sem limite] fila=258 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1891_Educacao-segue-no-fortalecim
+  [122/sem limite] fila=257 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1929_A-Prefeitura-destaca-a-parti
+  [123/sem limite] fila=256 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1890_MANUTENCAO-DE-SINALIZACAO.ht
+  [124/sem limite] fila=255 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=2
+  [125/sem limite] fila=255 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=3
+  [126/sem limite] fila=254 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=4
+  [127/sem limite] fila=267 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=5
+  [128/sem limite] fila=306 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=6
+  [129/sem limite] fila=345 | depth=2 | https://www.santatereza.pr.gov.br/noticias/?&pag=7
+  [130/sem limite] fila=378 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/Dispõe sobre o Plano Municipal de
+ ❌ HTTP_404: https://www.santatereza.pr.gov.br/noticiasView/Dispõe sobre o Plano Municipal de Cultura de Santa Tereza do Oeste e dá outras providências
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/Dispõe sobre o Plano Municipal de Cultura de Santa Tereza do Oeste e dá outras providências
+  [131/sem limite] fila=377 | depth=3 | https://www.santatereza.pr.gov.br/pagina/512_Tecnologia-da-Informacao.html
+  [132/sem limite] fila=376 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1889_Concurso-Publico-2026.html
+  [133/sem limite] fila=375 | depth=3 | https://www.santatereza.pr.gov.br/pagina/552_DIA-DAS-MULHERES-EM-BOA-VISTA-DA-AP
+  [134/sem limite] fila=374 | depth=3 | https://www.santatereza.pr.gov.br/pagina/565_MODELAGEM-E-HENNA-PARA-SOBRANCELHAS
+  [135/sem limite] fila=373 | depth=3 | https://www.santatereza.pr.gov.br/pagina/751_Conselho-Muncipal-de-Assistencia-So
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-001-CMAS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-002-CMAS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-003-CMAS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-004-PRE-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-005-CMAS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-007-CMAS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-01-CMAS-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-02-CMAS-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-03-CMAS-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATA-06-CMAS-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-NOME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-CMAS.pdf
+  [136/sem limite] fila=372 | depth=3 | https://www.santatereza.pr.gov.br/pagina/559_Jantar-de-Reconhecimento-para-as-Fa
+  [137/sem limite] fila=371 | depth=3 | https://www.santatereza.pr.gov.br/pagina/560_SubPrefeitura-de-Santa-Maria-foi-In
+  [138/sem limite] fila=370 | depth=3 | https://www.santatereza.pr.gov.br/pagina/561_Melhor-Idade-e-Geracao-Saude-em-Foz
+  [139/sem limite] fila=369 | depth=3 | https://www.santatereza.pr.gov.br/pagina/564_MODELAGEM-E-HENNA-PARA-SOBRANCELHAS
+  [140/sem limite] fila=368 | depth=3 | https://www.santatereza.pr.gov.br/pagina/566_Reuniao-de-Rede.html
+  [141/sem limite] fila=367 | depth=3 | https://www.santatereza.pr.gov.br/pagina/567_16-Conferencia-Municipal-De-Assiste
+  [142/sem limite] fila=366 | depth=3 | https://www.santatereza.pr.gov.br/pagina/568_Capacitacao-dos-Servidores-.html
+  [143/sem limite] fila=365 | depth=3 | https://www.santatereza.pr.gov.br/pagina/569_Secretaria-de-Esportes-realiza-doac
+  [144/sem limite] fila=364 | depth=3 | https://www.santatereza.pr.gov.br/pagina/571_3-Caminhada-do-Meio-Dia-pelo-fim-da
+  [145/sem limite] fila=363 | depth=3 | https://www.santatereza.pr.gov.br/pagina/576_Oficina-de-Viola-na-Univel-.html
+  [146/sem limite] fila=362 | depth=3 | https://www.santatereza.pr.gov.br/pagina/575_-Festa-Junina-da-Assistencia-Social
+  [147/sem limite] fila=361 | depth=3 | https://www.santatereza.pr.gov.br/pagina/574_Campanha-de-Arrecadacao-Solidaria-d
+  [148/sem limite] fila=360 | depth=3 | https://www.santatereza.pr.gov.br/pagina/572_Oficina-dos-Idosos-.html
+  [149/sem limite] fila=359 | depth=3 | https://www.santatereza.pr.gov.br/pagina/578_Programa-Caixa-DAgua-Boa.html
+  [150/sem limite] fila=358 | depth=3 | https://www.santatereza.pr.gov.br/pagina/579_Aulas-de-Informatica.html
+  [151/sem limite] fila=357 | depth=3 | https://www.santatereza.pr.gov.br/pagina/581_Passeio-com-as-criancas-do-acolhime
+  [152/sem limite] fila=356 | depth=3 | https://www.santatereza.pr.gov.br/pagina/583_25-Festa-da-Orquidea-e-do-Peixe-em-
+  [153/sem limite] fila=355 | depth=3 | https://www.santatereza.pr.gov.br/pagina/584_CMAS-CONSELHO-MUNICIPAL-DE-ASSISTEN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-MUNICI
+  [154/sem limite] fila=358 | depth=3 | https://www.santatereza.pr.gov.br/pagina/585_CMDCA-CONSELHO-MUNICIPAL-DOS-DIREIT
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-comp
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-2099-201
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-APLICA
+  [155/sem limite] fila=357 | depth=3 | https://www.santatereza.pr.gov.br/pagina/586_CMDPI-CONSELHO-MUNICIPAL-DOS-DIREIT
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-NOME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-CRIACAO.
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/REGIMENTO-IN
+  [156/sem limite] fila=356 | depth=3 | https://www.santatereza.pr.gov.br/pagina/587_CMDPD-CONSELHO-MUNICIPAL-DOS-DIREIT
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-NOME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/REGIMENTO-IN
+  [157/sem limite] fila=355 | depth=3 | https://www.santatereza.pr.gov.br/pagina/589_Servico-de-Convivencia-e-Fortalecim
+  [158/sem limite] fila=354 | depth=3 | https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Di
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Direito-da-Pessoa-com-Deficiencia-1709-.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Direito-da-Pessoa-com-Deficiencia-1709-.html
+  [159/sem limite] fila=353 | depth=3 | https://www.santatereza.pr.gov.br/pagina/591_Palestra-com-os-idosos-sobre-o-Sete
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5492353721785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5506611851785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5506881761785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5507326731785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5504258371785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5510802381785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5504151251785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5508596621785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5497700341785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5501622191785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5508557731785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5503886351785
+  [160/sem limite] fila=352 | depth=3 | https://www.santatereza.pr.gov.br/pagina/606_Acolhimento-Familiar-e-Rede-de-Aten
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5489793631785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5494633911785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5495138781785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5492831241785
+  ⚠️ [404] .jfif -> https://www.santatereza.pr.gov.br/uploads/pagina/imagens/5487185251785
+  [161/sem limite] fila=351 | depth=3 | https://www.santatereza.pr.gov.br/pagina/607_Projeto-Lacos-de-Amor.html
+  [162/sem limite] fila=350 | depth=3 | https://www.santatereza.pr.gov.br/pagina/608_Capacitacao-de-Familias-Acolhedoras
+  [163/sem limite] fila=349 | depth=3 | https://www.santatereza.pr.gov.br/pagina/609_Palestra-Show-em-Comemoracao-ao-Dia
+  [164/sem limite] fila=348 | depth=3 | https://www.santatereza.pr.gov.br/pagina/610_Caminhada-em-Comemoracao-Ao-Dia-do-
+  [165/sem limite] fila=347 | depth=3 | https://www.santatereza.pr.gov.br/pagina/614_Finalizacao-da-terceira-Olimpiada-D
+  [166/sem limite] fila=346 | depth=3 | https://www.santatereza.pr.gov.br/pagina/616_Casa-da-Mulher-Paranaense-.html
+  [167/sem limite] fila=345 | depth=3 | https://www.santatereza.pr.gov.br/pagina/631_Palestra-com-alunos-de-Direito-no-C
+  [168/sem limite] fila=344 | depth=3 | https://www.santatereza.pr.gov.br/pagina/632_Oficina-de-Sabao.html
+  [169/sem limite] fila=343 | depth=3 | https://www.santatereza.pr.gov.br/pagina/633_Oktoberfest-em-Marechal-Candido-Ron
+  [170/sem limite] fila=342 | depth=3 | https://www.santatereza.pr.gov.br/pagina/637_DANCCOS-ARTS-em-Toledo.html
+  [171/sem limite] fila=341 | depth=3 | https://www.santatereza.pr.gov.br/pagina/638_Palestra-Motivacional-.html
+  [172/sem limite] fila=340 | depth=3 | https://www.santatereza.pr.gov.br/pagina/652_Plano-Municipal-de-Assistencia-Soci
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-Munici
+  [173/sem limite] fila=339 | depth=3 | https://www.santatereza.pr.gov.br/pagina/658_RELATORIO-PMAS-2022-2025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RELATORIO-PM
+  [174/sem limite] fila=338 | depth=3 | https://www.santatereza.pr.gov.br/pagina/659_LEI-MUNICIPAL-2402-2025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-MUNICIPA
+  [175/sem limite] fila=337 | depth=3 | https://www.santatereza.pr.gov.br/pagina/661_RESOLUCAO-No-014-2025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-No
+  [176/sem limite] fila=336 | depth=3 | https://www.santatereza.pr.gov.br/pagina/662_NORMATIVA-No-001-2025-SEMAS.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/NORMATIVA-No
+  [177/sem limite] fila=335 | depth=3 | https://www.santatereza.pr.gov.br/pagina/663_ATO-NORMATIVO-03-2025-CMAS.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ATO-NORMATIV
+  [178/sem limite] fila=334 | depth=3 | https://www.santatereza.pr.gov.br/pagina/665_Politica-Municipal-de-Assistencia.h
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Politica-Mun
+  [179/sem limite] fila=333 | depth=3 | https://www.santatereza.pr.gov.br/pagina/666_LEI-BENEFICIOS-EVENTUAIS.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-BENEFICI
+  [180/sem limite] fila=332 | depth=3 | https://www.santatereza.pr.gov.br/pagina/667_SANTA-TEREZA-ORGANOGRAMA-FINAL-.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/SANTA-TEREZA
+  [181/sem limite] fila=331 | depth=3 | https://www.santatereza.pr.gov.br/pagina/668_NOMEACAO-EQUIPE-DA-VIGILANCIA.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/NOMEACAO-EQU
+  [182/sem limite] fila=330 | depth=3 | https://www.santatereza.pr.gov.br/pagina/669_RELATORIO-VIGILANCIA.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RELATORIO-VI
+  [183/sem limite] fila=329 | depth=3 | https://www.santatereza.pr.gov.br/pagina/670_RELATORIO-DE-REGISTRO-QUANTITATIVO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RELATORIO-DE
+  [184/sem limite] fila=328 | depth=3 | https://www.santatereza.pr.gov.br/pagina/671_DIAGNOSTICO-TECNICO-DEMANDA-DO-SCFV
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DIAGNOSTICO-
+  [185/sem limite] fila=327 | depth=3 | https://www.santatereza.pr.gov.br/pagina/672_PROTOCOLO-INSTITUCIONAL-DE-ARTICULA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PROTOCOLO-IN
+  [186/sem limite] fila=326 | depth=3 | https://www.santatereza.pr.gov.br/pagina/673_PROTOCOLO-INSTITUCIONAL-DE-ARTICULA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PROTOCOLO-IN
+  [187/sem limite] fila=325 | depth=3 | https://www.santatereza.pr.gov.br/pagina/674_FORMULARIO-CONTRAREFERENCIA-CRAS.ht
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/FORMULARIO-C
+  [188/sem limite] fila=324 | depth=3 | https://www.santatereza.pr.gov.br/pagina/675_Comite-Intersetorial-de-Identificac
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Comite-Inter
+  [189/sem limite] fila=323 | depth=3 | https://www.santatereza.pr.gov.br/pagina/676_CALENDARIO-DE-REUNIOES-DA-REDE-DE-P
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-D
+  [190/sem limite] fila=322 | depth=3 | https://www.santatereza.pr.gov.br/pagina/677_PROTOCOLO-INSTITUCIONAL-DO-SERVICO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PROTOCOLO-IN
+  [191/sem limite] fila=321 | depth=3 | https://www.santatereza.pr.gov.br/pagina/678_PLANEJAMENTO-ANUAL-DAS-OFICINAS-DO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANEJAMENTO
+  [192/sem limite] fila=320 | depth=3 | https://www.santatereza.pr.gov.br/pagina/679_PLANO-DE-TRABALHO-DO-CRAS-2025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-TRA
+  [193/sem limite] fila=319 | depth=3 | https://www.santatereza.pr.gov.br/pagina/680_PROTOCOLO-INSTITUCIONAL-DO-SCFV.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PROTOCOLO-IN
+  [194/sem limite] fila=318 | depth=3 | https://www.santatereza.pr.gov.br/pagina/681_DIAGNOSTICO-TECNICO-DEMANDA-DO-SERV
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DIAGNOSTICO-
+  [195/sem limite] fila=317 | depth=3 | https://www.santatereza.pr.gov.br/pagina/682_DIAGNOSTICO-TECNICO-DEMANDA-DO-SCFV
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DIAGNOSTICO-
+  [196/sem limite] fila=316 | depth=3 | https://www.santatereza.pr.gov.br/pagina/683_DIAGNOSTICO-TECNICO-DEMANDA-DO-SERV
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DIAGNOSTICO-
+  [197/sem limite] fila=315 | depth=3 | https://www.santatereza.pr.gov.br/pagina/685_Plano-anual-de-formacao-continuada.
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-anual-
+  [198/sem limite] fila=314 | depth=3 | https://www.santatereza.pr.gov.br/pagina/692_Reuniao-interinstitucional-fortalec
+  [199/sem limite] fila=313 | depth=3 | https://www.santatereza.pr.gov.br/pagina/693_Inicio-do-Curso-de-Maquiagem-no-CRA
+  [200/sem limite] fila=312 | depth=3 | https://www.santatereza.pr.gov.br/pagina/694_Conclusao-do-Curso-de-Maquiagem-Soc
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_links.xlsx
+  177 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/erros_varredura.xlsx
+  10 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_externos.xlsx
+  162 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=311 | depth=3 | https://www.santatereza.pr.gov.br/pagina/698_Primeiro-passeio-do-ano-com-o-grupo
+  [202/sem limite] fila=310 | depth=3 | https://www.santatereza.pr.gov.br/pagina/700_Volei-Para-Idosos.html
+  [203/sem limite] fila=309 | depth=3 | https://www.santatereza.pr.gov.br/pagina/701_Trabalho-na-praca-.html
+  [204/sem limite] fila=308 | depth=3 | https://www.santatereza.pr.gov.br/pagina/702_Capacitacao-da-Rede-de-Protecao-de-
+  [205/sem limite] fila=307 | depth=3 | https://www.santatereza.pr.gov.br/pagina/703_PLANO-MUNICIPAL-DE-ASSISTENCIA-SOCI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PMAS-2026-20
+  [206/sem limite] fila=306 | depth=3 | https://www.santatereza.pr.gov.br/pagina/712_REUNIAO-EXTRORDINARIA-CMDCA-2304202
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PAUTA-2026.p
+  [207/sem limite] fila=305 | depth=3 | https://www.santatereza.pr.gov.br/pagina/713_REUNIAO-ORDINARIA-CMAS-24042026.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PAUTA-CMAS.p
+  [208/sem limite] fila=304 | depth=3 | https://www.santatereza.pr.gov.br/pagina/719_Convite-para-a-10-Conferencia-dos-D
+  [209/sem limite] fila=303 | depth=3 | https://www.santatereza.pr.gov.br/pagina/743_Maio-Laranja-.html
+  [210/sem limite] fila=302 | depth=3 | https://www.santatereza.pr.gov.br/pagina/745_Palestra-com-Promotor-de-Justica-Dr
+  [211/sem limite] fila=301 | depth=3 | https://www.santatereza.pr.gov.br/pagina/746_Grupo-Geracao-Saude-Melhor-Idade-.h
+  [212/sem limite] fila=300 | depth=3 | https://www.santatereza.pr.gov.br/pagina/747_Grupo-Geracao-Saude-Melhor-Idade-Am
+  [213/sem limite] fila=299 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1770_MODELAGEM-E-HENNA-PARA-SOBRA
+  [214/sem limite] fila=298 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1769_Melhor-Idade-e-Geracao-Saude
+  [215/sem limite] fila=297 | depth=3 | https://www.santatereza.pr.gov.br/secretariaView/</li
+ ❌ HTTP_404: https://www.santatereza.pr.gov.br/secretariaView/</li
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/secretariaView/</li
+  [216/sem limite] fila=296 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1883_2o-ENCONTRO-DE-MULHERES-DIA-
+  [217/sem limite] fila=295 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1882_ATENDIMENTO-PARA-EMISSAO-DE-
+  [218/sem limite] fila=294 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1881_NOVO-NUMERO-DA-DEFESA-CIVIL.
+  [219/sem limite] fila=293 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1873_SECRETARIA-DE-ADMINISTRACAO-
+  [220/sem limite] fila=292 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1869_INAUGURACAO-DA-ESCOLA-VILSON
+  [221/sem limite] fila=291 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1868_OUVIDORIA-MUNICIPAL.html
+  [222/sem limite] fila=290 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1867_SANTA-TEREZA-DO-OESTE-DA-SAL
+  [223/sem limite] fila=289 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1866_ALERTA-AO-MEI.html
+  [224/sem limite] fila=288 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1865_COMUNICADO-OFICIAL-.html
+  [225/sem limite] fila=287 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1856_REGULARIZACAO-FUNDIARIA-.htm
+  [226/sem limite] fila=286 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1855_PAVIMENTACAO-DA-ESTRADA-QUE-
+  [227/sem limite] fila=285 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1854_CONTEMPLACAO-DA-CASA-DA-MULH
+  [228/sem limite] fila=284 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1853_PREFEITO-E-VICE-CELEBRAM-O-D
+  [229/sem limite] fila=283 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1851_INVESTIMENTOS-PARA-O-CALENDA
+  [230/sem limite] fila=282 | depth=3 | https://www.santatereza.pr.gov.br/pagina/502_ChamamentoLista-de-Espera-CMEIs.htm
+  [231/sem limite] fila=281 | depth=3 | https://www.santatereza.pr.gov.br/pagina/515_LISTA-DE-ENDERECOS-DE-CMEIS-E-ESCOL
+  [232/sem limite] fila=280 | depth=3 | https://www.santatereza.pr.gov.br/pagina/514_Plano-Municipal-da-Educacao.html
+  [233/sem limite] fila=279 | depth=3 | https://www.santatereza.pr.gov.br/pagina/531_Cardapio-Escolas-e-Cmeis.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Cardapio-Ens
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Cardapio-Ens
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Cardapio-Ens
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Cardapio-Ens
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ESC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARDAPIO-ALI
+  [234/sem limite] fila=278 | depth=3 | https://www.santatereza.pr.gov.br/pagina/604_Documentos-Oficiais-da-Educacao.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Normativa-20
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/COMISSAO-PSS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-045-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESULTADO-PS
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDITAL-001.p
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Comissao-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Diario-Ofici
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PSS-PROCESSO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-CAE.
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-Municipa
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-MUNICIPA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-N-0
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-No
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/INSTRUCAO-NO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-n-06
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/INSTRUCAO-NO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-MUNICIPA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/POLITICA-DE-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Normativa-Ed
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/diario-ofici
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Diario-ofici
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/decreto-090-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RCO-INSTRUCA
+  [235/sem limite] fila=277 | depth=3 | https://www.santatereza.pr.gov.br/pagina/744_Plano-de-Expansao-de-vagas-da-Educa
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Caderno1.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Caderno2.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Guiadeexpans
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Caderno3.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Exp
+  [236/sem limite] fila=276 | depth=3 | https://www.santatereza.pr.gov.br/pagina/650_Lista-de-Materiais-Escolas-e-CMEIs-
+  [237/sem limite] fila=275 | depth=3 | https://www.santatereza.pr.gov.br/pagina/716_Transporte-Escolar.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CARTILHA-Com
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Roteiro-Onib
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Decreto-muni
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Resolucao-77
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/lei-de-insti
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/L9503-codigo
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/NORMAS-PARA-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PORTARIA-No-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-PE
+  [238/sem limite] fila=274 | depth=3 | https://www.santatereza.pr.gov.br/pagina/697_Educacao-Integral-em-Tempo-Integral
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/e-atos-educa
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/L14640-LEI-F
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/e-atos-1.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-COMPLEME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-CN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/TEMPO-INTEGR
+  [239/sem limite] fila=273 | depth=3 | https://www.santatereza.pr.gov.br/pagina/717_PPP-PROJETO-POLITICO-PEDAGOGICO-Esc
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-DEN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-CMEI-NAT
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-VERCIDIL
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-2025-fra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-ESCOLA-H
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-2024-ESC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPP-Escola-R
+  [240/sem limite] fila=272 | depth=3 | https://www.santatereza.pr.gov.br/pagina/699_Calendario-Escolar-2026-Escolas-e-C
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CALENDARIO-E
+  [241/sem limite] fila=271 | depth=3 | https://www.santatereza.pr.gov.br/pagina/704_PLANO-DE-ACAO-DA-EDUCACAO-MUNICIPAL
+  📄 [200] .docx -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-TRA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-ACA
+  [242/sem limite] fila=270 | depth=3 | https://www.santatereza.pr.gov.br/pagina/711_PLANO-DE-ACAO-ESCOLAS-E-CMEIs-2026.
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-TRA
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PTA-plano-de
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/pano-de-acao
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PTA-Helio-Ba
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Plano-de-Tra
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PTA-Plano-de
+  [243/sem limite] fila=269 | depth=3 | https://www.santatereza.pr.gov.br/pagina/714_PLANO-DE-GERENCIAMENTO-PARA-PREVENC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-DEN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Mariano-Otto
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-DEN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-Natalin
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/FRANCISCO-DI
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/HELIO-BALARO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-DE-DEN
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DO-CARMO.pdf
+  [244/sem limite] fila=268 | depth=3 | https://www.santatereza.pr.gov.br/pagina/732_LGPD-Lei-Geral-de-Protecao-de-Dados
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/cartilha-LGP
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LGPD-DECRETO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/guia-transpa
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/manualdeimpl
+  [245/sem limite] fila=267 | depth=3 | https://www.santatereza.pr.gov.br/pagina/755_PPC-Planejamento-Educacao-.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ARTEdocx.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/BNCCEIEF1105
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/BNCCComputao
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CINCIAS2.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EDUCAOFSICA2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/GEOGRAFIA1.p
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/HISTRIA1.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/INGLS1.pdf
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LNGUAPORTUGU
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/MATEMTICA1.p
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPC-de-Compu
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPC-Educacao
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PPC-Ensino-F
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PropostaPeda
+  [246/sem limite] fila=266 | depth=3 | https://www.santatereza.pr.gov.br/pagina/756_Lei-de-Diretrizes-e-Bases-da-Educac
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Francisco
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Levino-J-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-Natalin
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-Natalin
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ERM-Nossa-Se
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-Vercidi
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CMEI-Vercidi
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Francisco
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Helio-Bal
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Helio-Bal
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/EM-Levino-Jo
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/ERM-Nossa-Se
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CamScanner-2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Matriz-4-e-5
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CamScanner-2
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/matriz-curri
+  [247/sem limite] fila=265 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprend
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estud.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estud.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estud.html
+  [248/sem limite] fila=264 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tere
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edi.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edi.html
+  [249/sem limite] fila=263 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1896_Fluencia-Parana-2026-fortale
+  [250/sem limite] fila=262 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1892_Educacao-que-gera-resultados
+  [251/sem limite] fila=261 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1887_Santa-Tereza-do-Oeste-avanca
+  [252/sem limite] fila=260 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1886_Chamamento-CMEI-Mariano-Otto
+  [253/sem limite] fila=259 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1884_03022026-Chamamento-.html
+  [254/sem limite] fila=258 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1857_Avaliacoes-de-fluencia-de-sa
+  [255/sem limite] fila=257 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1841_Matriculas-NOVAS-da-Rede-Mun
+  [256/sem limite] fila=256 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1805_SAEB-2025-Sistema-de-Avaliac
+  [257/sem limite] fila=255 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1786_Apresentacao-teatral-para-al
+  [258/sem limite] fila=254 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1780_Campanha-em-prol-da-IDENTIFI
+  [259/sem limite] fila=253 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1863_Inauguracao-da-Escola-Vilson
+  [260/sem limite] fila=252 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1842_Obra-Iniciada-na-Quadra-9-No
+  [261/sem limite] fila=251 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1840_Pavimentacao-Historica-A-Cam
+  [262/sem limite] fila=250 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1839_Mais-de-R-5-milhoes-para-San
+  [263/sem limite] fila=249 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1838_Mais-educacao-e-futuro-para-
+  [264/sem limite] fila=248 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1819_Depois-de-oito-anos-de-esper
+  [265/sem limite] fila=247 | depth=3 | https://www.santatereza.pr.gov.br/pagina/595_5o-PARANA-BOM-DE-BOLA-CORBELIA.html
+  [266/sem limite] fila=246 | depth=3 | https://www.santatereza.pr.gov.br/pagina/596_Entrega-das-lembrancas-de-pascoa-da
+  [267/sem limite] fila=245 | depth=3 | https://www.santatereza.pr.gov.br/pagina/598_Recuperacao-das-Arquibancadas-do-Es
+  [268/sem limite] fila=244 | depth=3 | https://www.santatereza.pr.gov.br/pagina/599_3-Copa-Santa-Tereza-de-Futebol-Suic
+  [269/sem limite] fila=243 | depth=3 | https://www.santatereza.pr.gov.br/pagina/600_Copa-Santa-Tereza-de-Jiu-Jitsu.html
+  [270/sem limite] fila=242 | depth=3 | https://www.santatereza.pr.gov.br/pagina/625_Congresso-Tecnico-dos-34o-Jogos-da-
+  [271/sem limite] fila=241 | depth=3 | https://www.santatereza.pr.gov.br/pagina/626_A-Prefeitura-Municipal-de-Santa-Ter
+  [272/sem limite] fila=240 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1872_Cultura-e-Turismo-Resultados
+  [273/sem limite] fila=239 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1864_NATAL-CHEGADA-DO-NOEL.html
+  [274/sem limite] fila=238 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1852_Calendario-de-Eventos-2026-p
+  [275/sem limite] fila=237 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1836_Dia-das-Criancas.html
+  [276/sem limite] fila=236 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1835_1-Reuniao-de-Alinhamento-202
+  [277/sem limite] fila=235 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1834_Parceria-com-a-ADETUR-.html
+  [278/sem limite] fila=234 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1832_Escolha-da-Rainha-do-12o-Rod
+  [279/sem limite] fila=233 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1831_14-PESCA-NO-LAGO.html
+  [280/sem limite] fila=232 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1830_36o-Aniversario-de-Emancipac
+  [281/sem limite] fila=231 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1829_FERMOP-2025.html
+  [282/sem limite] fila=230 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1828_ENCONTRO-DE-MULHERES.html
+  [283/sem limite] fila=229 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1825_12o-RODEIO-FESTA-DO-PEAO-DE-
+  [284/sem limite] fila=228 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1823_TEATROS-.html
+  [285/sem limite] fila=227 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1820_1-CONFERENCIA-MUNICIPAL-DA-C
+  [286/sem limite] fila=226 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1764_6-FEIRA-MUNICIPAL-DA-INDUSTR
+  [287/sem limite] fila=225 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1930_Produtos-comercializados-na-
+  [288/sem limite] fila=224 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1935_Fazendo-visita-tecnica-ao-pr
+  [289/sem limite] fila=223 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1902_A-Prefeitura-de-Santa-Tereza
+  [290/sem limite] fila=222 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1903_Foi-realizada-uma-reuniao-co
+  [291/sem limite] fila=221 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1904_CopCraf-Cooperativa-de-Produ
+  [292/sem limite] fila=220 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-se
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-segue-fortalecendotrabalho-no-campo.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-segue-fortalecendotrabalho-no-campo.html
+  [293/sem limite] fila=219 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1924_-Visita-tecnica-ao-produto-r
+  [294/sem limite] fila=218 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1899_Placas-de-conscientizacao-em
+  [295/sem limite] fila=217 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1879_O-municipio-segue-investindo
+  [296/sem limite] fila=216 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira-de-7-linhas.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira-de-7-linhas.html
+  [297/sem limite] fila=215 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1876_-Municipio-recebe-escavadeir
+  [298/sem limite] fila=214 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1874_Secretaria-de-Agricultura-re
+  [299/sem limite] fila=213 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1858_Visita-do-secretario-de-Agri
+  [300/sem limite] fila=212 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1815_O-Polo-de-Pesquisa-do-IDR-Pa
+  [301/sem limite] fila=211 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1811_Bosque-Municipal-.html
+  [302/sem limite] fila=210 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1814_A-administracao-municipal-po
+  [303/sem limite] fila=209 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1810_PIA-programa-de-inseminacao-
+  [304/sem limite] fila=208 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1807_Reuniao-CMDR-Conselho-Munici
+  [305/sem limite] fila=207 | depth=3 | https://www.santatereza.pr.gov.br/pagina/687_Parque-Natural-Municipal-Algenir-An
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/CURRICULUM-A
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Lei-Municipa
+  [306/sem limite] fila=206 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1861_Retroescavadeira-e-caminhao-
+  [307/sem limite] fila=205 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1843_Recuperacao-de-Nascentes.htm
+  [308/sem limite] fila=204 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1837_Remocao-de-arvores-com-risco
+  [309/sem limite] fila=203 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1818_Bosque-Municipal-e-apresenta
+  [310/sem limite] fila=202 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1817_Prefeitura-realiza-acao-espe
+  [311/sem limite] fila=201 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1816_Secretaria-de-Meio-Ambiente-
+  [312/sem limite] fila=200 | depth=3 | https://www.santatereza.pr.gov.br/pagina/603_Plano-municipal-de-saude.html
+  [313/sem limite] fila=199 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1880_Mais-seguranca-no-transito-p
+  [314/sem limite] fila=198 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1878_Acoes-investimentos-e-avanco
+  [315/sem limite] fila=197 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1862_Sinalizacao-na-Rodoviaria-Mu
+  [316/sem limite] fila=196 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1860_As-novas-regras-para-obtenca
+  [317/sem limite] fila=195 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1859_Sinalizacao-em-Santa-Maria.h
+  [318/sem limite] fila=194 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1809_Sinalizacao-Rua-Nacional.htm
+  [319/sem limite] fila=193 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1804_Sinalizacao-no-bairro-Pontal
+  [320/sem limite] fila=192 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1803_IPVA-Confira-na-calculadora-
+  [321/sem limite] fila=191 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1800_Rampas-de-acessibilidade-.ht
+  [322/sem limite] fila=190 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1799_Junta-Administrativa-de-Recu
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/noticia/arquivos/JARI-Santa-
+  [323/sem limite] fila=189 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1775_Sinalizacao-Avenida-Brasilia
+  [324/sem limite] fila=188 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1771_GIT-CIDADAO.html
+  [325/sem limite] fila=187 | depth=3 | https://www.santatereza.pr.gov.br/pagina/588_CMDM-CONSELHO-MUNICIPAL-DOS-DIREITO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-NOME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-CRIACAO-
+  [326/sem limite] fila=186 | depth=3 | https://www.santatereza.pr.gov.br/pagina/582_Dignidade-menstrual-e-um-direito-.h
+  [327/sem limite] fila=185 | depth=3 | https://www.santatereza.pr.gov.br/pagina/580_Palestra-Lei-Maria-da-Penha-.html
+  [328/sem limite] fila=184 | depth=3 | https://www.santatereza.pr.gov.br/pagina/577_Agosto-Lilas-Palestra-Sobre-o-Fim-d
+  [329/sem limite] fila=183 | depth=3 | https://www.santatereza.pr.gov.br/pagina/573_V-Conferencia-Estadual-de-Politicas
+  [330/sem limite] fila=182 | depth=3 | https://www.santatereza.pr.gov.br/pagina/553_Projeto-Recomeco-um-novo-comeco-par
+  [331/sem limite] fila=181 | depth=3 | https://www.santatereza.pr.gov.br/pagina/615_Doacao-de-brinquedos-realizada-pela
+  [332/sem limite] fila=180 | depth=3 | https://www.santatereza.pr.gov.br/pagina/630_Palestra-Sobre-Saude-Intima-da-Mulh
+  [333/sem limite] fila=179 | depth=3 | https://www.santatereza.pr.gov.br/pagina/715_REUNIAO-ORDINARIA-CMDM-24042026.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PAUTA-CMDM.p
+  [334/sem limite] fila=178 | depth=3 | https://www.santatereza.pr.gov.br/pagina/651_PLANO-ANUAL-DE-FISCALIZACAO-CONTROL
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/PLANO-ANUAL-
+  [335/sem limite] fila=177 | depth=3 | https://www.santatereza.pr.gov.br/pagina/653_TABELA-PLANO-ANUAL-DE-FISCALIZACAO-
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/TABELA-PLANO
+  [336/sem limite] fila=176 | depth=3 | https://www.santatereza.pr.gov.br/pagina/654_LEI-No-8222010.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Lei-822-Disp
+  [337/sem limite] fila=175 | depth=3 | https://www.santatereza.pr.gov.br/pagina/655_Lei-Municipal-no-24022025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-2402-EST
+  [338/sem limite] fila=174 | depth=3 | https://www.santatereza.pr.gov.br/pagina/709_RELATORIO-CONTROLE-INTERNO-2025.htm
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RELATORIO-CO
+  [339/sem limite] fila=173 | depth=3 | https://www.santatereza.pr.gov.br/pagina/718_Oficio-no-432026-MINISTERIO-PUBLICO
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/Oficio-43-20
+  [340/sem limite] fila=172 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1888_10042026-Chamamento-CMEI-Mar
+  [341/sem limite] fila=171 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1850_MANUTENCAO-E-ORGANIZACAO-DO-
+  [342/sem limite] fila=170 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1849_ATENDIMENTO-EM-SANTA-MARIA-P
+  [343/sem limite] fila=169 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1848_CONTEMPLACAO-DE-UM-ONIBUS-AD
+  [344/sem limite] fila=168 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1847_CONTEMPLACAO-DE-15-NOVAS-MOR
+  [345/sem limite] fila=167 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1846_NOVOS-EQUIPAMENTOS-CHEGAM-EM
+  [346/sem limite] fila=166 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1845_PREFEITURA-DE-SANTA-TEREZA-D
+  [347/sem limite] fila=165 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1844_REFIS-2025.html
+  [348/sem limite] fila=164 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1898_Mais-investimentos-para-o-ca
+  [349/sem limite] fila=163 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1903_Foi-realizada-uma-reuniao-co
+  [350/sem limite] fila=162 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1904_CopCraf-Cooperativa-de-Produ
+  [351/sem limite] fila=161 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1899_Placas-de-conscientizacao-em
+  [352/sem limite] fila=160 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1876_-Municipio-recebe-escavadeir
+  [353/sem limite] fila=159 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1874_Secretaria-de-Agricultura-re
+  [354/sem limite] fila=158 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1858_Visita-do-secretario-de-Agri
+  [355/sem limite] fila=157 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1815_O-Polo-de-Pesquisa-do-IDR-Pa
+  [356/sem limite] fila=156 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1814_A-administracao-municipal-po
+  [357/sem limite] fila=155 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1806_-Portaria-no-3682025-da-Adap
+  [358/sem limite] fila=154 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1778_Programas-Ambientais.html
+  [359/sem limite] fila=153 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1782_Santa-Tereza-do-Oeste-compro
+  [360/sem limite] fila=152 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1781_O-cuidado-comeca-no-campo-e-
+  [361/sem limite] fila=151 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1813_Prefeito-nomeia-CMDRS-Consel
+  [362/sem limite] fila=150 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1783_Reuniao-de-Credito-Rural-mov
+  [363/sem limite] fila=149 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1784_MAIS-OBRAS-NAS-ESTRADAS-RURA
+  [364/sem limite] fila=148 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1797_Importante-encontro-no-dia-d
+  [365/sem limite] fila=147 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1801_Curso-de-Nota-Fiscal-Eletron
+  [366/sem limite] fila=146 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1802_Conferencia-realizada-refere
+  [367/sem limite] fila=145 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1785_A-secretaria-municipal-de-Ag
+  [368/sem limite] fila=144 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1787_Esta-acontecendo-em-Santa-Te
+  [369/sem limite] fila=143 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1798_Parceria-pelo-desenvolviment
+  [370/sem limite] fila=142 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1788_Visita-ao-IDR-PR-Regional-Ca
+  [371/sem limite] fila=141 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1789_Importante-conquista-obtida-
+  [372/sem limite] fila=140 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1790_Santa-Tereza-do-Oeste-da-mai
+  [373/sem limite] fila=139 | depth=3 | https://www.santatereza.pr.gov.br/noticias/?secretaria=60&pag=2
+  [374/sem limite] fila=139 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1835_1-Reuniao-de-Alinhamento-202
+  [375/sem limite] fila=138 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1833_Santa-Tereza-do-Oeste-no-Map
+  [376/sem limite] fila=137 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1861_Retroescavadeira-e-caminhao-
+  [377/sem limite] fila=136 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1818_Bosque-Municipal-e-apresenta
+  [378/sem limite] fila=135 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1816_Secretaria-de-Meio-Ambiente-
+  [379/sem limite] fila=134 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1812_Sinalizacao-no-bairro-Santa-
+  [380/sem limite] fila=133 | depth=3 | https://www.santatereza.pr.gov.br/noticias/?&pag=1
+  [381/sem limite] fila=132 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1792_Recebemos-a-visita-do-Secret
+  [382/sem limite] fila=131 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1793_Na-gestao-Amarildo-Rigolin-a
+  [383/sem limite] fila=130 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1794_A-Secretaria-de-Agricultura-
+  [384/sem limite] fila=129 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1795_-Entrega-de-um-trator-para-a
+  [385/sem limite] fila=128 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1779_Programa-de-Castracao-gratui
+  [386/sem limite] fila=127 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1796_Dia-mundial-da-agua.html
+  [387/sem limite] fila=126 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1774_Trabalhos-de-Protecao-de-nas
+  [388/sem limite] fila=125 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1772_Trabalhos-de-conservacao-de-
+  [389/sem limite] fila=124 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1931_Fazendo-visita-tecnica-ao-pr
+  [390/sem limite] fila=123 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1768_Obras-em-Santa-Maria-distrit
+  [391/sem limite] fila=122 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1763_Preparativos-festa-da-polent
+  [392/sem limite] fila=121 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1762_CAMPANHA-NACIONAL-DE-VACINAC
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/noticia/arquivos/24050907390
+  [393/sem limite] fila=120 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1761_FESTA-DA-POLENTA-1718-E-19-D
+  [394/sem limite] fila=119 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1760_Santa-Tereza-do-Oeste-faz-en
+  [395/sem limite] fila=118 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1759_-Santa-Tereza-do-Oeste-dispo
+  [396/sem limite] fila=117 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1758_O-projeto-Caixa-dAgua-Boa-at
+  [397/sem limite] fila=116 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1757_-Santa-Tereza-do-Oeste-esta-
+  [398/sem limite] fila=115 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1756_VII-FICEST-peixe-de-20-kilos
+  [399/sem limite] fila=114 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1755_Inauguracao-Centro-Comercial
+  [400/sem limite] fila=113 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1754_A-Prefeitura-Municipal-de-Sa
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_links.xlsx
+  347 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_externos.xlsx
+  197 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=112 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1753_O-Programa-Saude-na-Escola-P
+  [402/sem limite] fila=111 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1752_Nossas-criancas-estao-aprend
+  [403/sem limite] fila=110 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1750_DENGUE-Decretado-estado-de-e
+  [404/sem limite] fila=109 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1749_VAMOS-COMBATER-A-DENGUE-A-DE
+  [405/sem limite] fila=108 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1748_2-Copa-Aurinegro-de-futebol-
+  [406/sem limite] fila=107 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1747_-CARROS-Previa-do-moe-arreca
+  [407/sem limite] fila=106 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1746_prefeito-Elio-Marciniak-visi
+  [408/sem limite] fila=105 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1745_prefeito-Elio-Marciniak-visi
+  [409/sem limite] fila=104 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1744_inicio-obras-novo-trevo-de-a
+  [410/sem limite] fila=103 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1743_obras-no-acesso-loteamento-b
+  [411/sem limite] fila=102 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1742_obras-rua-internacional.html
+  [412/sem limite] fila=101 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1741_Entrega-decartilhas-objetivo
+  [413/sem limite] fila=100 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1740_IPTU-Santa-Tereza-do-Oeste-m
+  [414/sem limite] fila=99 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1739_Cerimonia-de-posse-dos-conse
+  [415/sem limite] fila=98 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1738_Santa-Tereza-do-oeste-mais-s
+  [416/sem limite] fila=97 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1737_Pagar-o-ITBI-e-uma-parte-ess
+  [417/sem limite] fila=96 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1736_-FC-Cascavel-e-Prefeitura-Mu
+  [418/sem limite] fila=95 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1735_Chegada-do-Papai-Noel-em-San
+  [419/sem limite] fila=94 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1734_Prefeitura-Municipal-de-Sant
+  [420/sem limite] fila=93 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1733_Nova-sede-acist-santa-tereza
+  [421/sem limite] fila=92 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1732_Projeto-social-esportivo-ent
+  [422/sem limite] fila=91 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1731_-Entrega-oficial-de-kits-do-
+  [423/sem limite] fila=90 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1730_Parceria-entre-a-Prefeitura-
+  [424/sem limite] fila=89 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1729_2o-corre-STO-teve-recorde-de
+  [425/sem limite] fila=88 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1728_Parceria-entre-Prefeitura-Mu
+  [426/sem limite] fila=87 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1727_A-Prefeitura-municipal-de-Sa
+  [427/sem limite] fila=86 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1726_Reuniao-ministrada-pela-8-pr
+  [428/sem limite] fila=85 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1725_Prefeito-de-Santa-Tereza-do-
+  [429/sem limite] fila=84 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1724_2-corrida-de-rua-em-Santa-Te
+  [430/sem limite] fila=83 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1723_Projeto-social-esportivo-FC-
+  [431/sem limite] fila=82 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1722_O-descarte-irregular-de-entu
+  [432/sem limite] fila=81 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1721_-REDUCAO-TEMPORARIAMENTE-A-A
+  [433/sem limite] fila=80 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1720_Encerramento-2-olimpiadas-do
+  [434/sem limite] fila=79 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1719_Grande-projeto-parceria-entr
+  [435/sem limite] fila=78 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1718_Mais-um-evento-de-grande-por
+  [436/sem limite] fila=77 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1717_1o-encontro-de-Moe-em-Santa-
+  [437/sem limite] fila=76 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1716_-Guto-Silva-secretario-de-pl
+  [438/sem limite] fila=75 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1715_32o-jogos-da-independencia-e
+  [439/sem limite] fila=74 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1714_Encerramento-das-comemoracoe
+  [440/sem limite] fila=73 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1713_Celebrando-Nossa-Patria-Ato-
+  [441/sem limite] fila=72 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1712_A-Prefeitura-Municipal-atrav
+  [442/sem limite] fila=71 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1711_Veja-agora-a-importancia-da-
+  [443/sem limite] fila=70 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1710_Atencao-Santa-Tereza-do-Oest
+  [444/sem limite] fila=69 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1709_VEM-AI-O-SHOWCAO-EM-SANTA-TE
+  [445/sem limite] fila=68 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1708_O-8o-FESTEM-festival-de-tale
+  [446/sem limite] fila=67 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1707_O-Prefeito-de-Santa-Tereza-d
+  [447/sem limite] fila=66 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1706_A-Prefeitura-de-Santa-Tereza
+  [448/sem limite] fila=65 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1705_Palestra-de-conscientizacao-
+  [449/sem limite] fila=64 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1704_Prefeito-Elio-Marciniak-anun
+  [450/sem limite] fila=63 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1703_homenagem-para-o-agricultor-
+  [451/sem limite] fila=62 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1702_3-Conferencia-da-Agricultura
+  [452/sem limite] fila=61 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1701_Acompanhe-um-pouco-do-beliss
+  [453/sem limite] fila=60 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1700_Reuniao-conselheiro-tutelar-
+  [454/sem limite] fila=59 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1699_A-Prefeitura-Municipal-de-Sa
+  [455/sem limite] fila=58 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1698_BOXES-EXCLUSIVO-PARA-INDUSTR
+  [456/sem limite] fila=57 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1697_-Corpo-e-Alma-e-Barreto-e-Ca
+  [457/sem limite] fila=56 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1696_Prefeitura-Municipal-de-Sant
+  [458/sem limite] fila=55 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1695_Arraia-da-Assistencia-Socia-
+  [459/sem limite] fila=54 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1694_Santa-Tereza-do-Oeste-34-ano
+  [460/sem limite] fila=53 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1693_A-nossa-cidade-esta-cada-dia
+  [461/sem limite] fila=52 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1692_Veja-como-foi-a-festa-junina
+  [462/sem limite] fila=51 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1691_O-perigo-esta-cada-vez-mais-
+  [463/sem limite] fila=50 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1690_A-sec-da-Mulher-e-Igualdade-
+  [464/sem limite] fila=49 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1689_Prefeito-Elio-Marciniak-faz-
+  [465/sem limite] fila=48 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1688_Vema-ai-o-32o-jogos-da-Indep
+  [466/sem limite] fila=47 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1687_campanha-aquece-oeste-a-1-Da
+  [467/sem limite] fila=46 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1686_Veja-como-foi-a-15-festa-da-
+  [468/sem limite] fila=45 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1685_A-15-festa-da-polenta-e-4-fe
+  [469/sem limite] fila=44 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1684_Dias-e-valores-da-4-feira-e-
+  [470/sem limite] fila=43 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1680_15-festa-da-polenta-e-4-feir
+  [471/sem limite] fila=42 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1679_Vem-ai-a-15-festa-da-polenta
+  [472/sem limite] fila=41 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1678_Obras-em-Santa-Tereza-do-Oes
+  [473/sem limite] fila=40 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1677_Prefeitura-Municipal-de-Sant
+  [474/sem limite] fila=39 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1676_Dia-do-BEM-e-da-PAZ-nas-esco
+  [475/sem limite] fila=38 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1675_Santa-Tereza-do-Oeste-atrave
+  [476/sem limite] fila=37 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1674_drone-ajuda-na-patrulha-das-
+  [477/sem limite] fila=36 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1673_Festa-50-anos-paroquia-santa
+  [478/sem limite] fila=35 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1672_SEGURANCA-NAS-ESCOLAS-MUNICI
+  [479/sem limite] fila=34 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1671_Prefeito-Elio-Marciniak-esta
+  [480/sem limite] fila=33 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1670_Inaugurado-hoje-pela-manha-n
+  [481/sem limite] fila=32 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1669_Morador-de-Santa-Tereza-do-O
+  [482/sem limite] fila=31 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1668_inauguracao-sala-do-empreend
+  [483/sem limite] fila=30 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1667_A-pesca-no-lago-municipal-de
+  [484/sem limite] fila=29 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1666_O-Deputado-estadual-batatinh
+  [485/sem limite] fila=28 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1665_Prefeitura-de-Santa-Tereza-d
+  [486/sem limite] fila=27 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1664_-Pesca-no-lago-neste-domingo
+  [487/sem limite] fila=26 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1663_Prefeitura-de-Santa-Tereza-d
+  [488/sem limite] fila=25 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1662_Uma-noite-especial-para-as-m
+  [489/sem limite] fila=24 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1661_aviso-de-entrega-uniforme-es
+  [490/sem limite] fila=23 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1660_Entrega-de-uniformes-na-Acas
+  [491/sem limite] fila=22 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1659_Nova-unidade-basica-de-saude
+  [492/sem limite] fila=21 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1658_Prefeitura-de-Santa-Tereza-d
+  [493/sem limite] fila=20 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1657_O-QUE-VOCE-ESTA-FAZENDO-PARA
+  [494/sem limite] fila=19 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1656_Prefeitura-de-Santa-Tereza-d
+  [495/sem limite] fila=18 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1655_A-saude-de-Santa-Tereza-do-O
+  [496/sem limite] fila=17 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1654_Aconteceu-ontem-o-arbitral-d
+  [497/sem limite] fila=16 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1652_PLANTIO-DE-ARVORES-CAMINHADA
+  [498/sem limite] fila=15 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1651_CURSO-DE-MAQUIAGEM-FOI-UM-SU
+  [499/sem limite] fila=14 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1650_-Vem-ai-a-2-copa-futebol-sui
+  [500/sem limite] fila=13 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1649_-AS-PRE-CONFERENCIAS-SAO-O-M
+  [501/sem limite] fila=12 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1648_SANEAMENTO-BASICO-E-REALIDAD
+  [502/sem limite] fila=11 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1647_Pessoas-mal-intencionadas-de
+  [503/sem limite] fila=10 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1646_Grande-festa-dos-anos-60-70-
+  [504/sem limite] fila=9 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1645_voltas-as-aulas-rede-Municip
+  [505/sem limite] fila=8 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1644_Hino-de-Santa-Tereza-do-Oest
+  [506/sem limite] fila=7 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1643_VOLTA-AS-AULAS.html
+  [507/sem limite] fila=6 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1642_IBGE.html
+  [508/sem limite] fila=5 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1641_Programa-do-Governo-do-Estad
+  [509/sem limite] fila=4 | depth=4 | https://www.santatereza.pr.gov.br/pagina/706_Resolucoes-CMAS-2025.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-01
+  [510/sem limite] fila=3 | depth=4 | https://www.santatereza.pr.gov.br/pagina/708_Resolucoes-CMAS-2026.html
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/DECRETO-NOME
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/LEI-CMAS-E-S
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  [511/sem limite] fila=2 | depth=4 | https://www.santatereza.pr.gov.br/pagina/741_RESOLUCAO-CMDCANo0032026-Criacao-do
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  [512/sem limite] fila=1 | depth=4 | https://www.santatereza.pr.gov.br/pagina/742_RESOLUCAO-CMDCANo0042026-NOMEACAO-D
+  📄 [200] .pdf -> https://www.santatereza.pr.gov.br/uploads/pagina/arquivos/RESOLUCAO-00
+  [513/sem limite] fila=0 | depth=4 | https://www.santatereza.pr.gov.br/noticias/?secretaria=60&pag=1
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_links.xlsx
+  372 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/erros_varredura.xlsx
+  16 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_externos.xlsx
+  197 links externos registrados.
+
+  Varredura encerrada: SANTATEREZADOOESTE
+  Páginas nesta sessão: 513
+  Páginas totais (acumulado): 513
+  Arquivos no inventário: 372
+  Erros registrados: 16
+
+
+ Pipeline encerrado. Resultados em: resultados/santaterezadooeste/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Santa Tereza do Oeste)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Santa Tereza do Oeste (slug: santaterezadooeste)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://prefeituradesantatereza.sigepnet.com.br/
+              ✅ https://santatereza.pr.gov.br/
+           *  ✅ https://santaterezadooeste.oxy.elotech.com.br/portaltransparencia/1/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +2 domínio(s)]
+           → https://santaterezadooeste.oxy.elotech.com.br/portaltransparencia/1/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SANTATEREZADOOESTE
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 372 arquivos já registrados.
+  Links externos parciais carregados: 197 links já registrados.
+  Log de erros parcial carregado: 16 erros já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: 10 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 6 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: SANTATEREZADOOESTE
+  Páginas já visitadas (checkpoint): 503
+  URLs na fila: 11
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+503)/sem limite] fila=10 | depth=0 | https://santaterezadooeste.oxy.elotech.com.br/portaltransparencia/1/
+  🤖 Usando Selenium para: https://santaterezadooeste.oxy.elotech.com.br/portaltransparencia/1/
+  [2 (+503)/sem limite] fila=9 | depth=1 | https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/?id=1920
+  [3 (+503)/sem limite] fila=8 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-recon
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-reconhece-os-avancos-na-alfabetizacao-dos-estudantes-dos-2o-anos.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-reconhece-os-avancos-na-alfabetizacao-dos-estudantes-dos-2o-anos.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1920_-Santa-Tereza-do-Oeste-reconhece-os-avancos-na-alfabetizacao-dos-estudantes-dos-2o-anos.html
+  [4 (+503)/sem limite] fila=7 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprend
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estudantes-da-Rede-Municipal.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estudantes-da-Rede-Municipal.html
+  [5 (+503)/sem limite] fila=6 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tere
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edicao-nos-dias-19-e-20-de-maio.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edicao-nos-dias-19-e-20-de-maio.html
+  [6 (+503)/sem limite] fila=5 | depth=2 | https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-m
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-materiais-didaticos-do-programa-Educa-Juntos.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1895_Escolas-municipais-recebem-materiais-didaticos-do-programa-Educa-Juntos.html
+  [7 (+503)/sem limite] fila=4 | depth=3 | https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Di
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Direito-da-Pessoa-com-Deficiencia-1709-.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Direito-da-Pessoa-com-Deficiencia-1709-.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/pagina/590_Reuniao-do-Conselho-Municipal-do-Direito-da-Pessoa-com-Deficiencia-1709-.html
+  [8 (+503)/sem limite] fila=3 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprend
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estud.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1900_Avaliacao-Continua-da-Aprendizagem-fortalece-a-alfabetizacao-e-o-desenvolvimento-dos-estud.html
+  [9 (+503)/sem limite] fila=2 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tere
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edi.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1897_Rede-Municipal-de-Santa-Tereza-do-Oeste-realizara-a-Prova-Parana-Diagnostica-2026-1-Edi.html
+  [10 (+503)/sem limite] fila=1 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-se
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-segue-fortalecendotrabalho-no-campo.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-segue-fortalecendotrabalho-no-campo.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1885_A-Administracao-Municipal-segue-fortalecendotrabalho-no-campo.html
+  [11 (+503)/sem limite] fila=0 | depth=3 | https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira-de-7-linhas.html
+  🤖 Usando Selenium para: https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira-de-7-linhas.html
+ ❌ HTTP_500: https://www.santatereza.pr.gov.br/noticiasView/1875_Aquisicao-de-uma-plantadeira-de-7-linhas.html
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_links.xlsx
+  372 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/erros_varredura.xlsx
+  21 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santaterezadooeste/inventario_externos.xlsx
+  197 links externos registrados.
+
+  Varredura encerrada: SANTATEREZADOOESTE
+  Páginas nesta sessão: 11
+  Páginas totais (acumulado): 514
+  Arquivos no inventário: 372
+  Erros registrados: 21
+
+
+ Pipeline encerrado. Resultados em: resultados/santaterezadooeste/
+============================================================
+

@@ -1,6 +1,6 @@
 {
   "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
-  "_portais_verificados": "Descoberto automaticamente em 15/08/2026",
+  "_portais_verificados": "Descoberto automaticamente em 16/08/2026",
   "almirantetamandare": {
     "sementes": [
       "https://tamandare.pr.gov.br/",
@@ -286,9 +286,12 @@
   },
   "santaterezadooeste": {
     "sementes": [
-      "https://www.santatereza.pr.gov.br/site/"
+      "https://www.santatereza.pr.gov.br/site/",
+      "https://santaterezadooeste.oxy.elotech.com.br/portaltransparencia/1/"
     ],
     "dominios": [
+      "santaterezadooeste.oxy.elotech.com.br",
+      "santaterezadooeste.pr.gov.br",
       "www.santatereza.pr.gov.br"
     ]
   },
@@ -428,10 +431,13 @@
   },
   "tresbarrasdoparana": {
     "sementes": [
-      "https://tresbarras.pr.gov.br/"
+      "https://tresbarras.pr.gov.br/",
+      "https://tresbarras.cidade360.cloud/portal-servicos/"
     ],
     "dominios": [
-      "tresbarras.pr.gov.br"
+      "tresbarras.cidade360.cloud",
+      "tresbarras.pr.gov.br",
+      "tresbarrasdoparana.pr.gov.br"
     ]
   },
   "uniaodavitoria": {
@@ -3319,9 +3325,11 @@
   },
   "saojoaodoivai": {
     "sementes": [
-      "https://www.saojoaodoivai.pr.gov.br/"
+      "https://www.saojoaodoivai.pr.gov.br/",
+      "https://saojoaodoivai.eloweb.net/portaltransparencia/"
     ],
     "dominios": [
+      "saojoaodoivai.eloweb.net",
       "saojoaodoivai.pr.gov.br",
       "www.saojoaodoivai.pr.gov.br"
     ]
@@ -3447,10 +3455,12 @@
   },
   "sulina": {
     "sementes": [
-      "https://www.sulina.pr.gov.br/"
+      "https://www.sulina.pr.gov.br/",
+      "https://transparenciabrasil-cidadao.cidade360.cloud/transparenciabrasil-cidadao/sulina/prefeitura/"
     ],
     "dominios": [
       "sulina.pr.gov.br",
+      "transparenciabrasil-cidadao.cidade360.cloud",
       "www.sulina.pr.gov.br"
     ]
   },
@@ -3532,10 +3542,12 @@
   },
   "tibagi": {
     "sementes": [
-      "https://www.tibagi.pr.gov.br/"
+      "https://www.tibagi.pr.gov.br/",
+      "https://www.portalcr2.com.br/entidade/tibagi/"
     ],
     "dominios": [
       "tibagi.pr.gov.br",
+      "www.portalcr2.com.br",
       "www.tibagi.pr.gov.br"
     ]
   },
@@ -3568,9 +3580,11 @@
   },
   "tunasdoparana": {
     "sementes": [
-      "https://www.tunasdoparana.pr.gov.br/"
+      "https://www.tunasdoparana.pr.gov.br/",
+      "https://tunas.eloweb.net/portaltransparencia/"
     ],
     "dominios": [
+      "tunas.eloweb.net",
       "tunasdoparana.pr.gov.br",
       "www.tunasdoparana.pr.gov.br"
     ]

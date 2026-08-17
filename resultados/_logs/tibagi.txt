@@ -1,0 +1,1195 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TIBAGI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: TIBAGI
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.tibagi.pr.gov.br/
+  [2/sem limite] fila=36 | depth=1 | https://tibagi.pr.gov.br/c/noticias/
+  [3/sem limite] fila=45 | depth=1 | https://tibagi.pr.gov.br/o-municipio/
+  [4/sem limite] fila=44 | depth=1 | https://tibagi.pr.gov.br/o-municipio/historia/
+  [5/sem limite] fila=43 | depth=1 | https://tibagi.pr.gov.br/o-municipio/sobre-o-municipio/
+  [6/sem limite] fila=42 | depth=1 | https://tibagi.pr.gov.br/o-municipio/telefones-uteis/
+  [7/sem limite] fila=41 | depth=1 | https://turismo.tibagi.pr.gov.br/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/05/lei1.589ConselhoMu
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/05/Decreto141Composic
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/PLANO-ACAO-COMUTTI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/06/ATA-COMUTTI-JAN.pd
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/05/ATA-COMUTTI-FEV.pd
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/05/ATA-COMUTTI-ABRIL.
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/ATA-COMUTTI-02-JUN
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/ATA-COMUTTI-16-JUN
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/ATA-COMUTTI-08-JUL
+  [8/sem limite] fila=44 | depth=1 | https://tibagi.pr.gov.br/o-governo/
+  [9/sem limite] fila=43 | depth=1 | https://tibagi.pr.gov.br/o-governo/prefeito/
+  [10/sem limite] fila=42 | depth=1 | https://tibagi.pr.gov.br/o-governo/vice-prefeito/
+  [11/sem limite] fila=41 | depth=1 | https://tibagi.pr.gov.br/audiencias-publicas/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/07/Ata-1°-Quadrimestr
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Planilhas-audienci
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Audiencia-publica-
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Audiencia-publica-
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/Audiencia-publica-
+  [12/sem limite] fila=40 | depth=1 | https://tibagi.pr.gov.br/chamada-publica/
+  [13/sem limite] fila=39 | depth=1 | https://tibagi.pr.gov.br/agricultura-familiar/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/04/EDITAL-CHAMADA-PUB
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/08/Edital.pdf
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/08/Termo-de-Referenci
+  [14/sem limite] fila=39 | depth=1 | https://tibagi.pr.gov.br/minha-casa-minha-vida/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Construcao-Civil-E
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Geometrico.pdf
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Matricula-12784.pd
+  [15/sem limite] fila=38 | depth=1 | https://tibagi.pr.gov.br/instituto-de-previdencia-municipal-tibagiprev/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/ATA-25.11.2025-pub
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/ATA-Comite-de-Inte
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/ATA-Comite-de-Inte
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/ATA-Comite-de-Inte
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/ATA-Comite-de-Inte
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/ATA-Comite-de-Inte
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Ata-Conselho-Fisca
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Ata_Politica_de_In
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Atas-Conselho-de-A
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/CALENDARIO-ANUAL-D
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/CALENDARIO-ANUAL-D
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/CALENDARIO-ANUAL-D
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Lei_3.167_Plano_de
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/DECRETO-314.2025.p
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/Resolucao-383.2025
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/Lei-no-3284.2025-P
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/DPIN_DIGITALIZADO_
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Politica-de-Invest
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Regimento-Fiscal.p
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Regimento-Adm-assi
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/Regimento-Interno-
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/RELATORIO-DE-AVALI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/12/RELATORIO-DE-RENDI
+  [16/sem limite] fila=37 | depth=1 | https://tibagi.pr.gov.br/temporal-com-granizo-atinge-tibagi-e-mobiliza-equipes-d
+  [17/sem limite] fila=36 | depth=1 | https://tibagi.pr.gov.br/programa-diamante-da-casa-abre-inscricoes-para-vagas-re
+  [18/sem limite] fila=35 | depth=1 | https://tibagi.pr.gov.br/tibagi-reforca-preparacao-da-defesa-civil-para-possivei
+  [19/sem limite] fila=34 | depth=1 | https://empreendedor.tibagi.pr.gov.br/
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Abert
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Alter
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Contr
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/MEI-V
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/DASN.
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  📄 [200] .pdf -> https://empreendedor.tibagi.pr.gov.br/wp-content/uploads/2024/05/Trilh
+  [20/sem limite] fila=35 | depth=1 | https://tibagi.pr.gov.br/defesa-civil/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/08/Plano-de-contingen
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/11/Plano-de-Contingen
+  [21/sem limite] fila=34 | depth=1 | https://tibagi.pr.gov.br/itr/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/VTN-2026.pdf
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2025/05/VTN-2025-1.pdf
+  [22/sem limite] fila=33 | depth=1 | https://tibagi.pr.gov.br/termos-de-ajustamento-de-conduta-tacs/
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/RELATORIODEAUDITOR
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/TAC-Estagio-IC-000
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/TAC-BotaFora.pdf
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/TAC_Recuperacao_AP
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/07/TAC-Recicla.pdf"
+  [23/sem limite] fila=32 | depth=1 | https://webmail.tibagi.pr.gov.br
+  [24/sem limite] fila=72 | depth=1 | https://tibagi.pr.gov.br/
+  [25/sem limite] fila=71 | depth=1 | https://tibagi.pr.gov.br/o-municipio/turismo-e-lazer/
+  [26/sem limite] fila=70 | depth=1 | https://www.tibagi.pr.gov.br/c/noticias/
+  [27/sem limite] fila=69 | depth=1 | https://tibagi.pr.gov.br/author/ascom/
+  [28/sem limite] fila=71 | depth=1 | https://tibagi.pr.gov.br/declaracao-do-itr-2026-deve-ser-enviada-ate-30-de-setem
+  [29/sem limite] fila=70 | depth=1 | https://tibagi.pr.gov.br/prefeito-visita-obras-da-pch-fortaleza-e-destaca-geraca
+  [30/sem limite] fila=69 | depth=1 | https://tibagi.pr.gov.br/tibagi-forma-alunos-em-cursos-de-auxiliar-administrativ
+  [31/sem limite] fila=68 | depth=1 | https://tibagi.pr.gov.br/queimadas-irregulares-sao-proibidas-e-podem-gerar-multa
+  [32/sem limite] fila=67 | depth=1 | https://tibagi.pr.gov.br/agencia-do-trabalhador-realiza-mutirao-de-emprego-na-pr
+  [33/sem limite] fila=66 | depth=1 | https://www.tibagi.pr.gov.br/radar/
+  [34/sem limite] fila=65 | depth=1 | https://www.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://www.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://www.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  [35/sem limite] fila=64 | depth=1 | https://www.tibagi.pr.gov.br/mapa-do-site/
+  [36/sem limite] fila=63 | depth=1 | https://www.tibagi.pr.gov.br/wp-admin
+  [37/sem limite] fila=63 | depth=1 | https://webmail.tibagi.pr.gov.br/
+  [38/sem limite] fila=87 | depth=1 | https://www.tibagi.pr.gov.br/lgpd
+  [39/sem limite] fila=86 | depth=2 | https://tibagi.pr.gov.br/vestibular-2026-22-candidatos-tem-inscricao-homologada-
+  [40/sem limite] fila=85 | depth=2 | https://tibagi.pr.gov.br/prefeitura-prorroga-prazo-do-refis-2026-ate-6-de-novemb
+  [41/sem limite] fila=84 | depth=2 | https://tibagi.pr.gov.br/c/noticias/page/2/
+  [42/sem limite] fila=94 | depth=2 | https://tibagi.pr.gov.br/c/noticias/page/3/
+  [43/sem limite] fila=104 | depth=2 | https://tibagi.pr.gov.br/c/noticias/page/57/
+  [44/sem limite] fila=111 | depth=2 | https://tibagi.pr.gov.br/radar/
+  [45/sem limite] fila=110 | depth=2 | https://tibagi.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  [46/sem limite] fila=109 | depth=2 | https://tibagi.pr.gov.br/mapa-do-site/
+  [47/sem limite] fila=108 | depth=2 | https://tibagi.pr.gov.br/wp-admin
+  [48/sem limite] fila=107 | depth=2 | https://tibagi.pr.gov.br/lgpd
+  [49/sem limite] fila=106 | depth=2 | https://turismo.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://turismo.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://turismo.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://turismo.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  [50/sem limite] fila=105 | depth=2 | https://turismo.tibagi.pr.gov.br/mapa-do-site/
+ ❌ HTTP_404: https://turismo.tibagi.pr.gov.br/mapa-do-site/
+  🤖 Usando Selenium para: https://turismo.tibagi.pr.gov.br/mapa-do-site/
+  [51/sem limite] fila=104 | depth=2 | https://turismo.tibagi.pr.gov.br/wp-admin
+  [52/sem limite] fila=104 | depth=2 | https://turismo.tibagi.pr.gov.br/lgpd
+ ❌ HTTP_404: https://turismo.tibagi.pr.gov.br/lgpd
+  🤖 Usando Selenium para: https://turismo.tibagi.pr.gov.br/lgpd
+  [53/sem limite] fila=103 | depth=2 | https://tibagi.pr.gov.br/author/admin/
+  [54/sem limite] fila=102 | depth=2 | https://empreendedor.tibagi.pr.gov.br/form-1/
+  [55/sem limite] fila=101 | depth=2 | https://empreendedor.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+ ❌ HTTP_404: https://empreendedor.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  🤖 Usando Selenium para: https://empreendedor.tibagi.pr.gov.br/cdn-cgi/l/email-protection
+  [56/sem limite] fila=100 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ar
+  [57/sem limite] fila=99 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=cs
+  [58/sem limite] fila=98 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=da
+  [59/sem limite] fila=97 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=de
+  [60/sem limite] fila=96 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=el
+  [61/sem limite] fila=95 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=en
+  [62/sem limite] fila=94 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=es
+  [63/sem limite] fila=93 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=es_419
+  [64/sem limite] fila=92 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=es_es
+  [65/sem limite] fila=91 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=fi
+  [66/sem limite] fila=90 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=fil
+  [67/sem limite] fila=89 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=fr
+  [68/sem limite] fila=88 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=he
+  [69/sem limite] fila=87 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=hu
+  [70/sem limite] fila=86 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=id
+  [71/sem limite] fila=85 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=it
+  [72/sem limite] fila=84 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ja
+  [73/sem limite] fila=83 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ko
+  [74/sem limite] fila=82 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ms
+  [75/sem limite] fila=81 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=nb
+  [76/sem limite] fila=80 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=nl
+  [77/sem limite] fila=79 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=pl
+  [78/sem limite] fila=78 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=pt
+  [79/sem limite] fila=77 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=pt_br
+  [80/sem limite] fila=76 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ro
+  [81/sem limite] fila=75 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=ru
+  [82/sem limite] fila=74 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=sv
+  [83/sem limite] fila=73 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=th
+  [84/sem limite] fila=72 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=tr
+  [85/sem limite] fila=71 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=uk
+  [86/sem limite] fila=70 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=vi
+  [87/sem limite] fila=69 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=zh
+  [88/sem limite] fila=68 | depth=2 | https://webmail.tibagi.pr.gov.br?locale=zh_tw
+  [89/sem limite] fila=67 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ar
+  [90/sem limite] fila=66 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=cs
+  [91/sem limite] fila=65 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=da
+  [92/sem limite] fila=64 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=de
+  [93/sem limite] fila=63 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=el
+  [94/sem limite] fila=62 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=en
+  [95/sem limite] fila=61 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=es
+  [96/sem limite] fila=60 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=es_419
+  [97/sem limite] fila=59 | depth=2 | https://tibagi.pr.gov.br/author/ascom/page/2/
+  [98/sem limite] fila=59 | depth=2 | https://tibagi.pr.gov.br/author/ascom/page/3/
+  [99/sem limite] fila=59 | depth=2 | https://tibagi.pr.gov.br/author/ascom/page/46/
+  [100/sem limite] fila=67 | depth=2 | https://tibagi.pr.gov.br/wp-login.php?action=lostpassword
+  [101/sem limite] fila=67 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=es_es
+  [102/sem limite] fila=66 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=fi
+  [103/sem limite] fila=65 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=fil
+  [104/sem limite] fila=64 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=fr
+  [105/sem limite] fila=63 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=he
+  [106/sem limite] fila=62 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=hu
+  [107/sem limite] fila=61 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=id
+  [108/sem limite] fila=60 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=it
+  [109/sem limite] fila=59 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ja
+  [110/sem limite] fila=58 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ko
+  [111/sem limite] fila=57 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ms
+  [112/sem limite] fila=56 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=nb
+  [113/sem limite] fila=55 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=nl
+  [114/sem limite] fila=54 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=pl
+  [115/sem limite] fila=53 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=pt
+  [116/sem limite] fila=52 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=pt_br
+  [117/sem limite] fila=51 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ro
+  [118/sem limite] fila=50 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=ru
+  [119/sem limite] fila=49 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=sv
+  [120/sem limite] fila=48 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=th
+  [121/sem limite] fila=47 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=tr
+  [122/sem limite] fila=46 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=uk
+  [123/sem limite] fila=45 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=vi
+  [124/sem limite] fila=44 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=zh
+  [125/sem limite] fila=43 | depth=2 | https://webmail.tibagi.pr.gov.br/?locale=zh_tw
+  [126/sem limite] fila=42 | depth=3 | https://tibagi.pr.gov.br/ideb-2025-tibagi-conquista-maior-nota-da-historia-do-mu
+  [127/sem limite] fila=41 | depth=3 | https://tibagi.pr.gov.br/prefeitura-e-sanepar-ampliam-rede-de-abastecimento-de-a
+  [128/sem limite] fila=40 | depth=3 | https://tibagi.pr.gov.br/prefeito-rildo-leonardi-recebe-titulo-de-prefeito-inova
+  [129/sem limite] fila=39 | depth=3 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-padroniza-emissao-de-notas-fiscais
+  [130/sem limite] fila=38 | depth=3 | https://tibagi.pr.gov.br/comedia-quase-cinquenta-tons-de-cinza-chega-a-tibagi-co
+  [131/sem limite] fila=37 | depth=3 | https://tibagi.pr.gov.br/viagem-pelo-universo-dentro-de-um-caminhao-expedicao-do
+  [132/sem limite] fila=36 | depth=3 | https://tibagi.pr.gov.br/furto-de-fiacao-no-recicla-tibagi-causa-prejuizo-ao-pat
+  [133/sem limite] fila=35 | depth=3 | https://tibagi.pr.gov.br/tibagi-recebe-apresentacoes-do-espetaculo-motiro-nesta-
+  [134/sem limite] fila=34 | depth=3 | https://tibagi.pr.gov.br/polo-uab-tibagi-abre-25-vagas-para-pos-graduacao-gratui
+  [135/sem limite] fila=33 | depth=3 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-comeca-hoje-3
+  [136/sem limite] fila=32 | depth=3 | https://tibagi.pr.gov.br/c/noticias/page/4/
+  [137/sem limite] fila=42 | depth=3 | https://tibagi.pr.gov.br/atletas-da-melhor-idade-participam-de-festival-regional
+  [138/sem limite] fila=41 | depth=3 | https://tibagi.pr.gov.br/ifpr-divulga-resultado-definitivo-e-segunda-chamada-par
+  [139/sem limite] fila=40 | depth=3 | https://tibagi.pr.gov.br/campeonato-de-fazendas-comeca-nesta-terca-feira-28-com-
+  [140/sem limite] fila=39 | depth=3 | https://tibagi.pr.gov.br/agencia-do-trabalhador-promove-mutirao-de-emprego-para-
+  [141/sem limite] fila=38 | depth=3 | https://tibagi.pr.gov.br/prefeitura-abre-inscricoes-para-o-programa-diamante-da-
+  [142/sem limite] fila=37 | depth=3 | https://tibagi.pr.gov.br/secretaria-de-educacao-abre-periodo-para-renovacao-do-s
+  [143/sem limite] fila=36 | depth=3 | https://tibagi.pr.gov.br/atletas-de-tibagi-disputam-etapa-estadual-dos-jogos-da-
+  [144/sem limite] fila=35 | depth=3 | https://tibagi.pr.gov.br/eja-inscricoes-seguem-abertas-para-novas-turmas-em-tiba
+  [145/sem limite] fila=34 | depth=3 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-realiza-nova-entrega-de-oculos-gra
+  [146/sem limite] fila=33 | depth=3 | https://tibagi.pr.gov.br/inscricoes-para-a-caminhada-na-natureza-circuito-santa-
+  [147/sem limite] fila=32 | depth=3 | https://tibagi.pr.gov.br/c/noticias/page/5/
+  [148/sem limite] fila=42 | depth=3 | https://tibagi.pr.gov.br/valetao-do-santa-paula-recebe-licenca-ambiental-para-ob
+  [149/sem limite] fila=41 | depth=3 | https://tibagi.pr.gov.br/author/cr2-admin17/
+  [150/sem limite] fila=53 | depth=3 | https://tibagi.pr.gov.br/defesa-civil-de-tibagi-recebe-uniformes-materiais-e-equ
+  [151/sem limite] fila=52 | depth=3 | https://tibagi.pr.gov.br/sindicato-rural-de-tibagi-promove-curso-sobre-aplicacao
+  [152/sem limite] fila=51 | depth=3 | https://tibagi.pr.gov.br/tibagi-divulga-programacao-de-natal-com-shows-danca-e-s
+  [153/sem limite] fila=50 | depth=3 | https://tibagi.pr.gov.br/plano-decenal-dos-direitos-da-crianca-e-adolescente-do-
+  📄 [200] .pdf -> https://tibagi.pr.gov.br/wp-content/uploads/2026/03/PLANO-DECENAL-TIBA
+  [154/sem limite] fila=49 | depth=3 | https://tibagi.pr.gov.br/c/noticias/page/56/
+  [155/sem limite] fila=59 | depth=3 | https://tibagi.pr.gov.br/c/noticias/page/55/
+  [156/sem limite] fila=69 | depth=3 | https://turismo.tibagi.pr.gov.br/wp-login.php?action=lostpassword
+  [157/sem limite] fila=69 | depth=3 | https://tibagi.pr.gov.br/author/ascom/page/4/
+  [158/sem limite] fila=69 | depth=3 | https://tibagi.pr.gov.br/author/ascom/page/5/
+  [159/sem limite] fila=69 | depth=3 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [160/sem limite] fila=77 | depth=3 | https://tibagi.pr.gov.br/blitz-ambiental-marca-o-dia-da-reciclagem-com-entrega-d
+  [161/sem limite] fila=78 | depth=3 | https://tibagi.pr.gov.br/unioeste-abre-selecao-para-tutores-on-line-com-bolsas/
+  [162/sem limite] fila=77 | depth=3 | https://tibagi.pr.gov.br/amanha-tibagi-recebe-evento-com-o-biologo-atila-iamarin
+  [163/sem limite] fila=76 | depth=3 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [164/sem limite] fila=82 | depth=3 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [165/sem limite] fila=88 | depth=3 | https://tibagi.pr.gov.br/credenciamento-aberto-para-profissionais-de-educacao-fi
+  [166/sem limite] fila=87 | depth=3 | https://tibagi.pr.gov.br/author/ascom/page/45/
+  [167/sem limite] fila=97 | depth=3 | https://tibagi.pr.gov.br/author/ascom/page/44/
+  [168/sem limite] fila=107 | depth=3 | https://tibagi.pr.gov.br/wp-login.php
+  [169/sem limite] fila=106 | depth=4 | https://tibagi.pr.gov.br/canoagem-conquista-14-medalhas-em-campeonatos-brasileir
+  [170/sem limite] fila=105 | depth=4 | https://tibagi.pr.gov.br/festa-de-santa-pastorina-sera-realizada-de-24-a-26-de-j
+  [171/sem limite] fila=104 | depth=4 | https://tibagi.pr.gov.br/prefeitura-abre-inscricoes-para-feira-da-lua-do-dia-18-
+  [172/sem limite] fila=103 | depth=4 | https://tibagi.pr.gov.br/tibagi-conquista-premio-estadual-por-sistema-de-rastrea
+  [173/sem limite] fila=102 | depth=4 | https://tibagi.pr.gov.br/uepg-abre-inscricoes-para-vestibular-em-tecnologo-em-ge
+  [174/sem limite] fila=101 | depth=4 | https://tibagi.pr.gov.br/selecionados-para-curso-de-cuidador-de-idosos-devem-rea
+  [175/sem limite] fila=100 | depth=4 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [176/sem limite] fila=105 | depth=4 | https://tibagi.pr.gov.br/curso-gratuito-de-preparo-de-salgados-forma-novos-profi
+  [177/sem limite] fila=104 | depth=4 | https://tibagi.pr.gov.br/tibagi-reforca-frota-com-nova-patrola-para-ampliar-manu
+  [178/sem limite] fila=103 | depth=4 | https://tibagi.pr.gov.br/prefeitura-intensifica-limpeza-de-bueiros-e-manilhas-na
+  [179/sem limite] fila=102 | depth=4 | https://tibagi.pr.gov.br/c/noticias/page/6/
+  [180/sem limite] fila=112 | depth=4 | https://tibagi.pr.gov.br/sala-do-empreendedor-promove-palestra-sobre-as-competen
+  [181/sem limite] fila=111 | depth=4 | https://tibagi.pr.gov.br/concurso-de-musica-sertaneja-tera-mais-de-r-18-mil-em-p
+  [182/sem limite] fila=110 | depth=4 | https://tibagi.pr.gov.br/tibagi-recebe-a-2a-oficina-vrs-parques-parana-com-foco-
+  [183/sem limite] fila=109 | depth=4 | https://tibagi.pr.gov.br/10a-conferencia-municipal-fortalece-debate-sobre-os-dir
+  [184/sem limite] fila=108 | depth=4 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [185/sem limite] fila=112 | depth=4 | https://tibagi.pr.gov.br/complexo-esportivo-homero-de-melo-recebera-revitalizaca
+  [186/sem limite] fila=111 | depth=4 | https://tibagi.pr.gov.br/jotiba-de-futsal-adulto-2026-abre-inscricoes-para-prime
+  [187/sem limite] fila=110 | depth=4 | https://tibagi.pr.gov.br/inscricoes-abertas-para-concurso-das-princesas-da-festa
+  [188/sem limite] fila=109 | depth=4 | https://tibagi.pr.gov.br/cessao-de-espaco-sao-bento-e-unico-ponto-de-apoio-da-pa
+  [189/sem limite] fila=108 | depth=4 | https://tibagi.pr.gov.br/professores-de-tibagi-devem-ficar-atentos-ao-prazo-de-i
+  [190/sem limite] fila=107 | depth=4 | https://tibagi.pr.gov.br/c/noticias/page/7/
+  [191/sem limite] fila=117 | depth=4 | https://tibagi.pr.gov.br/alistamento-militar-2025-jovens-de-tibagi-devem-regular
+  [192/sem limite] fila=116 | depth=4 | https://tibagi.pr.gov.br/tibagi-recebe-evento-sobre-mudancas-climaticas-com-pres
+  [193/sem limite] fila=115 | depth=4 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-dois-projetos-pelo-programa-it
+  [194/sem limite] fila=114 | depth=4 | https://tibagi.pr.gov.br/tibagi-recebe-curso-gratuito-de-iluminacao-cenica/
+  [195/sem limite] fila=113 | depth=4 | https://tibagi.pr.gov.br/inscricoes-abertas-para-o-concurso-musa-da-copa-futsal-
+  [196/sem limite] fila=112 | depth=4 | https://tibagi.pr.gov.br/tibagi-realiza-dia-de-vacinacao-contra-a-gripe-no-proxi
+  [197/sem limite] fila=111 | depth=4 | https://tibagi.pr.gov.br/confira-a-programacao-da-2a-conferencia-municipal-da-ci
+  [198/sem limite] fila=110 | depth=4 | https://tibagi.pr.gov.br/equipe-da-acamarti-participa-de-cursos-de-brigada-de-in
+  [199/sem limite] fila=109 | depth=4 | https://tibagi.pr.gov.br/tibagi-realiza-2a-conferencia-municipal-da-cidade-nesta
+  [200/sem limite] fila=108 | depth=4 | https://tibagi.pr.gov.br/assinada-ordem-de-servico-para-construcao-do-estacionam
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  7 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  530 links externos registrados.
+  Checkpoint salvo (200 páginas totais | 200 nesta sessão).
+  [201/sem limite] fila=107 | depth=4 | https://tibagi.pr.gov.br/author/cr2-admin17/page/2/
+  [202/sem limite] fila=117 | depth=4 | https://tibagi.pr.gov.br/author/cr2-admin17/page/3/
+  [203/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/author/cr2-admin17/page/11/
+  [204/sem limite] fila=128 | depth=4 | https://tibagi.pr.gov.br/prefeito-rildo-e-vice-helynez-recebem-assessor-do-deput
+  [205/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/rildo-leonardi-e-helynez-ribas-tomam-posse-e-retornam-a
+  [206/sem limite] fila=126 | depth=4 | https://tibagi.pr.gov.br/prefeito-e-secretarios-apresentam-resultados-da-gestao-
+  [207/sem limite] fila=125 | depth=4 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-inaugura-novo-mirante-e-ponte-do-b
+  [208/sem limite] fila=124 | depth=4 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-inicia-obras-de-infraestrutura-par
+  [209/sem limite] fila=123 | depth=4 | https://tibagi.pr.gov.br/tibagi-recebe-r-634-mil-para-investimentos-no-turismo/
+  [210/sem limite] fila=122 | depth=4 | https://tibagi.pr.gov.br/tibagi-tera-obras-de-extensao-da-rede-de-iluminacao-pub
+  [211/sem limite] fila=121 | depth=4 | https://tibagi.pr.gov.br/marco-na-historia-de-tibagi-inaugura-escola-municipal-d
+  [212/sem limite] fila=120 | depth=4 | https://tibagi.pr.gov.br/confira-os-vencedores-do-programa-iptu-premiado-2024/
+  [213/sem limite] fila=119 | depth=4 | https://tibagi.pr.gov.br/atletas-de-tibagi-brilham-em-campeonato-brasileiro-de-l
+  [214/sem limite] fila=118 | depth=4 | https://tibagi.pr.gov.br/c/noticias/page/54/
+  [215/sem limite] fila=128 | depth=4 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-garante-recursos-junto-a-assessore
+  [216/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/reuniao-debate-reajuste-salarial-e-cumprimento-do-piso-
+  [217/sem limite] fila=126 | depth=4 | https://tibagi.pr.gov.br/tibagi-avanca-em-programa-habitacional-com-100-novas-un
+  [218/sem limite] fila=125 | depth=4 | https://tibagi.pr.gov.br/sistema-de-abastecimento-de-agua-na-comunidade-da-serra
+  [219/sem limite] fila=124 | depth=4 | https://tibagi.pr.gov.br/prefeito-rildo-participa-de-reuniao-com-o-secretario-de
+  [220/sem limite] fila=123 | depth=4 | https://tibagi.pr.gov.br/manutencao-em-praca-publica-reforca-seguranca-em-tibagi
+  [221/sem limite] fila=122 | depth=4 | https://tibagi.pr.gov.br/ifpr-polo-tibagi-abre-inscricoes-para-cursos-tecnicos-s
+  [222/sem limite] fila=121 | depth=4 | https://tibagi.pr.gov.br/entrega-do-iptu-premiado-2024-acontece-nesta-sexta-feir
+  [223/sem limite] fila=120 | depth=4 | https://tibagi.pr.gov.br/primeira-semana-de-mandato-em-tibagi-e-marcada-por-visi
+  [224/sem limite] fila=119 | depth=4 | https://tibagi.pr.gov.br/prefeito-rildo-realiza-reuniao-com-secretarios-para-ali
+  [225/sem limite] fila=118 | depth=4 | https://tibagi.pr.gov.br/c/noticias/page/53/
+  [226/sem limite] fila=128 | depth=4 | https://turismo.tibagi.pr.gov.br/wp-login.php
+  [227/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/author/ascom/page/6/
+  [228/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/author/ascom/page/7/
+  [229/sem limite] fila=127 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [230/sem limite] fila=126 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [231/sem limite] fila=125 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [232/sem limite] fila=124 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [233/sem limite] fila=123 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [234/sem limite] fila=122 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [235/sem limite] fila=121 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [236/sem limite] fila=120 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [237/sem limite] fila=119 | depth=4 | https://tibagi.pr.gov.br/com-vagas-esgotadas-seminario-discute-cop30-e-sustentab
+  [238/sem limite] fila=118 | depth=4 | https://tibagi.pr.gov.br/blitz-ambiental-marca-o-dia-da-reciclagem-com-entrega-d
+  [239/sem limite] fila=117 | depth=4 | https://tibagi.pr.gov.br/blitz-ambiental-marca-o-dia-da-reciclagem-com-entrega-d
+  [240/sem limite] fila=116 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [241/sem limite] fila=115 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [242/sem limite] fila=114 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [243/sem limite] fila=113 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [244/sem limite] fila=112 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [245/sem limite] fila=111 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [246/sem limite] fila=110 | depth=4 | https://tibagi.pr.gov.br/copa-cidade-2025-e-aberta-com-ginasio-lotado-desfile-da
+  [247/sem limite] fila=109 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [248/sem limite] fila=108 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [249/sem limite] fila=107 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [250/sem limite] fila=106 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [251/sem limite] fila=105 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [252/sem limite] fila=104 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [253/sem limite] fila=103 | depth=4 | https://tibagi.pr.gov.br/ciclo-de-palestras-marca-o-dia-do-gari-em-tibagi-com-va
+  [254/sem limite] fila=102 | depth=4 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-garante-melhorias-na-estrada-sao-b
+  [255/sem limite] fila=104 | depth=4 | https://tibagi.pr.gov.br/secretaria-de-esportes-abre-inscricoes-para-escolinha-d
+  [256/sem limite] fila=103 | depth=4 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [257/sem limite] fila=113 | depth=4 | https://tibagi.pr.gov.br/inscricoes-abertas-para-concurso-das-princesas-da-festa
+  [258/sem limite] fila=112 | depth=4 | https://tibagi.pr.gov.br/feira-da-lua-e-inauguracao-do-novo-centro-de-informacoe
+  [259/sem limite] fila=111 | depth=4 | https://tibagi.pr.gov.br/governo-autoriza-contratacao-para-execucao-de-50-casas-
+  [260/sem limite] fila=110 | depth=4 | https://tibagi.pr.gov.br/tibagi-sedia-1o-seminario-dos-consegs-dos-campos-gerais
+  [261/sem limite] fila=109 | depth=4 | https://tibagi.pr.gov.br/produtores-de-tibagi-tem-ate-dia-30-de-junho-para-atual
+  [262/sem limite] fila=108 | depth=4 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [263/sem limite] fila=116 | depth=4 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [264/sem limite] fila=126 | depth=4 | https://tibagi.pr.gov.br/author/ascom/page/43/
+  [265/sem limite] fila=136 | depth=4 | https://tibagi.pr.gov.br/prefeito-rildo-cumpre-agenda-em-curitiba-e-busca-invest
+  [266/sem limite] fila=138 | depth=4 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [267/sem limite] fila=144 | depth=4 | https://tibagi.pr.gov.br/tibagi-intensifica-vacinacao-contra-a-gripe-com-aumento
+  [268/sem limite] fila=143 | depth=4 | https://tibagi.pr.gov.br/caminhada-na-natureza-circuito-barreiro-e-adiada-para-2
+  [269/sem limite] fila=142 | depth=4 | https://tibagi.pr.gov.br/tibagi-conquista-barracao-industrial-no-valor-de-r-500-
+  [270/sem limite] fila=144 | depth=4 | https://tibagi.pr.gov.br/ifpr-divulga-convocacao-para-matricula-da-3a-chamada-do
+  [271/sem limite] fila=143 | depth=4 | https://tibagi.pr.gov.br/consulta-publica-para-elaboracao-do-plano-plurianual-pp
+  [272/sem limite] fila=142 | depth=4 | https://tibagi.pr.gov.br/uepg-abre-inscricoes-para-vestibular-ead-em-tibagi/
+  [273/sem limite] fila=141 | depth=4 | https://tibagi.pr.gov.br/inscricoes-abertas-para-a-caminhada-na-natureza-circuit
+  [274/sem limite] fila=140 | depth=4 | https://tibagi.pr.gov.br/esportes-amplia-equipe-com-credenciamento-de-cinco-novo
+  [275/sem limite] fila=139 | depth=4 | https://tibagi.pr.gov.br/author/ascom/page/42/
+  [276/sem limite] fila=149 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [277/sem limite] fila=148 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [278/sem limite] fila=147 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [279/sem limite] fila=146 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [280/sem limite] fila=145 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [281/sem limite] fila=144 | depth=5 | https://tibagi.pr.gov.br/26a-festa-de-acao-de-gracas-pela-colheita-acontece-de-3
+  [282/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/tibagi-realiza-x-conferencia-municipal-dos-direitos-da-
+  [283/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/agencia-do-trabalhador-divulga-novas-oportunidades-de-e
+  [284/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/vacinacao-contra-a-gripe-sera-aberta-para-publico-em-ge
+  [285/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/pesquisa-de-arqueologia-preventiva-e-realizada-em-tibag
+  [286/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/emissao-de-novas-carteiras-de-identidade-ficara-tempora
+  [287/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/inscricoes-abertas-para-curso-gratuito-de-preparo-de-sa
+  [288/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-caminhao-pipa-para-reforcar-abastecimento
+  [289/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/atendentes-dos-cmeis-passam-a-integrar-plano-de-carreir
+  [290/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/2a-edicao-do-tibaia-sera-realizada-neste-sabado-na-prac
+  [291/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/deputado-aliel-machado-confirma-repasse-de-r-1-milhao-p
+  [292/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/c/noticias/page/8/
+  [293/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [294/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [295/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [296/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [297/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/camara-realiza-sessao-solene-para-entrega-de-titulos-de
+  [298/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/prefeitura-intensifica-limpeza-dos-bairros-e-alerta-par
+  [299/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/prefeito-participa-do-forum-internacional-de-turismo-do
+  [300/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/prefeitura-amplia-transparencia-e-disponibiliza-rastrea
+  [301/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-amanha-apresentacoes-gratuitas-da-peca-am
+  [302/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/nota-furtos-de-fiacao-no-estadio-homero-suspendem-tempo
+  [303/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/semana-do-meio-ambiente-leva-teatro-e-educacao-ambienta
+  [304/sem limite] fila=132 | depth=5 | https://tibagi.pr.gov.br/tibagi-inicia-planejamento-preventivo-para-enfrentar-po
+  [305/sem limite] fila=131 | depth=5 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [306/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/polo-uab-tibagi-abre-inscricoes-para-curso-gratuito-de-
+  [307/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/secretaria-de-saude-recebe-novos-notebooks-para-fortale
+  [308/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/c/noticias/page/9/
+  [309/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/assinada-ordem-de-servico-para-construcao-do-estacionam
+  [310/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/turismo-em-alta-mais-de-1-100-pessoas-visitam-o-parque-
+  [311/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/inscricoes-para-o-encceja-2025-estao-abertas-polo-tibag
+  [312/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/tibagi-amplia-atendimentos-com-mutiroes-de-saude-e-espe
+  [313/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/tibagi-oferece-aulas-gratuitas-para-jovens-e-adultos-co
+  [314/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/tibagi-guartela-vence-jaguariaiva-na-estreia-da-9a-copa
+  [315/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/moradores-das-vilas-santa-paula-ii-e-vila-isabel-recebe
+  [316/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/caminhada-da-natureza-atrai-centenas-de-participantes-m
+  [317/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/tibagi-promove-1o-piquenique-inclusivo-em-conscientizac
+  [318/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-e-amcg-debatem-projetos-para-a-regiao-du
+  [319/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/author/cr2-admin17/page/4/
+  [320/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/com-investimento-de-r-4-mi-assinada-ordem-de-servico-pa
+  [321/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/casamento-coletivo-gratuito-esta-com-inscricoes-abertas
+  [322/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/abertas-as-inscricoes-do-pss-de-estagio-para-nivel-medi
+  [323/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-sanepar-vereadores-e-saude-debatem-quali
+  [324/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/conseg-tibagi-recebe-honraria-estadual-por-atuac/
+  [325/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/prefeitura-alerta-sobre-descarte-irregular-de-lixo-biol
+  [326/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/ifpr-prorroga-prazo-para-matriculas-de-candidatos-sorte
+  [327/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/refis-tibagi-lanca-programa-de-refinanciamento-de-divid
+  [328/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/abril-azul-tibagi-promove-mes-de-conscientizacao-sobre-
+  [329/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/museu-historico-de-tibagi-celebra-38-anos-com-programac
+  [330/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/author/cr2-admin17/page/5/
+  [331/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/author/cr2-admin17/page/10/
+  [332/sem limite] fila=143 | depth=5 | https://tibagi.pr.gov.br/author/cr2-admin17/page/9/
+  [333/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/inscricoes-para-o-pss-de-professores-sao-prorrogadas/
+  [334/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-autoriza-pagamento-de-insalubridade-aos-
+  [335/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/abertas-as-inscricoes-para-o-pss-de-professores-em-tiba
+  [336/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/tibagi-cancela-carnaval-2025-para-priorizar-recuperacao
+  [337/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/tibagi-discute-parcerias-com-seab-e-idr-para-fortalecim
+  [338/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/chuvas-provocam-alagamentos-em-casas-e-danos-em-estrada
+  [339/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/premiacao-do-iptu-premiado-2024-e-entregue-aos-contribu
+  [340/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/com-matriculas-abertas-eja-oferece-oportunidade-de-reto
+  [341/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/tibagi-conquista-50-novas-unidades-habitacionais-pelo-p
+  [342/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/parceria-entre-secretaria-de-turismo-e-iat-fortalece-ac
+  [343/sem limite] fila=132 | depth=5 | https://tibagi.pr.gov.br/c/noticias/page/52/
+  [344/sem limite] fila=142 | depth=5 | https://tibagi.pr.gov.br/tibagi-divulga-calendario-anual-de-eventos-com-mais-de-
+  [345/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/abertas-as-inscricoes-para-pss-de-estagiarios-na-area-d
+  [346/sem limite] fila=141 | depth=5 | https://tibagi.pr.gov.br/prefeitura-abre-credenciamento-para-comerciantes-solici
+  [347/sem limite] fila=140 | depth=5 | https://tibagi.pr.gov.br/uepg-e-unicentro-abrem-inscricoes-para-vestibulares-ead
+  [348/sem limite] fila=139 | depth=5 | https://tibagi.pr.gov.br/mutirao-de-empregos-para-safra-acontece-segunda-feira-0
+  [349/sem limite] fila=138 | depth=5 | https://tibagi.pr.gov.br/decretada-situacao-de-emergencia-em-tibagi/
+  [350/sem limite] fila=137 | depth=5 | https://tibagi.pr.gov.br/rildo-leonardi-assume-tesouraria-da-amcg-em-cerimonia-d
+  [351/sem limite] fila=136 | depth=5 | https://tibagi.pr.gov.br/tibagi-conquista-mais-de-r-360-mil-para-infraestrutura-
+  [352/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/tibagi-busca-ampliar-servicos-para-a-populacao-em-proxi
+  [353/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-assina-decreto-de-emergencia-e-aguarda-h
+  [354/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/c/noticias/page/51/
+  [355/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/author/ascom/page/8/
+  [356/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/author/ascom/page/9/
+  [357/sem limite] fila=135 | depth=5 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-garante-melhorias-na-estrada-sao-b
+  [358/sem limite] fila=134 | depth=5 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-garante-melhorias-na-estrada-sao-b
+  [359/sem limite] fila=133 | depth=5 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-garante-melhorias-na-estrada-sao-b
+  [360/sem limite] fila=132 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [361/sem limite] fila=131 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [362/sem limite] fila=130 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [363/sem limite] fila=129 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [364/sem limite] fila=128 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [365/sem limite] fila=127 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [366/sem limite] fila=126 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [367/sem limite] fila=125 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [368/sem limite] fila=124 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [369/sem limite] fila=123 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [370/sem limite] fila=122 | depth=5 | https://tibagi.pr.gov.br/atletas-de-tibagi-conquistam-14-medalhas-no-campeonato-
+  [371/sem limite] fila=121 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [372/sem limite] fila=120 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [373/sem limite] fila=119 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [374/sem limite] fila=118 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [375/sem limite] fila=117 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [376/sem limite] fila=116 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [377/sem limite] fila=115 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [378/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [379/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/tibagi-recebe-retroescavadeira-para-reforcar-atendiment
+  [380/sem limite] fila=112 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [381/sem limite] fila=111 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [382/sem limite] fila=110 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [383/sem limite] fila=109 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [384/sem limite] fila=108 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [385/sem limite] fila=107 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [386/sem limite] fila=106 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [387/sem limite] fila=105 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [388/sem limite] fila=104 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [389/sem limite] fila=103 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [390/sem limite] fila=102 | depth=5 | https://tibagi.pr.gov.br/maio-amarelo-blitz-educativa-no-interior-marca-acoes-de
+  [391/sem limite] fila=101 | depth=5 | https://tibagi.pr.gov.br/prefeitura-conquista-licenca-ambiental-para-construcao-
+  [392/sem limite] fila=100 | depth=5 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [393/sem limite] fila=104 | depth=5 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [394/sem limite] fila=110 | depth=5 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [395/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/ataques-de-caes-prejudicam-trabalho-de-leituristas-gari
+  [396/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/prefeitura-e-iat-realizam-voo-tecnico-para-inspeciona-c
+  [397/sem limite] fila=116 | depth=5 | https://tibagi.pr.gov.br/novas-orientacoes-para-atendimento-no-setor-de-identifi
+  [398/sem limite] fila=115 | depth=5 | https://tibagi.pr.gov.br/tibagi-realiza-5o-encontro-do-produtor-com-programacao-
+  [399/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/tibagi-realiza-vi-conferencia-municipal-dos-direitos-da
+  [400/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  7 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  1446 links externos registrados.
+  Checkpoint salvo (400 páginas totais | 400 nesta sessão).
+  [401/sem limite] fila=118 | depth=5 | https://tibagi.pr.gov.br/author/ascom/page/41/
+  [402/sem limite] fila=128 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-cumpre-agenda-em-curitiba-e-busca-invest
+  [403/sem limite] fila=127 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-cumpre-agenda-em-curitiba-e-busca-invest
+  [404/sem limite] fila=126 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-cumpre-agenda-em-curitiba-e-busca-invest
+  [405/sem limite] fila=125 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [406/sem limite] fila=124 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [407/sem limite] fila=123 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [408/sem limite] fila=122 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [409/sem limite] fila=121 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [410/sem limite] fila=120 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [411/sem limite] fila=119 | depth=5 | https://tibagi.pr.gov.br/alunos-de-tibagi-participam-de-espetaculo-que-conta-a-h
+  [412/sem limite] fila=118 | depth=5 | https://tibagi.pr.gov.br/tibagi-conquista-barracao-industrial-no-valor-de-r-500-
+  [413/sem limite] fila=117 | depth=5 | https://tibagi.pr.gov.br/tibagi-conquista-barracao-industrial-no-valor-de-r-500-
+  [414/sem limite] fila=116 | depth=5 | https://tibagi.pr.gov.br/tibagi-conquista-barracao-industrial-no-valor-de-r-500-
+  [415/sem limite] fila=115 | depth=5 | https://tibagi.pr.gov.br/cras-de-tibagi-alerta-sobre-cartoes-do-programa-comida-
+  [416/sem limite] fila=115 | depth=5 | https://tibagi.pr.gov.br/prefeitura-e-ccr-rodovias-discutem-melhorias-na-br-376-
+  [417/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/prefeito-rildo-anuncia-reajuste-salarial-para-professor
+  [418/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/ifpr-abre-vagas-remanescentes-para-cursos-tecnicos-a-di
+  [419/sem limite] fila=112 | depth=5 | https://tibagi.pr.gov.br/tibagi-encerra-ciclo-de-conferencias-da-assistencia-soc
+  [420/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/refis-prorrogado-prazo-para-refinanciamento-de-dividas-
+  [421/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/confira-as-novas-datas-do-programa-tibagi-sustentavel-p
+  [422/sem limite] fila=114 | depth=5 | https://tibagi.pr.gov.br/tibagi-investe-em-profissionalizacao-e-fomento-ao-empre
+  [423/sem limite] fila=113 | depth=5 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [424/sem limite] fila=118 | depth=5 | https://tibagi.pr.gov.br/consulta-publica-participe-da-construcao-da-14a-confere
+  [425/sem limite] fila=117 | depth=5 | https://tibagi.pr.gov.br/author/ascom/page/40/
+  [426/sem limite] fila=127 | depth=6 | https://tibagi.pr.gov.br/tibagi-e-destaque-no-ix-encontro-de-secretarias-de-educ
+  [427/sem limite] fila=126 | depth=6 | https://tibagi.pr.gov.br/recicla-tibagi-celebra-17-anos-transformando-residuos-e
+  [428/sem limite] fila=125 | depth=6 | https://tibagi.pr.gov.br/prefeitura-garante-oculos-gratuitos-para-34-pacientes/
+  [429/sem limite] fila=124 | depth=6 | https://tibagi.pr.gov.br/inscricoes-abertas-para-a-caminhada-na-natureza-circuit
+  [430/sem limite] fila=123 | depth=6 | https://tibagi.pr.gov.br/dia-d-da-vacinacao-contra-a-influenza-acontece-neste-sa
+  [431/sem limite] fila=122 | depth=6 | https://tibagi.pr.gov.br/audiencia-publica-vai-apresentar-metas-fiscais-do-prime
+  [432/sem limite] fila=121 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-abre-inscricoes-para-pss-de-mecani
+  [433/sem limite] fila=120 | depth=6 | https://tibagi.pr.gov.br/escola-municipal-de-danca-de-tibagi-conquista-sete-podi
+  [434/sem limite] fila=119 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-divulga-cronograma-de-troca
+  [435/sem limite] fila=120 | depth=6 | https://tibagi.pr.gov.br/inscricoes-abertas-para-o-encceja-2026/
+  [436/sem limite] fila=119 | depth=6 | https://tibagi.pr.gov.br/c/noticias/page/10/
+  [437/sem limite] fila=129 | depth=6 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [438/sem limite] fila=128 | depth=6 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [439/sem limite] fila=127 | depth=6 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [440/sem limite] fila=126 | depth=6 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [441/sem limite] fila=125 | depth=6 | https://tibagi.pr.gov.br/obras-do-programa-asfalto-novo-vida-nova-comecam-com-in
+  [442/sem limite] fila=124 | depth=6 | https://tibagi.pr.gov.br/tibagi-garante-mais-de-r-26-milhoes-em-investimentos-pa
+  [443/sem limite] fila=126 | depth=6 | https://tibagi.pr.gov.br/inscricoes-para-o-castrapet-2026-comecam-no-dia-11-de-m
+  [444/sem limite] fila=125 | depth=6 | https://tibagi.pr.gov.br/sala-do-empreendedor-promove-palestra-sobre-acesso-ao-c
+  [445/sem limite] fila=124 | depth=6 | https://tibagi.pr.gov.br/feriado-e-em-tibagi-natureza-aventura-e-experiencias-un
+  [446/sem limite] fila=135 | depth=6 | https://tibagi.pr.gov.br/polo-uab-tibagi-recebe-diplomas-e-novos-equipamentos-em
+  [447/sem limite] fila=134 | depth=6 | https://tibagi.pr.gov.br/alunos-assistem-a-espetaculo-que-apresenta-o-surgimento
+  [448/sem limite] fila=133 | depth=6 | https://tibagi.pr.gov.br/tibagi-recebe-etapa-do-campeonato-paranaense-de-velocro
+  [449/sem limite] fila=132 | depth=6 | https://tibagi.pr.gov.br/homologada-licitacao-para-construcao-do-cmei-santa-paul
+  [450/sem limite] fila=131 | depth=6 | https://tibagi.pr.gov.br/prefeitura-anuncia-pacote-de-pavimentacao-com-investime
+  [451/sem limite] fila=130 | depth=6 | https://tibagi.pr.gov.br/prefeitura-lanca-campanha-do-agasalho-e-reforca-mobiliz
+  [452/sem limite] fila=129 | depth=6 | https://tibagi.pr.gov.br/c/noticias/page/11/
+  [453/sem limite] fila=139 | depth=6 | https://tibagi.pr.gov.br/vice-prefeita-de-tibagi-marca-presenca-em-palestra-de-d
+  [454/sem limite] fila=138 | depth=6 | https://tibagi.pr.gov.br/tibagi-apresenta-programa-nossa-gente-parana-em-reuniao
+  [455/sem limite] fila=137 | depth=6 | https://tibagi.pr.gov.br/tibagi-inicia-campanha-de-vacinacao-contra-a-gripe-nest
+  [456/sem limite] fila=136 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-adquire-maquina-de-pintura-viaria-
+  [457/sem limite] fila=135 | depth=6 | https://tibagi.pr.gov.br/deputado-alexandre-curi-assume-compromissos-com-tibagi-
+  [458/sem limite] fila=134 | depth=6 | https://tibagi.pr.gov.br/secretaria-de-turismo-de-tibagi-marca-presenca-na-expo-
+  [459/sem limite] fila=133 | depth=6 | https://tibagi.pr.gov.br/abertas-as-inscricoes-para-a-caminhada-da-natureza-no-g
+  [460/sem limite] fila=132 | depth=6 | https://tibagi.pr.gov.br/chefe-de-gabinete-de-tibagi-participa-do-encontro-das-p
+  [461/sem limite] fila=131 | depth=6 | https://tibagi.pr.gov.br/em-menos-de-24-horas-caminhada-da-natureza-no-guartela-
+  [462/sem limite] fila=130 | depth=6 | https://tibagi.pr.gov.br/blitz-abril-laranja-promove-conscientizacao-e-bencao-do
+  [463/sem limite] fila=129 | depth=6 | https://tibagi.pr.gov.br/author/cr2-admin17/page/6/
+  [464/sem limite] fila=128 | depth=6 | https://tibagi.pr.gov.br/atencao-produtor-prazo-para-entrega-das-notas-fiscais-i
+  [465/sem limite] fila=127 | depth=6 | https://tibagi.pr.gov.br/gestores-de-tibagi-participam-de-debate-do-plano-decena
+  [466/sem limite] fila=126 | depth=6 | https://tibagi.pr.gov.br/ifpr-inicia-periodo-de-matriculas-para-candidatos-selec
+  [467/sem limite] fila=125 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-endoscopia-atende-40-pacientes-de-tibagi/
+  [468/sem limite] fila=124 | depth=6 | https://tibagi.pr.gov.br/saude-esclarece-fluxo-de-encaminhamentos-nos-mutiroes-d
+  [469/sem limite] fila=123 | depth=6 | https://tibagi.pr.gov.br/eleitores-que-nao-votaram-nas-ultimas-tres-eleicoes-pod
+  [470/sem limite] fila=122 | depth=6 | https://tibagi.pr.gov.br/tibagi-inicia-comemoracoes-dos-153-anos-com-programacao
+  [471/sem limite] fila=121 | depth=6 | https://tibagi.pr.gov.br/contagem-regressiva-tibagi-tera-seis-dias-de-festa-para
+  [472/sem limite] fila=120 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-e-klabin-discutem-parcerias-para-m
+  [473/sem limite] fila=119 | depth=6 | https://tibagi.pr.gov.br/uepg-divulga-lista-de-aprovados-para-cursos-de-educacao
+  [474/sem limite] fila=118 | depth=6 | https://tibagi.pr.gov.br/author/cr2-admin17/page/7/
+  [475/sem limite] fila=117 | depth=6 | https://tibagi.pr.gov.br/author/cr2-admin17/page/8/
+  [476/sem limite] fila=116 | depth=6 | https://tibagi.pr.gov.br/carnaval-de-tibagi-atrai-milhares-de-turistas-e-impulsi
+  [477/sem limite] fila=115 | depth=6 | https://tibagi.pr.gov.br/tibagi-e-21a-regional-de-saude-discutem-prevencao-da-de
+  [478/sem limite] fila=114 | depth=6 | https://tibagi.pr.gov.br/festival-seletivo-reune-cerca-de-500-pessoas-no-ginasio
+  [479/sem limite] fila=113 | depth=6 | https://tibagi.pr.gov.br/tardezinha-de-carnaval-na-orla-promete-lazer-e-diversao
+  [480/sem limite] fila=112 | depth=6 | https://tibagi.pr.gov.br/fiscalizacao-da-dengue-pode-penalizar-descarte-irregula
+  [481/sem limite] fila=111 | depth=6 | https://tibagi.pr.gov.br/boletos-para-pagamento-do-iptu-em-tibagi-ja-estao-dispo
+  [482/sem limite] fila=110 | depth=6 | https://tibagi.pr.gov.br/tibagi-recebe-reconhecimento-federal-de-situacao-de-eme
+  [483/sem limite] fila=109 | depth=6 | https://tibagi.pr.gov.br/tibagi-impulsiona-geracao-de-empregos-e-supera-meta-de-
+  [484/sem limite] fila=108 | depth=6 | https://tibagi.pr.gov.br/chefe-de-gabinete-visita-comunidades-do-interior-e-refo
+  [485/sem limite] fila=107 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-abre-inscricoes-para-subsidio-de-t
+  [486/sem limite] fila=106 | depth=6 | https://tibagi.pr.gov.br/c/noticias/page/50/
+  [487/sem limite] fila=106 | depth=6 | https://tibagi.pr.gov.br/abertas-as-inscricoes-para-pss-de-estagiarios-na-area-d
+ ❌ HTTP_404: https://tibagi.pr.gov.br/abertas-as-inscricoes-para-pss-de-estagiarios-na-area-de-educacao/educacao@tibagi.pr.gov.br
+  🤖 Usando Selenium para: https://tibagi.pr.gov.br/abertas-as-inscricoes-para-pss-de-estagiarios-na-area-de-educacao/educacao@tibagi.pr.gov.br
+  [488/sem limite] fila=105 | depth=6 | https://tibagi.pr.gov.br/tibagi-realiza-capacitacao-sobre-cuidados-e-tratamentos
+  [489/sem limite] fila=104 | depth=6 | https://tibagi.pr.gov.br/tibagi-celebra-153-anos-com-show-de-joao-bosco-vinicius
+  [490/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/c/noticias/page/49/
+  [491/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/author/ascom/page/10/
+  [492/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/author/ascom/page/11/
+  [493/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [494/sem limite] fila=102 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [495/sem limite] fila=101 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [496/sem limite] fila=100 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [497/sem limite] fila=99 | depth=6 | https://tibagi.pr.gov.br/mutirao-de-oftalmologia-atende-cerca-de-100-pacientes-e
+  [498/sem limite] fila=98 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [499/sem limite] fila=97 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [500/sem limite] fila=96 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [501/sem limite] fila=95 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [502/sem limite] fila=94 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [503/sem limite] fila=93 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [504/sem limite] fila=92 | depth=6 | https://tibagi.pr.gov.br/grupo-de-danca-de-tibagi-conquista-podio-e-se-classific
+  [505/sem limite] fila=91 | depth=6 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [506/sem limite] fila=90 | depth=6 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [507/sem limite] fila=89 | depth=6 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [508/sem limite] fila=88 | depth=6 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [509/sem limite] fila=87 | depth=6 | https://tibagi.pr.gov.br/conferencia-debate-desafios-e-fortalece-politicas-publi
+  [510/sem limite] fila=86 | depth=6 | https://tibagi.pr.gov.br/prefeitura-e-iat-realizam-voo-tecnico-para-inspeciona-c
+  [511/sem limite] fila=85 | depth=6 | https://tibagi.pr.gov.br/prefeitura-e-iat-realizam-voo-tecnico-para-inspeciona-c
+  [512/sem limite] fila=84 | depth=6 | https://tibagi.pr.gov.br/prefeitura-e-iat-realizam-voo-tecnico-para-inspeciona-c
+  [513/sem limite] fila=83 | depth=6 | https://tibagi.pr.gov.br/prefeitura-e-iat-realizam-voo-tecnico-para-inspeciona-c
+  [514/sem limite] fila=82 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [515/sem limite] fila=81 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [516/sem limite] fila=80 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [517/sem limite] fila=79 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [518/sem limite] fila=78 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [519/sem limite] fila=77 | depth=6 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-retorna-com-trocas-de-recic
+  [520/sem limite] fila=76 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-abre-periodo-de-atualizacao-para-e
+  [521/sem limite] fila=75 | depth=6 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [522/sem limite] fila=86 | depth=6 | https://tibagi.pr.gov.br/tibagi-recebe-novos-recursos-do-governo-do-estado-para-
+  [523/sem limite] fila=85 | depth=6 | https://tibagi.pr.gov.br/tibagi-promove-caminhada-do-meio-dia-pelo-fim-da-violen
+  [524/sem limite] fila=86 | depth=6 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [525/sem limite] fila=93 | depth=6 | https://tibagi.pr.gov.br/caminhada-na-natureza-em-tibagi-acontece-neste-domingo-
+  [526/sem limite] fila=92 | depth=6 | https://tibagi.pr.gov.br/tibagi-recebe-maior-investimento-habitacional-da-histor
+  [527/sem limite] fila=91 | depth=6 | https://tibagi.pr.gov.br/consulta-publica-para-elaboracao-do-plano-plurianual-pp
+  [528/sem limite] fila=90 | depth=6 | https://tibagi.pr.gov.br/cras-alerta-sobre-mais-de-80-certidoes-de-nascimento-pr
+  [529/sem limite] fila=89 | depth=6 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [530/sem limite] fila=94 | depth=6 | https://tibagi.pr.gov.br/author/ascom/page/39/
+  [531/sem limite] fila=104 | depth=6 | https://tibagi.pr.gov.br/cras-de-tibagi-alerta-sobre-cartoes-do-programa-comida-
+  [532/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/tibagi-encerra-ciclo-de-conferencias-da-assistencia-soc
+  [533/sem limite] fila=102 | depth=6 | https://tibagi.pr.gov.br/tibagi-encerra-ciclo-de-conferencias-da-assistencia-soc
+  [534/sem limite] fila=101 | depth=6 | https://tibagi.pr.gov.br/tibagi-encerra-ciclo-de-conferencias-da-assistencia-soc
+  [535/sem limite] fila=100 | depth=6 | https://tibagi.pr.gov.br/confira-as-novas-datas-do-programa-tibagi-sustentavel-p
+  [536/sem limite] fila=99 | depth=6 | https://tibagi.pr.gov.br/confira-as-novas-datas-do-programa-tibagi-sustentavel-p
+  [537/sem limite] fila=98 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [538/sem limite] fila=97 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [539/sem limite] fila=96 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [540/sem limite] fila=95 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [541/sem limite] fila=94 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [542/sem limite] fila=93 | depth=6 | https://tibagi.pr.gov.br/tibagi-reforca-atrativos-de-inverno-e-convida-turistas-
+  [543/sem limite] fila=92 | depth=6 | https://tibagi.pr.gov.br/tibagi-recebe-100-cobertores-do-governo-do-estado-para-
+  [544/sem limite] fila=91 | depth=6 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [545/sem limite] fila=103 | depth=6 | https://tibagi.pr.gov.br/prefeitura-assina-ordem-de-servico-para-alargamento-da-
+  [546/sem limite] fila=102 | depth=6 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [547/sem limite] fila=108 | depth=6 | https://tibagi.pr.gov.br/25a-festa-de-acao-de-gracas-pela-colheita-acontece-nest
+  [548/sem limite] fila=110 | depth=6 | https://tibagi.pr.gov.br/nacional-2025-tibagiano-vence-prova-de-redeas-em-go-e-l
+  [549/sem limite] fila=109 | depth=6 | https://tibagi.pr.gov.br/tibagi-promove-formacao-sobre-os-35-anos-do-eca-com-foc
+  [550/sem limite] fila=108 | depth=6 | https://tibagi.pr.gov.br/tibagi-guartela-e-sao-joao-do-triunfo-empatam-em-2-a-2-
+  [551/sem limite] fila=107 | depth=6 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-oferece-transporte-gratuito-para-p
+  [552/sem limite] fila=106 | depth=6 | https://tibagi.pr.gov.br/consulta-publica-do-ppa-entra-na-reta-final-e-prefeitur
+  [553/sem limite] fila=105 | depth=6 | https://tibagi.pr.gov.br/author/ascom/page/38/
+  [554/sem limite] fila=115 | depth=7 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-divulga-cronograma-de-troca
+  [555/sem limite] fila=114 | depth=7 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-divulga-cronograma-de-troca
+  [556/sem limite] fila=113 | depth=7 | https://tibagi.pr.gov.br/agencia-do-trabalhador-realiza-mutirao-de-entrevistas-p
+  [557/sem limite] fila=112 | depth=7 | https://tibagi.pr.gov.br/pedalada-na-natureza-abre-inscricoes-para-circuito-ined
+  [558/sem limite] fila=111 | depth=7 | https://tibagi.pr.gov.br/prefeitura-implanta-sistema-de-rastreamento-por-gps-em-
+  [559/sem limite] fila=110 | depth=7 | https://tibagi.pr.gov.br/inscricoes-para-pss-de-motoristas-da-prefeitura-encerra
+  [560/sem limite] fila=109 | depth=7 | https://tibagi.pr.gov.br/agencia-do-trabalhador-divulga-entrevista-para-vaga-de-
+  [561/sem limite] fila=108 | depth=7 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-aplica-provas-do-concurso-publico-
+  [562/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/educacao-promove-encontro-de-alinhamento-com-diretoras-
+  [563/sem limite] fila=106 | depth=7 | https://tibagi.pr.gov.br/prefeito-rildo-realiza-reuniao-com-secretarios-e-reforc
+  [564/sem limite] fila=105 | depth=7 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-abre-pss-para-contratacao-de-motor
+  [565/sem limite] fila=104 | depth=7 | https://tibagi.pr.gov.br/encceja-2026-participantes-que-faltaram-a-ultima-edicao
+  [566/sem limite] fila=103 | depth=7 | https://tibagi.pr.gov.br/c/noticias/page/12/
+  [567/sem limite] fila=113 | depth=7 | https://tibagi.pr.gov.br/tibagi-garante-mais-de-r-26-milhoes-em-investimentos-pa
+  [568/sem limite] fila=112 | depth=7 | https://tibagi.pr.gov.br/tibagi-garante-mais-de-r-26-milhoes-em-investimentos-pa
+  [569/sem limite] fila=111 | depth=7 | https://tibagi.pr.gov.br/tibagi-garante-mais-de-r-26-milhoes-em-investimentos-pa
+  [570/sem limite] fila=110 | depth=7 | https://tibagi.pr.gov.br/feriado-e-em-tibagi-natureza-aventura-e-experiencias-un
+  [571/sem limite] fila=109 | depth=7 | https://tibagi.pr.gov.br/feriado-e-em-tibagi-natureza-aventura-e-experiencias-un
+  [572/sem limite] fila=108 | depth=7 | https://tibagi.pr.gov.br/feriado-e-em-tibagi-natureza-aventura-e-experiencias-un
+  [573/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/guartela08/
+  [574/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/guartela05/
+  [575/sem limite] fila=106 | depth=7 | https://tibagi.pr.gov.br/guartela03/
+  [576/sem limite] fila=105 | depth=7 | https://tibagi.pr.gov.br/guartela02/
+  [577/sem limite] fila=104 | depth=7 | https://tibagi.pr.gov.br/morrocomuna02/
+  [578/sem limite] fila=103 | depth=7 | https://tibagi.pr.gov.br/itaytyba08/
+  [579/sem limite] fila=102 | depth=7 | https://tibagi.pr.gov.br/itaytyba04/
+  [580/sem limite] fila=101 | depth=7 | https://tibagi.pr.gov.br/tibagi09/
+  [581/sem limite] fila=100 | depth=7 | https://tibagi.pr.gov.br/recantofeliz02/
+  [582/sem limite] fila=99 | depth=7 | https://tibagi.pr.gov.br/tibagi-recebe-oficina-gratuita-de-grafite-atraves-da-it
+  [583/sem limite] fila=98 | depth=7 | https://tibagi.pr.gov.br/camara-de-tibagi-reativa-procuradoria-da-mulher/
+  [584/sem limite] fila=97 | depth=7 | https://tibagi.pr.gov.br/prefeitura-oficializa-cessao-de-espaco-para-equoterapia
+  [585/sem limite] fila=96 | depth=7 | https://tibagi.pr.gov.br/tibagi-realiza-2o-piquenique-pela-inclusao-neste-sabado
+  [586/sem limite] fila=95 | depth=7 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [587/sem limite] fila=102 | depth=7 | https://tibagi.pr.gov.br/tibagi-recebe-r-150-mil-para-fortalecer-a-atencao-prima
+  [588/sem limite] fila=101 | depth=7 | https://tibagi.pr.gov.br/fieis-sao-convidados-para-peregrinacao-de-sao-joao-mari
+  [589/sem limite] fila=100 | depth=7 | https://tibagi.pr.gov.br/tibagi-e-contemplado-com-r-480-mil-para-reforco-na-sina
+  [590/sem limite] fila=99 | depth=7 | https://tibagi.pr.gov.br/empreendedores-de-tibagi-podem-apresentar-produtos-na-e
+  [591/sem limite] fila=98 | depth=7 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-inicia-entrega-de-kits-escolares-p
+  [592/sem limite] fila=97 | depth=7 | https://tibagi.pr.gov.br/c/noticias/page/13/
+  [593/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/c/noticias/page/48/
+  [594/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/c/noticias/page/47/
+  [595/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/author/ascom/page/12/
+  [596/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/author/ascom/page/13/
+  [597/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [598/sem limite] fila=106 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [599/sem limite] fila=105 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [600/sem limite] fila=104 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  2373 links externos registrados.
+  Checkpoint salvo (600 páginas totais | 600 nesta sessão).
+  [601/sem limite] fila=103 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [602/sem limite] fila=102 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [603/sem limite] fila=101 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [604/sem limite] fila=100 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [605/sem limite] fila=99 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [606/sem limite] fila=98 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [607/sem limite] fila=97 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [608/sem limite] fila=96 | depth=7 | https://tibagi.pr.gov.br/festa-da-santinha-acontece-neste-final-de-semana-em-cam
+  [609/sem limite] fila=95 | depth=7 | https://tibagi.pr.gov.br/tibagi-promove-caminhada-do-meio-dia-pelo-fim-da-violen
+  [610/sem limite] fila=94 | depth=7 | https://tibagi.pr.gov.br/tibagi-promove-caminhada-do-meio-dia-pelo-fim-da-violen
+  [611/sem limite] fila=93 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [612/sem limite] fila=92 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [613/sem limite] fila=91 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [614/sem limite] fila=90 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [615/sem limite] fila=89 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [616/sem limite] fila=88 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [617/sem limite] fila=87 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [618/sem limite] fila=86 | depth=7 | https://tibagi.pr.gov.br/prefeitura-flagra-crime-ambiental-e-reforca-aplicacao-d
+  [619/sem limite] fila=85 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [620/sem limite] fila=84 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [621/sem limite] fila=83 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [622/sem limite] fila=82 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [623/sem limite] fila=81 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [624/sem limite] fila=80 | depth=7 | https://tibagi.pr.gov.br/descarte-irregular-de-lixo-na-estrada-do-pinheiro-seco-
+  [625/sem limite] fila=79 | depth=7 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-mais-20-casas-para-o-distrito-
+  [626/sem limite] fila=78 | depth=7 | https://tibagi.pr.gov.br/deputado-felipe-francischini-anuncia-mais-de-r-1-milhao
+  [627/sem limite] fila=80 | depth=7 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-reforca-apoio-ao-agosto-lilas-e-im
+  [628/sem limite] fila=79 | depth=7 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [629/sem limite] fila=84 | depth=7 | https://tibagi.pr.gov.br/tibagi-apresenta-produtos-artesanais-na-invest-parana/
+  [630/sem limite] fila=83 | depth=7 | https://tibagi.pr.gov.br/mutirao-de-empregos-da-fazenda-ibera-reune-candidatos-n
+  [631/sem limite] fila=85 | depth=7 | https://tibagi.pr.gov.br/hospital-luiza-borba-carneiro-recebe-r-500-mil-em-recur
+  [632/sem limite] fila=87 | depth=7 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [633/sem limite] fila=98 | depth=7 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [634/sem limite] fila=112 | depth=7 | https://tibagi.pr.gov.br/tibagi-abre-novas-turmas-de-eja-semi-presencial-para-en
+  [635/sem limite] fila=111 | depth=7 | https://tibagi.pr.gov.br/author/ascom/page/37/
+  [636/sem limite] fila=121 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [637/sem limite] fila=120 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [638/sem limite] fila=119 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [639/sem limite] fila=118 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [640/sem limite] fila=117 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [641/sem limite] fila=116 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [642/sem limite] fila=115 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [643/sem limite] fila=114 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [644/sem limite] fila=113 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [645/sem limite] fila=112 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [646/sem limite] fila=111 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [647/sem limite] fila=110 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [648/sem limite] fila=109 | depth=7 | https://tibagi.pr.gov.br/festa-de-acao-de-gracas-reune-igrejas-e-celebra-a-forca
+  [649/sem limite] fila=108 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [650/sem limite] fila=107 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [651/sem limite] fila=106 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [652/sem limite] fila=105 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [653/sem limite] fila=104 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [654/sem limite] fila=103 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [655/sem limite] fila=102 | depth=7 | https://tibagi.pr.gov.br/assinatura-de-contrato-garante-construcao-de-50-casas-p
+  [656/sem limite] fila=101 | depth=7 | https://tibagi.pr.gov.br/25a-festa-de-acao-de-gracas-pela-colheita-acontece-nest
+  [657/sem limite] fila=100 | depth=7 | https://tibagi.pr.gov.br/25a-festa-de-acao-de-gracas-pela-colheita-acontece-nest
+  [658/sem limite] fila=99 | depth=7 | https://tibagi.pr.gov.br/25a-festa-de-acao-de-gracas-pela-colheita-acontece-nest
+  [659/sem limite] fila=98 | depth=7 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [660/sem limite] fila=102 | depth=7 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [661/sem limite] fila=108 | depth=7 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [662/sem limite] fila=114 | depth=7 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [663/sem limite] fila=119 | depth=7 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [664/sem limite] fila=123 | depth=7 | https://tibagi.pr.gov.br/tibagi-realiza-audiencia-publica-sobre-projeto-de-finan
+  [665/sem limite] fila=122 | depth=7 | https://tibagi.pr.gov.br/qualificacao-profissional-curso-de-auxiliar-de-fibra-ce
+  [666/sem limite] fila=121 | depth=7 | https://tibagi.pr.gov.br/prefeito-rildo-recebe-profissionais-do-atendimento-a-cr
+  [667/sem limite] fila=120 | depth=7 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [668/sem limite] fila=124 | depth=7 | https://tibagi.pr.gov.br/tibagi-recebe-r-2-milhoes-para-pavimentacao-com-apoio-d
+  [669/sem limite] fila=123 | depth=7 | https://tibagi.pr.gov.br/author/ascom/page/36/
+  [670/sem limite] fila=133 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-maria-rosilda-leona
+  [671/sem limite] fila=132 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-zelia-taques-santos
+  [672/sem limite] fila=131 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-angela-regina-merce
+  [673/sem limite] fila=130 | depth=8 | https://tibagi.pr.gov.br/alunos-de-tibagi-sao-premiados-em-concurso-regional-pel
+  [674/sem limite] fila=131 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-ana-dilce-antunes-d
+  [675/sem limite] fila=130 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-marcia-maria-antune
+  [676/sem limite] fila=129 | depth=8 | https://tibagi.pr.gov.br/prefeitura-promove-formacao-continuada-para-profissiona
+  [677/sem limite] fila=128 | depth=8 | https://tibagi.pr.gov.br/tibagi-promove-acoes-em-alusao-ao-dia-mundial-da-agua-c
+  [678/sem limite] fila=127 | depth=8 | https://tibagi.pr.gov.br/tibagi-lanca-programa-forca-verde-mirim-e-reforca-compr
+  [679/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-rosilda-mendes-ep-1
+  [680/sem limite] fila=125 | depth=8 | https://tibagi.pr.gov.br/c/noticias/page/14/
+  [681/sem limite] fila=135 | depth=8 | https://tibagi.pr.gov.br/author/tibagi/
+  [682/sem limite] fila=134 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [683/sem limite] fila=133 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [684/sem limite] fila=132 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [685/sem limite] fila=131 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [686/sem limite] fila=130 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [687/sem limite] fila=129 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [688/sem limite] fila=128 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [689/sem limite] fila=127 | depth=8 | https://tibagi.pr.gov.br/projeto-de-preservacao-do-patrimonio-arqueologico-de-ti
+  [690/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-projetos-do-governo-do-estado-e-avanca-ru
+  [691/sem limite] fila=125 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-carina-pietchak-ep-
+  [692/sem limite] fila=124 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-dois-novos-onibus-escolares-para-reforcar
+  [693/sem limite] fila=123 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-douwtje-cornelia-de
+  [694/sem limite] fila=122 | depth=8 | https://tibagi.pr.gov.br/agencia-do-trabalhador-recebe-novo-veiculo-e-e-reconhec
+  [695/sem limite] fila=121 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-renata-silveira-ep-
+  [696/sem limite] fila=120 | depth=8 | https://tibagi.pr.gov.br/expo-tibagi-encerra-primeira-edicao-com-sucesso-e-proje
+  [697/sem limite] fila=119 | depth=8 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-alerta-para-golpe-envolvendo-falsa
+  [698/sem limite] fila=118 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-marieta-costa-teixe
+  [699/sem limite] fila=117 | depth=8 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-gemma-de-lourdes-ma
+  [700/sem limite] fila=116 | depth=8 | https://tibagi.pr.gov.br/c/noticias/page/15/
+  [701/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/c/noticias/page/46/
+  [702/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/c/noticias/page/45/
+  [703/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/author/ascom/page/14/
+  [704/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/author/ascom/page/15/
+  [705/sem limite] fila=126 | depth=8 | https://tibagi.pr.gov.br/deputado-felipe-francischini-anuncia-mais-de-r-1-milhao
+  [706/sem limite] fila=125 | depth=8 | https://tibagi.pr.gov.br/deputado-felipe-francischini-anuncia-mais-de-r-1-milhao
+  [707/sem limite] fila=124 | depth=8 | https://tibagi.pr.gov.br/deputado-felipe-francischini-anuncia-mais-de-r-1-milhao
+  [708/sem limite] fila=123 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [709/sem limite] fila=122 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [710/sem limite] fila=121 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [711/sem limite] fila=120 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [712/sem limite] fila=119 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [713/sem limite] fila=118 | depth=8 | https://tibagi.pr.gov.br/employer-e-agencia-do-trabalhador-promovem-mutirao-com-
+  [714/sem limite] fila=117 | depth=8 | https://tibagi.pr.gov.br/mutirao-de-empregos-da-fazenda-ibera-reune-candidatos-n
+  [715/sem limite] fila=116 | depth=8 | https://tibagi.pr.gov.br/mutirao-de-empregos-da-fazenda-ibera-reune-candidatos-n
+  [716/sem limite] fila=115 | depth=8 | https://tibagi.pr.gov.br/mutirao-de-empregos-da-fazenda-ibera-reune-candidatos-n
+  [717/sem limite] fila=114 | depth=8 | https://tibagi.pr.gov.br/hospital-luiza-borba-carneiro-recebe-r-500-mil-em-recur
+  [718/sem limite] fila=113 | depth=8 | https://tibagi.pr.gov.br/hospital-luiza-borba-carneiro-recebe-r-500-mil-em-recur
+  [719/sem limite] fila=112 | depth=8 | https://tibagi.pr.gov.br/hospital-luiza-borba-carneiro-recebe-r-500-mil-em-recur
+  [720/sem limite] fila=111 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [721/sem limite] fila=110 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [722/sem limite] fila=109 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [723/sem limite] fila=108 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [724/sem limite] fila=107 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [725/sem limite] fila=106 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [726/sem limite] fila=105 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [727/sem limite] fila=104 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [728/sem limite] fila=103 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [729/sem limite] fila=102 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [730/sem limite] fila=101 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [731/sem limite] fila=100 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-mais-de-r-6-milhoes-em-investimentos-com-
+  [732/sem limite] fila=99 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [733/sem limite] fila=98 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [734/sem limite] fila=97 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [735/sem limite] fila=96 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [736/sem limite] fila=95 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [737/sem limite] fila=94 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [738/sem limite] fila=93 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [739/sem limite] fila=92 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [740/sem limite] fila=91 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [741/sem limite] fila=90 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [742/sem limite] fila=89 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [743/sem limite] fila=88 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [744/sem limite] fila=87 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [745/sem limite] fila=86 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [746/sem limite] fila=85 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-investimento-de-r-7-milhoes-durante-lanca
+  [747/sem limite] fila=84 | depth=8 | https://tibagi.pr.gov.br/fortes-chuvas-causam-estragos-em-tibagi/
+  [748/sem limite] fila=87 | depth=8 | https://tibagi.pr.gov.br/ponte-do-parque-do-risseti-ganha-reconstrucao-e-ampliac
+  [749/sem limite] fila=88 | depth=8 | https://tibagi.pr.gov.br/com-investimento-de-r-42-milhoes-tibagi-inicia-projeto-
+  [750/sem limite] fila=87 | depth=8 | https://tibagi.pr.gov.br/tibagi-passa-a-contar-com-ceps-especificos-para-cada-ru
+  [751/sem limite] fila=86 | depth=8 | https://tibagi.pr.gov.br/unicentro-abre-inscricoes-para-cursos-de-graduacao-ead-
+  [752/sem limite] fila=85 | depth=8 | https://tibagi.pr.gov.br/carreta-da-inovacao-leva-atividades-gratuitas-a-tibagi-
+  [753/sem limite] fila=84 | depth=8 | https://tibagi.pr.gov.br/tibagi-inaugura-sala-de-coleta-e-internamento-para-doen
+  [754/sem limite] fila=86 | depth=8 | https://tibagi.pr.gov.br/prefeitura-realiza-reuniao-sobre-regularizacao-de-lotes
+  [755/sem limite] fila=87 | depth=8 | https://tibagi.pr.gov.br/tibagi-abre-inscricoes-para-o-1o-guartela-rock-festival
+  [756/sem limite] fila=86 | depth=8 | https://tibagi.pr.gov.br/tibagi-recebe-unidade-movel-odontologica-atraves-de-eme
+  [757/sem limite] fila=88 | depth=8 | https://tibagi.pr.gov.br/author/ascom/page/35/
+  [758/sem limite] fila=98 | depth=8 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [759/sem limite] fila=97 | depth=8 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [760/sem limite] fila=96 | depth=8 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [761/sem limite] fila=95 | depth=8 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [762/sem limite] fila=94 | depth=8 | https://tibagi.pr.gov.br/amcg-reune-liderancas-em-ivai-para-debater-seguranca-pu
+  [763/sem limite] fila=93 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [764/sem limite] fila=92 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [765/sem limite] fila=91 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [766/sem limite] fila=90 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [767/sem limite] fila=89 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [768/sem limite] fila=88 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [769/sem limite] fila=87 | depth=8 | https://tibagi.pr.gov.br/retomada-da-transbrasiliana-coloca-tibagi-em-novo-patam
+  [770/sem limite] fila=86 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [771/sem limite] fila=85 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [772/sem limite] fila=84 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [773/sem limite] fila=83 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [774/sem limite] fila=82 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [775/sem limite] fila=81 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [776/sem limite] fila=80 | depth=8 | https://tibagi.pr.gov.br/tibagi-e-contemplada-com-r-20-milhoes-em-recursos-para-
+  [777/sem limite] fila=79 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [778/sem limite] fila=78 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [779/sem limite] fila=77 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [780/sem limite] fila=76 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [781/sem limite] fila=75 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [782/sem limite] fila=74 | depth=8 | https://tibagi.pr.gov.br/reuniao-define-acoes-conjuntas-para-solucionar-problema
+  [783/sem limite] fila=73 | depth=8 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [784/sem limite] fila=72 | depth=8 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [785/sem limite] fila=71 | depth=8 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [786/sem limite] fila=70 | depth=8 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [787/sem limite] fila=69 | depth=8 | https://tibagi.pr.gov.br/prefeito-e-vereadores-assinam-oficio-para-cadastro-de-p
+  [788/sem limite] fila=68 | depth=8 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [789/sem limite] fila=67 | depth=8 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [790/sem limite] fila=66 | depth=8 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [791/sem limite] fila=65 | depth=8 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [792/sem limite] fila=64 | depth=8 | https://tibagi.pr.gov.br/copa-cidade-de-futsal-chega-a-grande-final-neste-sabado
+  [793/sem limite] fila=63 | depth=8 | https://tibagi.pr.gov.br/prefeitura-preve-repasse-de-incentivo-financeiro-a-agen
+  [794/sem limite] fila=62 | depth=8 | https://tibagi.pr.gov.br/prefeito-rildo-acompanha-melhorias-na-estrada-do-barrei
+  [795/sem limite] fila=61 | depth=8 | https://tibagi.pr.gov.br/ifpr-abre-inscricoes-para-pos-graduacao-gratuita-em-edu
+  [796/sem limite] fila=60 | depth=8 | https://tibagi.pr.gov.br/proerd-forma-161-criancas-em-tibagi-com-foco-em-prevenc
+  [797/sem limite] fila=59 | depth=8 | https://tibagi.pr.gov.br/projeto-mega-oferece-formacao-gratuita-para-empreendedo
+  [798/sem limite] fila=58 | depth=8 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-oferece-curso-gratuito-de-mecanica
+  [799/sem limite] fila=57 | depth=8 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-recebe-quatro-novos-carros-para-a-
+  [800/sem limite] fila=60 | depth=8 | https://tibagi.pr.gov.br/forca-tarefa-leva-agua-a-comunidades-rurais-de-tibagi-a
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  3332 links externos registrados.
+  Checkpoint salvo (800 páginas totais | 800 nesta sessão).
+  [801/sem limite] fila=62 | depth=8 | https://tibagi.pr.gov.br/guartela-motofest-e-1o-guartela-rock-festival-movimenta
+  [802/sem limite] fila=61 | depth=8 | https://tibagi.pr.gov.br/prefeito-rildo-recebe-atleta-tibagiano-campeao-internac
+  [803/sem limite] fila=63 | depth=8 | https://tibagi.pr.gov.br/author/ascom/page/34/
+  [804/sem limite] fila=73 | depth=9 | https://tibagi.pr.gov.br/alunos-de-tibagi-sao-premiados-em-concurso-regional-pel
+  [805/sem limite] fila=72 | depth=9 | https://tibagi.pr.gov.br/alunos-de-tibagi-sao-premiados-em-concurso-regional-pel
+  [806/sem limite] fila=71 | depth=9 | https://tibagi.pr.gov.br/governo-do-parana-anuncia-r-15-milhoes-para-projeto-da-
+  [807/sem limite] fila=70 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-maria-rita-taques-e
+  [808/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/expo-tibagi-2026-comeca-com-escolha-da-rainha-e-show-co
+  [809/sem limite] fila=71 | depth=9 | https://tibagi.pr.gov.br/espetaculo-gratuito-inspirado-no-universo-de-ariano-sua
+  [810/sem limite] fila=70 | depth=9 | https://tibagi.pr.gov.br/expo-tibagi-2026-comeca-nesta-quinta-feira-com-show-da-
+  [811/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/raquel-bueno-da-costa-wiedermann-ep-09/
+  [812/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-ondina-barbosa-de-s
+  [813/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-alvina-de-jesus-dos
+  [814/sem limite] fila=66 | depth=9 | https://tibagi.pr.gov.br/ultimo-dia-inscricoes-para-concurso-publico-municipal-e
+  [815/sem limite] fila=65 | depth=9 | https://tibagi.pr.gov.br/expotibagi-2026-acontece-neste-fim-de-semana-com-cinco-
+  [816/sem limite] fila=64 | depth=9 | https://tibagi.pr.gov.br/c/noticias/page/16/
+  [817/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/reuniao-fortalece-dialogo-entre-conselho-tutelar-e-esco
+  [818/sem limite] fila=73 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-maria-cristina-carn
+  [819/sem limite] fila=72 | depth=9 | https://tibagi.pr.gov.br/saude-amplia-atendimento-odontologico-especializado-par
+  [820/sem limite] fila=71 | depth=9 | https://tibagi.pr.gov.br/corrida-hlbc-edicao-diamante-tera-retirada-de-kits-no-s
+  [821/sem limite] fila=70 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-luiza-borba-carneir
+  [822/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/telefones-uteis-e-contatos-das-secretarias-e-servicos-d
+  [823/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/plantio-de-arvores-no-parque-estadual-do-guartela-marca
+  [824/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/tibagi-abre-consulta-publica-do-plano-municipal-de-enfr
+  [825/sem limite] fila=66 | depth=9 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-santina-de-fatima-b
+  [826/sem limite] fila=65 | depth=9 | https://tibagi.pr.gov.br/tibagi-formaliza-interesse-em-participar-da-operacao-ro
+  [827/sem limite] fila=64 | depth=9 | https://tibagi.pr.gov.br/c/noticias/page/17/
+  [828/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/c/noticias/page/44/
+  [829/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/c/noticias/page/43/
+  [830/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/author/ascom/page/16/
+  [831/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/author/ascom/page/17/
+  [832/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/fortes-chuvas-causam-estragos-em-tibagi/whatsapp-image-
+  [833/sem limite] fila=73 | depth=9 | https://tibagi.pr.gov.br/fortes-chuvas-causam-estragos-em-tibagi/whatsapp-image-
+  [834/sem limite] fila=72 | depth=9 | https://tibagi.pr.gov.br/fortes-chuvas-causam-estragos-em-tibagi/whatsapp-image-
+  [835/sem limite] fila=71 | depth=9 | https://tibagi.pr.gov.br/fortes-chuvas-causam-estragos-em-tibagi/whatsapp-image-
+  [836/sem limite] fila=70 | depth=9 | https://tibagi.pr.gov.br/ponte-do-parque-do-risseti-ganha-reconstrucao-e-ampliac
+  [837/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/ponte-do-parque-do-risseti-ganha-reconstrucao-e-ampliac
+  [838/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/tibagi-inaugura-sala-de-coleta-e-internamento-para-doen
+  [839/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/tibagi-inaugura-sala-de-coleta-e-internamento-para-doen
+  [840/sem limite] fila=66 | depth=9 | https://tibagi.pr.gov.br/tibagi-inaugura-sala-de-coleta-e-internamento-para-doen
+  [841/sem limite] fila=65 | depth=9 | https://tibagi.pr.gov.br/prefeitura-realiza-reuniao-sobre-regularizacao-de-lotes
+  [842/sem limite] fila=64 | depth=9 | https://tibagi.pr.gov.br/prefeitura-realiza-reuniao-sobre-regularizacao-de-lotes
+  [843/sem limite] fila=63 | depth=9 | https://tibagi.pr.gov.br/tibagi-recebe-unidade-movel-odontologica-atraves-de-eme
+  [844/sem limite] fila=62 | depth=9 | https://tibagi.pr.gov.br/tibagi-recebe-unidade-movel-odontologica-atraves-de-eme
+  [845/sem limite] fila=61 | depth=9 | https://tibagi.pr.gov.br/tibagi-recebe-unidade-movel-odontologica-atraves-de-eme
+  [846/sem limite] fila=60 | depth=9 | https://tibagi.pr.gov.br/dia-do-professor-exposicao-homenageia-professores-que-m
+  [847/sem limite] fila=59 | depth=9 | https://tibagi.pr.gov.br/projeto-nossos-parques-chega-a-tibagi-com-oficinas-volt
+  [848/sem limite] fila=58 | depth=9 | https://tibagi.pr.gov.br/tibagiprev-inicia-recadastramento-anual-de-aposentados-
+  [849/sem limite] fila=57 | depth=9 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [850/sem limite] fila=63 | depth=9 | https://tibagi.pr.gov.br/unicentro-divulga-resultado-da-analise-da-documentacao-
+  [851/sem limite] fila=62 | depth=9 | https://tibagi.pr.gov.br/planejamento-participa-de-reuniao-com-a-secid-sobre-inv
+  [852/sem limite] fila=63 | depth=9 | https://tibagi.pr.gov.br/saude-realiza-campanha-de-vacinacao-e-dia-d-de-multivac
+  [853/sem limite] fila=64 | depth=9 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [854/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/criancas-dos-cmeis-encerram-atividades-ambientais-com-p
+  [855/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/resultado-do-vestibular-de-letras-ead-da-unicentro-ja-e
+  [856/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/author/ascom/page/33/
+  [857/sem limite] fila=77 | depth=9 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-recebe-quatro-novos-carros-para-a-
+  [858/sem limite] fila=76 | depth=9 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-recebe-quatro-novos-carros-para-a-
+  [859/sem limite] fila=75 | depth=9 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-recebe-quatro-novos-carros-para-a-
+  [860/sem limite] fila=74 | depth=9 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-recebe-quatro-novos-carros-para-a-
+  [861/sem limite] fila=73 | depth=9 | https://tibagi.pr.gov.br/forca-tarefa-leva-agua-a-comunidades-rurais-de-tibagi-a
+  [862/sem limite] fila=72 | depth=9 | https://tibagi.pr.gov.br/forca-tarefa-leva-agua-a-comunidades-rurais-de-tibagi-a
+  [863/sem limite] fila=71 | depth=9 | https://tibagi.pr.gov.br/forca-tarefa-leva-agua-a-comunidades-rurais-de-tibagi-a
+  [864/sem limite] fila=70 | depth=9 | https://tibagi.pr.gov.br/prefeito-rildo-recebe-atleta-tibagiano-campeao-internac
+  [865/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/prefeito-rildo-recebe-atleta-tibagiano-campeao-internac
+  [866/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/prefeito-rildo-recebe-atleta-tibagiano-campeao-internac
+  [867/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/tibagi-recebe-projeto-teatro-e-escola-com-apresentacao-
+  [868/sem limite] fila=69 | depth=9 | https://tibagi.pr.gov.br/inscreva-se-tibagi-recebe-corrida-da-copa-parana-de-cro
+  [869/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/prefeitura-reforca-a-necessidade-de-regularizacao-no-tu
+  [870/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/prefeito-rildo-participa-de-anuncio-de-novos-investimen
+  [871/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/inscricoes-abertas-para-comerciantes-participarem-da-3a
+  [872/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/tibagi-tem-noite-de-manobras-radicais-com-apresentacoes
+  [873/sem limite] fila=66 | depth=9 | https://tibagi.pr.gov.br/tibagi-realiza-consulta-publica-sobre-a-rota-turistica-
+  [874/sem limite] fila=65 | depth=9 | https://tibagi.pr.gov.br/unicentro-divulga-prazo-para-entrega-de-documentacao-do
+  [875/sem limite] fila=66 | depth=9 | https://tibagi.pr.gov.br/jogos-de-aventura-e-natureza-movimentam-tibagi-entre-os
+  [876/sem limite] fila=68 | depth=9 | https://tibagi.pr.gov.br/acao-ambiental-promove-plantio-de-mudas-no-viverti-nest
+  [877/sem limite] fila=67 | depth=9 | https://tibagi.pr.gov.br/author/ascom/page/32/
+  [878/sem limite] fila=77 | depth=10 | https://tibagi.pr.gov.br/expo-tibagi-2026-comeca-com-escolha-da-rainha-e-show-co
+  [879/sem limite] fila=76 | depth=10 | https://tibagi.pr.gov.br/expo-tibagi-2026-comeca-com-escolha-da-rainha-e-show-co
+  [880/sem limite] fila=75 | depth=10 | https://tibagi.pr.gov.br/expo-tibagi-2026-comeca-com-escolha-da-rainha-e-show-co
+  [881/sem limite] fila=74 | depth=10 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-lenir-stoekly-ep-03
+  [882/sem limite] fila=73 | depth=10 | https://tibagi.pr.gov.br/itaipu-e-prefeitura-realizam-programacao-especial-de-an
+  [883/sem limite] fila=72 | depth=10 | https://tibagi.pr.gov.br/serie-especial-para-o-mes-da-mulher-maria-lizete-dos-sa
+  [884/sem limite] fila=71 | depth=10 | https://tibagi.pr.gov.br/abertas-as-inscricoes-para-pos-graduacao-em-gestao-da-s
+  [885/sem limite] fila=70 | depth=10 | https://tibagi.pr.gov.br/greg-castro-assume-interinamente-secretaria-de-transpor
+  [886/sem limite] fila=69 | depth=10 | https://tibagi.pr.gov.br/agencia-do-trabalhador-divulga-novas-vagas-de-emprego/
+  [887/sem limite] fila=68 | depth=10 | https://tibagi.pr.gov.br/serie-especial-destaca-historias-de-mulheres-que-inspir
+  [888/sem limite] fila=67 | depth=10 | https://tibagi.pr.gov.br/passeio-ciclistico-celebra-os-154-anos-de-tibagi-com-es
+  [889/sem limite] fila=66 | depth=10 | https://tibagi.pr.gov.br/cota-unica-e-primeira-parcela-do-iptu-2026-vencem-na-pr
+  [890/sem limite] fila=65 | depth=10 | https://tibagi.pr.gov.br/prefeita-helynez-discute-investimentos-e-programas-da-c
+  [891/sem limite] fila=64 | depth=10 | https://tibagi.pr.gov.br/c/noticias/page/18/
+  [892/sem limite] fila=63 | depth=10 | https://tibagi.pr.gov.br/tibagi-mantem-3o-lugar-no-ranking-regional-de-contratac
+  [893/sem limite] fila=62 | depth=10 | https://tibagi.pr.gov.br/programa-ilumina-parana-inicia-instalacao-de-luminarias
+  [894/sem limite] fila=61 | depth=10 | https://tibagi.pr.gov.br/prefeitura-assina-cumprimento-do-piso-salarial-dos-tecn
+  [895/sem limite] fila=60 | depth=10 | https://tibagi.pr.gov.br/exposicao-de-carros-antigos-integra-programacao-dos-154
+  [896/sem limite] fila=59 | depth=10 | https://tibagi.pr.gov.br/ultimos-dias-de-inscricao-para-a-corrida-hlbc-percurso-
+  [897/sem limite] fila=58 | depth=10 | https://tibagi.pr.gov.br/prefeitura-e-associacao-de-pais-atipicos-discutem-cessa
+  [898/sem limite] fila=57 | depth=10 | https://tibagi.pr.gov.br/inscricoes-abertas-para-o-concurso-da-rainha-da-expo-ti
+  [899/sem limite] fila=56 | depth=10 | https://tibagi.pr.gov.br/piracema-termina-e-pesca-esta-liberada-em-todo-parana/
+  [900/sem limite] fila=55 | depth=10 | https://tibagi.pr.gov.br/estado-mppr-e-klabin-fecham-acordo-para-ampliacao-do-pa
+  [901/sem limite] fila=54 | depth=10 | https://tibagi.pr.gov.br/prefeitura-lanca-programacao-oficial-dos-154-anos-de-ti
+  [902/sem limite] fila=53 | depth=10 | https://tibagi.pr.gov.br/c/noticias/page/19/
+  [903/sem limite] fila=52 | depth=10 | https://tibagi.pr.gov.br/c/noticias/page/42/
+  [904/sem limite] fila=51 | depth=10 | https://tibagi.pr.gov.br/c/noticias/page/41/
+  [905/sem limite] fila=50 | depth=10 | https://tibagi.pr.gov.br/author/ascom/page/18/
+  [906/sem limite] fila=49 | depth=10 | https://tibagi.pr.gov.br/author/ascom/page/19/
+  [907/sem limite] fila=48 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [908/sem limite] fila=47 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [909/sem limite] fila=46 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [910/sem limite] fila=45 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [911/sem limite] fila=44 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [912/sem limite] fila=43 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [913/sem limite] fila=42 | depth=10 | https://tibagi.pr.gov.br/governo-do-estado-destina-r-10-milhoes-para-obras-e-mel
+  [914/sem limite] fila=41 | depth=10 | https://tibagi.pr.gov.br/planejamento-participa-de-reuniao-com-a-secid-sobre-inv
+  [915/sem limite] fila=40 | depth=10 | https://tibagi.pr.gov.br/planejamento-participa-de-reuniao-com-a-secid-sobre-inv
+  [916/sem limite] fila=39 | depth=10 | https://tibagi.pr.gov.br/saude-realiza-campanha-de-vacinacao-e-dia-d-de-multivac
+  [917/sem limite] fila=38 | depth=10 | https://tibagi.pr.gov.br/saude-realiza-campanha-de-vacinacao-e-dia-d-de-multivac
+  [918/sem limite] fila=37 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [919/sem limite] fila=36 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [920/sem limite] fila=35 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [921/sem limite] fila=34 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [922/sem limite] fila=33 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [923/sem limite] fila=32 | depth=10 | https://tibagi.pr.gov.br/acamarti-recebe-novos-moveis-atraves-do-fundo-social-do
+  [924/sem limite] fila=31 | depth=10 | https://tibagi.pr.gov.br/tibagiprev-realiza-recadastramento-de-aposentados-e-pen
+  [925/sem limite] fila=30 | depth=10 | https://tibagi.pr.gov.br/prefeitura-de-tibagi-oferece-transporte-gratuito-para-c
+  [926/sem limite] fila=29 | depth=10 | https://tibagi.pr.gov.br/pcpr-na-comunidade-tem-abertura-oficial-e-oferece-diver
+  [927/sem limite] fila=28 | depth=10 | https://tibagi.pr.gov.br/pcpr-na-comunidade-comeca-hoje-com-servicos-e-atracoes-
+  [928/sem limite] fila=27 | depth=10 | https://tibagi.pr.gov.br/tibagi-e-o-3o-maior-produtor-de-trigo-do-parana-e-lider
+  [929/sem limite] fila=26 | depth=10 | https://tibagi.pr.gov.br/pcpr-na-comunidade-agendamento-para-emissao-de-rg-sera-
+  [930/sem limite] fila=25 | depth=10 | https://tibagi.pr.gov.br/tibagi-realiza-conferencia-municipal-de-cultura-na-prox
+  [931/sem limite] fila=24 | depth=10 | https://tibagi.pr.gov.br/inscricoes-abertas-para-curso-gratuito-de-saude-e-segur
+  [932/sem limite] fila=23 | depth=10 | https://tibagi.pr.gov.br/programa-tibagi-sustentavel-divulga-cronograma-de-novem
+  [933/sem limite] fila=22 | depth=10 | https://tibagi.pr.gov.br/tibagi-recebe-o-programa-pcpr-na-comunidade-na-proxima-
+  [934/sem limite] fila=21 | depth=10 | https://tibagi.pr.gov.br/author/ascom/page/31/
+  [935/sem limite] fila=20 | depth=10 | https://tibagi.pr.gov.br/tibagi-recebe-projeto-teatro-e-escola-com-apresentacao-
+  [936/sem limite] fila=19 | depth=10 | https://tibagi.pr.gov.br/tibagi-recebe-projeto-teatro-e-escola-com-apresentacao-
+  [937/sem limite] fila=18 | depth=10 | https://tibagi.pr.gov.br/tibagi-recebe-projeto-teatro-e-escola-com-apresentacao-
+  [938/sem limite] fila=17 | depth=10 | https://tibagi.pr.gov.br/prefeito-rildo-participa-de-anuncio-de-novos-investimen
+  [939/sem limite] fila=16 | depth=10 | https://tibagi.pr.gov.br/prefeito-rildo-participa-de-anuncio-de-novos-investimen
+  [940/sem limite] fila=15 | depth=10 | https://tibagi.pr.gov.br/unicentro-divulga-prazo-para-entrega-de-documentacao-do
+  [941/sem limite] fila=14 | depth=10 | https://tibagi.pr.gov.br/unicentro-divulga-prazo-para-entrega-de-documentacao-do
+  [942/sem limite] fila=13 | depth=10 | https://tibagi.pr.gov.br/jogos-de-aventura-e-natureza-movimentam-tibagi-entre-os
+  [943/sem limite] fila=12 | depth=10 | https://tibagi.pr.gov.br/jogos-de-aventura-e-natureza-movimentam-tibagi-entre-os
+  [944/sem limite] fila=11 | depth=10 | https://tibagi.pr.gov.br/jogos-de-aventura-e-natureza-movimentam-tibagi-entre-os
+  [945/sem limite] fila=10 | depth=10 | https://tibagi.pr.gov.br/esporte-de-tibagi-conquista-r-400-mil-em-recursos-do-go
+  [946/sem limite] fila=9 | depth=10 | https://tibagi.pr.gov.br/mutirao-de-emprego-garante-novas-contratacoes-com-carte
+  [947/sem limite] fila=8 | depth=10 | https://tibagi.pr.gov.br/prefeito-rildo-conquista-r-3-milhoes-para-reforma-da-un
+  [948/sem limite] fila=7 | depth=10 | https://tibagi.pr.gov.br/missao-parana-promove-integracao-entre-forcas-de-segura
+  [949/sem limite] fila=6 | depth=10 | https://tibagi.pr.gov.br/vice-prefeita-helynez-participa-de-inauguracao-do-poupa
+  [950/sem limite] fila=5 | depth=10 | https://tibagi.pr.gov.br/prefeitura-realiza-coleta-de-embalagens-vazias-de-agrot
+  [951/sem limite] fila=4 | depth=10 | https://tibagi.pr.gov.br/3a-edicao-da-feira-da-lua-promete-noite-de-lazer-cultur
+  [952/sem limite] fila=3 | depth=10 | https://tibagi.pr.gov.br/klabin-leva-experiencia-interativa-para-tibagi-em-novem
+  [953/sem limite] fila=2 | depth=10 | https://tibagi.pr.gov.br/repescagem-da-pesagem-do-bolsa-familia-acontece-neste-s
+  [954/sem limite] fila=1 | depth=10 | https://tibagi.pr.gov.br/prefeito-rildo-leonardi-participa-da-caravana-federativ
+  [955/sem limite] fila=0 | depth=10 | https://tibagi.pr.gov.br/author/ascom/page/30/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  4041 links externos registrados.
+
+  Varredura encerrada: TIBAGI
+  Páginas nesta sessão: 955
+  Páginas totais (acumulado): 955
+  Arquivos no inventário: 85
+  Erros registrados: 8
+
+
+ Pipeline encerrado. Resultados em: resultados/tibagi/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Tibagi)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Tibagi (slug: tibagi)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://tibagi.oxy.elotech.com.br/portaltransparencia/2/home/
+              ✅ https://tibagi.pr.gov.br/
+           *  ✅ https://www.portalcr2.com.br/entidade/tibagi/
+1 URL(s) encontrada(s) ✅ [+1 semente(s), +1 domínio(s)]
+           → https://www.portalcr2.com.br/entidade/tibagi/
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   1
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     0
+  Atualizadas (novas sementes): 1
+
+  ✅ 0 nova(s) cidade(s) + 1 atualizada(s) salvas em /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/cidades.json
+  Total de cidades no arquivo: 399
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TIBAGI
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 85 arquivos já registrados.
+  Links externos parciais carregados: 4041 links já registrados.
+  Log de erros parcial carregado: 8 erros já registrados.
+  1 nova(s) semente(s) adicionada(s) à fila.
+  Reprocessar erros: 0 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 8 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: TIBAGI
+  Páginas já visitadas (checkpoint): 955
+  URLs na fila: 1
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+955)/sem limite] fila=0 | depth=0 | https://www.portalcr2.com.br/entidade/tibagi/
+  🤖 Usando Selenium para: https://www.portalcr2.com.br/entidade/tibagi/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_links.xlsx
+  85 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/erros_varredura.xlsx
+  8 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/tibagi/inventario_externos.xlsx
+  4041 links externos registrados.
+
+  Varredura encerrada: TIBAGI
+  Páginas nesta sessão: 1
+  Páginas totais (acumulado): 956
+  Arquivos no inventário: 85
+  Erros registrados: 8
+
+
+ Pipeline encerrado. Resultados em: resultados/tibagi/
+============================================================
+
