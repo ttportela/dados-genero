@@ -36831,3 +36831,1737 @@ Inventário parcial carregado: 4269 arquivos já registrados.
  ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTL-/
   [2549 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTLx/
   🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTLx/
+  [2550 (+13715)/sem limite] fila=3229 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTLx/
+  [2551 (+13715)/sem limite] fila=3228 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTLA/
+  [2552 (+13715)/sem limite] fila=3227 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTLA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2553 (+13715)/sem limite] fila=3226 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTPw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2554 (+13715)/sem limite] fila=3225 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTPz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2555 (+13715)/sem limite] fila=3224 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTPz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2556 (+13715)/sem limite] fila=3223 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTPT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2557 (+13715)/sem limite] fila=3222 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTPT/
+  [2558 (+13715)/sem limite] fila=3221 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTPL/
+  [2559 (+13715)/sem limite] fila=3220 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRTPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRTPL/
+  [2560 (+13715)/sem limite] fila=3219 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTPP/
+  [2561 (+13715)/sem limite] fila=3218 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTPP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2562 (+13715)/sem limite] fila=3217 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTPj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2563 (+13715)/sem limite] fila=3216 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTPj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2564 (+13715)/sem limite] fila=3215 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTPo/
+  [2565 (+13715)/sem limite] fila=3214 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTPo/
+  [2566 (+13715)/sem limite] fila=3213 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTP-/
+  [2567 (+13715)/sem limite] fila=3212 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTP-/
+  [2568 (+13715)/sem limite] fila=3211 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTPx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2569 (+13715)/sem limite] fila=3210 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTPx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2570 (+13715)/sem limite] fila=3209 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTPA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTPA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2571 (+13715)/sem limite] fila=3208 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTPA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTPA/
+  [2572 (+13715)/sem limite] fila=3207 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTjw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTjw/
+  [2573 (+13715)/sem limite] fila=3206 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTjw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTjw/
+  [2574 (+13715)/sem limite] fila=3205 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnTjz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnTjz/
+  [2575 (+13715)/sem limite] fila=3204 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTjz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTjz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2576 (+13715)/sem limite] fila=3203 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsTjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsTjT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2577 (+13715)/sem limite] fila=3202 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTjT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2578 (+13715)/sem limite] fila=3201 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsTjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsTjL/
+  [2579 (+13715)/sem limite] fila=3200 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTjL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTjL/
+  [2580 (+13715)/sem limite] fila=3199 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTjP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTjP/
+  [2581 (+13715)/sem limite] fila=3198 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBTjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBTjP/
+  [2582 (+13715)/sem limite] fila=3197 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTjj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTjj/
+  [2583 (+13715)/sem limite] fila=3196 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnTjj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnTjj/
+  [2584 (+13715)/sem limite] fila=3195 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTjo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2585 (+13715)/sem limite] fila=3194 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTjo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2586 (+13715)/sem limite] fila=3193 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTj-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTj-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2587 (+13715)/sem limite] fila=3192 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTj-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTj-/
+  [2588 (+13715)/sem limite] fila=3191 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTjx/
+  [2589 (+13715)/sem limite] fila=3190 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTjx/
+  [2590 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTjA/
+  [2591 (+13715)/sem limite] fila=3188 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTjA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2592 (+13715)/sem limite] fila=3187 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTow/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2593 (+13715)/sem limite] fila=3186 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTow/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2594 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsToz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsToz/
+  [2595 (+13715)/sem limite] fila=3184 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsToz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsToz/
+  [2596 (+13715)/sem limite] fila=3183 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKToT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKToT/
+  [2597 (+13715)/sem limite] fila=3182 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsToT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsToT/
+  [2598 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqToL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqToL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2599 (+13715)/sem limite] fila=3180 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GKToj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GKToj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2600 (+13715)/sem limite] fila=3179 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shToj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shToj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_links.xlsx
+  5000 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/erros_varredura.xlsx
+  915 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_externos.xlsx
+  84 links externos registrados.
+  Checkpoint salvo (16315 páginas totais | 2600 nesta sessão).
+  [2601 (+13715)/sem limite] fila=3178 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnToo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnToo/
+  [2602 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRToA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRToA/
+  [2603 (+13715)/sem limite] fila=3176 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsToA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsToA/
+  [2604 (+13715)/sem limite] fila=3175 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqT-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqT-w/
+  [2605 (+13715)/sem limite] fila=3174 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBT-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBT-w/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2606 (+13715)/sem limite] fila=3173 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdT-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdT-z/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2607 (+13715)/sem limite] fila=3172 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqT-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqT-z/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2608 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsT-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsT-o/
+  [2609 (+13715)/sem limite] fila=3170 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqT-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqT-o/
+  [2610 (+13715)/sem limite] fila=3169 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhT--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhT--/
+  [2611 (+13715)/sem limite] fila=3168 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCT-x/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCT-x/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCT-x/
+  [2612 (+13715)/sem limite] fila=3167 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRT-x/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRT-x/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRT-x/
+  [2613 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBT-A/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBT-A/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBT-A/
+  [2614 (+13715)/sem limite] fila=3165 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snT-A/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snT-A/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snT-A/
+  [2615 (+13715)/sem limite] fila=3164 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBToP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBToP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBToP/
+  [2616 (+13715)/sem limite] fila=3163 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnToP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnToP/
+  [2617 (+13715)/sem limite] fila=3162 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTo-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2618 (+13715)/sem limite] fila=3161 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTo-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2619 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRT-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRT-T/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2620 (+13715)/sem limite] fila=3159 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhT-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhT-T/
+  [2621 (+13715)/sem limite] fila=3158 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTxw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTxw/
+  [2622 (+13715)/sem limite] fila=3157 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTxw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTxw/
+  [2623 (+13715)/sem limite] fila=3156 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTxz/
+  [2624 (+13715)/sem limite] fila=3155 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTxz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2625 (+13715)/sem limite] fila=3154 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxT/
+  [2626 (+13715)/sem limite] fila=3153 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTxT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTxT/
+  [2627 (+13715)/sem limite] fila=3152 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKTxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKTxL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2628 (+13715)/sem limite] fila=3151 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTxL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTxL/
+  [2629 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsTxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsTxP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsTxP/
+  [2630 (+13715)/sem limite] fila=3149 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTxP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTxP/
+  [2631 (+13715)/sem limite] fila=3148 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqTxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqTxj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqTxj/
+  [2632 (+13715)/sem limite] fila=3147 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTxj/
+  [2633 (+13715)/sem limite] fila=3146 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTAj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTAj/
+  [2634 (+13715)/sem limite] fila=3145 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTAj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTAj/
+  [2635 (+13715)/sem limite] fila=3144 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/leis_decretos/6/0/0/0/0/0/0
+  [2636 (+13715)/sem limite] fila=3241 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsoLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsoLj/
+  [2637 (+13715)/sem limite] fila=3240 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBoLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBoLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2638 (+13715)/sem limite] fila=3239 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoLP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2639 (+13715)/sem limite] fila=3238 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoLP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2640 (+13715)/sem limite] fila=3237 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoLL/
+  [2641 (+13715)/sem limite] fila=3236 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoLL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoLL/
+  [2642 (+13715)/sem limite] fila=3235 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhoLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhoLT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhoLT/
+  [2643 (+13715)/sem limite] fila=3234 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdoLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdoLT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdoLT/
+  [2644 (+13715)/sem limite] fila=3233 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoLz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoLz/
+  [2645 (+13715)/sem limite] fila=3232 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLz/
+  [2646 (+13715)/sem limite] fila=3231 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoLw/
+  [2647 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBoLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBoLw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBoLw/
+  [2648 (+13715)/sem limite] fila=3229 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKoTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKoTA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKoTA/
+  [2649 (+13715)/sem limite] fila=3228 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKoTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKoTA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKoTA/
+  [2650 (+13715)/sem limite] fila=3227 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoTx/
+  [2651 (+13715)/sem limite] fila=3226 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssoTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssoTx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssoTx/
+  [2652 (+13715)/sem limite] fila=3225 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRoT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRoT-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRoT-/
+  [2653 (+13715)/sem limite] fila=3224 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsoT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsoT-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsoT-/
+  [2654 (+13715)/sem limite] fila=3223 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqoTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqoTo/
+  [2655 (+13715)/sem limite] fila=3222 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqoTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqoTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2656 (+13715)/sem limite] fila=3221 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCoTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCoTj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2657 (+13715)/sem limite] fila=3220 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqoTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqoTj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2658 (+13715)/sem limite] fila=3219 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhoTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhoTP/
+  [2659 (+13715)/sem limite] fila=3218 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKoTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKoTP/
+  [2660 (+13715)/sem limite] fila=3217 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdoTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdoTL/
+  [2661 (+13715)/sem limite] fila=3216 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoTL/
+  [2662 (+13715)/sem limite] fila=3215 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdoTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdoTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2663 (+13715)/sem limite] fila=3214 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRoTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRoTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2664 (+13715)/sem limite] fila=3213 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqoTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqoTz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2665 (+13715)/sem limite] fila=3212 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnoTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnoTz/
+  [2666 (+13715)/sem limite] fila=3211 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CC-Lw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CC-Lw/
+  [2667 (+13715)/sem limite] fila=3210 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KK-Lw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KK-Lw/
+  [2668 (+13715)/sem limite] fila=3209 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsoo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsoo-/
+  [2669 (+13715)/sem limite] fila=3208 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssoo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssoo-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2670 (+13715)/sem limite] fila=3207 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCoPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCoPx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2671 (+13715)/sem limite] fila=3206 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shoPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shoPx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2672 (+13715)/sem limite] fila=3205 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRwxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRwxT/
+  [2673 (+13715)/sem limite] fila=3204 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGwxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGwxT/
+  [2674 (+13715)/sem limite] fila=3203 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBP/
+  [2675 (+13715)/sem limite] fila=3202 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCP/
+  [2676 (+13715)/sem limite] fila=3201 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2677 (+13715)/sem limite] fila=3200 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2678 (+13715)/sem limite] fila=3199 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoTw/
+  [2679 (+13715)/sem limite] fila=3198 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hh-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hh-/
+  [2680 (+13715)/sem limite] fila=3197 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nh-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nh-/
+  [2681 (+13715)/sem limite] fila=3196 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCozA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCozA/
+  [2682 (+13715)/sem limite] fila=3195 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2683 (+13715)/sem limite] fila=3194 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2684 (+13715)/sem limite] fila=3193 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdozx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdozx/
+  [2685 (+13715)/sem limite] fila=3192 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBoz-/
+  [2686 (+13715)/sem limite] fila=3191 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsoz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsoz-/
+  [2687 (+13715)/sem limite] fila=3190 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGx/
+  [2688 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2689 (+13715)/sem limite] fila=3188 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rqozo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rqozo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2690 (+13715)/sem limite] fila=3187 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRozo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRozo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2691 (+13715)/sem limite] fila=3186 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2692 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddL/
+  [2693 (+13715)/sem limite] fila=3184 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsT/
+  [2694 (+13715)/sem limite] fila=3183 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhT/
+  [2695 (+13715)/sem limite] fila=3182 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRz/
+  [2696 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2697 (+13715)/sem limite] fila=3180 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cqw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cqw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2698 (+13715)/sem limite] fila=3179 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2699 (+13715)/sem limite] fila=3178 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRxA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRxA/
+  [2700 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChxA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChxA/
+  [2701 (+13715)/sem limite] fila=3176 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCxx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCxx/
+  [2702 (+13715)/sem limite] fila=3175 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCxx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCxx/
+  [2703 (+13715)/sem limite] fila=3174 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Chx-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Chx-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2704 (+13715)/sem limite] fila=3173 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsx-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsx-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2705 (+13715)/sem limite] fila=3172 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRozj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRozj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2706 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssozj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssozj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2707 (+13715)/sem limite] fila=3170 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhxo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhxo/
+  [2708 (+13715)/sem limite] fila=3169 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCxo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCxo/
+  [2709 (+13715)/sem limite] fila=3168 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBozP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBozP/
+  [2710 (+13715)/sem limite] fila=3167 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdozP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdozP/
+  [2711 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKxj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2712 (+13715)/sem limite] fila=3165 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRxj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2713 (+13715)/sem limite] fila=3164 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2714 (+13715)/sem limite] fila=3163 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsxP/
+  [2715 (+13715)/sem limite] fila=3162 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsLPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsLPx/
+  [2716 (+13715)/sem limite] fila=3161 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBLPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBLPx/
+  [2717 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGLP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGLP-/
+  [2718 (+13715)/sem limite] fila=3159 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKLP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKLP-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2719 (+13715)/sem limite] fila=3158 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdLPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdLPo/
+  [2720 (+13715)/sem limite] fila=3157 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnLPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnLPo/
+  [2721 (+13715)/sem limite] fila=3156 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqLPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqLPj/
+  [2722 (+13715)/sem limite] fila=3155 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shLPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shLPj/
+  [2723 (+13715)/sem limite] fila=3154 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnozL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnozL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2724 (+13715)/sem limite] fila=3153 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGozL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGozL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2725 (+13715)/sem limite] fila=3152 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKozT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKozT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2726 (+13715)/sem limite] fila=3151 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhozz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhozz/
+  [2727 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKxz/
+  [2728 (+13715)/sem limite] fila=3149 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhxz/
+  [2729 (+13715)/sem limite] fila=3148 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdxL/
+  [2730 (+13715)/sem limite] fila=3147 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRxL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2731 (+13715)/sem limite] fila=3146 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/leis_decretos/15/0/0/0/0/0/
+  [2732 (+13715)/sem limite] fila=3240 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqxPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqxPo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2733 (+13715)/sem limite] fila=3239 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCxPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCxPo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2734 (+13715)/sem limite] fila=3238 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxPj/
+  [2735 (+13715)/sem limite] fila=3237 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnxPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnxPj/
+  [2736 (+13715)/sem limite] fila=3236 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxPP/
+  [2737 (+13715)/sem limite] fila=3235 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCxPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCxPP/
+  [2738 (+13715)/sem limite] fila=3234 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKxPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKxPL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2739 (+13715)/sem limite] fila=3233 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRxPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRxPL/
+  [2740 (+13715)/sem limite] fila=3232 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxPT/
+  [2741 (+13715)/sem limite] fila=3231 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnxPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnxPz/
+  [2742 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhxPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhxPz/
+  [2743 (+13715)/sem limite] fila=3229 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnPL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnPL-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2744 (+13715)/sem limite] fila=3228 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCPL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCPL-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2745 (+13715)/sem limite] fila=3227 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqPLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqPLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2746 (+13715)/sem limite] fila=3226 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBPLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBPLo/
+  [2747 (+13715)/sem limite] fila=3225 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqxPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqxPw/
+  [2748 (+13715)/sem limite] fila=3224 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdxPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdxPw/
+  [2749 (+13715)/sem limite] fila=3223 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBPLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBPLT/
+  [2750 (+13715)/sem limite] fila=3222 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGPLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGPLT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2751 (+13715)/sem limite] fila=3221 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnPLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnPLL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2752 (+13715)/sem limite] fila=3220 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shPLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shPLL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2753 (+13715)/sem limite] fila=3219 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBPLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBPLP/
+  [2754 (+13715)/sem limite] fila=3218 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCPLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCPLP/
+  [2755 (+13715)/sem limite] fila=3217 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhPLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhPLj/
+  [2756 (+13715)/sem limite] fila=3216 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKPLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKPLj/
+  [2757 (+13715)/sem limite] fila=3215 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxLA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2758 (+13715)/sem limite] fila=3214 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRxLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRxLA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2759 (+13715)/sem limite] fila=3213 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBxLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBxLx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2760 (+13715)/sem limite] fila=3212 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRxLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRxLx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2761 (+13715)/sem limite] fila=3211 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqxL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqxL-/
+  [2762 (+13715)/sem limite] fila=3210 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRxL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRxL-/
+  [2763 (+13715)/sem limite] fila=3209 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsxLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsxLo/
+  [2764 (+13715)/sem limite] fila=3208 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhxLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhxLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2765 (+13715)/sem limite] fila=3207 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqxLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqxLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2766 (+13715)/sem limite] fila=3206 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBxLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBxLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2767 (+13715)/sem limite] fila=3205 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBxLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBxLP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2768 (+13715)/sem limite] fila=3204 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCxLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCxLL/
+  [2769 (+13715)/sem limite] fila=3203 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBxLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBxLL/
+  [2770 (+13715)/sem limite] fila=3202 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGxLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGxLT/
+  [2771 (+13715)/sem limite] fila=3201 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnxLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnxLT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2772 (+13715)/sem limite] fila=3200 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsPTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsPTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2773 (+13715)/sem limite] fila=3199 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqPTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqPTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2774 (+13715)/sem limite] fila=3198 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGPT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGPT-/
+  [2775 (+13715)/sem limite] fila=3197 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqPT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqPT-/
+  [2776 (+13715)/sem limite] fila=3196 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRPTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRPTx/
+  [2777 (+13715)/sem limite] fila=3195 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhPTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhPTx/
+  [2778 (+13715)/sem limite] fila=3194 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndPTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndPTA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2779 (+13715)/sem limite] fila=3193 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBPTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBPTA/
+  [2780 (+13715)/sem limite] fila=3192 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCPLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCPLw/
+  [2781 (+13715)/sem limite] fila=3191 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGPLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGPLw/
+ ❌ SELENIUM_ERRO: SessionNotCreatedException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGPLw/
+  [2782 (+13715)/sem limite] fila=3190 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhPLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhPLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2783 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRPLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRPLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2784 (+13715)/sem limite] fila=3188 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhxLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhxLz/
+  [2785 (+13715)/sem limite] fila=3187 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCxLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCxLz/
+  [2786 (+13715)/sem limite] fila=3186 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBxLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBxLw/
+  [2787 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhxLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhxLw/
+  [2788 (+13715)/sem limite] fila=3184 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqxTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqxTA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2789 (+13715)/sem limite] fila=3183 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKxTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKxTA/
+  [2790 (+13715)/sem limite] fila=3182 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRPTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRPTj/
+  [2791 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCPTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCPTj/
+  [2792 (+13715)/sem limite] fila=3180 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdPTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdPTL/
+  [2793 (+13715)/sem limite] fila=3179 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCPTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCPTL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2794 (+13715)/sem limite] fila=3178 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsPTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsPTP/
+  [2795 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKPTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKPTP/
+  [2796 (+13715)/sem limite] fila=3176 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxTx/
+  [2797 (+13715)/sem limite] fila=3175 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBxTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBxTx/
+  [2798 (+13715)/sem limite] fila=3174 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsxT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsxT-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2799 (+13715)/sem limite] fila=3173 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRxT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRxT-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2800 (+13715)/sem limite] fila=3172 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssxTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_links.xlsx
+  5071 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/erros_varredura.xlsx
+  939 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_externos.xlsx
+  84 links externos registrados.
+  Checkpoint salvo (16515 páginas totais | 2800 nesta sessão).
+  [2801 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhxTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhxTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2802 (+13715)/sem limite] fila=3170 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBPzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBPzA/
+  [2803 (+13715)/sem limite] fila=3169 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndPzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndPzA/
+  [2804 (+13715)/sem limite] fila=3168 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsPTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsPTw/
+  [2805 (+13715)/sem limite] fila=3167 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGPTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGPTw/
+  [2806 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGPTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGPTz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2807 (+13715)/sem limite] fila=3165 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsPTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsPTz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2808 (+13715)/sem limite] fila=3164 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RdPTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RdPTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2809 (+13715)/sem limite] fila=3163 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKPTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKPTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2810 (+13715)/sem limite] fila=3162 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBxTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBxTj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2811 (+13715)/sem limite] fila=3161 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsxTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsxTj/
+  [2812 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBxTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBxTP/
+  [2813 (+13715)/sem limite] fila=3159 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnxTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnxTP/
+  [2814 (+13715)/sem limite] fila=3158 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndxTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndxTL/
+  [2815 (+13715)/sem limite] fila=3157 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKxTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKxTL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2816 (+13715)/sem limite] fila=3156 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKxTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2817 (+13715)/sem limite] fila=3155 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRxTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRxTT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2818 (+13715)/sem limite] fila=3154 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnxTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnxTz/
+  [2819 (+13715)/sem limite] fila=3153 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsxTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsxTz/
+  [2820 (+13715)/sem limite] fila=3152 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqxTw/
+  [2821 (+13715)/sem limite] fila=3151 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsxzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsxzA/
+  [2822 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqxzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqxzA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2823 (+13715)/sem limite] fila=3149 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsxzx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsxzx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2824 (+13715)/sem limite] fila=3148 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdxzx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdxzx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2825 (+13715)/sem limite] fila=3147 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsxz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsxz-/
+  [2826 (+13715)/sem limite] fila=3146 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCxz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCxz-/
+  [2827 (+13715)/sem limite] fila=3145 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBxzo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBxzo/
+  [2828 (+13715)/sem limite] fila=3144 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/leis_decretos/5/0/0/0/0/0/0
+  [2829 (+13715)/sem limite] fila=3243 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rh--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rh--/
+  [2830 (+13715)/sem limite] fila=3242 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hq--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hq--/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2831 (+13715)/sem limite] fila=3241 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nn-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nn-o/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2832 (+13715)/sem limite] fila=3240 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qs-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qs-o/
+  [2833 (+13715)/sem limite] fila=3239 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hG-j/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hG-j/
+  [2834 (+13715)/sem limite] fila=3238 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RG-P/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RG-P/
+  [2835 (+13715)/sem limite] fila=3237 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nG-P/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nG-P/
+  [2836 (+13715)/sem limite] fila=3236 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dq-L/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dq-L/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2837 (+13715)/sem limite] fila=3235 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dh-L/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dh-L/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2838 (+13715)/sem limite] fila=3234 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CB-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CB-T/
+  [2839 (+13715)/sem limite] fila=3233 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cn-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cn-z/
+  [2840 (+13715)/sem limite] fila=3232 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ds-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ds-z/
+  [2841 (+13715)/sem limite] fila=3231 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsowo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsowo/
+  [2842 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdowj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdowj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2843 (+13715)/sem limite] fila=3229 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKowj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKowj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2844 (+13715)/sem limite] fila=3228 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssowP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssowP/
+  [2845 (+13715)/sem limite] fila=3227 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBowP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBowP/
+  [2846 (+13715)/sem limite] fila=3226 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowL/
+  [2847 (+13715)/sem limite] fila=3225 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRowL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRowL/
+  [2848 (+13715)/sem limite] fila=3224 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KR-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KR-w/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2849 (+13715)/sem limite] fila=3223 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRoA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2850 (+13715)/sem limite] fila=3222 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnoA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnoA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2851 (+13715)/sem limite] fila=3221 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowT/
+  [2852 (+13715)/sem limite] fila=3220 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdowT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdowT/
+  [2853 (+13715)/sem limite] fila=3219 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRj--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRj--/
+  [2854 (+13715)/sem limite] fila=3218 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKLPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKLPL/
+  [2855 (+13715)/sem limite] fila=3217 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsLPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GsLPL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2856 (+13715)/sem limite] fila=3216 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdLPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdLPT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2857 (+13715)/sem limite] fila=3215 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGLPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGLPT/
+  [2858 (+13715)/sem limite] fila=3214 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKj-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKj-T/
+  [2859 (+13715)/sem limite] fila=3213 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Kqj-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Kqj-T/
+  [2860 (+13715)/sem limite] fila=3212 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRox/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRox/
+  [2861 (+13715)/sem limite] fila=3211 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shox/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/shox/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2862 (+13715)/sem limite] fila=3210 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCoo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCoo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2863 (+13715)/sem limite] fila=3209 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqoo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqoo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2864 (+13715)/sem limite] fila=3208 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnLPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnLPz/
+  [2865 (+13715)/sem limite] fila=3207 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRLPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRLPz/
+  [2866 (+13715)/sem limite] fila=3206 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhLPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhLPw/
+  [2867 (+13715)/sem limite] fila=3205 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBLPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBLPw/
+  [2868 (+13715)/sem limite] fila=3204 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBLLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBLLA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2869 (+13715)/sem limite] fila=3203 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKLLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKLLA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2870 (+13715)/sem limite] fila=3202 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rqoj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rqoj/
+  [2871 (+13715)/sem limite] fila=3201 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKoj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKoj/
+  [2872 (+13715)/sem limite] fila=3200 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGoP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGoP/
+  [2873 (+13715)/sem limite] fila=3199 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhoP/
+  [2874 (+13715)/sem limite] fila=3198 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBo-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2875 (+13715)/sem limite] fila=3197 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qso-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qso-/
+  [2876 (+13715)/sem limite] fila=3196 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCoL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCoL/
+  [2877 (+13715)/sem limite] fila=3195 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdoL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdoL/
+  [2878 (+13715)/sem limite] fila=3194 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdowz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Rdowz/
+  [2879 (+13715)/sem limite] fila=3193 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCowz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCowz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2880 (+13715)/sem limite] fila=3192 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCoT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCoT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2881 (+13715)/sem limite] fila=3191 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGoT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGoT/
+  [2882 (+13715)/sem limite] fila=3190 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCoz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCoz/
+  [2883 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGoz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CGoz/
+  [2884 (+13715)/sem limite] fila=3188 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhow/
+  [2885 (+13715)/sem limite] fila=3187 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRow/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2886 (+13715)/sem limite] fila=3186 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqj-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqj-z/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2887 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsj-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gsj-z/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2888 (+13715)/sem limite] fila=3184 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnjA/
+  [2889 (+13715)/sem limite] fila=3183 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKjA/
+  [2890 (+13715)/sem limite] fila=3182 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGoww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGoww/
+  [2891 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKoww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKoww/
+  [2892 (+13715)/sem limite] fila=3180 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKjx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2893 (+13715)/sem limite] fila=3179 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGjx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2894 (+13715)/sem limite] fila=3178 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhLLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhLLx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2895 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdLLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdLLx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2896 (+13715)/sem limite] fila=3176 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBLL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBLL-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2897 (+13715)/sem limite] fila=3175 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhLL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhLL-/
+  [2898 (+13715)/sem limite] fila=3174 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCLLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCLLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2899 (+13715)/sem limite] fila=3173 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCLLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCLLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2900 (+13715)/sem limite] fila=3172 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChLLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChLLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2901 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snLLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snLLj/
+  [2902 (+13715)/sem limite] fila=3170 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsjAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsjAA/
+  [2903 (+13715)/sem limite] fila=3169 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqjAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqjAA/
+  [2904 (+13715)/sem limite] fila=3168 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnjAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnjAx/
+  [2905 (+13715)/sem limite] fila=3167 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhjAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhjAx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2906 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsjA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsjA-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2907 (+13715)/sem limite] fila=3165 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRjA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRjA-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2908 (+13715)/sem limite] fila=3164 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRjAo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRjAo/
+  [2909 (+13715)/sem limite] fila=3163 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssjAo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssjAo/
+  [2910 (+13715)/sem limite] fila=3162 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqjAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqjAP/
+  [2911 (+13715)/sem limite] fila=3161 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnjAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnjAP/
+  [2912 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKjo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2913 (+13715)/sem limite] fila=3159 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKjo/
+  [2914 (+13715)/sem limite] fila=3158 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhjj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhjj/
+  [2915 (+13715)/sem limite] fila=3157 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqjP/
+  [2916 (+13715)/sem limite] fila=3156 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCjP/
+  [2917 (+13715)/sem limite] fila=3155 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGjL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2918 (+13715)/sem limite] fila=3154 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnjL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2919 (+13715)/sem limite] fila=3153 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCjT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2920 (+13715)/sem limite] fila=3152 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGjT/
+  [2921 (+13715)/sem limite] fila=3151 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCjAL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCjAL/
+  [2922 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsjAL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsjAL/
+  [2923 (+13715)/sem limite] fila=3149 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/leis_decretos/10/0/0/0/0/0/
+  [2924 (+13715)/sem limite] fila=3239 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKzxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKzxj/
+  [2925 (+13715)/sem limite] fila=3238 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCzxo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCzxo/
+  [2926 (+13715)/sem limite] fila=3237 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqzxo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqzxo/
+  [2927 (+13715)/sem limite] fila=3236 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hszx-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hszx-/
+  [2928 (+13715)/sem limite] fila=3235 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzx-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzx-/
+  [2929 (+13715)/sem limite] fila=3234 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzxx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzxx/
+  [2930 (+13715)/sem limite] fila=3233 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzxx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzxx/
+  [2931 (+13715)/sem limite] fila=3232 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqzxA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqzxA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2932 (+13715)/sem limite] fila=3231 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzxA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzxA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2933 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snzAw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snzAw/
+  [2934 (+13715)/sem limite] fila=3229 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhzAj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhzAj/
+  [2935 (+13715)/sem limite] fila=3228 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGzAj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGzAj/
+  [2936 (+13715)/sem limite] fila=3227 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKzAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKzAP/
+  [2937 (+13715)/sem limite] fila=3226 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzAP/
+  [2938 (+13715)/sem limite] fila=3225 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzAL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzAL/
+  [2939 (+13715)/sem limite] fila=3224 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nszAL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nszAL/
+  [2940 (+13715)/sem limite] fila=3223 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzAT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGzAT/
+  [2941 (+13715)/sem limite] fila=3222 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKzAT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKzAT/
+  [2942 (+13715)/sem limite] fila=3221 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGzAz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGzAz/
+  [2943 (+13715)/sem limite] fila=3220 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzAo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRzAo/
+  [2944 (+13715)/sem limite] fila=3219 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CszAo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CszAo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2945 (+13715)/sem limite] fila=3218 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTww/
+  [2946 (+13715)/sem limite] fila=3217 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRTww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRTww/
+  [2947 (+13715)/sem limite] fila=3216 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKzAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKzAx/
+  [2948 (+13715)/sem limite] fila=3215 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRzAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRzAx/
+  [2949 (+13715)/sem limite] fila=3214 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqzA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqzA-/
+  [2950 (+13715)/sem limite] fila=3213 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRzA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRzA-/
+  [2951 (+13715)/sem limite] fila=3212 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGTwT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGTwT/
+  [2952 (+13715)/sem limite] fila=3211 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTwT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTwT/
+  [2953 (+13715)/sem limite] fila=3210 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTwz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTwz/
+  [2954 (+13715)/sem limite] fila=3209 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdzAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdzAA/
+  [2955 (+13715)/sem limite] fila=3208 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGzAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGzAA/
+  [2956 (+13715)/sem limite] fila=3207 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTwL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTwL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2957 (+13715)/sem limite] fila=3206 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTwL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTwL/
+  [2958 (+13715)/sem limite] fila=3205 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTwo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTwo/
+  [2959 (+13715)/sem limite] fila=3204 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTwj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRTwj/
+  [2960 (+13715)/sem limite] fila=3203 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTwj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTwj/
+  [2961 (+13715)/sem limite] fila=3202 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTwP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTwP/
+  [2962 (+13715)/sem limite] fila=3201 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTwx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTwx/
+  [2963 (+13715)/sem limite] fila=3200 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTw-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTw-/
+  [2964 (+13715)/sem limite] fila=3199 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTw-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTw-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2965 (+13715)/sem limite] fila=3198 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTzw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTzw/
+  [2966 (+13715)/sem limite] fila=3197 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTzw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTzw/
+  [2967 (+13715)/sem limite] fila=3196 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTwA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTwA/
+  [2968 (+13715)/sem limite] fila=3195 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTwA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTwA/
+  [2969 (+13715)/sem limite] fila=3194 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTzz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTzz/
+  [2970 (+13715)/sem limite] fila=3193 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTzz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTzz/
+  [2971 (+13715)/sem limite] fila=3192 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTzT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTzT/
+  [2972 (+13715)/sem limite] fila=3191 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTzL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTzL/
+  [2973 (+13715)/sem limite] fila=3190 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhTzL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhTzL/
+  [2974 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTzP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTzP/
+  [2975 (+13715)/sem limite] fila=3188 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTzj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTzj/
+  [2976 (+13715)/sem limite] fila=3187 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTzj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTzj/
+  [2977 (+13715)/sem limite] fila=3186 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTzo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTzo/
+  [2978 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTzo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTzo/
+  [2979 (+13715)/sem limite] fila=3184 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTz-/
+  [2980 (+13715)/sem limite] fila=3183 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdLw-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdLw-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2981 (+13715)/sem limite] fila=3182 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnLw-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnLw-/
+  [2982 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRLwo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRLwo/
+  [2983 (+13715)/sem limite] fila=3180 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGLwo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGLwo/
+  [2984 (+13715)/sem limite] fila=3179 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTTw/
+  [2985 (+13715)/sem limite] fila=3178 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhTTw/
+  [2986 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhTzx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhTzx/
+  [2987 (+13715)/sem limite] fila=3176 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTzx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTzx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2988 (+13715)/sem limite] fila=3175 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnTTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnTTz/
+  [2989 (+13715)/sem limite] fila=3174 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRTTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRTTz/
+  [2990 (+13715)/sem limite] fila=3173 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnTTL/
+  [2991 (+13715)/sem limite] fila=3172 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTTT/
+  [2992 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTTT/
+  [2993 (+13715)/sem limite] fila=3170 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhTTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhTTj/
+  [2994 (+13715)/sem limite] fila=3169 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTTj/
+  [2995 (+13715)/sem limite] fila=3168 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTTP/
+  [2996 (+13715)/sem limite] fila=3167 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTTo/
+  [2997 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2998 (+13715)/sem limite] fila=3165 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhTTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhTTx/
+  [2999 (+13715)/sem limite] fila=3164 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBTTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBTTx/
+  [3000 (+13715)/sem limite] fila=3163 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qCTT-/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_links.xlsx
+  5128 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/erros_varredura.xlsx
+  939 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_externos.xlsx
+  84 links externos registrados.
+  Checkpoint salvo (16715 páginas totais | 3000 nesta sessão).
+  [3001 (+13715)/sem limite] fila=3162 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTT-/
+  [3002 (+13715)/sem limite] fila=3161 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTTA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3003 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCTTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCTTA/
+  [3004 (+13715)/sem limite] fila=3159 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTLw/
+  [3005 (+13715)/sem limite] fila=3158 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTLw/
+  [3006 (+13715)/sem limite] fila=3157 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3007 (+13715)/sem limite] fila=3156 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3008 (+13715)/sem limite] fila=3155 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTLj/
+  [3009 (+13715)/sem limite] fila=3154 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqTLP/
+  [3010 (+13715)/sem limite] fila=3153 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLP/
+  [3011 (+13715)/sem limite] fila=3152 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTLL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTLL/
+  [3012 (+13715)/sem limite] fila=3151 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTLL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTLL/
+  [3013 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTLT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTLT/
+  [3014 (+13715)/sem limite] fila=3149 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLT/
+  [3015 (+13715)/sem limite] fila=3148 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLo/
+  [3016 (+13715)/sem limite] fila=3147 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTLo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTLo/
+  [3017 (+13715)/sem limite] fila=3146 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBTL-/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3018 (+13715)/sem limite] fila=3145 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTL-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTL-/
+  [3019 (+13715)/sem limite] fila=3144 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTLx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTLx/
+  [3020 (+13715)/sem limite] fila=3143 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLx/
+  [3021 (+13715)/sem limite] fila=3142 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndTPw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3022 (+13715)/sem limite] fila=3141 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTPw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTPw/
+  [3023 (+13715)/sem limite] fila=3140 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTLA/
+  [3024 (+13715)/sem limite] fila=3139 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTLA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTLA/
+  [3025 (+13715)/sem limite] fila=3138 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTPz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTPz/
+  [3026 (+13715)/sem limite] fila=3137 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qnTPz/
+  [3027 (+13715)/sem limite] fila=3136 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTPT/
+  [3028 (+13715)/sem limite] fila=3135 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBTPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBTPT/
+  [3029 (+13715)/sem limite] fila=3134 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hhTPj/
+  [3030 (+13715)/sem limite] fila=3133 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBTPj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBTPj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3031 (+13715)/sem limite] fila=3132 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTPP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTPP/
+  [3032 (+13715)/sem limite] fila=3131 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnTPP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnTPP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnTPP/
+  [3033 (+13715)/sem limite] fila=3130 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKTPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKTPL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKTPL/
+  [3034 (+13715)/sem limite] fila=3129 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTPL/
+  [3035 (+13715)/sem limite] fila=3128 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTPo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTPo/
+  [3036 (+13715)/sem limite] fila=3127 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTPo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTPo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTPo/
+  [3037 (+13715)/sem limite] fila=3126 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTP-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTP-/
+  [3038 (+13715)/sem limite] fila=3125 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhTP-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhTP-/
+  [3039 (+13715)/sem limite] fila=3124 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTPx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTPx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCTPx/
+  [3040 (+13715)/sem limite] fila=3123 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTPA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hsTPA/
+  [3041 (+13715)/sem limite] fila=3122 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTPA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTPA/
+  [3042 (+13715)/sem limite] fila=3121 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTjw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTjw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3043 (+13715)/sem limite] fila=3120 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTjw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTjw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3044 (+13715)/sem limite] fila=3119 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTjz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTjz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3045 (+13715)/sem limite] fila=3118 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTjT/
+  [3046 (+13715)/sem limite] fila=3117 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTjT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTjT/
+  [3047 (+13715)/sem limite] fila=3116 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRTjL/
+  [3048 (+13715)/sem limite] fila=3115 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snTjL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snTjL/
+  [3049 (+13715)/sem limite] fila=3114 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGTjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGTjP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3050 (+13715)/sem limite] fila=3113 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTjP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTjP/
+  [3051 (+13715)/sem limite] fila=3112 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTjj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTjj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3052 (+13715)/sem limite] fila=3111 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTjj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTjj/
+  [3053 (+13715)/sem limite] fila=3110 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTjo/
+  [3054 (+13715)/sem limite] fila=3109 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTjo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTjo/
+  [3055 (+13715)/sem limite] fila=3108 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTjx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3056 (+13715)/sem limite] fila=3107 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTjx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTjx/
+  [3057 (+13715)/sem limite] fila=3106 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGTj-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGTj-/
+  [3058 (+13715)/sem limite] fila=3105 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTj-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTj-/
+  [3059 (+13715)/sem limite] fila=3104 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTjA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3060 (+13715)/sem limite] fila=3103 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnTjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnTjA/
+  [3061 (+13715)/sem limite] fila=3102 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhToz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhToz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3062 (+13715)/sem limite] fila=3101 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRToz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRToz/
+  [3063 (+13715)/sem limite] fila=3100 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsTow/
+  [3064 (+13715)/sem limite] fila=3099 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTow/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3065 (+13715)/sem limite] fila=3098 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqToT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqToT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3066 (+13715)/sem limite] fila=3097 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhToT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhToT/
+  [3067 (+13715)/sem limite] fila=3096 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKToL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKToL/
+  [3068 (+13715)/sem limite] fila=3095 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdToL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdToL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdToL/
+  [3069 (+13715)/sem limite] fila=3094 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGToo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGToo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGToo/
+  [3070 (+13715)/sem limite] fila=3093 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRToo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRToo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRToo/
+  [3071 (+13715)/sem limite] fila=3092 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGToj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGToj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGToj/
+  [3072 (+13715)/sem limite] fila=3091 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBToj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBToj/
+  [3073 (+13715)/sem limite] fila=3090 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBToA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBToA/
+  [3074 (+13715)/sem limite] fila=3089 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBToA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBToA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3075 (+13715)/sem limite] fila=3088 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCT-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCT-w/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3076 (+13715)/sem limite] fila=3087 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRT-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRT-w/
+  [3077 (+13715)/sem limite] fila=3086 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGT-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGT-z/
+  [3078 (+13715)/sem limite] fila=3085 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnT-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnT-z/
+  [3079 (+13715)/sem limite] fila=3084 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhT-x/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhT-x/
+  [3080 (+13715)/sem limite] fila=3083 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddT-x/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddT-x/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3081 (+13715)/sem limite] fila=3082 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCT--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCT--/
+  [3082 (+13715)/sem limite] fila=3081 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqT--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqT--/
+  [3083 (+13715)/sem limite] fila=3080 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChT-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChT-o/
+  [3084 (+13715)/sem limite] fila=3079 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhT-o/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GhT-o/
+  [3085 (+13715)/sem limite] fila=3078 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCT-A/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nCT-A/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3086 (+13715)/sem limite] fila=3077 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnT-A/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnT-A/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3087 (+13715)/sem limite] fila=3076 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnT-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dnT-T/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3088 (+13715)/sem limite] fila=3075 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhT-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhT-T/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3089 (+13715)/sem limite] fila=3074 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTo-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RnTo-/
+  [3090 (+13715)/sem limite] fila=3073 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGTo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GGTo-/
+  [3091 (+13715)/sem limite] fila=3072 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqToP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqToP/
+  [3092 (+13715)/sem limite] fila=3071 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqTxj/
+  [3093 (+13715)/sem limite] fila=3070 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTxj/
+  [3094 (+13715)/sem limite] fila=3069 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTxP/
+  [3095 (+13715)/sem limite] fila=3068 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTxP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTxP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3096 (+13715)/sem limite] fila=3067 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhTxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhTxL/
+  [3097 (+13715)/sem limite] fila=3066 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTxL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTxL/
+  [3098 (+13715)/sem limite] fila=3065 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dhTxT/
+  [3099 (+13715)/sem limite] fila=3064 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTxT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTxT/
+  [3100 (+13715)/sem limite] fila=3063 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTxz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTxz/
+  [3101 (+13715)/sem limite] fila=3062 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTxz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTxz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTxz/
+  [3102 (+13715)/sem limite] fila=3061 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTxw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTxw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTxw/
+  [3103 (+13715)/sem limite] fila=3060 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTxw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTxw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTxw/
+  [3104 (+13715)/sem limite] fila=3059 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKTAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKTAA/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3105 (+13715)/sem limite] fila=3058 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sdTAA/
+  [3106 (+13715)/sem limite] fila=3057 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqzAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqzAP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqzAP/
+  [3107 (+13715)/sem limite] fila=3056 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAP/
+  [3108 (+13715)/sem limite] fila=3055 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGzAL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGzAL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGzAL/
+  [3109 (+13715)/sem limite] fila=3054 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRzAT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRzAT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRzAT/
+  [3110 (+13715)/sem limite] fila=3053 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKzAT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKzAT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKzAT/
+  [3111 (+13715)/sem limite] fila=3052 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzAz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzAz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzAz/
+  [3112 (+13715)/sem limite] fila=3051 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdzAz/
+  [3113 (+13715)/sem limite] fila=3050 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzAo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KGzAo/
+  [3114 (+13715)/sem limite] fila=3049 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTww/
+  [3115 (+13715)/sem limite] fila=3048 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTww/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTww/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTww/
+  [3116 (+13715)/sem limite] fila=3047 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqzAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqzAx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqzAx/
+  [3117 (+13715)/sem limite] fila=3046 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBzAx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CBzAx/
+  [3118 (+13715)/sem limite] fila=3045 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRzA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRzA-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRzA-/
+  [3119 (+13715)/sem limite] fila=3044 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndzA-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndzA-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ndzA-/
+  [3120 (+13715)/sem limite] fila=3043 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTwT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTwT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTwT/
+  [3121 (+13715)/sem limite] fila=3042 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTwT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CRTwT/
+  [3122 (+13715)/sem limite] fila=3041 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTwz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTwz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTwz/
+  [3123 (+13715)/sem limite] fila=3040 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTwz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTwz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nKTwz/
+  [3124 (+13715)/sem limite] fila=3039 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChzAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChzAA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChzAA/
+  [3125 (+13715)/sem limite] fila=3038 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqzAA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqzAA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqzAA/
+  [3126 (+13715)/sem limite] fila=3037 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGTwL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGTwL/
+  [3127 (+13715)/sem limite] fila=3036 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTwo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTwo/
+  [3128 (+13715)/sem limite] fila=3035 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGTwo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hGTwo/
+  [3129 (+13715)/sem limite] fila=3034 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTwj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTwj/
+  [3130 (+13715)/sem limite] fila=3033 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTwj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTwj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RGTwj/
+  [3131 (+13715)/sem limite] fila=3032 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKTwP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKTwP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RKTwP/
+  [3132 (+13715)/sem limite] fila=3031 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTwP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTwP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hKTwP/
+  [3133 (+13715)/sem limite] fila=3030 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTwx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTwx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dCTwx/
+  [3134 (+13715)/sem limite] fila=3029 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRTwx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRTwx/
+  [3135 (+13715)/sem limite] fila=3028 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTw-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTw-/
+  [3136 (+13715)/sem limite] fila=3027 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTzw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qRTzw/
+  [3137 (+13715)/sem limite] fila=3026 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBTzw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBTzw/
+  [3138 (+13715)/sem limite] fila=3025 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTwA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTwA/
+  [3139 (+13715)/sem limite] fila=3024 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTwA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTwA/
+  [3140 (+13715)/sem limite] fila=3023 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTzz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qqTzz/
+  [3141 (+13715)/sem limite] fila=3022 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBTzT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBTzT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dBTzT/
+  [3142 (+13715)/sem limite] fila=3021 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTzL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTzL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTzL/
+  [3143 (+13715)/sem limite] fila=3020 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTzL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTzL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTzL/
+  [3144 (+13715)/sem limite] fila=3019 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTzP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTzP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTzP/
+  [3145 (+13715)/sem limite] fila=3018 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTzP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTzP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qBTzP/
+  [3146 (+13715)/sem limite] fila=3017 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTzj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTzj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTzj/
+  [3147 (+13715)/sem limite] fila=3016 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBTzj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBTzj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBTzj/
+  [3148 (+13715)/sem limite] fila=3015 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhTzo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhTzo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhTzo/
+  [3149 (+13715)/sem limite] fila=3014 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTzo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTzo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTzo/
+  [3150 (+13715)/sem limite] fila=3013 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTz-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTz-/
+  [3151 (+13715)/sem limite] fila=3012 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTz-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KCTz-/
+  [3152 (+13715)/sem limite] fila=3011 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTTw/
+  [3153 (+13715)/sem limite] fila=3010 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsTTw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsTTw/
+  [3154 (+13715)/sem limite] fila=3009 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTzA/
+  [3155 (+13715)/sem limite] fila=3008 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTzA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTzA/
+  [3156 (+13715)/sem limite] fila=3007 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dsTTz/
+  [3157 (+13715)/sem limite] fila=3006 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTTz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqTTz/
+  [3158 (+13715)/sem limite] fila=3005 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKTTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKTTL/
+  [3159 (+13715)/sem limite] fila=3004 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTTL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqTTL/
+  [3160 (+13715)/sem limite] fila=3003 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTTT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTTT/
+  [3161 (+13715)/sem limite] fila=3002 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhTTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RhTTj/
+  [3162 (+13715)/sem limite] fila=3001 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTTj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTTj/
+  [3163 (+13715)/sem limite] fila=3000 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RdTTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RdTTP/
+  [3164 (+13715)/sem limite] fila=2999 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTTP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdTTP/
+  [3165 (+13715)/sem limite] fila=2998 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sRTTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3166 (+13715)/sem limite] fila=2997 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTTo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTTo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3167 (+13715)/sem limite] fila=2996 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqTTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqTTx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqTTx/
+  [3168 (+13715)/sem limite] fila=2995 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTTx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qKTTx/
+  [3169 (+13715)/sem limite] fila=2994 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKTT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sKTT-/
+  [3170 (+13715)/sem limite] fila=2993 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTT-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqTT-/
+  [3171 (+13715)/sem limite] fila=2992 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CKTTA/
+  [3172 (+13715)/sem limite] fila=2991 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTTA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTTA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTTA/
+  [3173 (+13715)/sem limite] fila=2990 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTLw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GdTLw/
+  [3174 (+13715)/sem limite] fila=2989 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChTLw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChTLw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ChTLw/
+  [3175 (+13715)/sem limite] fila=2988 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqTLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqTLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3176 (+13715)/sem limite] fila=2987 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTLz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTLz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3177 (+13715)/sem limite] fila=2986 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sCTLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3178 (+13715)/sem limite] fila=2985 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hdTLj/
+  [3179 (+13715)/sem limite] fila=2984 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTLP/
+  [3180 (+13715)/sem limite] fila=2983 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sGTLP/
+  [3181 (+13715)/sem limite] fila=2982 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KnTLL/
+  [3182 (+13715)/sem limite] fila=2981 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqTLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqTLL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3183 (+13715)/sem limite] fila=2980 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRTLT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3184 (+13715)/sem limite] fila=2979 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTLT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dRTLT/
+  [3185 (+13715)/sem limite] fila=2978 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTLo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTLo/
+  [3186 (+13715)/sem limite] fila=2977 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTLo/
+  [3187 (+13715)/sem limite] fila=2976 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnTL-/
+  [3188 (+13715)/sem limite] fila=2975 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CdTL-/
+  [3189 (+13715)/sem limite] fila=2974 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBTLx/
+  [3190 (+13715)/sem limite] fila=2973 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snTLx/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3191 (+13715)/sem limite] fila=2972 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTPw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3192 (+13715)/sem limite] fila=2971 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdTPw/
+  [3193 (+13715)/sem limite] fila=2970 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLA/
+  [3194 (+13715)/sem limite] fila=2969 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RCTLA/
+  [3195 (+13715)/sem limite] fila=2968 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sBTPz/
+  [3196 (+13715)/sem limite] fila=2967 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/leis_decretos/5/0/0/1/0/0/0
+  [3197 (+13715)/sem limite] fila=3058 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CG-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CG-z/
+  [3198 (+13715)/sem limite] fila=3057 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gs-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gs-z/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3199 (+13715)/sem limite] fila=3056 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Ghowo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Ghowo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3200 (+13715)/sem limite] fila=3055 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGowo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qGowo/
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_links.xlsx
+  5164 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/erros_varredura.xlsx
+  1006 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/santoantoniodoparaiso/inventario_externos.xlsx
+  84 links externos registrados.
+  Checkpoint salvo (16915 páginas totais | 3200 nesta sessão).
+  [3201 (+13715)/sem limite] fila=3054 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnowj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hnowj/
+  [3202 (+13715)/sem limite] fila=3053 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Chowj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Chowj/
+  [3203 (+13715)/sem limite] fila=3052 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRowP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRowP/
+  [3204 (+13715)/sem limite] fila=3051 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsowP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RsowP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3205 (+13715)/sem limite] fila=3050 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdowL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KdowL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3206 (+13715)/sem limite] fila=3049 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqowL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CqowL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3207 (+13715)/sem limite] fila=3048 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hh-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hh-w/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hh-w/
+  [3208 (+13715)/sem limite] fila=3047 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nn-w/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nn-w/
+  [3209 (+13715)/sem limite] fila=3046 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhoA/
+  [3210 (+13715)/sem limite] fila=3045 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBoA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBoA/
+  [3211 (+13715)/sem limite] fila=3044 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsowT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qsowT/
+  [3212 (+13715)/sem limite] fila=3043 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdowT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qdowT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3213 (+13715)/sem limite] fila=3042 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Ghj--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Ghj--/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3214 (+13715)/sem limite] fila=3041 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRj--/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hRj--/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3215 (+13715)/sem limite] fila=3040 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsLPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsLPL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CsLPL/
+  [3216 (+13715)/sem limite] fila=3039 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhLPL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KhLPL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3217 (+13715)/sem limite] fila=3038 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRLPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nRLPT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3218 (+13715)/sem limite] fila=3037 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqLPT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqLPT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RqLPT/
+  [3219 (+13715)/sem limite] fila=3036 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cnj-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cnj-T/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Cnj-T/
+  [3220 (+13715)/sem limite] fila=3035 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqj-T/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqj-T/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hqj-T/
+  [3221 (+13715)/sem limite] fila=3034 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKox/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKox/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dKox/
+  [3222 (+13715)/sem limite] fila=3033 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gnox/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gnox/
+  [3223 (+13715)/sem limite] fila=3032 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBoo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBoo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KBoo/
+  [3224 (+13715)/sem limite] fila=3031 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBoo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hBoo/
+  [3225 (+13715)/sem limite] fila=3030 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqLPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqLPz/
+  [3226 (+13715)/sem limite] fila=3029 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqLPz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/sqLPz/
+  [3227 (+13715)/sem limite] fila=3028 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhLPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nhLPw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3228 (+13715)/sem limite] fila=3027 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnLPw/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnLPw/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3229 (+13715)/sem limite] fila=3026 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnLLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnLLA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CnLLA/
+  [3230 (+13715)/sem limite] fila=3025 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssLLA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssLLA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssLLA/
+  [3231 (+13715)/sem limite] fila=3024 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBoj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GBoj/
+  [3232 (+13715)/sem limite] fila=3023 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snoj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snoj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/snoj/
+  [3233 (+13715)/sem limite] fila=3022 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRoP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRoP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GRoP/
+  [3234 (+13715)/sem limite] fila=3021 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqoP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GqoP/
+  [3235 (+13715)/sem limite] fila=3020 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KRo-/
+  [3236 (+13715)/sem limite] fila=3019 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKo-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KKo-/
+  [3237 (+13715)/sem limite] fila=3018 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnoL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GnoL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3238 (+13715)/sem limite] fila=3017 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqoL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dqoL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3239 (+13715)/sem limite] fila=3016 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqowz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3240 (+13715)/sem limite] fila=3015 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Knowz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Knowz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3241 (+13715)/sem limite] fila=3014 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nnoT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3242 (+13715)/sem limite] fila=3013 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRoT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRoT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RRoT/
+  [3243 (+13715)/sem limite] fila=3012 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gqoz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/Gqoz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3244 (+13715)/sem limite] fila=3011 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBoz/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/RBoz/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [3245 (+13715)/sem limite] fila=3010 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nqow/
+  [3246 (+13715)/sem limite] fila=3009 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBow/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nBow/
+  [3247 (+13715)/sem limite] fila=3008 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCj-z/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/GCj-z/
+  [3248 (+13715)/sem limite] fila=3007 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhjA/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/qhjA/

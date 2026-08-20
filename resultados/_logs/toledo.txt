@@ -56165,3 +56165,471 @@ Inventário parcial carregado: 32059 arquivos já registrados.
   📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22895_
   [997 (+20574)/sem limite] fila=13157 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
   [998 (+20574)/sem limite] fila=13156 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22883_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22883_
+  [999 (+20574)/sem limite] fila=13155 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1000 (+20574)/sem limite] fila=13154 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=1&
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/inventario_links.xlsx
+  32509 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/erros_varredura.xlsx
+  413 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/inventario_externos.xlsx
+  2108 links externos registrados.
+  Checkpoint salvo (21574 páginas totais | 1000 nesta sessão).
+  [1001 (+20574)/sem limite] fila=13153 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22882_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22882_
+  [1002 (+20574)/sem limite] fila=13152 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1003 (+20574)/sem limite] fila=13151 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22853_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22853_
+  [1004 (+20574)/sem limite] fila=13150 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1005 (+20574)/sem limite] fila=13149 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22852_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22852_
+  [1006 (+20574)/sem limite] fila=13148 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1007 (+20574)/sem limite] fila=13147 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22810_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22810_
+  [1008 (+20574)/sem limite] fila=13146 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1009 (+20574)/sem limite] fila=13145 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22808_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22808_
+  [1010 (+20574)/sem limite] fila=13144 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1011 (+20574)/sem limite] fila=13143 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22725_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22725_
+  [1012 (+20574)/sem limite] fila=13142 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1013 (+20574)/sem limite] fila=13141 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22679_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22679_
+  [1014 (+20574)/sem limite] fila=13140 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1015 (+20574)/sem limite] fila=13139 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22647_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22647_
+  [1016 (+20574)/sem limite] fila=13138 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1017 (+20574)/sem limite] fila=13137 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22630_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22630_
+  [1018 (+20574)/sem limite] fila=13136 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1019 (+20574)/sem limite] fila=13135 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1020 (+20574)/sem limite] fila=13134 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22387_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22387_
+  [1021 (+20574)/sem limite] fila=13133 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1022 (+20574)/sem limite] fila=13132 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22386_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22386_
+  [1023 (+20574)/sem limite] fila=13131 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1024 (+20574)/sem limite] fila=13130 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22352_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22352_
+  [1025 (+20574)/sem limite] fila=13129 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1026 (+20574)/sem limite] fila=13128 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22350_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22350_
+  [1027 (+20574)/sem limite] fila=13127 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1028 (+20574)/sem limite] fila=13126 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22341_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22341_
+  [1029 (+20574)/sem limite] fila=13125 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1030 (+20574)/sem limite] fila=13124 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22340_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22340_
+  [1031 (+20574)/sem limite] fila=13123 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1032 (+20574)/sem limite] fila=13122 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22257_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22257_
+  [1033 (+20574)/sem limite] fila=13121 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1034 (+20574)/sem limite] fila=13120 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21931_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21931_
+  [1035 (+20574)/sem limite] fila=13119 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1036 (+20574)/sem limite] fila=13118 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21857_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21857_
+  [1037 (+20574)/sem limite] fila=13117 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1038 (+20574)/sem limite] fila=13116 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21856_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21856_
+  [1039 (+20574)/sem limite] fila=13115 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1040 (+20574)/sem limite] fila=13114 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21855_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21855_
+  [1041 (+20574)/sem limite] fila=13113 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1042 (+20574)/sem limite] fila=13112 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21854_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21854_
+  [1043 (+20574)/sem limite] fila=13111 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1044 (+20574)/sem limite] fila=13110 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21853_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21853_
+  [1045 (+20574)/sem limite] fila=13109 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1046 (+20574)/sem limite] fila=13108 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21852_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21852_
+  [1047 (+20574)/sem limite] fila=13107 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1048 (+20574)/sem limite] fila=13106 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21851_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21851_
+  [1049 (+20574)/sem limite] fila=13105 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1050 (+20574)/sem limite] fila=13104 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21850_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21850_
+  [1051 (+20574)/sem limite] fila=13103 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1052 (+20574)/sem limite] fila=13102 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21849_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21849_
+  [1053 (+20574)/sem limite] fila=13101 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1054 (+20574)/sem limite] fila=13100 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21806_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21806_
+  [1055 (+20574)/sem limite] fila=13099 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1056 (+20574)/sem limite] fila=13098 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21772_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21772_
+  [1057 (+20574)/sem limite] fila=13097 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1058 (+20574)/sem limite] fila=13096 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21742_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21742_
+  [1059 (+20574)/sem limite] fila=13095 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1060 (+20574)/sem limite] fila=13094 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21562_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21562_
+  [1061 (+20574)/sem limite] fila=13093 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1062 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21422_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21422_
+  [1063 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1064 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21391_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21391_
+  [1065 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1066 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21384_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21384_
+  [1067 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1068 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21160_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21160_
+  [1069 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1070 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21149_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21149_
+  [1071 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1072 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21150_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21150_
+  [1073 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1074 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21163_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21163_
+  [1075 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1076 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21162_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21162_
+  [1077 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1078 (+20574)/sem limite] fila=13080 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=12
+  [1079 (+20574)/sem limite] fila=13094 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21153_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21153_
+  [1080 (+20574)/sem limite] fila=13093 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1081 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21152_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21152_
+  [1082 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1083 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21151_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21151_
+  [1084 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1085 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21161_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21161_
+  [1086 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1087 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21159_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21159_
+  [1088 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1089 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21158_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21158_
+  [1090 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1091 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21157_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21157_
+  [1092 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1093 (+20574)/sem limite] fila=13080 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21156_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21156_
+  [1094 (+20574)/sem limite] fila=13079 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1095 (+20574)/sem limite] fila=13078 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=13
+  [1096 (+20574)/sem limite] fila=13094 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21155_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21155_
+  [1097 (+20574)/sem limite] fila=13093 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1098 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21154_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21154_
+  [1099 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1100 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21131_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/21131_
+  [1101 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1102 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20784_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20784_
+  [1103 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1104 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20757_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20757_
+  [1105 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1106 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20728_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20728_
+  [1107 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1108 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20649_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20649_
+  [1109 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1110 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20636_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20636_
+  [1111 (+20574)/sem limite] fila=13080 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1112 (+20574)/sem limite] fila=13079 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=14
+  [1113 (+20574)/sem limite] fila=13095 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20600_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20600_
+  [1114 (+20574)/sem limite] fila=13094 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1115 (+20574)/sem limite] fila=13093 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20506_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20506_
+  [1116 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1117 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20505_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20505_
+  [1118 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1119 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20504_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20504_
+  [1120 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1121 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20503_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20503_
+  [1122 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1123 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20498_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20498_
+  [1124 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1125 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20398_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20398_
+  [1126 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1127 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20373_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20373_
+  [1128 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1129 (+20574)/sem limite] fila=13080 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=15
+  [1130 (+20574)/sem limite] fila=13094 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20374_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20374_
+  [1131 (+20574)/sem limite] fila=13093 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1132 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20327_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20327_
+  [1133 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1134 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20257_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20257_
+  [1135 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1136 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20197_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20197_
+  [1137 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1138 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20087_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20087_
+  [1139 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1140 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20038_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20038_
+  [1141 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1142 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20025_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/20025_
+  [1143 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1144 (+20574)/sem limite] fila=13080 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/19960_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/19960_
+  [1145 (+20574)/sem limite] fila=13079 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1146 (+20574)/sem limite] fila=13078 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=16
+  [1147 (+20574)/sem limite] fila=13092 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2274_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2274_t
+  [1148 (+20574)/sem limite] fila=13091 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1149 (+20574)/sem limite] fila=13090 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2272_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2272_t
+  [1150 (+20574)/sem limite] fila=13089 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1151 (+20574)/sem limite] fila=13088 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2264_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2264_t
+  [1152 (+20574)/sem limite] fila=13087 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1153 (+20574)/sem limite] fila=13086 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2319_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2319_t
+  [1154 (+20574)/sem limite] fila=13085 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1155 (+20574)/sem limite] fila=13084 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2545_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2545_t
+  [1156 (+20574)/sem limite] fila=13083 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1157 (+20574)/sem limite] fila=13082 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2719_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2719_t
+  [1158 (+20574)/sem limite] fila=13081 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1159 (+20574)/sem limite] fila=13080 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1160 (+20574)/sem limite] fila=13079 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=75
+  [1161 (+20574)/sem limite] fila=13094 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=66
+  [1162 (+20574)/sem limite] fila=13114 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=67
+  [1163 (+20574)/sem limite] fila=13127 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=68
+  [1164 (+20574)/sem limite] fila=13143 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=69
+  [1165 (+20574)/sem limite] fila=13158 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=70
+  [1166 (+20574)/sem limite] fila=13173 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=71
+  [1167 (+20574)/sem limite] fila=13189 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=72
+  [1168 (+20574)/sem limite] fila=13204 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=73
+  [1169 (+20574)/sem limite] fila=13219 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=74
+  [1170 (+20574)/sem limite] fila=13231 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18556_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18556_
+  [1171 (+20574)/sem limite] fila=13230 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1172 (+20574)/sem limite] fila=13229 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1173 (+20574)/sem limite] fila=13228 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1174 (+20574)/sem limite] fila=13227 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1175 (+20574)/sem limite] fila=13226 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1176 (+20574)/sem limite] fila=13225 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15865_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15865_
+  [1177 (+20574)/sem limite] fila=13224 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15529_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15529_
+  [1178 (+20574)/sem limite] fila=13223 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/6607_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/6607_t
+  [1179 (+20574)/sem limite] fila=13222 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/6551_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/6551_t
+  [1180 (+20574)/sem limite] fila=13221 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/5984_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/5984_t
+  [1181 (+20574)/sem limite] fila=13220 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1182 (+20574)/sem limite] fila=13219 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4301_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4301_t
+  [1183 (+20574)/sem limite] fila=13218 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/215_texto_integr
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/215_te
+  [1184 (+20574)/sem limite] fila=13217 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1185 (+20574)/sem limite] fila=13216 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3147_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3147_t
+  [1186 (+20574)/sem limite] fila=13215 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1187 (+20574)/sem limite] fila=13214 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3097_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3097_t
+  [1188 (+20574)/sem limite] fila=13213 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1189 (+20574)/sem limite] fila=13213 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3477_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3477_t
+  [1190 (+20574)/sem limite] fila=13212 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1191 (+20574)/sem limite] fila=13213 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=1&
+  [1192 (+20574)/sem limite] fila=13212 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3678_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3678_t
+  [1193 (+20574)/sem limite] fila=13211 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1194 (+20574)/sem limite] fila=13210 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3680_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3680_t
+  [1195 (+20574)/sem limite] fila=13209 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1196 (+20574)/sem limite] fila=13208 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3682_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3682_t
+  [1197 (+20574)/sem limite] fila=13207 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1198 (+20574)/sem limite] fila=13206 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4094_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4094_t
+  [1199 (+20574)/sem limite] fila=13205 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1200 (+20574)/sem limite] fila=13204 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3998_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3998_t
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/inventario_links.xlsx
+  32601 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/erros_varredura.xlsx
+  413 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/toledo/inventario_externos.xlsx
+  2108 links externos registrados.
+  Checkpoint salvo (21774 páginas totais | 1200 nesta sessão).
+  [1201 (+20574)/sem limite] fila=13203 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1202 (+20574)/sem limite] fila=13202 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1203 (+20574)/sem limite] fila=13202 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1204 (+20574)/sem limite] fila=13202 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3751_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3751_t
+  [1205 (+20574)/sem limite] fila=13201 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1206 (+20574)/sem limite] fila=13200 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2304_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2304_t
+  [1207 (+20574)/sem limite] fila=13199 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1208 (+20574)/sem limite] fila=13198 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15491_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15491_
+  [1209 (+20574)/sem limite] fila=13197 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1210 (+20574)/sem limite] fila=13196 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15097_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15097_
+  [1211 (+20574)/sem limite] fila=13195 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1212 (+20574)/sem limite] fila=13194 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/14814_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/14814_
+  [1213 (+20574)/sem limite] fila=13193 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1214 (+20574)/sem limite] fila=13192 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/7657_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/7657_t
+  [1215 (+20574)/sem limite] fila=13191 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1216 (+20574)/sem limite] fila=13190 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1217 (+20574)/sem limite] fila=13190 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2489_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2489_t
+  [1218 (+20574)/sem limite] fila=13189 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1219 (+20574)/sem limite] fila=13188 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1681_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1681_t
+  [1220 (+20574)/sem limite] fila=13187 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1221 (+20574)/sem limite] fila=13186 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1680_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1680_t
+  [1222 (+20574)/sem limite] fila=13185 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1223 (+20574)/sem limite] fila=13184 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1341_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1341_t
+  [1224 (+20574)/sem limite] fila=13183 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1225 (+20574)/sem limite] fila=13182 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1361_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/1361_t
+  [1226 (+20574)/sem limite] fila=13181 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1227 (+20574)/sem limite] fila=13180 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2308_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/2308_t
+  [1228 (+20574)/sem limite] fila=13179 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1229 (+20574)/sem limite] fila=13178 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4616_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4616_t
+  [1230 (+20574)/sem limite] fila=13177 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1231 (+20574)/sem limite] fila=13176 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/7868_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/7868_t
+  [1232 (+20574)/sem limite] fila=13175 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1233 (+20574)/sem limite] fila=13174 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1234 (+20574)/sem limite] fila=13173 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1235 (+20574)/sem limite] fila=13172 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1236 (+20574)/sem limite] fila=13171 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/5702_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/5702_t
+  [1237 (+20574)/sem limite] fila=13170 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1238 (+20574)/sem limite] fila=13169 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4463_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4463_t
+  [1239 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1240 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1241 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1242 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1243 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1244 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1245 (+20574)/sem limite] fila=13168 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4119_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4119_t
+  [1246 (+20574)/sem limite] fila=13167 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1247 (+20574)/sem limite] fila=13166 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/8803_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/8803_t
+  [1248 (+20574)/sem limite] fila=13165 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1249 (+20574)/sem limite] fila=13165 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4001_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4001_t
+  [1250 (+20574)/sem limite] fila=13164 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4250_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4250_t
+  [1251 (+20574)/sem limite] fila=13163 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1252 (+20574)/sem limite] fila=13162 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/17093_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/17093_
+  [1253 (+20574)/sem limite] fila=13161 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1254 (+20574)/sem limite] fila=13160 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23171_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23171_
+  [1255 (+20574)/sem limite] fila=13159 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1256 (+20574)/sem limite] fila=13158 | depth=6 | https://www.toledo.pr.gov.br/sapl/generico/norma_juridica_pesquisar_proc?page=1&
+  [1257 (+20574)/sem limite] fila=13157 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/19382_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/19382_
+  [1258 (+20574)/sem limite] fila=13156 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1259 (+20574)/sem limite] fila=13155 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18468_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18468_
+  [1260 (+20574)/sem limite] fila=13154 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1261 (+20574)/sem limite] fila=13153 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/14171_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/14171_
+  [1262 (+20574)/sem limite] fila=13152 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1263 (+20574)/sem limite] fila=13151 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/10053_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/10053_
+  [1264 (+20574)/sem limite] fila=13150 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1265 (+20574)/sem limite] fila=13149 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/9335_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/9335_t
+  [1266 (+20574)/sem limite] fila=13148 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1267 (+20574)/sem limite] fila=13147 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/36_texto_integra
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/36_tex
+  [1268 (+20574)/sem limite] fila=13146 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1269 (+20574)/sem limite] fila=13145 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/35_texto_integra
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/35_tex
+  [1270 (+20574)/sem limite] fila=13144 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1271 (+20574)/sem limite] fila=13143 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4692_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/4692_t
+  [1272 (+20574)/sem limite] fila=13142 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1273 (+20574)/sem limite] fila=13141 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18144_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18144_
+  [1274 (+20574)/sem limite] fila=13140 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1275 (+20574)/sem limite] fila=13139 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16394_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16394_
+  [1276 (+20574)/sem limite] fila=13138 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1277 (+20574)/sem limite] fila=13137 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16021_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16021_
+  [1278 (+20574)/sem limite] fila=13136 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1279 (+20574)/sem limite] fila=13135 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22014_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22014_
+  [1280 (+20574)/sem limite] fila=13134 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1281 (+20574)/sem limite] fila=13134 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18068_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/18068_
+  [1282 (+20574)/sem limite] fila=13133 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1283 (+20574)/sem limite] fila=13132 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/17567_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/17567_
+  [1284 (+20574)/sem limite] fila=13131 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1285 (+20574)/sem limite] fila=13130 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16023_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/16023_
+  [1286 (+20574)/sem limite] fila=13129 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1287 (+20574)/sem limite] fila=13128 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1288 (+20574)/sem limite] fila=13128 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15947_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/15947_
+  [1289 (+20574)/sem limite] fila=13127 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1290 (+20574)/sem limite] fila=13127 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/9905_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/9905_t
+  [1291 (+20574)/sem limite] fila=13126 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1292 (+20574)/sem limite] fila=13125 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3282_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3282_t
+  [1293 (+20574)/sem limite] fila=13124 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1294 (+20574)/sem limite] fila=13123 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1295 (+20574)/sem limite] fila=13123 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3187_texto_integ
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/3187_t
+  [1296 (+20574)/sem limite] fila=13122 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1297 (+20574)/sem limite] fila=13121 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1298 (+20574)/sem limite] fila=13120 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23550_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23550_
+  [1299 (+20574)/sem limite] fila=13119 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1300 (+20574)/sem limite] fila=13118 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23446_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23446_
+  [1301 (+20574)/sem limite] fila=13117 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1302 (+20574)/sem limite] fila=13116 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23445_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23445_
+  [1303 (+20574)/sem limite] fila=13115 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1304 (+20574)/sem limite] fila=13114 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23444_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23444_
+  [1305 (+20574)/sem limite] fila=13113 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1306 (+20574)/sem limite] fila=13112 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23443_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23443_
+  [1307 (+20574)/sem limite] fila=13111 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1308 (+20574)/sem limite] fila=13110 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23416_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23416_
+  [1309 (+20574)/sem limite] fila=13109 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [1310 (+20574)/sem limite] fila=13108 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23369_texto_inte
