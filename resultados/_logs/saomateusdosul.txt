@@ -76267,3 +76267,90 @@ Inventário parcial carregado: 20676 arquivos já registrados.
   Modo: SEM LIMITE de páginas
   [1 (+34923)/sem limite] fila=3553 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nGxoAj-/
   🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nGxoAj-/
+  [2 (+34923)/sem limite] fila=3552 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qRxoAjx/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qRxoAjx/
+  [3 (+34923)/sem limite] fila=3551 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KKxoAjx/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KKxoAjx/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KKxoAj
+  [4 (+34923)/sem limite] fila=3550 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAjA/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAjA/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAj
+  [5 (+34923)/sem limite] fila=3549 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/hRxoAjA/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/hRxoAjA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/hRxoAjA/
+  [6 (+34923)/sem limite] fila=3548 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoAPT/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoAPT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoAPT/
+  [7 (+34923)/sem limite] fila=3547 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sRxoAPT/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sRxoAPT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sRxoAPT/
+  [8 (+34923)/sem limite] fila=3546 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sGxoAPL/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sGxoAPL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sGxoAPL/
+  [9 (+34923)/sem limite] fila=3545 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RBxoAPL/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RBxoAPL/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RBxoAP
+  [10 (+34923)/sem limite] fila=3544 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KqxoAPP/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KqxoAPP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KqxoAPP/
+  [11 (+34923)/sem limite] fila=3543 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nsxoAPP/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nsxoAPP/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nsxoAPP/
+  [12 (+34923)/sem limite] fila=3542 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dqxoAPj/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dqxoAPj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dqxoAPj/
+  [13 (+34923)/sem limite] fila=3541 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GBxoAPj/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GBxoAPj/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GBxoAPj/
+  [14 (+34923)/sem limite] fila=3540 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sdxoAPo/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sdxoAPo/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sdxoAPo/
+  [15 (+34923)/sem limite] fila=3539 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RRxoAPo/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RRxoAPo/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RRxoAP
+  [16 (+34923)/sem limite] fila=3538 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAP-/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAP-/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAP
+  [17 (+34923)/sem limite] fila=3537 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAP-/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAP-/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GqxoAP
+  [18 (+34923)/sem limite] fila=3536 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GnxoAPx/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GnxoAPx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GnxoAPx/
+  [19 (+34923)/sem limite] fila=3535 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RKxoAPx/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RKxoAPx/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RKxoAPx/
+  [20 (+34923)/sem limite] fila=3534 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KsxoAPz/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KsxoAPz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/KsxoAPz/
+  [21 (+34923)/sem limite] fila=3533 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RsxoAPz/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RsxoAPz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RsxoAPz/
+  [22 (+34923)/sem limite] fila=3532 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoALA/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoALA/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoAL
+  [23 (+34923)/sem limite] fila=3531 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nnxoALA/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nnxoALA/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nnxoALA/
+  [24 (+34923)/sem limite] fila=3530 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/ssxoAPw/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/ssxoAPw/
+  [25 (+34923)/sem limite] fila=3529 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dnxoAPw/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dnxoAPw/
+  [26 (+34923)/sem limite] fila=3528 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoALj/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoALj/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/GhxoAL
+  [27 (+34923)/sem limite] fila=3527 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qCxoALj/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qCxoALj/
+  [28 (+34923)/sem limite] fila=3526 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoALo/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoALo/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/RGxoAL
+  [29 (+34923)/sem limite] fila=3525 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qnxoALo/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qnxoALo/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qnxoAL
+  [30 (+34923)/sem limite] fila=3524 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAL-/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAL-/
+  📄 [200] .pdf -> https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/dGxoAL
+  [31 (+34923)/sem limite] fila=3523 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qRxoAL-/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qRxoAL-/
+  [32 (+34923)/sem limite] fila=3522 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qBxoALx/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/qBxoALx/

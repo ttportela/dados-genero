@@ -56155,3 +56155,13 @@ Inventário parcial carregado: 32059 arquivos já registrados.
   [990 (+20574)/sem limite] fila=13164 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23035_texto_inte
   📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23035_
   [991 (+20574)/sem limite] fila=13163 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [992 (+20574)/sem limite] fila=13162 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23014_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/23014_
+  [993 (+20574)/sem limite] fila=13161 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [994 (+20574)/sem limite] fila=13160 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22896_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22896_
+  [995 (+20574)/sem limite] fila=13159 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [996 (+20574)/sem limite] fila=13158 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22895_texto_inte
+  📄 [200] .pdf -> http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22895_
+  [997 (+20574)/sem limite] fila=13157 | depth=6 | http://www.toledo.pr.gov.br/sapl/consultas/norma_juridica/norma_juridica_mostrar
+  [998 (+20574)/sem limite] fila=13156 | depth=6 | http://www.toledo.pr.gov.br/sapl/sapl_documentos/norma_juridica/22883_texto_inte

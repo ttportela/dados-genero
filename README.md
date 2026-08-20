@@ -48,6 +48,15 @@ pip install -r requirements.txt
 
 ### 3. Executar o pipeline
 
+Para executar as etapas criamos um script da primeira fase:
+
+```bash
+# Se usar linux:
+./run_pipeline.sh cidade
+```
+
+Outros exemplos:
+
 ```bash
 # Rodar o pipeline completo para uma cidade (Etapas 1 → 2 → 3)
 python main.py maringa

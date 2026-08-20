@@ -36717,3 +36717,117 @@ Inventário parcial carregado: 4269 arquivos já registrados.
   🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/KRjAo/
   [2475 (+13715)/sem limite] fila=2896 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
   🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/GRjAj/
+  [2476 (+13715)/sem limite] fila=2895 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/CnjA-/
+  [2477 (+13715)/sem limite] fila=2894 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/sdLT/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/sdLT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitaco
+  [2478 (+13715)/sem limite] fila=2893 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/KRjxL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitaco
+  [2479 (+13715)/sem limite] fila=2892 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/nKjxT/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/nKjxT/
+  [2480 (+13715)/sem limite] fila=2891 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/RGLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/RGLL/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitaco
+  [2481 (+13715)/sem limite] fila=2890 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/dhLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/dhLL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/dhLL/
+  [2482 (+13715)/sem limite] fila=2889 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/shjxw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/shjxw/
+  [2483 (+13715)/sem limite] fila=2888 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/KGjxz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/KGjxz/
+  [2484 (+13715)/sem limite] fila=2887 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/dBjxT/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitaco
+  [2485 (+13715)/sem limite] fila=2886 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/GnjxL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/GnjxL/
+  [2486 (+13715)/sem limite] fila=2885 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/CGjxw/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/CGjxw/
+  [2487 (+13715)/sem limite] fila=2884 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/dnjxz/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes-anexos/dnjxz/
+  [2488 (+13715)/sem limite] fila=2883 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/qGLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/qGLL/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/licitacoes/qGLL/
+  [2489 (+13715)/sem limite] fila=2882 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/181/
+  [2490 (+13715)/sem limite] fila=2886 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/180/
+  [2491 (+13715)/sem limite] fila=2890 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/179/
+  [2492 (+13715)/sem limite] fila=2894 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/174/
+  [2493 (+13715)/sem limite] fila=2898 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/175/
+  [2494 (+13715)/sem limite] fila=2902 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/173/
+  [2495 (+13715)/sem limite] fila=2908 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/172/
+  [2496 (+13715)/sem limite] fila=2914 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/171/
+  [2497 (+13715)/sem limite] fila=2920 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/170/
+  [2498 (+13715)/sem limite] fila=2925 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/169/
+  [2499 (+13715)/sem limite] fila=2933 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/167/
+  [2500 (+13715)/sem limite] fila=2939 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/168/
+  [2501 (+13715)/sem limite] fila=2945 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/166/
+  [2502 (+13715)/sem limite] fila=2951 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/163/
+  [2503 (+13715)/sem limite] fila=2961 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/164/
+  [2504 (+13715)/sem limite] fila=2967 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/162/
+  [2505 (+13715)/sem limite] fila=2973 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/161/
+  [2506 (+13715)/sem limite] fila=2979 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/160/
+  [2507 (+13715)/sem limite] fila=2985 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/159/
+  [2508 (+13715)/sem limite] fila=2991 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/158/
+  [2509 (+13715)/sem limite] fila=2997 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/157/
+  [2510 (+13715)/sem limite] fila=3003 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/156/
+  [2511 (+13715)/sem limite] fila=3009 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/155/
+  [2512 (+13715)/sem limite] fila=3015 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/153/
+  [2513 (+13715)/sem limite] fila=3019 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/152/
+  [2514 (+13715)/sem limite] fila=3025 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/151/
+  [2515 (+13715)/sem limite] fila=3031 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/150/
+  [2516 (+13715)/sem limite] fila=3037 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/149/
+  [2517 (+13715)/sem limite] fila=3043 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/148/
+  [2518 (+13715)/sem limite] fila=3048 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/127/
+  [2519 (+13715)/sem limite] fila=3054 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/147/
+  [2520 (+13715)/sem limite] fila=3060 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/146/
+  [2521 (+13715)/sem limite] fila=3065 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/145/
+  [2522 (+13715)/sem limite] fila=3071 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/144/
+  [2523 (+13715)/sem limite] fila=3077 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/138/
+  [2524 (+13715)/sem limite] fila=3085 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/142/
+  [2525 (+13715)/sem limite] fila=3109 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/141/
+  [2526 (+13715)/sem limite] fila=3115 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/140/
+  [2527 (+13715)/sem limite] fila=3120 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/139/
+  [2528 (+13715)/sem limite] fila=3126 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/137/
+  [2529 (+13715)/sem limite] fila=3132 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/136/
+  [2530 (+13715)/sem limite] fila=3138 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/135/
+  [2531 (+13715)/sem limite] fila=3144 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/134/
+  [2532 (+13715)/sem limite] fila=3150 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/131/
+  [2533 (+13715)/sem limite] fila=3160 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/130/
+  [2534 (+13715)/sem limite] fila=3166 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/129/
+  [2535 (+13715)/sem limite] fila=3171 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/128/
+  [2536 (+13715)/sem limite] fila=3177 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/125/
+  [2537 (+13715)/sem limite] fila=3181 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/124/
+  [2538 (+13715)/sem limite] fila=3185 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/0/1/133/
+  [2539 (+13715)/sem limite] fila=3189 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/editais/12/1/0/0/0/0/0/0/0/
+  [2540 (+13715)/sem limite] fila=3239 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTLL/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/hCTLL/
+  [2541 (+13715)/sem limite] fila=3238 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nGTLP/
+  [2542 (+13715)/sem limite] fila=3237 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTLP/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/CCTLP/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2543 (+13715)/sem limite] fila=3236 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/nsTLj/
+  [2544 (+13715)/sem limite] fila=3235 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLj/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTLj/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2545 (+13715)/sem limite] fila=3234 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ssTLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2546 (+13715)/sem limite] fila=3233 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTLo/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/dGTLo/
+  📄 [200] .pdf -> https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislac
+  [2547 (+13715)/sem limite] fila=3232 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/ddTL-/
+  [2548 (+13715)/sem limite] fila=3231 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTL-/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTL-/
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KqTL-/
+  [2549 (+13715)/sem limite] fila=3230 | depth=7 | https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTLx/
+  🤖 Usando Selenium para: https://www.pmsantoantoniodoparaiso.pr.gov.br/portal/download/legislacao/KsTLx/

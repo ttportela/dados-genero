@@ -8,7 +8,6 @@
 # -----------------------------
 
 
-
 ./run_pipeline.sh saomigueldoiguacu
 ./run_pipeline.sh saopedrodoiguacu
 ./run_pipeline.sh saopedrodoivai
