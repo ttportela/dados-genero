@@ -76248,12 +76248,22 @@ Inventário parcial carregado: 18149 arquivos já registrados.
   🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/sRxoAj-/
 
 ============================================================
-  Descoberta de Portais Municipais — PR
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOMATEUSDOSUL
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 20676 arquivos já registrados.
+  Links externos parciais carregados: 482 links já registrados.
+  Log de erros parcial carregado: 2243 erros já registrados.
+
+============================================================
+  Crawler iniciado: SAOMATEUSDOSUL
+  Páginas já visitadas (checkpoint): 34923
+  URLs na fila: 3554
 ============================================================
 
-Consultando IBGE — municípios de PR (código 41)...
-  399 municípios encontrados.
-  (Filtro: apenas São Mateus do Sul)
-  Cidades já configuradas: 399
-
-  [1/1] 🔍 São Mateus do Sul (slug: saomateusdosul)... 
+  Modo: SEM LIMITE de páginas
+  [1 (+34923)/sem limite] fila=3553 | depth=9 | https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nGxoAj-/
+  🤖 Usando Selenium para: https://www.saomateusdosul.pr.gov.br/portal/download/legislacao/nGxoAj-/

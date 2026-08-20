@@ -1,6 +1,6 @@
 {
   "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
-  "_portais_verificados": "Descoberto automaticamente em 16/08/2026",
+  "_portais_verificados": "Descoberto automaticamente em 17/08/2026",
   "almirantetamandare": {
     "sementes": [
       "https://tamandare.pr.gov.br/",
@@ -3305,10 +3305,12 @@
   },
   "saojoao": {
     "sementes": [
-      "https://www.saojoao.pr.gov.br/"
+      "https://www.saojoao.pr.gov.br/",
+      "https://www.portaltransparenciasaojoao.com.br/"
     ],
     "dominios": [
       "saojoao.pr.gov.br",
+      "www.portaltransparenciasaojoao.com.br",
       "www.saojoao.pr.gov.br"
     ]
   },

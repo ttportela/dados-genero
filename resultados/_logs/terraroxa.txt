@@ -4051,3 +4051,1109 @@ Inventário parcial carregado: 23 arquivos já registrados.
   [667 (+1200)/sem limite] fila=158 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
   🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
 
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRAROXA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 24 arquivos já registrados.
+  Links externos parciais carregados: 97 links já registrados.
+  Log de erros parcial carregado: 4 erros já registrados.
+
+============================================================
+  Crawler iniciado: TERRAROXA
+  Páginas já visitadas (checkpoint): 1800
+  URLs na fila: 169
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+1800)/sem limite] fila=168 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais/detalhar/1
+  [2 (+1800)/sem limite] fila=167 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfs-e-de-servicos-tomados/detalhar/1
+  [3 (+1800)/sem limite] fila=166 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-refere
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19/detalhar/1
+  [4 (+1800)/sem limite] fila=166 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certid
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+  [5 (+1800)/sem limite] fila=165 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email/
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-email/detalhar/1
+  [6 (+1800)/sem limite] fila=164 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diver
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-servicos-diversos/detalhar/1
+  [7 (+1800)/sem limite] fila=163 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online/detalhar/1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/itbi-online/detalhar/1
+  [8 (+1800)/sem limite] fila=162 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-docume
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios/detalhar/1
+  [9 (+1800)/sem limite] fila=161 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi/detalhar/1
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-itbi/detalhar/1
+  [10 (+1800)/sem limite] fila=160 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para-escrituracao/detalhar/1
+  [11 (+1800)/sem limite] fila=160 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto/detalhar/1
+  [12 (+1800)/sem limite] fila=159 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura/detalhar/1
+  [13 (+1800)/sem limite] fila=159 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-nfse-de-servicos-prestados/detalhar/1
+  [14 (+1800)/sem limite] fila=158 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empres
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+  [15 (+1800)/sem limite] fila=157 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+  [16 (+1800)/sem limite] fila=156 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+  [17 (+1800)/sem limite] fila=155 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-in
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-autos-de-infracao/detalhar/1
+  [18 (+1800)/sem limite] fila=154 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-we
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-nfs-e-por-webservice/detalhar/1
+  [19 (+1800)/sem limite] fila=153 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-lici
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/enviar-proposta-de-licitacoes/detalhar/1
+  [20 (+1800)/sem limite] fila=152 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-lote/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-lote/detalhar/1
+  [21 (+1800)/sem limite] fila=151 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-1301914/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-1301914/detalhar/1
+  [22 (+1800)/sem limite] fila=150 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/comprovante-de-rendimentos-irrf/detalhar/1
+  [23 (+1800)/sem limite] fila=149 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+  [24 (+1800)/sem limite] fila=148 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/registro-de-ponto-eletronico/detalhar/1
+  [25 (+1800)/sem limite] fila=147 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto/detalhar/1
+  [26 (+1800)/sem limite] fila=146 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-pr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+  [27 (+1800)/sem limite] fila=145 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+  [28 (+1800)/sem limite] fila=144 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-desempenho/detalhar/1
+  [29 (+1800)/sem limite] fila=143 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-f
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario/detalhar/1
+  [30 (+1800)/sem limite] fila=142 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detalhar/1
+  [31 (+1800)/sem limite] fila=141 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-d
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto/detalhar/1
+  [32 (+1800)/sem limite] fila=140 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contri
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia/detalhar/1
+  [33 (+1800)/sem limite] fila=139 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos/detalhar/1
+  [34 (+1800)/sem limite] fila=138 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+  [35 (+1800)/sem limite] fila=137 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empregaticio/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empregaticio/detalhar/1
+  [36 (+1800)/sem limite] fila=136 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-res
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-do-termo-de-rescisao/detalhar/1
+  [37 (+1800)/sem limite] fila=135 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+  [38 (+1800)/sem limite] fila=134 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-cer
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos/detalhar/1
+  [39 (+1800)/sem limite] fila=133 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detalhar/1
+  [40 (+1800)/sem limite] fila=132 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendiment
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-atendimento-profissional/detalhar/1
+  [41 (+1800)/sem limite] fila=131 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/monitoramento-social/detalhar/1
+  [42 (+1800)/sem limite] fila=130 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanit
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario/detalhar/1
+  [43 (+1800)/sem limite] fila=130 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/deta
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/detalhar/1
+  [44 (+1800)/sem limite] fila=129 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica/detalhar/1
+  [45 (+1800)/sem limite] fila=129 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basi
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura/detalhar/1
+  [46 (+1800)/sem limite] fila=128 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documen
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticacao-de-documentos-sanitarios/detalhar/1
+  [47 (+1800)/sem limite] fila=127 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao/detalhar/1
+  [48 (+1800)/sem limite] fila=126 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado/detalhar/1
+  [49 (+1800)/sem limite] fila=126 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-saude/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-saude/detalhar/1
+  [50 (+1800)/sem limite] fila=125 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+  [51 (+1800)/sem limite] fila=124 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-tran
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+  [52 (+1800)/sem limite] fila=123 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-particip
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+  [53 (+1800)/sem limite] fila=122 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  [54 (+1800)/sem limite] fila=121 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/
+  [55 (+1800)/sem limite] fila=124 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [56 (+1800)/sem limite] fila=123 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [57 (+1800)/sem limite] fila=125 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  [58 (+1800)/sem limite] fila=124 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transparencia
+  [59 (+1800)/sem limite] fila=123 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/compras-vacinas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/compras-vacinas?pg=transparencia
+  [60 (+1800)/sem limite] fila=122 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  [61 (+1800)/sem limite] fila=121 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/insumos-adquiridos?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/insumos-adquiridos?pg=transparencia
+  [62 (+1800)/sem limite] fila=120 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/salas-de-vacinacao?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/salas-de-vacinacao?pg=transparencia
+  [63 (+1800)/sem limite] fila=119 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/sobras-de-vacinas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/sobras-de-vacinas?pg=transparencia
+  [64 (+1800)/sem limite] fila=118 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  [65 (+1800)/sem limite] fila=117 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  [66 (+1800)/sem limite] fila=116 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  [67 (+1800)/sem limite] fila=115 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  [68 (+1800)/sem limite] fila=114 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal
+  [69 (+1800)/sem limite] fila=113 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal/d
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal/detalhar/1
+  [70 (+1800)/sem limite] fila=112 | depth=4 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/?pg=transp
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/?pg=transparencia
+  [71 (+1800)/sem limite] fila=111 | depth=4 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [72 (+1800)/sem limite] fila=111 | depth=4 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [73 (+1800)/sem limite] fila=110 | depth=4 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [74 (+1800)/sem limite] fila=112 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoais
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoais
+  [75 (+1800)/sem limite] fila=111 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dad
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dados
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dados
+  [76 (+1800)/sem limite] fila=110 | depth=4 | https://terraroxa.atende.net/cidadao/video/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/?pg=transparencia
+  [77 (+1800)/sem limite] fila=109 | depth=4 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/
+  [78 (+1800)/sem limite] fila=109 | depth=4 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [79 (+1800)/sem limite] fila=108 | depth=4 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [80 (+1800)/sem limite] fila=110 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/?pg=tra
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/?pg=transparencia
+  [81 (+1800)/sem limite] fila=109 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [82 (+1800)/sem limite] fila=112 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [83 (+1800)/sem limite] fila=111 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [84 (+1800)/sem limite] fila=113 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/?pg=transparencia
+  [85 (+1800)/sem limite] fila=112 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [86 (+1800)/sem limite] fila=112 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [87 (+1800)/sem limite] fila=111 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [88 (+1800)/sem limite] fila=113 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/?pg=trans
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/?pg=transparencia
+  [89 (+1800)/sem limite] fila=112 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [90 (+1800)/sem limite] fila=112 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [91 (+1800)/sem limite] fila=111 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [92 (+1800)/sem limite] fila=113 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [93 (+1800)/sem limite] fila=112 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [94 (+1800)/sem limite] fila=112 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [95 (+1800)/sem limite] fila=111 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [96 (+1800)/sem limite] fila=113 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura/detalhar/1
+  [97 (+1800)/sem limite] fila=112 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados/detalhar/1
+  [98 (+1800)/sem limite] fila=111 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+  [99 (+1800)/sem limite] fila=110 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais/detal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+  [100 (+1800)/sem limite] fila=109 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-a
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+  [101 (+1800)/sem limite] fila=108 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infra
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-de-autos-de-infracao/detalhar/1
+  [102 (+1800)/sem limite] fila=107 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webse
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webservice/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webservice/detalhar/1
+  [103 (+1800)/sem limite] fila=106 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitac
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/enviar-proposta-de-licitacoes/detalhar/1
+  [104 (+1800)/sem limite] fila=105 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lot
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/readequacao-valores-do-lote/detalhar/1
+  [105 (+1800)/sem limite] fila=104 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-130
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/termos-de-parceria-lei-1301914/detalhar/1
+  [106 (+1800)/sem limite] fila=103 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+  [107 (+1800)/sem limite] fila=102 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-proba
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+  [108 (+1800)/sem limite] fila=101 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+  [109 (+1800)/sem limite] fila=100 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho/de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-desempenho/detalhar/1
+  [110 (+1800)/sem limite] fila=99 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-func
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atualizacao-cadastral-funcionario/detalhar/1
+  [111 (+1800)/sem limite] fila=98 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos/detalhar/1
+  [112 (+1800)/sem limite] fila=97 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribui
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia/detalhar/1
+  [113 (+1800)/sem limite] fila=96 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-tr
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/inscricao-para-cursos-e-treinamentos/detalhar/1
+  [114 (+1800)/sem limite] fila=95 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-fer
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+  [115 (+1800)/sem limite] fila=94 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-emprega
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/declaracao-vinculo-empregaticio/detalhar/1
+  [116 (+1800)/sem limite] fila=93 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescis
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-do-termo-de-rescisao/detalhar/1
+  [117 (+1800)/sem limite] fila=92 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+  [118 (+1800)/sem limite] fila=91 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certid
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos/detalhar/1
+  [119 (+1800)/sem limite] fila=90 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar/1
+  [120 (+1800)/sem limite] fila=89 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional/detalhar/1
+  [121 (+1800)/sem limite] fila=88 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social/detal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/monitoramento-social/detalhar/1
+  [122 (+1800)/sem limite] fila=87 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitari
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-alvara-sanitario/detalhar/1
+  [123 (+1800)/sem limite] fila=86 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario/detalha
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/processo-sanitario/detalhar/1
+  [124 (+1800)/sem limite] fila=85 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-res
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica/detalhar/1
+  [125 (+1800)/sem limite] fila=84 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura/detalhar/1
+  [126 (+1800)/sem limite] fila=83 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticacao-de-documentos-sanitarios/detalhar/1
+  [127 (+1800)/sem limite] fila=82 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao/detalhar/1
+  [128 (+1800)/sem limite] fila=81 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-translado/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-translado/detalhar/1
+  [129 (+1800)/sem limite] fila=80 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-sau
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-carteira-de-saude/detalhar/1
+  [130 (+1800)/sem limite] fila=79 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+  [131 (+1800)/sem limite] fila=78 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transpo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+  [132 (+1800)/sem limite] fila=77 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participaca
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+  [133 (+1800)/sem limite] fila=76 | depth=5 | https://www.terraroxa.pr.gov.br/subportal/portal-da-nota-fiscal-nacional
+  [134 (+1800)/sem limite] fila=75 | depth=5 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/?pg=transparencia
+  [135 (+1800)/sem limite] fila=74 | depth=5 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [136 (+1800)/sem limite] fila=74 | depth=5 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [137 (+1800)/sem limite] fila=73 | depth=5 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [138 (+1800)/sem limite] fila=75 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnV
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/acesso-a-informacao?agg=eyJncnVwbyI6ICI4IiwgImlkIjogIjgyXzIifQ%3D%3D
+  [139 (+1800)/sem limite] fila=74 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6ICIzIi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/despesas?agg=eyJncnVwbyI6ICIzIiwgImlkIjogIjM1XzIifQ%3D%3D
+  [140 (+1800)/sem limite] fila=73 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIxMF8yIn0%3D
+  [141 (+1800)/sem limite] fila=72 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyMF8yIn0%3D
+  [142 (+1800)/sem limite] fila=71 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICI0NV8yIn0%3D
+  [143 (+1800)/sem limite] fila=70 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyXzEifQ%3D%3D
+  [144 (+1800)/sem limite] fila=69 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIyMl8yIn0%3D
+  [145 (+1800)/sem limite] fila=68 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/saude?agg=eyJncnVwbyI6ICIxMiIsICJpZCI6ICIzNV8yIn0%3D
+  [146 (+1800)/sem limite] fila=67 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjI5XzEifQ%3D%3D
+  [147 (+1800)/sem limite] fila=66 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjM1XzEifQ%3D%3D
+  [148 (+1800)/sem limite] fila=65 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjExXzEifQ%3D%3D
+  [149 (+1800)/sem limite] fila=64 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjEzXzEifQ%3D%3D
+  [150 (+1800)/sem limite] fila=63 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjIzXzEifQ%3D%3D
+  [151 (+1800)/sem limite] fila=62 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjhfMSJ9
+  [152 (+1800)/sem limite] fila=61 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICI
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/suprimentos?agg=eyJncnVwbyI6ICIxIiwgImlkIjogIjdfMSJ9
+  [153 (+1800)/sem limite] fila=60 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5Ii
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjFfMiJ9
+  [154 (+1800)/sem limite] fila=59 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5Ii
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjIxXzIifQ%3D%3D
+  [155 (+1800)/sem limite] fila=58 | depth=5 | https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5Ii
+  🤖 Usando Selenium para: https://terraroxa.atende.net/transparencia/grupo/educacao?agg=eyJncnVwbyI6ICI5IiwgImlkIjogIjExXzIifQ%3D%3D
+  [156 (+1800)/sem limite] fila=57 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digita
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-processo-digital
+  [157 (+1800)/sem limite] fila=56 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/localizacao-de-empresas-e-estabelecimentos-comerciais
+  [158 (+1800)/sem limite] fila=55 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referente
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19
+  [159 (+1800)/sem limite] fila=54 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos
+  [160 (+1800)/sem limite] fila=53 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-email
+  [161 (+1800)/sem limite] fila=52 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-de-servicos-diversos
+  [162 (+1800)/sem limite] fila=51 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/itbi-online
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/itbi-online
+  [163 (+1800)/sem limite] fila=50 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documento
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios
+  [164 (+1800)/sem limite] fila=49 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/guias-itbi
+  [165 (+1800)/sem limite] fila=48 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-es
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tipos-de-documento-para-escrituracao
+  [166 (+1800)/sem limite] fila=47 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-de-boleto
+  [167 (+1800)/sem limite] fila=46 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-de-issalvara
+  [168 (+1800)/sem limite] fila=45 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/guias-divida-ativa
+  [169 (+1800)/sem limite] fila=44 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-dig
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-processo-digital
+  [170 (+1800)/sem limite] fila=43 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-refere
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/ordens-de-compra-referentes-ao-covid-19
+  [171 (+1800)/sem limite] fila=42 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/tipos-de-documento-para-escrituracao
+  [172 (+1800)/sem limite] fila=41 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura
+  [173 (+1800)/sem limite] fila=40 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanit
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario
+  [174 (+1800)/sem limite] fila=39 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-
+ ❌ TIMEOUT_OU_CONEXAO: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica
+  [175 (+1800)/sem limite] fila=38 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado
+  [176 (+1800)/sem limite] fila=37 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/?pg=transpa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/?pg=transparencia
+  [177 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-par
+  [178 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/edital-de-chamanento-publico-de-n-0
+  [179 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/edital-de-auxilio-transporte-de-n-0
+  [180 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [181 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [182 (+1800)/sem limite] fila=35 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [183 (+1800)/sem limite] fila=37 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [184 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [185 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [186 (+1800)/sem limite] fila=35 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [187 (+1800)/sem limite] fila=37 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/?pg=transparencia
+  [188 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [189 (+1800)/sem limite] fila=36 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [190 (+1800)/sem limite] fila=35 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [191 (+1800)/sem limite] fila=37 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [192 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-
+  [193 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-
+  [194 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-
+  [195 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [196 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [197 (+1800)/sem limite] fila=35 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [198 (+1800)/sem limite] fila=37 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [199 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [200 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/erros_varredura.xlsx
+  78 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+  Checkpoint salvo (2000 páginas totais | 200 nesta sessão).
+  [201 (+1800)/sem limite] fila=35 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [202 (+1800)/sem limite] fila=37 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [203 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [204 (+1800)/sem limite] fila=36 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [205 (+1800)/sem limite] fila=35 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [206 (+1800)/sem limite] fila=37 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [207 (+1800)/sem limite] fila=36 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [208 (+1800)/sem limite] fila=36 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [209 (+1800)/sem limite] fila=35 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [210 (+1800)/sem limite] fila=37 | depth=6 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [211 (+1800)/sem limite] fila=36 | depth=6 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [212 (+1800)/sem limite] fila=36 | depth=6 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [213 (+1800)/sem limite] fila=35 | depth=6 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [214 (+1800)/sem limite] fila=37 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-par
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-para-os-contribuintes-do-itr?pg=transparencia
+  [215 (+1800)/sem limite] fila=36 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/edital-de-chamanento-publico-de-n-0
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/edital-de-chamanento-publico-de-n-0032026?pg=transparencia
+  [216 (+1800)/sem limite] fila=35 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/edital-de-auxilio-transporte-de-n-0
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/edital-de-auxilio-transporte-de-n-0262026?pg=transparencia
+  [217 (+1800)/sem limite] fila=34 | depth=6 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [218 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [219 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [220 (+1800)/sem limite] fila=32 | depth=6 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [221 (+1800)/sem limite] fila=34 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [222 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [223 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [224 (+1800)/sem limite] fila=32 | depth=6 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [225 (+1800)/sem limite] fila=34 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [226 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [227 (+1800)/sem limite] fila=33 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [228 (+1800)/sem limite] fila=32 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [229 (+1800)/sem limite] fila=34 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-para-os-contribuintes-do-itr?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-para-os-contribuintes-do-itr?pg=transparencia
+  [230 (+1800)/sem limite] fila=33 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-n-0032026?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-n-0032026?pg=transparencia
+  [231 (+1800)/sem limite] fila=32 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-n-0262026?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-n-0262026?pg=transparencia
+  [232 (+1800)/sem limite] fila=31 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [233 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [234 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [235 (+1800)/sem limite] fila=29 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [236 (+1800)/sem limite] fila=31 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [237 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [238 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [239 (+1800)/sem limite] fila=29 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [240 (+1800)/sem limite] fila=31 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [241 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [242 (+1800)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [243 (+1800)/sem limite] fila=29 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [244 (+1800)/sem limite] fila=31 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [245 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [246 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [247 (+1800)/sem limite] fila=29 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [248 (+1800)/sem limite] fila=31 | depth=7 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [249 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [250 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [251 (+1800)/sem limite] fila=29 | depth=7 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [252 (+1800)/sem limite] fila=31 | depth=7 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [253 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [254 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [255 (+1800)/sem limite] fila=29 | depth=7 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [256 (+1800)/sem limite] fila=31 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [257 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [258 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [259 (+1800)/sem limite] fila=29 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [260 (+1800)/sem limite] fila=31 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [261 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [262 (+1800)/sem limite] fila=30 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [263 (+1800)/sem limite] fila=29 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [264 (+1800)/sem limite] fila=31 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [265 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [266 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [267 (+1800)/sem limite] fila=29 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [268 (+1800)/sem limite] fila=31 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [269 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [270 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [271 (+1800)/sem limite] fila=29 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [272 (+1800)/sem limite] fila=31 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [273 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [274 (+1800)/sem limite] fila=30 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [275 (+1800)/sem limite] fila=29 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [276 (+1800)/sem limite] fila=31 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [277 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [278 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [279 (+1800)/sem limite] fila=29 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [280 (+1800)/sem limite] fila=31 | depth=8 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [281 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [282 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [283 (+1800)/sem limite] fila=29 | depth=8 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [284 (+1800)/sem limite] fila=31 | depth=8 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [285 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [286 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [287 (+1800)/sem limite] fila=29 | depth=8 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [288 (+1800)/sem limite] fila=31 | depth=8 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [289 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [290 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [291 (+1800)/sem limite] fila=29 | depth=8 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [292 (+1800)/sem limite] fila=31 | depth=8 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [293 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [294 (+1800)/sem limite] fila=30 | depth=8 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [295 (+1800)/sem limite] fila=29 | depth=8 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [296 (+1800)/sem limite] fila=31 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [297 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [298 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [299 (+1800)/sem limite] fila=29 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [300 (+1800)/sem limite] fila=31 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [301 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [302 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [303 (+1800)/sem limite] fila=29 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [304 (+1800)/sem limite] fila=31 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [305 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [306 (+1800)/sem limite] fila=30 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [307 (+1800)/sem limite] fila=29 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [308 (+1800)/sem limite] fila=31 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [309 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [310 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [311 (+1800)/sem limite] fila=29 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [312 (+1800)/sem limite] fila=31 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [313 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [314 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [315 (+1800)/sem limite] fila=29 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [316 (+1800)/sem limite] fila=31 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [317 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [318 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [319 (+1800)/sem limite] fila=29 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [320 (+1800)/sem limite] fila=31 | depth=9 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [321 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [322 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [323 (+1800)/sem limite] fila=29 | depth=9 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [324 (+1800)/sem limite] fila=31 | depth=9 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [325 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [326 (+1800)/sem limite] fila=30 | depth=9 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [327 (+1800)/sem limite] fila=29 | depth=9 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [328 (+1800)/sem limite] fila=31 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [329 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [330 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [331 (+1800)/sem limite] fila=29 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [332 (+1800)/sem limite] fila=31 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [333 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [334 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [335 (+1800)/sem limite] fila=29 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [336 (+1800)/sem limite] fila=31 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [337 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [338 (+1800)/sem limite] fila=30 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [339 (+1800)/sem limite] fila=29 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [340 (+1800)/sem limite] fila=31 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [341 (+1800)/sem limite] fila=30 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [342 (+1800)/sem limite] fila=29 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [343 (+1800)/sem limite] fila=28 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  [344 (+1800)/sem limite] fila=27 | depth=10 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [345 (+1800)/sem limite] fila=26 | depth=10 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [346 (+1800)/sem limite] fila=25 | depth=10 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [347 (+1800)/sem limite] fila=24 | depth=10 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  [348 (+1800)/sem limite] fila=23 | depth=10 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [349 (+1800)/sem limite] fila=22 | depth=10 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [350 (+1800)/sem limite] fila=21 | depth=10 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [351 (+1800)/sem limite] fila=20 | depth=10 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  [352 (+1800)/sem limite] fila=19 | depth=10 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [353 (+1800)/sem limite] fila=18 | depth=10 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [354 (+1800)/sem limite] fila=17 | depth=10 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [355 (+1800)/sem limite] fila=16 | depth=10 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  [356 (+1800)/sem limite] fila=15 | depth=10 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [357 (+1800)/sem limite] fila=14 | depth=10 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [358 (+1800)/sem limite] fila=13 | depth=10 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [359 (+1800)/sem limite] fila=12 | depth=10 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  [360 (+1800)/sem limite] fila=11 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [361 (+1800)/sem limite] fila=10 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [362 (+1800)/sem limite] fila=9 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [363 (+1800)/sem limite] fila=8 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  [364 (+1800)/sem limite] fila=7 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [365 (+1800)/sem limite] fila=6 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [366 (+1800)/sem limite] fila=5 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [367 (+1800)/sem limite] fila=4 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  [368 (+1800)/sem limite] fila=3 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [369 (+1800)/sem limite] fila=2 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  [370 (+1800)/sem limite] fila=1 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [371 (+1800)/sem limite] fila=0 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/erros_varredura.xlsx
+  116 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+
+  Varredura encerrada: TERRAROXA
+  Páginas nesta sessão: 371
+  Páginas totais (acumulado): 2171
+  Arquivos no inventário: 24
+  Erros registrados: 116
+
+
+ Pipeline encerrado. Resultados em: resultados/terraroxa/
+============================================================
+
+
+============================================================
+  Descoberta de Portais Municipais — PR
+============================================================
+
+Consultando IBGE — municípios de PR (código 41)...
+  399 municípios encontrados.
+  (Filtro: apenas Terra Roxa)
+  Cidades já configuradas: 399
+
+  [1/1] 🔍 Terra Roxa (slug: terraroxa)...   → buscando no DuckDuckGo (apenas inventário)... 
+              ✅ https://camaraterraroxa.atende.net/transparencia/
+            + ✅ https://terraroxa.atende.net/cidadao/
+              ✅ https://transparencia.terraroxa.sp.gov.br/
+            + ✅ https://www.terraroxa.pr.gov.br/autoatendimento/
+nenhum portal encontrado ⏭️  já configurada, sem novidades
+
+============================================================
+  RESUMO — PR
+============================================================
+  Total testado:       1
+  Novas encontradas:   0
+    via página oficial: 0
+    via padrão de slug: 0
+  Sem portal:          0
+  Já configuradas:     1
+  Atualizadas (novas sementes): 0
+
+  Nenhuma cidade nova para salvar.
+
+============================================================
+
+
+============================================================
+  TCC - Pipeline de Dados Publicos | TERRAROXA
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Checkpoint carregado — retomando varredura.
+Inventário parcial carregado: 24 arquivos já registrados.
+  Links externos parciais carregados: 97 links já registrados.
+  Log de erros parcial carregado: 116 erros já registrados.
+  Reprocessar erros: 111 URLs re-enfileiradas para nova tentativa.
+  Reprocessar erros: 5 erros permanentes mantidos no log.
+
+============================================================
+  Crawler iniciado: TERRAROXA
+  Páginas já visitadas (checkpoint): 2060
+  URLs na fila: 111
+  Reprocessar erros: ATIVADO
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1 (+2060)/sem limite] fila=110 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certid
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-certidao-negativa-de-debitos/detalhar/1
+  [2 (+2060)/sem limite] fila=109 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-docume
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-documentos-e-relatorios/detalhar/1
+  [3 (+2060)/sem limite] fila=108 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-de-boleto/detalhar/1
+  [4 (+2060)/sem limite] fila=107 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empres
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+  [5 (+2060)/sem limite] fila=106 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+  [6 (+2060)/sem limite] fila=105 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoe
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/consulta-de-notificacoes-ambientais/detalhar/1
+  [7 (+2060)/sem limite] fila=104 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/readequacao-valores-do-lote/detalhar/1
+  [8 (+2060)/sem limite] fila=103 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/termos-de-parceria-lei-1301914/detalhar/1
+  [9 (+2060)/sem limite] fila=102 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+  [10 (+2060)/sem limite] fila=101 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/relatorio-espelho-ponto/detalhar/1
+  [11 (+2060)/sem limite] fila=100 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-pr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+  [12 (+2060)/sem limite] fila=99 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+  [13 (+2060)/sem limite] fila=98 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-f
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atualizacao-cadastral-funcionario/detalhar/1
+  [14 (+2060)/sem limite] fila=97 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/atestados-medicos/detalhar/1
+  [15 (+2060)/sem limite] fila=96 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-d
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-ajuste-de-ponto/detalhar/1
+  [16 (+2060)/sem limite] fila=95 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contri
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-anual-de-contribuicoes-para-previdencia/detalhar/1
+  [17 (+2060)/sem limite] fila=94 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empr
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/declaracao-vinculo-empregaticio/detalhar/1
+  [18 (+2060)/sem limite] fila=93 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+  [19 (+2060)/sem limite] fila=92 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-cer
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-certificado-certidao-de-cursos-e-treinamentos/detalhar/1
+  [20 (+2060)/sem limite] fila=91 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detal
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/minhas-auditorias/detalhar/1
+  [21 (+2060)/sem limite] fila=90 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/deta
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/processo-sanitario/detalhar/1
+  [22 (+2060)/sem limite] fila=89 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-carteira-de-saude/detalhar/1
+  [23 (+2060)/sem limite] fila=88 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+  [24 (+2060)/sem limite] fila=87 | depth=4 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-tran
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+  [25 (+2060)/sem limite] fila=86 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/?pg=transparencia
+  [26 (+2060)/sem limite] fila=85 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [27 (+2060)/sem limite] fila=84 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/o-que-e-sicaf?pg=transparencia
+  [28 (+2060)/sem limite] fila=83 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/cadastro-de-fornecedores?pg=transparencia
+  [29 (+2060)/sem limite] fila=82 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/doses-recebidas?pg=transparencia
+  [30 (+2060)/sem limite] fila=81 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/vacinometro?pg=transparencia
+  [31 (+2060)/sem limite] fila=80 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/insumos-recebidos?pg=transparencia
+  [32 (+2060)/sem limite] fila=79 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/denuncias?pg=transparencia
+  [33 (+2060)/sem limite] fila=78 | depth=4 | https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/boletim-coronavirus?pg=transparencia
+  [34 (+2060)/sem limite] fila=77 | depth=4 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [35 (+2060)/sem limite] fila=76 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/tratamento-de-dados-pessoais
+  [36 (+2060)/sem limite] fila=75 | depth=4 | https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dad
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/requisicao-de-acesso-a-dados
+  [37 (+2060)/sem limite] fila=74 | depth=4 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [38 (+2060)/sem limite] fila=73 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/?pg=tra
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/?pg=transparencia
+  [39 (+2060)/sem limite] fila=72 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [40 (+2060)/sem limite] fila=71 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/?pg=transparencia
+  [41 (+2060)/sem limite] fila=70 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/?pg=trans
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/?pg=transparencia
+  [42 (+2060)/sem limite] fila=69 | depth=4 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [43 (+2060)/sem limite] fila=68 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [44 (+2060)/sem limite] fila=67 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacoes-de-assinatura/detalhar/1
+  [45 (+2060)/sem limite] fila=66 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/consulta-nfse-de-servicos-prestados/detalhar/1
+  [46 (+2060)/sem limite] fila=65 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/gerenciamento-de-empresas/detalhar/1
+  [47 (+2060)/sem limite] fila=64 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais/detal
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/denuncias-ambientais/detalhar/1
+  [48 (+2060)/sem limite] fila=63 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webse
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-nfs-e-por-webservice/detalhar/1
+  [49 (+2060)/sem limite] fila=62 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/demonstrativo-de-tempo-de-servico/detalhar/1
+  [50 (+2060)/sem limite] fila=61 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-proba
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-estagio-probatorio/detalhar/1
+  [51 (+2060)/sem limite] fila=60 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/autenticidade-recibo-de-pagamento/detalhar/1
+  [52 (+2060)/sem limite] fila=59 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/atestados-medicos/detalhar/1
+  [53 (+2060)/sem limite] fila=58 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-fer
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/relatorio-gerencial-de-ferias/detalhar/1
+  [54 (+2060)/sem limite] fila=57 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados/detalhar/1
+  [55 (+2060)/sem limite] fila=57 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/minhas-auditorias/detalhar/1
+  [56 (+2060)/sem limite] fila=56 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional/detalhar/1
+  [57 (+2060)/sem limite] fila=56 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-de-projeto-basico-de-arquitetura/detalhar/1
+  [58 (+2060)/sem limite] fila=55 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-exumacao/detalhar/1
+  [59 (+2060)/sem limite] fila=54 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-translado/detalhar/1
+  [60 (+2060)/sem limite] fila=53 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-emissao-de-inutilizacao-de-medicamento/detalhar/1
+  [61 (+2060)/sem limite] fila=52 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transpo
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/emissao-licenca-de-transporte/detalhar/1
+  [62 (+2060)/sem limite] fila=51 | depth=5 | https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participaca
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/autoatendimento/servicos/solicitacao-de-participacao-em-evento/detalhar/1
+  [63 (+2060)/sem limite] fila=50 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinat
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacoes-de-assinatura
+  [64 (+2060)/sem limite] fila=49 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanit
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-de-alvara-sanitario
+  [65 (+2060)/sem limite] fila=48 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/emissao-da-certidao-de-responsabilidade-tecnica
+  [66 (+2060)/sem limite] fila=47 | depth=5 | https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/autoatendimento/servicos/solicitacao-de-emissao-de-translado
+  [67 (+2060)/sem limite] fila=46 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/?pg=transpa
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/?pg=transparencia
+  [68 (+2060)/sem limite] fila=45 | depth=5 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [69 (+2060)/sem limite] fila=44 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [70 (+2060)/sem limite] fila=43 | depth=5 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [71 (+2060)/sem limite] fila=42 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/?pg=transpar
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/?pg=transparencia
+  [72 (+2060)/sem limite] fila=41 | depth=5 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [73 (+2060)/sem limite] fila=40 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [74 (+2060)/sem limite] fila=39 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [75 (+2060)/sem limite] fila=38 | depth=5 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [76 (+2060)/sem limite] fila=37 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [77 (+2060)/sem limite] fila=36 | depth=6 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [78 (+2060)/sem limite] fila=35 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [79 (+2060)/sem limite] fila=34 | depth=6 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [80 (+2060)/sem limite] fila=33 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/disponivel-a-tabela-do-vtn-2026-para-os-contribuintes-do-itr?pg=transparencia
+  [81 (+2060)/sem limite] fila=32 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-n-0032026?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-chamanento-publico-de-n-0032026?pg=transparencia
+  [82 (+2060)/sem limite] fila=31 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/edital-de-auxilio-transporte-de-n-0262026?pg=transparencia
+  [83 (+2060)/sem limite] fila=30 | depth=6 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [84 (+2060)/sem limite] fila=29 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+ ❌ SELENIUM_ERRO: WebDriverException: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [85 (+2060)/sem limite] fila=28 | depth=7 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [86 (+2060)/sem limite] fila=27 | depth=7 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [87 (+2060)/sem limite] fila=26 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [88 (+2060)/sem limite] fila=25 | depth=7 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [89 (+2060)/sem limite] fila=24 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [90 (+2060)/sem limite] fila=23 | depth=7 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [91 (+2060)/sem limite] fila=22 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [92 (+2060)/sem limite] fila=21 | depth=7 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [93 (+2060)/sem limite] fila=20 | depth=8 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [94 (+2060)/sem limite] fila=19 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [95 (+2060)/sem limite] fila=18 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [96 (+2060)/sem limite] fila=17 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [97 (+2060)/sem limite] fila=16 | depth=8 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [98 (+2060)/sem limite] fila=15 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [99 (+2060)/sem limite] fila=14 | depth=9 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [100 (+2060)/sem limite] fila=13 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [101 (+2060)/sem limite] fila=12 | depth=9 | https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendim
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [102 (+2060)/sem limite] fila=11 | depth=9 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [103 (+2060)/sem limite] fila=10 | depth=9 | https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendime
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [104 (+2060)/sem limite] fila=9 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [105 (+2060)/sem limite] fila=8 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servic
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [106 (+2060)/sem limite] fila=7 | depth=9 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [107 (+2060)/sem limite] fila=6 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoaten
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/pagina/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [108 (+2060)/sem limite] fila=5 | depth=10 | https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/acesso-informacao/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [109 (+2060)/sem limite] fila=4 | depth=10 | https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendi
+  🤖 Usando Selenium para: https://terraroxa.atende.net/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [110 (+2060)/sem limite] fila=3 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoate
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/noticia/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/consulta-de-processo-digital?pg=transparencia
+  [111 (+2060)/sem limite] fila=2 | depth=10 | https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatend
+  🤖 Usando Selenium para: https://www.terraroxa.pr.gov.br/cidadao/video/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/autoatendimento/servicos/?pg=transparencia
+  [112 (+2060)/sem limite] fila=1 | depth=6 | https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-con
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/extrato-de-emprestimos-consignados
+  [113 (+2060)/sem limite] fila=0 | depth=6 | https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-p
+  🤖 Usando Selenium para: https://terraroxa.atende.net/autoatendimento/servicos/avaliacao-de-atendimento-profissional
+
+  Inventário salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_links.xlsx
+  24 arquivos registrados.
+  Log de erros salvo: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/erros_varredura.xlsx
+  30 erros/bloqueios registrados.
+  Links externos salvos: /Users/tarlisportela/workdir/tcc-dados-publicos-genero-pr/resultados/terraroxa/inventario_externos.xlsx
+  97 links externos registrados.
+
+  Varredura encerrada: TERRAROXA
+  Páginas nesta sessão: 113
+  Páginas totais (acumulado): 2173
+  Arquivos no inventário: 24
+  Erros registrados: 30
+
+
+ Pipeline encerrado. Resultados em: resultados/terraroxa/
+============================================================
+
