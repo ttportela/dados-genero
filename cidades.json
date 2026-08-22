@@ -1,6 +1,6 @@
 {
   "_comentario": "Configura\u00e7\u00e3o das cidades-alvo do crawler. Editar este arquivo para adicionar/remover cidades ou ajustar sementes/dom\u00ednios.",
-  "_portais_verificados": "Descoberto automaticamente em 17/08/2026",
+  "_portais_verificados": "Descoberto automaticamente em 22/08/2026",
   "almirantetamandare": {
     "sementes": [
       "https://tamandare.pr.gov.br/",
@@ -3356,9 +3356,11 @@
   },
   "saomateusdosul": {
     "sementes": [
-      "https://www.saomateusdosul.pr.gov.br/"
+      "https://www.saomateusdosul.pr.gov.br/",
+      "https://saomateusdosul.oxy.elotech.com.br/portaltransparencia/1/"
     ],
     "dominios": [
+      "saomateusdosul.oxy.elotech.com.br",
       "saomateusdosul.pr.gov.br",
       "www.saomateusdosul.pr.gov.br"
     ]
