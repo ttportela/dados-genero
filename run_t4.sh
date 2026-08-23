@@ -1,4 +1,4 @@
-./run_pipeline.sh saomateusdosul
+./run_pipeline.sh saomigueldoiguacu
 ./run_pipeline.sh xambre
 ./run_pipeline.sh santoantoniodoparaiso
 # -----------------------------
@@ -8,7 +8,6 @@
 # -----------------------------
 
 
-./run_pipeline.sh saomigueldoiguacu
 ./run_pipeline.sh saopedrodoiguacu
 ./run_pipeline.sh saopedrodoivai
 ./run_pipeline.sh saopedrodoparana

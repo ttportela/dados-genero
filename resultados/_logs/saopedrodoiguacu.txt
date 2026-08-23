@@ -1,0 +1,29 @@
+
+============================================================
+  TCC - Pipeline de Dados Publicos | SAOPEDRODOIGUACU
+============================================================
+ Modo: Somente Etapa 1 - Crawler
+
+Nenhum checkpoint encontrado — iniciando do zero.
+
+============================================================
+  Crawler iniciado: SAOPEDRODOIGUACU
+  Páginas já visitadas (checkpoint): 0
+  URLs na fila: 1
+============================================================
+
+  Modo: SEM LIMITE de páginas
+  [1/sem limite] fila=0 | depth=0 | https://www.saopedrodoiguacu.pr.gov.br/
+  📄 [200] .pdf -> https://www.saopedrodoiguacu.pr.gov.br/uploads/legislacao/LEI-No-1323-
+  📄 [200] .pdf -> https://www.saopedrodoiguacu.pr.gov.br/uploads/legislacao/LEI-No-706-2
+  ⚠️ [0] .pdf -> https://saopedrodoiguacu.pr.gov.br/uploads/legislacao/Laudo-VTN-2024_(
+  ⚠️ [0] .pdf -> http://saopedrodoiguacu.pr.gov.br/uploads/legislacao/LAUDO-SAO-PEDRO-D
+  [2/sem limite] fila=121 | depth=1 | https://www.saopedrodoiguacu.pr.gov.br/pagina/326_MAPA-DO-SITE.html
+  📄 [200] .pdf -> http://saopedrodoiguacu.pr.gov.br/uploads/arquivo/ENDERECOS-OFICIAIS-A
+  📄 [200] .pdf -> http://www.saopedrodoiguacu.pr.gov.br/uploads/legislacao/PLANO-MUNICIP
+  📄 [200] .pdf -> http://saopedrodoiguacu.pr.gov.br/uploads/legislacao/Laudo-VTN-2022.pd
+  📄 [200] .pdf -> http://saopedrodoiguacu.pr.gov.br/uploads/arquivo/ENDERECOS-OFICIAIS-A
+  ⚠️ [0] .pdf -> http://www.saopedrodoiguacu.pr.gov.br/uploads/legislacao/DECRETO-No-11
+  ⚠️ [0] .pdf -> http://saopedrodoiguacu.pr.gov.br/uploads/legislacao/PLANO-MUNICIPAL-D
+  ⚠️ [0] .pdf -> http://www.saopedrodoiguacu.pr.gov.br/uploads/legislacao/Plano-Municip
+  [3/sem limite] fila=181 | depth=1 | https://www.saopedrodoiguacu.pr.gov.br/faq/
