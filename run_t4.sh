@@ -1,14 +1,12 @@
-./run_pipeline.sh saomigueldoiguacu
 ./run_pipeline.sh xambre
 ./run_pipeline.sh santoantoniodoparaiso
 # -----------------------------
 # FIM DA PRIMEIRA FASE
 # -----------------------------
 ./run_pipeline.sh toledo
+./run_pipeline.sh saopedrodoiguacu
 # -----------------------------
 
-
-./run_pipeline.sh saopedrodoiguacu
 ./run_pipeline.sh saopedrodoivai
 ./run_pipeline.sh saopedrodoparana
 ./run_pipeline.sh saosebastiaodaamoreira
